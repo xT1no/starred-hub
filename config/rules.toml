@@ -1,0 +1,249 @@
+# ============================================================================
+# 分类规则
+# ============================================================================
+# 匹配对象：仓库名 / 仓库名分词 / topics / 描述
+# 文件里越靠前的规则优先级越高 —— 命中多条时，靠前的那个决定「主分类」
+# 改动保存后，下一次定时任务（或手动 Run workflow）自动生效
+#
+# 只想给某一个仓库钉死分类？别改这里，去 config/overrides.toml
+# ============================================================================
+
+
+# ---------------------------------------------------------------------------
+# 平台维度：这个仓库装在哪儿 / 跑在哪儿
+# ---------------------------------------------------------------------------
+
+[[platform]]
+name = "Windows"
+slug = "windows"
+emoji = "🪟"
+patterns = [
+  "windows", "win32", "win64", "win10", "win11", "wpf", "uwp", "winui", "winui3",
+  "powershell", "winget", "directx", "msi", "portable-app", "windows-app",
+  "windows-tool", "registry-editor", "windows-forms",
+]
+
+[[platform]]
+name = "macOS"
+slug = "macos"
+emoji = "🍎"
+patterns = [
+  "macos", "mac-os", "macosx", "osx", "os-x", "cocoa", "appkit", "dmg",
+  "homebrew", "apple-silicon", "macbook", "mac-app", "macos-app", "launchd",
+]
+
+[[platform]]
+name = "Linux"
+slug = "linux"
+emoji = "🐧"
+patterns = [
+  "linux", "ubuntu", "debian", "archlinux", "arch-linux", "fedora", "flatpak",
+  "appimage", "snap-package", "gnome", "kde", "wayland", "x11", "systemd",
+  "nixos", "opensuse", "gentoo", "linux-app", "dotdeb",
+]
+
+[[platform]]
+name = "iOS"
+slug = "ios"
+emoji = "📱"
+patterns = [
+  "ios", "iphone", "ipad", "ipados", "testflight", "trollstore", "jailbreak",
+  "swiftui-ios", "cocoapods",
+]
+
+[[platform]]
+name = "Android"
+slug = "android"
+emoji = "📲"
+patterns = [
+  "android", "apk", "apks", "jetpack-compose", "magisk", "xposed", "lsposed",
+  "shizuku", "adb", "android-app", "gradle-android", "material-design-android",
+]
+
+[[platform]]
+name = "AndroidTV"
+slug = "androidtv"
+emoji = "📺"
+patterns = [
+  "android-tv", "androidtv", "leanback", "fire-tv", "firetv", "google-tv",
+  "tv-box", "android-box", "ott",
+]
+
+[[platform]]
+name = "浏览器扩展"
+slug = "browser-ext"
+emoji = "🧩"
+patterns = [
+  "chrome-extension", "browser-extension", "firefox-addon", "userscript",
+  "tampermonkey", "greasemonkey", "webextension", "edge-extension",
+  "extension-chrome", "油猴",
+]
+
+[[platform]]
+name = "Web"
+slug = "web"
+emoji = "🌐"
+patterns = [
+  "web", "webapp", "web-app", "pwa", "wasm", "webassembly", "website",
+  "nextjs", "sveltekit", "nuxt", "web-based", "web-app", "online-tool",
+  "browser-based", "browser-extension",
+  "网页", "在线",
+]
+
+[[platform]]
+name = "CLI"
+slug = "cli"
+emoji = "⌨️"
+patterns = [
+  "cli", "command-line", "commandline", "terminal", "tui", "shell-script",
+  "bash", "zsh", "cli-tool", "console-app", "命令行", "终端",
+]
+
+[[platform]]
+name = "跨平台桌面"
+slug = "desktop"
+emoji = "🖥️"
+patterns = [
+  "electron", "tauri", "flutter-desktop", "qt", "avalonia", "gtk", "wxwidgets",
+  "cross-platform", "desktop-app", "desktop-application", "portable",
+]
+
+[[platform]]
+name = "移动端"
+slug = "mobile"
+emoji = "📱"
+patterns = [
+  "mobile", "react-native", "flutter", "expo", "xamarin", "mobile-app",
+]
+
+[[platform]]
+name = "嵌入式 / IoT"
+slug = "embedded"
+emoji = "🔌"
+patterns = [
+  "arduino", "esp32", "esp8266", "raspberry-pi", "firmware", "iot", "stm32",
+  "risc-v", "microcontroller", "embedded",
+]
+
+
+# ---------------------------------------------------------------------------
+# 功能维度：这个仓库是干什么用的
+# ---------------------------------------------------------------------------
+
+[[function]]
+name = "AI / 大模型"
+slug = "ai"
+emoji = "🤖"
+patterns = [
+  "ai", "llm", "gpt", "chatgpt", "openai", "claude", "gemini", "agent",
+  "agents", "rag", "langchain", "llamaindex", "machine-learning",
+  "deep-learning", "neural-network", "transformer", "diffusion",
+  "stable-diffusion", "midjourney", "prompt", "prompt-engineering",
+  "embedding", "whisper", "ollama", "vllm", "finetune", "fine-tuning",
+  "inference", "copilot", "chatbot", "mcp", "aigc", "人工智能", "大模型",
+]
+
+[[function]]
+name = "开发工具"
+slug = "dev"
+emoji = "🛠️"
+patterns = [
+  "sdk", "framework", "library", "compiler", "interpreter", "linter",
+  "formatter", "ide", "code-editor", "vscode-extension", "neovim", "vim",
+  "plugin", "boilerplate", "template", "scaffold", "build-tool", "bundler",
+  "package-manager", "git", "github", "gitlab", "ci-cd", "docker",
+  "kubernetes", "api", "graphql", "grpc", "rust", "golang", "python-library",
+  "typescript", "javascript", "webpack", "vite", "testing", "debugger",
+  "reverse-engineering", "proxy-tool", "code-generation", "开发", "工具链",
+]
+
+[[function]]
+name = "办公 / 效率"
+slug = "office"
+emoji = "📄"
+patterns = [
+  "office", "docx", "excel", "spreadsheet", "pdf", "note", "notes",
+  "note-taking", "markdown", "obsidian", "notion", "todo", "task-manager",
+  "calendar", "productivity", "workflow", "wiki", "slides", "presentation",
+  "email", "translate", "translation", "ocr", "form", "resume", "gtd",
+  "knowledge-base", "bookmark", "rss", "笔记", "文档", "翻译", "效率",
+]
+
+[[function]]
+name = "影音 / 图像"
+slug = "media"
+emoji = "🎬"
+patterns = [
+  "video", "audio", "music", "player", "ffmpeg", "streaming", "stream",
+  "downloader", "download", "subtitle", "podcast", "spotify", "photo",
+  "image", "screenshot", "gif", "wallpaper", "torrent", "media-player",
+  "video-editing", "image-processing", "yt-dlp", "bilibili", "youtube",
+  "视频", "音乐", "图片", "下载",
+]
+
+[[function]]
+name = "娱乐 / 游戏"
+slug = "game"
+emoji = "🎮"
+patterns = [
+  "game", "gaming", "emulator", "retro", "minecraft", "steam", "game-engine",
+  "unity", "godot", "nintendo", "playstation", "arcade", "游戏", "模拟器",
+]
+
+[[function]]
+name = "系统工具"
+slug = "system"
+emoji = "⚙️"
+patterns = [
+  "operating-system", "file-system", "system-tool", "system-utility",
+  "system-info", "system-monitor", "cleanup", "backup", "driver", "disk-usage",
+  "file-manager", "file-explorer", "archive", "compress", "uninstaller",
+  "clipboard", "hotkey", "window-manager", "autohotkey", "optimizer", "tweak",
+  "dotfiles", "shell-config", "launcher", "task-manager", "partition", "ntfs",
+  "file-sharing", "file-transfer", "airdrop", "screen-mirroring",
+  "screen-mirror", "remote-control", "device-control", "系统", "清理",
+  "资源管理器", "启动器", "文件传输",
+]
+
+[[function]]
+name = "网络 / 自建服务"
+slug = "network"
+emoji = "🌐"
+patterns = [
+  "self-hosted", "selfhosted", "nas", "home-assistant", "homelab",
+  "docker-compose", "vps", "proxy", "vpn", "tunnel", "dns", "cdn",
+  "web-server", "nginx", "caddy", "frp", "wireguard", "shadowsocks",
+  "v2ray", "clash", "sing-box", "server-panel", "network", "monitoring",
+  "observability", "prometheus", "grafana", "uptime", "内网穿透",
+  "代理", "网络",
+]
+
+[[function]]
+name = "数据 / 爬虫"
+slug = "data"
+emoji = "📊"
+patterns = [
+  "scraper", "crawler", "spider", "dataset", "data-analysis", "pandas",
+  "visualization", "sql", "etl", "dashboard", "chart", "statistics",
+  "data-science", "jupyter", "爬虫", "数据分析", "可视化",
+]
+
+[[function]]
+name = "设计 / 前端"
+slug = "design"
+emoji = "🎨"
+patterns = [
+  "design", "ui-kit", "ui-components", "css", "component-library", "icon",
+  "icons", "font", "tailwind", "figma", "animation", "svg", "shadcn",
+  "design-system", "theme", "配色", "设计",
+]
+
+[[function]]
+name = "学习 / 资源"
+slug = "learn"
+emoji = "📚"
+patterns = [
+  "awesome", "awesome-list", "tutorial", "tutorials", "book", "books",
+  "course", "learning", "interview", "roadmap", "cheatsheet", "guide",
+  "examples", "study", "curated-list", "资源", "教程", "学习", "路线",
+]
