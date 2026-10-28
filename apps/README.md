@@ -26,7 +26,7 @@
 | 📚 [学习 / 资源合集](learn/README.md) | 1 | 0 | 1 个月前 |
 | 📦 [其他](other/README.md) | 1 | 1 | 1 年前 |
 
-## 🔥 最近 30 天有更新
+## 🔥 最近 7 天有更新
 
 | 应用 | 版本 | 发布 | 分类 |
 |:---|:---|:---:|:---:|
@@ -57,21 +57,6 @@
 | [Ehviewer_CN_SXJ](office/ehviewer_cn_sxj/README.md) | `2.0.2.6` | 2026-10-21 | 📄 |
 | [marktext](office/marktext/README.md) | `v0.23.0` | 2026-10-21 | 📄 |
 | [dart_simple_live](video/june6699-dart_simple_live/README.md) | `v1.13.2` | 2026-10-20 | 🎬 |
-| [Office-Tool](office/office-tool/README.md) | `v11.8.50.0` | 2026-10-18 | 📄 |
-| [dlss-swapper](game/dlss-swapper/README.md) | `v1.2.7.0` | 2026-10-18 | 🎮 |
-| [cfnew](proxy/cfnew/README.md) | `v2026.10.17.2` | 2026-10-18 | 🌐 |
-| [cloud-fs.github.io](download/cloud-fs.github.io/README.md) | `v1.1.3` | 2026-10-17 | 📥 |
-| [QingMusic](music/qingmusic/README.md) | `v1.4.0` | 2026-10-16 | 🎵 |
-| [EdgeCopilotFix](mod/edgecopilotfix/README.md) | `1.2` | 2026-10-16 | 🧩 |
-| [UniGetUI](dev/unigetui/README.md) | `v2026.3.2` | 2026-10-15 | 🛠️ |
-| [Clean-Icons-Mechagnome-Edition](game/clean-icons-mechagnome-edition/README.md) | `12.1.5.70391-V5-1` | 2026-10-15 | 🎮 |
-| [whatcable](system/whatcable/README.md) | `v1.5.0` | 2026-10-13 | ⚙️ |
-| [iptv-api](auto/iptv-api/README.md) | `3.1.0` | 2026-10-12 | ⚡ |
-| [Game-Cheats-Manager](game/game-cheats-manager/README.md) | `v2.5.4` | 2026-10-11 | 🎮 |
-| [v2rayN](proxy/v2rayn/README.md) | `7.25.6` | 2026-10-11 | 🌐 |
-| [DriverStoreExplorer](system/driverstoreexplorer/README.md) | `v1.0.36` | 2026-10-10 | ⚙️ |
-
-还有 10 个，见 [更新动态](../docs/updates.md)。
 
 ---
 

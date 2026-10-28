@@ -60,9 +60,9 @@
 | [25_PassWall_26.10.22_aarch64_generic.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-10-27/25_PassWall_26.10.22_aarch64_generic.run) | 📦 其他 | 28.8 MB | 12 |
 | [25_PassWall_26.10.22_aarch64_a53.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-10-27/25_PassWall_26.10.22_aarch64_a53.run) | 📦 其他 | 28.8 MB | 11 |
 | [25-passwall2_aarch64_a53_26.10.20-1.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-10-27/25-passwall2_aarch64_a53_26.10.20-1.run) | 📦 其他 | 51.5 MB | 10 |
-| [25-SSRP-mihomo-aarch64_cortex-a53-198-r2.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-10-27/25-SSRP-mihomo-aarch64_cortex-a53-198-r2.run) | 📦 其他 | 20.8 MB | 8 |
 | [AdGuardHome_v0.107.79_aarch64.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-10-27/AdGuardHome_v0.107.79_aarch64.run) | 📦 其他 | 10.8 MB | 8 |
 | [25-openwrt-daede-2026.10.27-aarch64_cortex-a53.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-10-27/25-openwrt-daede-2026.10.27-aarch64_cortex-a53.run) | 📦 其他 | 34.0 MB | 7 |
+| [25-SSRP-mihomo-aarch64_cortex-a53-198-r2.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-10-27/25-SSRP-mihomo-aarch64_cortex-a53-198-r2.run) | 📦 其他 | 20.8 MB | 7 |
 | [25-sing-box_v1.14.4_aarch64_cortex-a53.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-10-27/25-sing-box_v1.14.4_aarch64_cortex-a53.run) | 📦 其他 | 28.1 MB | 6 |
 | [25-luci-app-store-0.2.1-r1_all.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-10-27/25-luci-app-store-0.2.1-r1_all.run) | 📦 其他 | 217 KB | 5 |
 | [25-passwall2_aarch64_generic_26.10.20-1.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-10-27/25-passwall2_aarch64_generic_26.10.20-1.run) | 📦 其他 | 51.5 MB | 5 |

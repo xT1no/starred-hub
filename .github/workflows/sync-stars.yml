@@ -48,6 +48,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.STARS_TOKEN }}
           NEW_DAYS: "14"
+          RELEASE_DAYS: "7"
         run: python scripts/sync.py
 
       - name: 提交更新

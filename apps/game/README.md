@@ -2,7 +2,7 @@
 
 # 🎮 游戏 / 辅助脚本
 
-共 **17** 个应用 · 其中 **6** 个最近 30 天有更新
+共 **17** 个应用 · 其中 **2** 个最近 7 天有更新
 
 [← 全部应用](../README.md) · [星标总览](../../README.md)
 
@@ -12,10 +12,10 @@
 |:---|:---|:---:|:---:|:---:|---:|
 | [ok-wuthering-waves](ok-wuthering-waves/README.md) 🆕 | 鸣潮 后台自动战斗 自动刷声骸 一键日常 Automation for Wuthering Waves | 🪟 | `v3.7.12` | 今天 | 8.3k |
 | [NDui](ndui/README.md) 🆕 | NDui for World of Warcraft | 🪟 | `Classic-0.0.6` | 2 天前 | 380 |
-| [dlss-swapper](dlss-swapper/README.md) 🆕 | 一键替换游戏内的 DLSS 动态库 | 🪟 | `v1.2.7.0` | 10 天前 | 8k |
-| [Clean-Icons-Mechagnome-Edition](clean-icons-mechagnome-edition/README.md) 🆕 | Upscaled icon pack for World of Warcraft. | 🪟 | `12.1.5.70391-V5-1` | 12 天前 | 808 |
-| [Game-Cheats-Manager](game-cheats-manager/README.md) 🆕 | Easily download and manage single-player game cheats for your c… | 🪟 | `v2.5.4` | 16 天前 | 16k |
-| [TFT-Hextech-Helper](tft-hextech-helper/README.md) 🆕 | 一款神奇的云顶之弈自动挂机海克斯科技助手(σ｀・д・)σ。挂机脚本，纯视觉识别，不读取内存。tft，hextech。云顶挂机脚… | 🌐 🖥️ | `v1.6.1` | 26 天前 | 742 |
+| [dlss-swapper](dlss-swapper/README.md) | 一键替换游戏内的 DLSS 动态库 | 🪟 | `v1.2.7.0` | 10 天前 | 8k |
+| [Clean-Icons-Mechagnome-Edition](clean-icons-mechagnome-edition/README.md) | Upscaled icon pack for World of Warcraft. | 🪟 | `12.1.5.70391-V5-1` | 12 天前 | 808 |
+| [Game-Cheats-Manager](game-cheats-manager/README.md) | Easily download and manage single-player game cheats for your c… | 🪟 | `v2.5.4` | 16 天前 | 16k |
+| [TFT-Hextech-Helper](tft-hextech-helper/README.md) | 一款神奇的云顶之弈自动挂机海克斯科技助手(σ｀・д・)σ。挂机脚本，纯视觉识别，不读取内存。tft，hextech。云顶挂机脚… | 🌐 🖥️ | `v1.6.1` | 26 天前 | 742 |
 | [LOLkit](lolkit/README.md) | One gift for all LOL gamers， League of Legends工具 | 🪟 | `version3.4.9` | 2 个月前 | 770 |
 | [OptiScaler](optiscaler/README.md) | OptiScaler bridges upscaling/frame gen across GPUs. Supports DL… | 🪟 | `v0.9.4` | 3 个月前 | 12k |
 | [paragon-clicker](paragon-clicker/README.md) | Windows D2Core Diablo IV paragon auto clicker | 🪟 | `v0.1.8` | 5 个月前 | 32 |
@@ -34,10 +34,6 @@
 |:---|:---|:---:|
 | [ok-wuthering-waves](ok-wuthering-waves/README.md) | `v3.7.12` | 2026-10-28 |
 | [NDui](ndui/README.md) | `Classic-0.0.6` | 2026-10-25 |
-| [dlss-swapper](dlss-swapper/README.md) | `v1.2.7.0` | 2026-10-18 |
-| [Clean-Icons-Mechagnome-Edition](clean-icons-mechagnome-edition/README.md) | `12.1.5.70391-V5-1` | 2026-10-15 |
-| [Game-Cheats-Manager](game-cheats-manager/README.md) | `v2.5.4` | 2026-10-11 |
-| [TFT-Hextech-Helper](tft-hextech-helper/README.md) | `v1.6.1` | 2026-10-01 |
 
 ---
 

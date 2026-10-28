@@ -2,7 +2,7 @@
 
 # 🎬 影视 / 直播 / 番剧
 
-共 **21** 个应用 · 其中 **7** 个最近 30 天有更新
+共 **21** 个应用 · 其中 **5** 个最近 7 天有更新
 
 [← 全部应用](../README.md) · [星标总览](../../README.md)
 
@@ -15,8 +15,8 @@
 | [Kazumi](kazumi/README.md) 🆕 | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 | 🪟 🍎 🐧 📱 | `2.4.2` | 4 天前 | 40k |
 | [BT](bt/README.md) 🆕 | bilibili TV client | 📺 | `v0.9.41` | 6 天前 | 2.4k |
 | [dart_simple_live](june6699-dart_simple_live/README.md) 🆕 | 简简单单的看直播（SimpleLive续） | 🖥️ | `v1.13.2` | 7 天前 | 1.3k |
-| [bv](bv/README.md) 🆕 | 哔哩哔哩第三方 Android 应用的自用修改版。A modified version of Bilibili’s third… | 📲 | `0.3.0.r986.f02dfc5a.release` | 22 天前 | 762 |
-| [AniCh](anich/README.md) 🆕 | 一个支持超分辨率的在线动漫弹幕APP。多平台，多番剧源，多弹幕，高清无广告。追番看番必备软件。 | 🌐 | `1.5.27` | 23 天前 | 7.3k |
+| [bv](bv/README.md) | 哔哩哔哩第三方 Android 应用的自用修改版。A modified version of Bilibili’s third… | 📲 | `0.3.0.r986.f02dfc5a.release` | 22 天前 | 762 |
+| [AniCh](anich/README.md) | 一个支持超分辨率的在线动漫弹幕APP。多平台，多番剧源，多弹幕，高清无广告。追番看番必备软件。 | 🌐 | `1.5.27` | 23 天前 | 7.3k |
 | [TVBOX-](xianyuyimu-tvbox/README.md) | 一木TVBOX自用仓库 | 📺 | `—` | 1 个月前 | 3.1k |
 | [m3u](m3u/README.md) | 直播源 | ❓ | `—` | 1 个月前 | 11k |
 | [TVBoxOSC](tvboxosc/README.md) | TVBox 配置与源 | 📺 | `20260914-1520` | 1 个月前 | 18k |
@@ -41,8 +41,6 @@
 | [Kazumi](kazumi/README.md) | `2.4.2` | 2026-10-23 |
 | [BT](bt/README.md) | `v0.9.41` | 2026-10-21 |
 | [dart_simple_live](june6699-dart_simple_live/README.md) | `v1.13.2` | 2026-10-20 |
-| [bv](bv/README.md) | `0.3.0.r986.f02dfc5a.release` | 2026-10-05 |
-| [AniCh](anich/README.md) | `1.5.27` | 2026-10-05 |
 
 ---
 

@@ -191,13 +191,14 @@ def render_readme(ctx: dict) -> str:
     # ---------- 最近更新
     upd = [r for r in repos if (r.get("rel") or {}).get("tag") and (r.get("rel") or {}).get("published_at")]
     upd.sort(key=lambda r: r["rel"]["published_at"], reverse=True)
-    fresh_upd = [r for r in upd if _within(r["rel"]["published_at"], synced, 30)]
+    rel_days = ctx.get("release_days", 7)
+    fresh_upd = [r for r in upd if _within(r["rel"]["published_at"], synced, rel_days)]
     if upd:
-        A(f"## 🔥 最近更新（30 天内 {len(fresh_upd)} 个应用发布新版）")
+        A(f"## 🔥 最近更新（{rel_days} 天内 {len(fresh_upd)} 个应用发布新版）")
         A("")
         A("| 应用 | 最新版本 | 发布 | 分类 | ⭐ |")
         A("|:---|:---|:---:|:---:|---:|")
-        for r in (fresh_upd or upd)[:18]:
+        for r in (fresh_upd or upd)[:14]:
             cat = r["cls"]["functions"][0]
             A(
                 f"| [{r['name']}](apps/{cat['slug']}/{r.get('dir') or r['name']}/README.md) | "

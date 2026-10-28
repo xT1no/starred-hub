@@ -2,7 +2,7 @@
 
 # 🧩 应用增强 / 模块
 
-共 **12** 个应用 · 其中 **4** 个最近 30 天有更新
+共 **12** 个应用 · 其中 **3** 个最近 7 天有更新
 
 [← 全部应用](../README.md) · [星标总览](../../README.md)
 
@@ -13,7 +13,7 @@
 | [GKD_subscription](gkd_subscription/README.md) 🆕 | 用于安卓 GKD 的第三方订阅规则 (👻Fork版) | 📲 | `v620` | 今天 | 6.4k |
 | [xmir-patcher](xmir-patcher/README.md) 🆕 | Firmware patcher for Xiaomi routers | 🛰️ | `—` | 今天 | 3.7k |
 | [iloader](iloader/README.md) 🆕 | User friendly sideloader | 📱 | `v2.4.0` | 6 天前 | 4.4k |
-| [EdgeCopilotFix](edgecopilotfix/README.md) 🆕 | 解决某些地区Edge浏览器copilot消失的问题 | 🪟 | `1.2` | 11 天前 | 110 |
+| [EdgeCopilotFix](edgecopilotfix/README.md) | 解决某些地区Edge浏览器copilot消失的问题 | 🪟 | `1.2` | 11 天前 | 110 |
 | [Hail](hail/README.md) | Disable / Hide / Suspend / Uninstall Android apps without root. | 📲 | `v1.11.0` | 2 个月前 | 7k |
 | [FakeLocation](fakelocation/README.md) | Fake Location | 📲 | `1.5.2` | 2 个月前 | 7.3k |
 | [GKD_THS_List](gkd_ths_list/README.md) | GKD第三方订阅收录名单 | 📲 | `—` | 4 个月前 | 5.4k |
@@ -30,7 +30,6 @@
 | [GKD_subscription](gkd_subscription/README.md) | `v620` | 2026-10-27 |
 | [xmir-patcher](xmir-patcher/README.md) | `—` | 2026-10-27 |
 | [iloader](iloader/README.md) | `v2.4.0` | 2026-10-22 |
-| [EdgeCopilotFix](edgecopilotfix/README.md) | `1.2` | 2026-10-16 |
 
 ---
 

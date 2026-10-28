@@ -270,11 +270,12 @@ def render_app(repo: dict, cat: dict, ctx: dict) -> str:
 
 def render_category(cat: dict, repos: list[dict], ctx: dict) -> str:
     now = ctx["synced_at"]
-    fresh = [r for r in repos if _recent(repo=updated_at(r), now=now, days=30)]
+    days = ctx.get("release_days", 7)
+    fresh = [r for r in repos if _recent(repo=updated_at(r), now=now, days=days)]
     L: list[str] = [MARKER, ""]
     L.append(f"# {cat.get('emoji','')} {cat['name']}")
     L.append("")
-    L.append(f"共 **{len(repos)}** 个应用 · 其中 **{len(fresh)}** 个最近 30 天有更新")
+    L.append(f"共 **{len(repos)}** 个应用 · 其中 **{len(fresh)}** 个最近 {days} 天有更新")
     L.append("")
     L.append("[← 全部应用](../README.md) · [星标总览](../../README.md)")
     L.append("")
@@ -287,7 +288,7 @@ def render_category(cat: dict, repos: list[dict], ctx: dict) -> str:
     for r in ordered:
         tag = tag_of(r) or "—"
         link = f"[{r['name']}]({write_dir(r)}/README.md)"
-        badge = " 🆕" if _recent(repo=updated_at(r), now=now, days=30) else ""
+        badge = " 🆕" if _recent(repo=updated_at(r), now=now, days=days) else ""
         L.append(
             f"| {link}{badge} | {cell(one_line(r.get('description') or r['cls'].get('note') or '—', 64))} | "
             f"{' '.join(c.get('emoji') or '' for c in r['cls']['platforms'][:4]).strip() or '—'} | "
@@ -325,6 +326,7 @@ def _recent(*, repo: str, now: datetime, days: int) -> bool:
 
 def render_index(groups: list[tuple[dict, list[dict]]], ctx: dict) -> str:
     now = ctx["synced_at"]
+    days = ctx.get("release_days", 7)
     total = sum(len(items) for _, items in groups)
     with_rel = sum(1 for _, items in groups for r in items if tag_of(r))
     L: list[str] = [MARKER, ""]
@@ -347,9 +349,9 @@ def render_index(groups: list[tuple[dict, list[dict]]], ctx: dict) -> str:
         )
     L.append("")
 
-    L.append("## 🔥 最近 30 天有更新")
+    L.append(f"## 🔥 最近 {days} 天有更新")
     L.append("")
-    fresh = [r for _, items in groups for r in items if _recent(repo=updated_at(r), now=now, days=30)]
+    fresh = [r for _, items in groups for r in items if _recent(repo=updated_at(r), now=now, days=days)]
     fresh.sort(key=lambda r: updated_at(r), reverse=True)
     if fresh:
         L.append("| 应用 | 版本 | 发布 | 分类 |")
@@ -364,7 +366,7 @@ def render_index(groups: list[tuple[dict, list[dict]]], ctx: dict) -> str:
             L.append("")
             L.append(f"还有 {len(fresh) - 40} 个，见 [更新动态](../docs/updates.md)。")
     else:
-        L.append("_最近 30 天没有应用发布新版本。_")
+        L.append(f"_最近 {days} 天没有应用发布新版本。_")
     L.append("")
     L.append("---")
     L.append("")

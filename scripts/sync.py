@@ -48,6 +48,7 @@ API = "https://api.github.com"
 PER_PAGE = 100
 MAX_PAGES = 300
 NEW_DAYS = int(os.environ.get("NEW_DAYS", "14"))
+RELEASE_DAYS = int(os.environ.get("RELEASE_DAYS", "7"))
 SKIP_RELEASES = os.environ.get("SKIP_RELEASES", "").lower() in ("1", "true", "yes")
 
 SNAPSHOT = ROOT / "data" / "stars.json"
@@ -346,6 +347,7 @@ def main(argv: list[str] | None = None) -> int:
         "removed": list(reversed(removed)),
         "rules": rules,
         "new_days": NEW_DAYS,
+        "release_days": RELEASE_DAYS,
     }
     order_function = [c.slug for c in rules["function"]]
     fn_groups = render.group_by(repos, "functions", order_function, primary=True)

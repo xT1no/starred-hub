@@ -6,7 +6,7 @@
 
 `145` 个仓库 · `15` 个功能分类 · `14` 个平台分类
 
-最近同步：2026-10-28 16:10 (UTC+8)
+最近同步：2026-10-28 16:17 (UTC+8)
 
 [📱 应用目录](apps/README.md) · [按功能浏览](docs/by-function.md) · [按平台浏览](docs/by-platform.md) · [更新动态](docs/updates.md) · [时间线](docs/timeline.md)
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🔥 最近更新（30 天内 40 个应用发布新版）
+## 🔥 最近更新（7 天内 18 个应用发布新版）
 
 | 应用 | 最新版本 | 发布 | 分类 | ⭐ |
 |:---|:---|:---:|:---:|---:|
@@ -32,10 +32,6 @@
 | [sing-box](apps/proxy/sing-box/README.md) | `v1.14.4` | 2026-10-24 | 🌐 | 39k |
 | [Kazumi](apps/video/kazumi/README.md) | `2.4.2` | 2026-10-23 | 🎬 | 40k |
 | [iloader](apps/mod/iloader/README.md) | `v2.4.0` | 2026-10-22 | 🧩 | 4.4k |
-| [BT](apps/video/bt/README.md) | `v0.9.41` | 2026-10-21 | 🎬 | 2.4k |
-| [Ehviewer_CN_SXJ](apps/office/ehviewer_cn_sxj/README.md) | `2.0.2.6` | 2026-10-21 | 📄 | 28k |
-| [marktext](apps/office/marktext/README.md) | `v0.23.0` | 2026-10-21 | 📄 | 63k |
-| [dart_simple_live](apps/video/june6699-dart_simple_live/README.md) | `v1.13.2` | 2026-10-20 | 🎬 | 1.3k |
 
 完整清单见 [更新动态](docs/updates.md)，全部应用见 [应用目录](apps/README.md)。
 

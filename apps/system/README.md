@@ -2,7 +2,7 @@
 
 # ⚙️ 系统增强 / 优化
 
-共 **20** 个应用 · 其中 **5** 个最近 30 天有更新
+共 **20** 个应用 · 其中 **1** 个最近 7 天有更新
 
 [← 全部应用](../README.md) · [星标总览](../../README.md)
 
@@ -11,10 +11,10 @@
 | 应用 | 简介 | 平台 | 最新版本 | 更新 | ⭐ |
 |:---|:---|:---:|:---:|:---:|---:|
 | [light-c](light-c/README.md) 🆕 | A free, minimalist, lightweight, and high-performance C-drive c… | 🪟 | `v2.17.0` | 4 天前 | 3.2k |
-| [whatcable](whatcable/README.md) 🆕 | macOS menu bar app that tells you, in plain English, what each … | 🍎 | `v1.5.0` | 14 天前 | 9k |
-| [DriverStoreExplorer](driverstoreexplorer/README.md) 🆕 | Driver Store Explorer | 🪟 | `v1.0.36` | 17 天前 | 12k |
-| [eIsland](eisland/README.md) 🆕 | eIsland - A sleek, Apple Dynamic Island inspired floating widge… | 🪟 | `v27.0.0` | 19 天前 | 322 |
-| [firpe](firpe/README.md) 🆕 | Windows PE 维护盘 | 🪟 | `v.1.9.3` | 27 天前 | 98 |
+| [whatcable](whatcable/README.md) | macOS menu bar app that tells you, in plain English, what each … | 🍎 | `v1.5.0` | 14 天前 | 9k |
+| [DriverStoreExplorer](driverstoreexplorer/README.md) | Driver Store Explorer | 🪟 | `v1.0.36` | 17 天前 | 12k |
+| [eIsland](eisland/README.md) | eIsland - A sleek, Apple Dynamic Island inspired floating widge… | 🪟 | `v27.0.0` | 19 天前 | 322 |
+| [firpe](firpe/README.md) | Windows PE 维护盘 | 🪟 | `v.1.9.3` | 27 天前 | 98 |
 | [Win11Debloat](win11debloat/README.md) | A simple, lightweight PowerShell script that allows you to remo… | 🪟 ⌨️ | `2026.08.24` | 2 个月前 | 61k |
 | [localsend](localsend/README.md) | An open-source cross-platform alternative to AirDrop | 🖥️ | `v1.18.2` | 2 个月前 | 96k |
 | [LazyEnv](lazyenv/README.md) | Windows 环境变量管理 | 🪟 | `0.2.1` | 2 个月前 | 503 |
@@ -36,10 +36,6 @@
 | 应用 | 版本 | 发布日期 |
 |:---|:---|:---:|
 | [light-c](light-c/README.md) | `v2.17.0` | 2026-10-24 |
-| [whatcable](whatcable/README.md) | `v1.5.0` | 2026-10-13 |
-| [DriverStoreExplorer](driverstoreexplorer/README.md) | `v1.0.36` | 2026-10-10 |
-| [eIsland](eisland/README.md) | `v27.0.0` | 2026-10-09 |
-| [firpe](firpe/README.md) | `v.1.9.3` | 2026-10-01 |
 
 ---
 

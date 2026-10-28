@@ -2,7 +2,7 @@
 
 # 🌐 网络代理 / 节点
 
-共 **35** 个应用 · 其中 **11** 个最近 30 天有更新
+共 **35** 个应用 · 其中 **5** 个最近 7 天有更新
 
 [← 全部应用](../README.md) · [星标总览](../../README.md)
 
@@ -15,12 +15,12 @@
 | [FlClash](flclash/README.md) 🆕 | A multi-platform proxy client based on ClashMeta,simple and eas… | 🖥️ | `v0.9.2` | 4 天前 | 59k |
 | [sing-box](sing-box/README.md) 🆕 | The universal proxy platform | ⌨️ | `v1.14.4` | 4 天前 | 39k |
 | [Sub-One](sub-one/README.md) 🆕 | 节点订阅管理 | ❓ | `—` | 6 天前 | 197 |
-| [cfnew](cfnew/README.md) 🆕 | Cloudflare Workers 节点部署 | 🌐 | `v2026.10.17.2` | 10 天前 | 17k |
-| [v2rayN](v2rayn/README.md) 🆕 | A GUI client for Windows, Linux and macOS, support Xray and sin… | 🪟 🍎 🐧 | `7.25.6` | 17 天前 | 119k |
-| [clashmi](clashmi/README.md) 🆕 | Clash Mihomo for iOS/MacOS/Android/Windows/Linux | 🪟 🍎 🐧 📱 | `v1.0.31.1703` | 19 天前 | 10k |
-| [clash-verge-rev](clash-verge-rev/README.md) 🆕 | A modern GUI client based on Tauri, designed to run in Windows,… | 🪟 🍎 🐧 🖥️ | `v2.5.8` | 19 天前 | 154k |
-| [edgetunnel](edgetunnel/README.md) 🆕 | edgetunnel2 VLESS/Trojan/SS 多功能面板 | ☁️ | `—` | 19 天前 | 49k |
-| [MahsaNG](mahsang/README.md) 🆕 | a V2RayNG with Fragment , DoH , Rotating Configs , & free VPN s… | 📲 | `v18-(1405-7-10)` | 26 天前 | 3.1k |
+| [cfnew](cfnew/README.md) | Cloudflare Workers 节点部署 | 🌐 | `v2026.10.17.2` | 10 天前 | 17k |
+| [v2rayN](v2rayn/README.md) | A GUI client for Windows, Linux and macOS, support Xray and sin… | 🪟 🍎 🐧 | `7.25.6` | 17 天前 | 119k |
+| [clashmi](clashmi/README.md) | Clash Mihomo for iOS/MacOS/Android/Windows/Linux | 🪟 🍎 🐧 📱 | `v1.0.31.1703` | 19 天前 | 10k |
+| [clash-verge-rev](clash-verge-rev/README.md) | A modern GUI client based on Tauri, designed to run in Windows,… | 🪟 🍎 🐧 🖥️ | `v2.5.8` | 19 天前 | 154k |
+| [edgetunnel](edgetunnel/README.md) | edgetunnel2 VLESS/Trojan/SS 多功能面板 | ☁️ | `—` | 19 天前 | 49k |
+| [MahsaNG](mahsang/README.md) | a V2RayNG with Fragment , DoH , Rotating Configs , & free VPN s… | 📲 | `v18-(1405-7-10)` | 26 天前 | 3.1k |
 | [karing](karing/README.md) | Simple & Powerful proxy utility, Support routing rules for clas… | 🖥️ | `v1.2.25.2802` | 1 个月前 | 16k |
 | [oblivion](oblivion/README.md) | Unofficial warp client for android | 📲 | `v8` | 1 个月前 | 4.9k |
 | [BPB-Worker-Panel](bpb-worker-panel/README.md) | A GUI Panel providing Worker subscriptions for VLESS, Trojan an… | ☁️ 🪟 🐧 📱 | `v5.1.1` | 3 个月前 | 14k |
@@ -55,12 +55,6 @@
 | [FlClash](flclash/README.md) | `v0.9.2` | 2026-10-24 |
 | [sing-box](sing-box/README.md) | `v1.14.4` | 2026-10-24 |
 | [Sub-One](sub-one/README.md) | `—` | 2026-10-22 |
-| [cfnew](cfnew/README.md) | `v2026.10.17.2` | 2026-10-18 |
-| [v2rayN](v2rayn/README.md) | `7.25.6` | 2026-10-11 |
-| [clashmi](clashmi/README.md) | `v1.0.31.1703` | 2026-10-09 |
-| [clash-verge-rev](clash-verge-rev/README.md) | `v2.5.8` | 2026-10-09 |
-| [edgetunnel](edgetunnel/README.md) | `—` | 2026-10-08 |
-| [MahsaNG](mahsang/README.md) | `v18-(1405-7-10)` | 2026-10-02 |
 
 ---
 
