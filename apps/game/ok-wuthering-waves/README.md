@@ -49,10 +49,10 @@
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
 | [ok-ww-win32-China-setup.exe](https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.12/ok-ww-win32-China-setup.exe) | 🪟 Windows | 373.1 MB | 2k |
-| [ok-ww-win32-online-setup.exe](https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.12/ok-ww-win32-online-setup.exe) | 🪟 Windows | 3.8 MB | 228 |
-| [ok-ww-win32.zip](https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.12/ok-ww-win32.zip) | 🪟 Windows | 4.7 MB | 145 |
-| [ok-ww-win32-Global-setup.exe](https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.12/ok-ww-win32-Global-setup.exe) | 🪟 Windows | 509.9 MB | 144 |
-| [win32_sha256.txt](https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.12/win32_sha256.txt) | 🔐 校验文件 | 64 B | 420 |
+| [ok-ww-win32-online-setup.exe](https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.12/ok-ww-win32-online-setup.exe) | 🪟 Windows | 3.8 MB | 237 |
+| [ok-ww-win32.zip](https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.12/ok-ww-win32.zip) | 🪟 Windows | 4.7 MB | 151 |
+| [ok-ww-win32-Global-setup.exe](https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.12/ok-ww-win32-Global-setup.exe) | 🪟 Windows | 509.9 MB | 147 |
+| [win32_sha256.txt](https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.12/win32_sha256.txt) | 🔐 校验文件 | 64 B | 442 |
 
 ## 🔗 快速链接
 

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-28T15:59:32+08:00",
+  "fetched_at": "2026-10-28T16:02:48+08:00",
   "items": {
     "storytold/photocraft": {
       "kind": "release",
@@ -79,25 +79,25 @@
         {
           "name": "photocraft-0.16.0-linux-x86_64.AppImage",
           "size": 83327480,
-          "downloads": 14847,
+          "downloads": 14864,
           "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-x86_64.AppImage"
         },
         {
           "name": "photocraft-0.16.0-linux-x86_64.AppImage.zsync",
           "size": 285065,
-          "downloads": 5600,
+          "downloads": 5609,
           "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-x86_64.AppImage.zsync"
         },
         {
           "name": "photocraft-0.16.0-linux-x86_64.deb",
           "size": 89232816,
-          "downloads": 10560,
+          "downloads": 10573,
           "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-x86_64.deb"
         },
         {
           "name": "photocraft-0.16.0-linux-x86_64.flatpak",
           "size": 65494256,
-          "downloads": 9892,
+          "downloads": 9899,
           "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-x86_64.flatpak"
         },
         {
@@ -109,25 +109,25 @@
         {
           "name": "photocraft-0.16.0-linux-x86_64.rpm",
           "size": 88627222,
-          "downloads": 2728,
+          "downloads": 2730,
           "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-x86_64.rpm"
         },
         {
           "name": "photocraft-0.16.0-linux-x86_64.tar.gz",
           "size": 87847296,
-          "downloads": 4818,
+          "downloads": 4825,
           "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-x86_64.tar.gz"
         },
         {
           "name": "photocraft-0.16.0-macos-universal.dmg",
           "size": 98985128,
-          "downloads": 46984,
+          "downloads": 47068,
           "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-macos-universal.dmg"
         },
         {
           "name": "photocraft-0.16.0-windows-arm64-portable.zip",
           "size": 84925185,
-          "downloads": 1108,
+          "downloads": 1110,
           "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-windows-arm64-portable.zip"
         },
         {
@@ -139,19 +139,19 @@
         {
           "name": "photocraft-0.16.0-windows-x64-portable.zip",
           "size": 90025164,
-          "downloads": 11695,
+          "downloads": 11736,
           "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-windows-x64-portable.zip"
         },
         {
           "name": "photocraft-0.16.0-windows-x64.msi",
           "size": 74760192,
-          "downloads": 112596,
+          "downloads": 112840,
           "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-windows-x64.msi"
         },
         {
           "name": "photocraft-0.16.0-windows-x86-portable.zip",
           "size": 85114531,
-          "downloads": 1511,
+          "downloads": 1513,
           "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-windows-x86-portable.zip"
         },
         {
@@ -163,23 +163,22 @@
         {
           "name": "photocraft-cli-0.16.0-macos-universal.zip",
           "size": 71995874,
-          "downloads": 2561,
+          "downloads": 2564,
           "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-cli-0.16.0-macos-universal.zip"
         },
         {
           "name": "photocraft-web-0.16.0.zip",
           "size": 12192545,
-          "downloads": 2520,
+          "downloads": 2526,
           "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-web-0.16.0.zip"
         },
         {
           "name": "SHA256SUMS.txt",
           "size": 2833,
-          "downloads": 7121,
+          "downloads": 7132,
           "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/SHA256SUMS.txt"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "Au1rxx/free-vpn-subscriptions": {
       "kind": "release",
@@ -193,7 +192,7 @@
         {
           "name": "clash.yaml",
           "size": 2260,
-          "downloads": 4181,
+          "downloads": 4182,
           "url": "https://github.com/Au1rxx/free-vpn-subscriptions/releases/download/feed-20260419-023716/clash.yaml"
         },
         {
@@ -214,8 +213,7 @@
           "downloads": 4028,
           "url": "https://github.com/Au1rxx/free-vpn-subscriptions/releases/download/feed-20260419-023716/v2ray-base64.txt"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "kejichangqing/QingMusic": {
       "kind": "release",
@@ -235,11 +233,10 @@
         {
           "name": "QingMusic_v1.4.0-x86-release.apk",
           "size": 56690486,
-          "downloads": 1074,
+          "downloads": 1076,
           "url": "https://github.com/kejichangqing/QingMusic/releases/download/v1.4.0/QingMusic_v1.4.0-x86-release.apk"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "beeradmoore/dlss-swapper": {
       "kind": "release",
@@ -253,17 +250,16 @@
         {
           "name": "DLSS.Swapper-1.2.7.0-installer.exe",
           "size": 115159320,
-          "downloads": 48251,
+          "downloads": 48268,
           "url": "https://github.com/beeradmoore/dlss-swapper/releases/download/v1.2.7.0/DLSS.Swapper-1.2.7.0-installer.exe"
         },
         {
           "name": "DLSS.Swapper-1.2.7.0-portable.zip",
           "size": 120248259,
-          "downloads": 22962,
+          "downloads": 22965,
           "url": "https://github.com/beeradmoore/dlss-swapper/releases/download/v1.2.7.0/DLSS.Swapper-1.2.7.0-portable.zip"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "FirTech/ReWindsys": {
       "kind": "release",
@@ -280,8 +276,7 @@
           "downloads": 109,
           "url": "https://github.com/FirTech/ReWindsys/releases/download/V1.0.0/ReWindsys.zip"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "June6699/dart_simple_live": {
       "kind": "release",
@@ -358,8 +353,7 @@
           "downloads": 13,
           "url": "https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/simple_live_app-1.13.2%2B11302-macos.zip"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "Chunyu33/light-c": {
       "kind": "release",
@@ -379,13 +373,13 @@
         {
           "name": "latest.json",
           "size": 1912,
-          "downloads": 12465,
+          "downloads": 12498,
           "url": "https://github.com/Chunyu33/light-c/releases/download/v2.17.0/latest.json"
         },
         {
           "name": "LightC_2.17.0_x64-setup.exe",
           "size": 6118879,
-          "downloads": 4349,
+          "downloads": 4362,
           "url": "https://github.com/Chunyu33/light-c/releases/download/v2.17.0/LightC_2.17.0_x64-setup.exe"
         },
         {
@@ -424,8 +418,7 @@
           "downloads": 111,
           "url": "https://github.com/Chunyu33/light-c/releases/download/v2.17.0/LightC_webview2_offline_x64_v2.17.0.exe"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "zfxsquare/paragon-clicker": {
       "kind": "release",
@@ -442,8 +435,7 @@
           "downloads": 933,
           "url": "https://github.com/zfxsquare/paragon-clicker/releases/download/v0.1.8/paragon-clicker-windows-x64.zip"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "control0forver/NetWorkList-Clear": {
       "kind": "release",
@@ -466,8 +458,7 @@
           "downloads": 13,
           "url": "https://github.com/control0forver/NetWorkList-Clear/releases/download/1.1.0.0_Release_X86/NetWorkList.Clear.pdb"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "wkccd/CloudRunFilesBuilder": {
       "kind": "release",
@@ -718,8 +709,7 @@
           "downloads": 1,
           "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-10-27/dufs-0.46.0-r1_x86_64.run"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "massgravel/TSforge": {
       "kind": "release",
@@ -736,8 +726,7 @@
           "downloads": 11849,
           "url": "https://github.com/massgravel/TSforge/releases/download/1.1.1/TSforge-1.1.1.zip"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "JNTMTMTM/eIsland": {
       "kind": "release",
@@ -766,8 +755,7 @@
           "downloads": 895,
           "url": "https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.0/latest.yml"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "darrylmorley/whatcable": {
       "kind": "release",
@@ -787,11 +775,10 @@
         {
           "name": "WhatCable.zip",
           "size": 22571575,
-          "downloads": 48841,
+          "downloads": 48858,
           "url": "https://github.com/darrylmorley/whatcable/releases/download/v1.5.0/WhatCable.zip"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "AnInsomniacy/rayburst": {
       "kind": "release",
@@ -895,7 +882,7 @@
         {
           "name": "Rayburst_4.1.1_x64-setup.exe",
           "size": 25761517,
-          "downloads": 10539,
+          "downloads": 10559,
           "url": "https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_x64-setup.exe"
         },
         {
@@ -913,7 +900,7 @@
         {
           "name": "Rayburst_aarch64.app.tar.gz",
           "size": 26966915,
-          "downloads": 921,
+          "downloads": 922,
           "url": "https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_aarch64.app.tar.gz"
         },
         {
@@ -934,8 +921,7 @@
           "downloads": 26,
           "url": "https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_x64.app.tar.gz.sig"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "Karben233/bili-hardcore": {
       "kind": "release",
@@ -1012,8 +998,7 @@
           "downloads": 39,
           "url": "https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/install.sh"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "youhunwl/TVAPP": {
       "kind": "none",
@@ -1023,8 +1008,7 @@
       "url": "",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "optiscaler/OptiScaler": {
       "kind": "release",
@@ -1038,11 +1022,10 @@
         {
           "name": "Optiscaler_0.9.4-final.20260718._MM.7z",
           "size": 55016448,
-          "downloads": 788772,
+          "downloads": 788798,
           "url": "https://github.com/optiscaler/OptiScaler/releases/download/v0.9.4/Optiscaler_0.9.4-final.20260718._MM.7z"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "hongge-ai/DiabloIV_Blood_Bone_Restorer": {
       "kind": "release",
@@ -1059,8 +1042,7 @@
           "downloads": 3092,
           "url": "https://github.com/hongge-ai/DiabloIV_Blood_Bone_Restorer/releases/download/v1.0.0/DiabloIV_BBR.exe"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "Guovin/iptv-api": {
       "kind": "release",
@@ -1089,8 +1071,7 @@
           "downloads": 158,
           "url": "https://github.com/Guovin/iptv-api/releases/download/3.1.0/SHA256SUMS.txt"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "Devolutions/UniGetUI": {
       "kind": "release",
@@ -1164,13 +1145,13 @@
         {
           "name": "UniGetUI.Installer.exe",
           "size": 34122400,
-          "downloads": 857342,
+          "downloads": 857833,
           "url": "https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/UniGetUI.Installer.exe"
         },
         {
           "name": "UniGetUI.Installer.x64.exe",
           "size": 34122400,
-          "downloads": 10849,
+          "downloads": 10852,
           "url": "https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/UniGetUI.Installer.x64.exe"
         },
         {
@@ -1236,11 +1217,10 @@
         {
           "name": "UniGetUI.x64.zip",
           "size": 50756046,
-          "downloads": 5007,
+          "downloads": 5008,
           "url": "https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/UniGetUI.x64.zip"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "ListerOvO1211/LazyEnv": {
       "kind": "release",
@@ -1257,8 +1237,7 @@
           "downloads": 204,
           "url": "https://github.com/ListerOvO1211/LazyEnv/releases/download/0.2.1/Release.zip"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "Sle2p/AniCh": {
       "kind": "release",
@@ -1272,19 +1251,19 @@
         {
           "name": "anich-android-arm64-v8a-1.5.27.apk",
           "size": 26491210,
-          "downloads": 77359,
+          "downloads": 77366,
           "url": "https://github.com/Sle2p/AniCh/releases/download/1.5.27/anich-android-arm64-v8a-1.5.27.apk"
         },
         {
           "name": "anich-android-armeabi-v7a-1.5.27.apk",
           "size": 24908883,
-          "downloads": 12163,
+          "downloads": 12164,
           "url": "https://github.com/Sle2p/AniCh/releases/download/1.5.27/anich-android-armeabi-v7a-1.5.27.apk"
         },
         {
           "name": "anich-android-universal-1.5.27.apk",
           "size": 75016782,
-          "downloads": 12028,
+          "downloads": 12033,
           "url": "https://github.com/Sle2p/AniCh/releases/download/1.5.27/anich-android-universal-1.5.27.apk"
         },
         {
@@ -1296,7 +1275,7 @@
         {
           "name": "anich-ios-no_sign-1.5.27.ipa",
           "size": 41226765,
-          "downloads": 5582,
+          "downloads": 5584,
           "url": "https://github.com/Sle2p/AniCh/releases/download/1.5.27/anich-ios-no_sign-1.5.27.ipa"
         },
         {
@@ -1332,7 +1311,7 @@
         {
           "name": "anich-windows-1.5.27.zip",
           "size": 50057133,
-          "downloads": 12402,
+          "downloads": 12407,
           "url": "https://github.com/Sle2p/AniCh/releases/download/1.5.27/anich-windows-1.5.27.zip"
         },
         {
@@ -1341,8 +1320,7 @@
           "downloads": 16208,
           "url": "https://github.com/Sle2p/AniCh/releases/download/1.5.27/anich-windows-installer-1.5.27.exe"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "chinasoul/BT": {
       "kind": "release",
@@ -1356,13 +1334,13 @@
         {
           "name": "BT-v0.9.41-universal-api19-22.apk",
           "size": 3422342,
-          "downloads": 6681,
+          "downloads": 6686,
           "url": "https://github.com/chinasoul/BT/releases/download/v0.9.41/BT-v0.9.41-universal-api19-22.apk"
         },
         {
           "name": "BT-v0.9.41-universal.apk",
           "size": 3296332,
-          "downloads": 14647,
+          "downloads": 14656,
           "url": "https://github.com/chinasoul/BT/releases/download/v0.9.41/BT-v0.9.41-universal.apk"
         },
         {
@@ -1377,8 +1355,7 @@
           "downloads": 2650,
           "url": "https://github.com/chinasoul/BT/releases/download/v0.9.41/universal.apk"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "fantasytyx/bv": {
       "kind": "release",
@@ -1395,8 +1372,7 @@
           "downloads": 1639,
           "url": "https://github.com/fantasytyx/bv/releases/download/0.3.0.r986.f02dfc5a.release/BV_986_0.3.0.r986.f02dfc5a.release_default_universal.apk"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "henrypp/memreduct": {
       "kind": "release",
@@ -1422,7 +1398,7 @@
         {
           "name": "memreduct-3.5.2-setup.exe",
           "size": 381582,
-          "downloads": 1580261,
+          "downloads": 1580284,
           "url": "https://github.com/henrypp/memreduct/releases/download/v.3.5.2/memreduct-3.5.2-setup.exe"
         },
         {
@@ -1437,8 +1413,7 @@
           "downloads": 41696,
           "url": "https://github.com/henrypp/memreduct/releases/download/v.3.5.2/memreduct-3.5.2.sha256"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "KaringX/clashmi": {
       "kind": "release",
@@ -1452,19 +1427,19 @@
         {
           "name": "clashmi_1.0.31.1703_android_arm.apk",
           "size": 89169517,
-          "downloads": 47364,
+          "downloads": 47417,
           "url": "https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_android_arm.apk"
         },
         {
           "name": "clashmi_1.0.31.1703_android_arm64-v8a.apk",
           "size": 52749835,
-          "downloads": 136344,
+          "downloads": 136380,
           "url": "https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_android_arm64-v8a.apk"
         },
         {
           "name": "clashmi_1.0.31.1703_android_armeabi-v7a.apk",
           "size": 52934191,
-          "downloads": 5556,
+          "downloads": 5560,
           "url": "https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_android_armeabi-v7a.apk"
         },
         {
@@ -1500,17 +1475,16 @@
         {
           "name": "clashmi_1.0.31.1703_windows_x64.exe",
           "size": 45517373,
-          "downloads": 150552,
+          "downloads": 150638,
           "url": "https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_windows_x64.exe"
         },
         {
           "name": "clashmi_1.0.31.1703_windows_x64.zip",
           "size": 66766538,
-          "downloads": 13361,
+          "downloads": 13386,
           "url": "https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_windows_x64.zip"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "nab138/iloader": {
       "kind": "release",
@@ -1524,7 +1498,7 @@
         {
           "name": "iloader-darwin-universal.app.tar.gz",
           "size": 19237469,
-          "downloads": 11384,
+          "downloads": 11392,
           "url": "https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-darwin-universal.app.tar.gz"
         },
         {
@@ -1536,7 +1510,7 @@
         {
           "name": "iloader-darwin-universal.dmg",
           "size": 18767296,
-          "downloads": 28501,
+          "downloads": 28527,
           "url": "https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-darwin-universal.dmg"
         },
         {
@@ -1614,7 +1588,7 @@
         {
           "name": "iloader-windows-x64.exe",
           "size": 6035360,
-          "downloads": 34403,
+          "downloads": 34433,
           "url": "https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-windows-x64.exe"
         },
         {
@@ -1626,7 +1600,7 @@
         {
           "name": "iloader-windows-x64.msi",
           "size": 8892416,
-          "downloads": 37843,
+          "downloads": 37866,
           "url": "https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-windows-x64.msi"
         },
         {
@@ -1638,11 +1612,10 @@
         {
           "name": "latest.json",
           "size": 8986,
-          "downloads": 133908,
+          "downloads": 134031,
           "url": "https://github.com/nab138/iloader/releases/download/v2.4.0/latest.json"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "tom-snow/Sidestore-ClashMi": {
       "kind": "none",
@@ -1652,8 +1625,7 @@
       "url": "",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "Lin-arm/GKD_subscription": {
       "kind": "release",
@@ -1670,8 +1642,7 @@
           "downloads": 22,
           "url": "https://github.com/Lin-arm/GKD_subscription/releases/download/v620/gkd-subscription-offline-id667-v620.json5"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "WJZ-P/TFT-Hextech-Helper": {
       "kind": "release",
@@ -1718,8 +1689,7 @@
           "downloads": 16,
           "url": "https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.6.1/tft-hextech-helper-1.6.1.deb"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "jiarandiana0307/patch-edge-copilot": {
       "kind": "none",
@@ -1729,8 +1699,7 @@
       "url": "",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "emmm1245/EdgeCopilotFix": {
       "kind": "release",
@@ -1765,8 +1734,7 @@
           "downloads": 47,
           "url": "https://github.com/emmm1245/EdgeCopilotFix/releases/download/1.2/EdgeCopilotFixTool-windows-amd64.exe"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "Raphire/Win11Debloat": {
       "kind": "release",
@@ -1780,11 +1748,10 @@
         {
           "name": "Get.ps1",
           "size": 9071,
-          "downloads": 620564,
+          "downloads": 620633,
           "url": "https://github.com/Raphire/Win11Debloat/releases/download/2026.08.24/Get.ps1"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "binbankm/Sub-One": {
       "kind": "none",
@@ -1794,8 +1761,7 @@
       "url": "",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "massgravel/Microsoft-Activation-Scripts": {
       "kind": "release",
@@ -1805,8 +1771,7 @@
       "url": "https://github.com/massgravel/Microsoft-Activation-Scripts/releases/tag/3.12",
       "prerelease": false,
       "body": "## Changelog: 3.12\r\n\r\n#### TSforge\r\n- Now defaults to KMS4k for the Windows-only option instead of StaticCID as it's better for most users.\r\n    - KMS4k persists through hardware changes and does not require an internet connection to work, unlike StaticCID. \r\n    - See [this page](https://massgrave.dev/chart) for more details on the differences between TSforge methods.\r\n\r\n#### HWID\r\n- Changed the Installation ID used by HWID.\r\n\r\n#### All\r\n- Hardened the script against certain types of vulnerabilities.\r\n- Removed the functionality for using user-provided DLLs instead of the ones included with the script.\r\n- Made some error messages clearer.\r\n\r\n----\r\n\r\n## Download / How to use it?\r\n\r\nhttps://github.com/massgravel/Microsoft-Activation-Scripts?tab=readme-ov-file#download--how-to-use-it\r\n\r\n## Don't download from the below Source code (zip) link. Check the above link for the info.",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "siweia/NDui": {
       "kind": "release",
@@ -1829,8 +1794,7 @@
           "downloads": 2,
           "url": "https://github.com/siweia/NDui/releases/download/Classic-0.0.6/release.json"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "ZyperWave/ZyperWinOptimize": {
       "kind": "release",
@@ -1847,8 +1811,7 @@
           "downloads": 133141,
           "url": "https://github.com/ZyperWave/ZyperWinOptimize/releases/download/v4.1/ZyperWin%2B%2B4.1.zip"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "eooce/node-ws": {
       "kind": "release",
@@ -1919,8 +1882,7 @@
           "downloads": 38,
           "url": "https://github.com/eooce/node-ws/releases/download/gows-latest/gows_windows_arm64.exe"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "tangyoha/telegram_media_downloader": {
       "kind": "release",
@@ -1937,8 +1899,7 @@
           "downloads": 11904,
           "url": "https://github.com/tangyoha/telegram_media_downloader/releases/download/v2.2.5/tdl-v2.2.5-win64.zip"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "luyuanbo79/firpe": {
       "kind": "release",
@@ -1955,8 +1916,7 @@
           "downloads": 549,
           "url": "https://github.com/luyuanbo79/firpe/releases/download/v.1.9.3/FirPE-V1.9.3.exe"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "qist/tvbox": {
       "kind": "none",
@@ -1966,8 +1926,7 @@
       "url": "",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "j4Uq/TVBoxOSC": {
       "kind": "release",
@@ -1993,7 +1952,7 @@
         {
           "name": "TVBox_q215613905_20260914-1520-java32.apk",
           "size": 19801000,
-          "downloads": 10301,
+          "downloads": 10306,
           "url": "https://github.com/j4Uq/TVBoxOSC/releases/download/20260914-1520/TVBox_q215613905_20260914-1520-java32.apk"
         },
         {
@@ -2005,7 +1964,7 @@
         {
           "name": "TVBox_q215613905_20260914-1520-python.apk",
           "size": 52629608,
-          "downloads": 4419,
+          "downloads": 4420,
           "url": "https://github.com/j4Uq/TVBoxOSC/releases/download/20260914-1520/TVBox_q215613905_20260914-1520-python.apk"
         },
         {
@@ -2020,8 +1979,7 @@
           "downloads": 4874,
           "url": "https://github.com/j4Uq/TVBoxOSC/releases/download/20260914-1520/TVBox_q215613905_20260914-1520-python64.apk"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "fmz200/wool_scripts": {
       "kind": "none",
@@ -2031,8 +1989,7 @@
       "url": "",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "fmz200/global-testflight-link": {
       "kind": "none",
@@ -2042,8 +1999,7 @@
       "url": "",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "byJoey/cfnew": {
       "kind": "release",
@@ -2072,8 +2028,7 @@
           "downloads": 1123,
           "url": "https://github.com/byJoey/cfnew/releases/download/v2026.10.17.2/_worker.js"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "localsend/localsend": {
       "kind": "release",
@@ -2087,19 +2042,19 @@
         {
           "name": "LocalSend-1.18.2-android-arm32v7.apk",
           "size": 39333444,
-          "downloads": 20702,
+          "downloads": 20705,
           "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-arm32v7.apk"
         },
         {
           "name": "LocalSend-1.18.2-android-arm64v8.apk",
           "size": 46558706,
-          "downloads": 190022,
+          "downloads": 190052,
           "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-arm64v8.apk"
         },
         {
           "name": "LocalSend-1.18.2-android-google-play.apk",
           "size": 128293112,
-          "downloads": 20614,
+          "downloads": 20615,
           "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-google-play.apk"
         },
         {
@@ -2123,13 +2078,13 @@
         {
           "name": "LocalSend-1.18.2-linux-x86-64.AppImage",
           "size": 66471104,
-          "downloads": 27403,
+          "downloads": 27406,
           "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-linux-x86-64.AppImage"
         },
         {
           "name": "LocalSend-1.18.2-linux-x86-64.deb",
           "size": 24665458,
-          "downloads": 96710,
+          "downloads": 96724,
           "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-linux-x86-64.deb"
         },
         {
@@ -2147,25 +2102,25 @@
         {
           "name": "LocalSend-1.18.2-windows-x86-64-unsigned.exe",
           "size": 18960550,
-          "downloads": 172841,
+          "downloads": 172842,
           "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-x86-64-unsigned.exe"
         },
         {
           "name": "LocalSend-1.18.2-windows-x86-64.exe",
           "size": 19901144,
-          "downloads": 744952,
+          "downloads": 745101,
           "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-x86-64.exe"
         },
         {
           "name": "LocalSend-1.18.2-windows-x86-64.zip",
           "size": 26113764,
-          "downloads": 140729,
+          "downloads": 140759,
           "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-x86-64.zip"
         },
         {
           "name": "LocalSend-1.18.2.dmg",
           "size": 52700247,
-          "downloads": 637920,
+          "downloads": 638006,
           "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2.dmg"
         },
         {
@@ -2177,7 +2132,7 @@
         {
           "name": "LocalSend-CLI-1.18.2-linux-x86-64.tar.gz",
           "size": 4762297,
-          "downloads": 3103,
+          "downloads": 3106,
           "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-linux-x86-64.tar.gz"
         },
         {
@@ -2201,11 +2156,10 @@
         {
           "name": "LocalSend-CLI-1.18.2-windows-x86-64.exe",
           "size": 9725952,
-          "downloads": 5989,
+          "downloads": 5991,
           "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-windows-x86-64.exe"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "maotoumao/MusicFree": {
       "kind": "release",
@@ -2219,7 +2173,7 @@
         {
           "name": "app-arm64-v8a-release.apk",
           "size": 18228172,
-          "downloads": 36928,
+          "downloads": 36929,
           "url": "https://github.com/maotoumao/MusicFree/releases/download/v0.6.2/app-arm64-v8a-release.apk"
         },
         {
@@ -2246,8 +2200,7 @@
           "downloads": 4197,
           "url": "https://github.com/maotoumao/MusicFree/releases/download/v0.6.2/app-x86_64-release.apk"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "wukongdaily/ImmortalWrt-ImageBuilder": {
       "kind": "release",
@@ -2264,8 +2217,7 @@
           "downloads": 4,
           "url": "https://github.com/wukongdaily/ImmortalWrt-ImageBuilder/releases/download/Autobuild-x86-64/immortalwrt-25.12.2-x86-64-generic-squashfs-combined-efi.img.gz"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "AcidWeb/Clean-Icons-Mechagnome-Edition": {
       "kind": "release",
@@ -2282,8 +2234,7 @@
           "downloads": 2739,
           "url": "https://github.com/AcidWeb/Clean-Icons-Mechagnome-Edition/releases/download/12.1.5.70391-V5-1/CleanIcons-MechagnomeEdition-12.1.5.70391-V5-1.zip"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "ddgksf2013/ddgksf2013": {
       "kind": "none",
@@ -2293,8 +2244,7 @@
       "url": "",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "xinggsf/Adblock-Plus-Rule": {
       "kind": "none",
@@ -2304,8 +2254,7 @@
       "url": "",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "xxnuo/MusicFreePluginsHub": {
       "kind": "none",
@@ -2315,8 +2264,7 @@
       "url": "",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "xianyuyimu/TVBOX-": {
       "kind": "none",
@@ -2326,8 +2274,7 @@
       "url": "",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "openwrt-xiaomi/xmir-patcher": {
       "kind": "none",
@@ -2337,8 +2284,7 @@
       "url": "",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "YYDS678/uzVideo": {
       "kind": "none",
@@ -2348,8 +2294,7 @@
       "url": "",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "cmliu/SubsCheck-Win-GUI": {
       "kind": "release",
@@ -2366,8 +2311,7 @@
           "downloads": 78264,
           "url": "https://github.com/cmliu/SubsCheck-Win-GUI/releases/download/v2.0.1.7/SubsCheck_Win_GUI.zip"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "ok-oldking/ok-wuthering-waves": {
       "kind": "release",
@@ -2381,35 +2325,34 @@
         {
           "name": "ok-ww-win32-China-setup.exe",
           "size": 391207576,
-          "downloads": 1973,
+          "downloads": 2030,
           "url": "https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.12/ok-ww-win32-China-setup.exe"
         },
         {
           "name": "ok-ww-win32-Global-setup.exe",
           "size": 534682310,
-          "downloads": 144,
+          "downloads": 147,
           "url": "https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.12/ok-ww-win32-Global-setup.exe"
         },
         {
           "name": "ok-ww-win32-online-setup.exe",
           "size": 4023925,
-          "downloads": 228,
+          "downloads": 237,
           "url": "https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.12/ok-ww-win32-online-setup.exe"
         },
         {
           "name": "ok-ww-win32.zip",
           "size": 4976098,
-          "downloads": 145,
+          "downloads": 151,
           "url": "https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.12/ok-ww-win32.zip"
         },
         {
           "name": "win32_sha256.txt",
           "size": 64,
-          "downloads": 420,
+          "downloads": 442,
           "url": "https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.12/win32_sha256.txt"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "lizongying/my-tv-0": {
       "kind": "release",
@@ -2423,11 +2366,10 @@
         {
           "name": "my-tv-0_1.3.9.8.apk",
           "size": 5458634,
-          "downloads": 42096,
+          "downloads": 42097,
           "url": "https://github.com/lizongying/my-tv-0/releases/download/v1.3.9.8/my-tv-0_1.3.9.8.apk"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "dyang886/Game-Cheats-Manager": {
       "kind": "release",
@@ -2441,17 +2383,16 @@
         {
           "name": "Game.Cheats.Manager.Portable.2.5.4.zip",
           "size": 53835710,
-          "downloads": 30626,
+          "downloads": 30641,
           "url": "https://github.com/dyang886/Game-Cheats-Manager/releases/download/v2.5.4/Game.Cheats.Manager.Portable.2.5.4.zip"
         },
         {
           "name": "Game.Cheats.Manager.Setup.2.5.4.exe",
           "size": 39474900,
-          "downloads": 27405,
+          "downloads": 27419,
           "url": "https://github.com/dyang886/Game-Cheats-Manager/releases/download/v2.5.4/Game.Cheats.Manager.Setup.2.5.4.exe"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "JunkFood02/Seal": {
       "kind": "release",
@@ -2465,7 +2406,7 @@
         {
           "name": "Seal-1.13.1-arm64-v8a-release.apk",
           "size": 43069442,
-          "downloads": 2466041,
+          "downloads": 2466064,
           "url": "https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-arm64-v8a-release.apk"
         },
         {
@@ -2477,7 +2418,7 @@
         {
           "name": "Seal-1.13.1-universal-release.apk",
           "size": 144991600,
-          "downloads": 318044,
+          "downloads": 318051,
           "url": "https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-universal-release.apk"
         },
         {
@@ -2492,8 +2433,7 @@
           "downloads": 50250,
           "url": "https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-x86_64-release.apk"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "eooce/Sing-box": {
       "kind": "release",
@@ -2522,8 +2462,7 @@
           "downloads": 67,
           "url": "https://github.com/eooce/Sing-box/releases/download/other/idx-python.zip"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "wind-addons/WeakAurasPatched": {
       "kind": "release",
@@ -2546,8 +2485,7 @@
           "downloads": 447,
           "url": "https://github.com/wind-addons/WeakAurasPatched/releases/download/5.21.1/WeakAurasPatched-5.21.1.zip"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "6Kmfi6HP/EDtunnel": {
       "kind": "none",
@@ -2557,8 +2495,7 @@
       "url": "",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "ACL4SSR/ACL4SSR": {
       "kind": "none",
@@ -2568,8 +2505,7 @@
       "url": "",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "KaringX/karing": {
       "kind": "release",
@@ -2583,13 +2519,13 @@
         {
           "name": "karing_1.2.25.2802_android_arm.apk",
           "size": 94359984,
-          "downloads": 196572,
+          "downloads": 196637,
           "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_android_arm.apk"
         },
         {
           "name": "karing_1.2.25.2802_android_arm64-v8a.apk",
           "size": 55451158,
-          "downloads": 507772,
+          "downloads": 507816,
           "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_android_arm64-v8a.apk"
         },
         {
@@ -2619,19 +2555,19 @@
         {
           "name": "karing_1.2.25.2802_macos_universal.dmg",
           "size": 103163875,
-          "downloads": 177620,
+          "downloads": 177642,
           "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_macos_universal.dmg"
         },
         {
           "name": "karing_1.2.25.2802_macos_universal.pkg",
           "size": 105092140,
-          "downloads": 2768,
+          "downloads": 2769,
           "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_macos_universal.pkg"
         },
         {
           "name": "karing_1.2.25.2802_windows_x64.exe",
           "size": 46800210,
-          "downloads": 521164,
+          "downloads": 521229,
           "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_windows_x64.exe"
         },
         {
@@ -2640,8 +2576,7 @@
           "downloads": 25191,
           "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_windows_x64.zip"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "Predidit/Kazumi": {
       "kind": "release",
@@ -2655,13 +2590,13 @@
         {
           "name": "Kazumi_android_2.4.2.apk",
           "size": 33444136,
-          "downloads": 53822,
+          "downloads": 53878,
           "url": "https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_android_2.4.2.apk"
         },
         {
           "name": "Kazumi_ios_2.4.2_no_sign.ipa",
           "size": 30521004,
-          "downloads": 9831,
+          "downloads": 9843,
           "url": "https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_ios_2.4.2_no_sign.ipa"
         },
         {
@@ -2697,17 +2632,16 @@
         {
           "name": "Kazumi_windows_2.4.2.msix",
           "size": 47741138,
-          "downloads": 33723,
+          "downloads": 33760,
           "url": "https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_windows_2.4.2.msix"
         },
         {
           "name": "Kazumi_windows_2.4.2.zip",
           "size": 42907280,
-          "downloads": 35717,
+          "downloads": 35759,
           "url": "https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_windows_2.4.2.zip"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "vfarid/v2ray-worker": {
       "kind": "release",
@@ -2724,8 +2658,7 @@
           "downloads": 27662,
           "url": "https://github.com/vfarid/v2ray-worker/releases/download/v2.4/worker.js"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "XIU2/CloudflareSpeedTest": {
       "kind": "release",
@@ -2835,7 +2768,7 @@
         {
           "name": "cfst_windows_amd64.zip",
           "size": 3324747,
-          "downloads": 73405,
+          "downloads": 73411,
           "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_windows_amd64.zip"
         },
         {
@@ -2850,8 +2783,7 @@
           "downloads": 2211,
           "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_windows_arm64.zip"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "chen08209/FlClash": {
       "kind": "release",
@@ -2865,49 +2797,49 @@
         {
           "name": "FlClash-0.9.2-android-arm64-v8a.apk",
           "size": 61083319,
-          "downloads": 136394,
+          "downloads": 136587,
           "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-android-arm64-v8a.apk"
         },
         {
           "name": "FlClash-0.9.2-android-armeabi-v7a.apk",
           "size": 61087115,
-          "downloads": 13915,
+          "downloads": 13938,
           "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-android-armeabi-v7a.apk"
         },
         {
           "name": "FlClash-0.9.2-android-x86_64.apk",
           "size": 63599561,
-          "downloads": 19622,
+          "downloads": 19670,
           "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-android-x86_64.apk"
         },
         {
           "name": "FlClash-0.9.2-linux-amd64.AppImage",
           "size": 69833920,
-          "downloads": 1541,
+          "downloads": 1547,
           "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-amd64.AppImage"
         },
         {
           "name": "FlClash-0.9.2-linux-amd64.deb",
           "size": 40536736,
-          "downloads": 5314,
+          "downloads": 5339,
           "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-amd64.deb"
         },
         {
           "name": "FlClash-0.9.2-linux-amd64.rpm",
           "size": 59909376,
-          "downloads": 852,
+          "downloads": 853,
           "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-amd64.rpm"
         },
         {
           "name": "FlClash-0.9.2-linux-arm64.AppImage",
           "size": 66900352,
-          "downloads": 430,
+          "downloads": 433,
           "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-arm64.AppImage"
         },
         {
           "name": "FlClash-0.9.2-linux-arm64.deb",
           "size": 36902216,
-          "downloads": 1582,
+          "downloads": 1595,
           "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-arm64.deb"
         },
         {
@@ -2919,37 +2851,37 @@
         {
           "name": "FlClash-0.9.2-macos-amd64.dmg",
           "size": 63130721,
-          "downloads": 6001,
+          "downloads": 6021,
           "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-macos-amd64.dmg"
         },
         {
           "name": "FlClash-0.9.2-macos-arm64.dmg",
           "size": 59274695,
-          "downloads": 19528,
+          "downloads": 19575,
           "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-macos-arm64.dmg"
         },
         {
           "name": "FlClash-0.9.2-windows-amd64-setup.exe",
           "size": 43335463,
-          "downloads": 99785,
+          "downloads": 100020,
           "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-windows-amd64-setup.exe"
         },
         {
           "name": "FlClash-0.9.2-windows-amd64.zip",
           "size": 68849327,
-          "downloads": 21031,
+          "downloads": 21085,
           "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-windows-amd64.zip"
         },
         {
           "name": "FlClash-0.9.2-windows-arm64-setup.exe",
           "size": 40261402,
-          "downloads": 5613,
+          "downloads": 5622,
           "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-windows-arm64-setup.exe"
         },
         {
           "name": "FlClash-0.9.2-windows-arm64.zip",
           "size": 64720466,
-          "downloads": 1740,
+          "downloads": 1745,
           "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-windows-arm64.zip"
         },
         {
@@ -2958,8 +2890,7 @@
           "downloads": 1853,
           "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/SHA256SUMS"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "aylz10/psub": {
       "kind": "none",
@@ -2969,8 +2900,7 @@
       "url": "",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "chengaopan/AutoMergePublicNodes": {
       "kind": "none",
@@ -2980,8 +2910,7 @@
       "url": "",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "mahdibland/V2RayAggregator": {
       "kind": "release",
@@ -3004,8 +2933,7 @@
           "downloads": 416,
           "url": "https://github.com/mahdibland/V2RayAggregator/releases/download/1.0.0/lite-linux-amd64-old"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "bia-pain-bache/BPB-Worker-Panel": {
       "kind": "release",
@@ -3019,11 +2947,10 @@
         {
           "name": "worker.js",
           "size": 404293,
-          "downloads": 232766,
+          "downloads": 232782,
           "url": "https://github.com/bia-pain-bache/BPB-Worker-Panel/releases/download/v5.1.1/worker.js"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "GFW-knocker/MahsaNG": {
       "kind": "release",
@@ -3064,8 +2991,7 @@
           "downloads": 1006,
           "url": "https://github.com/GFW-knocker/MahsaNG/releases/download/v18-%281405-7-10%29/MahsaNG_18_x86_64.apk"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "GopeedLab/gopeed": {
       "kind": "release",
@@ -3079,7 +3005,7 @@
         {
           "name": "Gopeed-v1.9.3-android-arm64-v8a.apk",
           "size": 25240830,
-          "downloads": 205412,
+          "downloads": 205420,
           "url": "https://github.com/GopeedLab/gopeed/releases/download/v1.9.3/Gopeed-v1.9.3-android-arm64-v8a.apk"
         },
         {
@@ -3091,7 +3017,7 @@
         {
           "name": "Gopeed-v1.9.3-android-x86_64.apk",
           "size": 26593182,
-          "downloads": 16995,
+          "downloads": 16997,
           "url": "https://github.com/GopeedLab/gopeed/releases/download/v1.9.3/Gopeed-v1.9.3-android-x86_64.apk"
         },
         {
@@ -3151,7 +3077,7 @@
         {
           "name": "Gopeed-v1.9.3-macos-arm64.dmg",
           "size": 39394569,
-          "downloads": 30280,
+          "downloads": 30289,
           "url": "https://github.com/GopeedLab/gopeed/releases/download/v1.9.3/Gopeed-v1.9.3-macos-arm64.dmg"
         },
         {
@@ -3163,7 +3089,7 @@
         {
           "name": "gopeed-v1.9.3-qnap-amd64.qpkg",
           "size": 40125699,
-          "downloads": 1281,
+          "downloads": 1282,
           "url": "https://github.com/GopeedLab/gopeed/releases/download/v1.9.3/gopeed-v1.9.3-qnap-amd64.qpkg"
         },
         {
@@ -3181,7 +3107,7 @@
         {
           "name": "Gopeed-v1.9.3-windows-amd64.exe",
           "size": 26467613,
-          "downloads": 321469,
+          "downloads": 321485,
           "url": "https://github.com/GopeedLab/gopeed/releases/download/v1.9.3/Gopeed-v1.9.3-windows-amd64.exe"
         },
         {
@@ -3217,7 +3143,7 @@
         {
           "name": "gopeed-web-v1.9.3-linux-amd64.zip",
           "size": 40090273,
-          "downloads": 4409,
+          "downloads": 4410,
           "url": "https://github.com/GopeedLab/gopeed/releases/download/v1.9.3/gopeed-web-v1.9.3-linux-amd64.zip"
         },
         {
@@ -3247,7 +3173,7 @@
         {
           "name": "gopeed-web-v1.9.3-windows-amd64.zip",
           "size": 40411930,
-          "downloads": 11180,
+          "downloads": 11182,
           "url": "https://github.com/GopeedLab/gopeed/releases/download/v1.9.3/gopeed-web-v1.9.3-windows-amd64.zip"
         },
         {
@@ -3256,8 +3182,7 @@
           "downloads": 2608,
           "url": "https://github.com/GopeedLab/gopeed/releases/download/v1.9.3/gopeed-web-v1.9.3-windows-arm64.zip"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "yonggekkk/Replit-Xray": {
       "kind": "none",
@@ -3267,8 +3192,7 @@
       "url": "",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "ymyuuu/IPDB": {
       "kind": "none",
@@ -3278,8 +3202,7 @@
       "url": "",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "hiddify/hiddify-app": {
       "kind": "release",
@@ -3305,7 +3228,7 @@
         {
           "name": "Hiddify-Android-universal.apk",
           "size": 339558475,
-          "downloads": 527670,
+          "downloads": 527681,
           "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Android-universal.apk"
         },
         {
@@ -3317,13 +3240,13 @@
         {
           "name": "Hiddify-Debian-x64.deb",
           "size": 42466870,
-          "downloads": 129128,
+          "downloads": 129140,
           "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Debian-x64.deb"
         },
         {
           "name": "Hiddify-Linux-x64-AppImage.AppImage",
           "size": 55220728,
-          "downloads": 64734,
+          "downloads": 64740,
           "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Linux-x64-AppImage.AppImage"
         },
         {
@@ -3335,25 +3258,25 @@
         {
           "name": "Hiddify-MacOS-Installer.pkg",
           "size": 83767757,
-          "downloads": 92509,
+          "downloads": 92511,
           "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-MacOS-Installer.pkg"
         },
         {
           "name": "Hiddify-MacOS.dmg",
           "size": 83485931,
-          "downloads": 369306,
+          "downloads": 369335,
           "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-MacOS.dmg"
         },
         {
           "name": "Hiddify-Windows-Portable-x64.zip",
           "size": 117708800,
-          "downloads": 384724,
+          "downloads": 384733,
           "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Windows-Portable-x64.zip"
         },
         {
           "name": "Hiddify-Windows-Setup-x64.exe",
           "size": 36486310,
-          "downloads": 1398818,
+          "downloads": 1398881,
           "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Windows-Setup-x64.exe"
         },
         {
@@ -3362,8 +3285,7 @@
           "downloads": 21059,
           "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Windows-x64.msix"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "lyswhut/lx-music-desktop": {
       "kind": "release",
@@ -3395,19 +3317,19 @@
         {
           "name": "latest-mac.yml",
           "size": 364,
-          "downloads": 244231,
+          "downloads": 244297,
           "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/latest-mac.yml"
         },
         {
           "name": "latest.yml",
           "size": 374,
-          "downloads": 507249,
+          "downloads": 507369,
           "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/latest.yml"
         },
         {
           "name": "lx-music-desktop-2.12.6-arm64.dmg",
           "size": 131211755,
-          "downloads": 27543,
+          "downloads": 27549,
           "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-2.12.6-arm64.dmg"
         },
         {
@@ -3419,7 +3341,7 @@
         {
           "name": "lx-music-desktop-2.12.6-x64.dmg",
           "size": 135174066,
-          "downloads": 11736,
+          "downloads": 11740,
           "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-2.12.6-x64.dmg"
         },
         {
@@ -3449,13 +3371,13 @@
         {
           "name": "lx-music-desktop-v2.12.6-win7_x64-green.7z",
           "size": 70704809,
-          "downloads": 5413,
+          "downloads": 5414,
           "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-win7_x64-green.7z"
         },
         {
           "name": "lx-music-desktop-v2.12.6-win7_x64-Setup.exe",
           "size": 84765841,
-          "downloads": 4774,
+          "downloads": 4779,
           "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-win7_x64-Setup.exe"
         },
         {
@@ -3479,13 +3401,13 @@
         {
           "name": "lx-music-desktop-v2.12.6-win_x64-green.7z",
           "size": 100735625,
-          "downloads": 18207,
+          "downloads": 18214,
           "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-win_x64-green.7z"
         },
         {
           "name": "lx-music-desktop-v2.12.6-x64-Setup.exe",
           "size": 121443536,
-          "downloads": 331387,
+          "downloads": 331463,
           "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-x64-Setup.exe"
         },
         {
@@ -3497,13 +3419,13 @@
         {
           "name": "lx-music-desktop_2.12.6_amd64.deb",
           "size": 109385212,
-          "downloads": 11633,
+          "downloads": 11635,
           "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop_2.12.6_amd64.deb"
         },
         {
           "name": "lx-music-desktop_2.12.6_arm64.deb",
           "size": 104494816,
-          "downloads": 3207,
+          "downloads": 3208,
           "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop_2.12.6_arm64.deb"
         },
         {
@@ -3524,8 +3446,7 @@
           "downloads": 2513,
           "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop_2.12.6_x64.pacman"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "ZCShou/GoGoGo": {
       "kind": "release",
@@ -3539,11 +3460,10 @@
         {
           "name": "VirtGO-2.1.0-android-arm64-v8a.apk",
           "size": 23320401,
-          "downloads": 1236228,
+          "downloads": 1236284,
           "url": "https://github.com/ZCShou/GoGoGo/releases/download/ReleaseV1.12.3/VirtGO-2.1.0-android-arm64-v8a.apk"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "kkkgo/LTSC-Add-MicrosoftStore": {
       "kind": "release",
@@ -3553,8 +3473,7 @@
       "url": "https://github.com/kkkgo/LTSC-Add-MicrosoftStore/releases/tag/2019",
       "prerelease": false,
       "body": "2019\r\nWindows Store",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "DustinWin/dustinwin.github.io": {
       "kind": "none",
@@ -3564,8 +3483,7 @@
       "url": "",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "bepass-org/oblivion-desktop": {
       "kind": "release",
@@ -3684,8 +3602,7 @@
           "downloads": 39627,
           "url": "https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-win-x64.zip"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "bepass-org/oblivion": {
       "kind": "release",
@@ -3702,8 +3619,7 @@
           "downloads": 18316,
           "url": "https://github.com/bepass-org/oblivion/releases/download/v8/oblivion-v8-signed.apk"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "cmliu/epeius": {
       "kind": "none",
@@ -3713,8 +3629,7 @@
       "url": "",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "LiteLoaderQQNT/LiteLoaderQQNT": {
       "kind": "release",
@@ -3728,11 +3643,10 @@
         {
           "name": "LiteLoaderQQNT.zip",
           "size": 32911,
-          "downloads": 30615,
+          "downloads": 30622,
           "url": "https://github.com/LiteLoaderQQNT/LiteLoaderQQNT/releases/download/1.4.1/LiteLoaderQQNT.zip"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "xiaoyaDev/xiaoya-alist": {
       "kind": "none",
@@ -3742,8 +3656,7 @@
       "url": "",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "MatsuriDayo/NekoBoxForAndroid": {
       "kind": "release",
@@ -3757,7 +3670,7 @@
         {
           "name": "NekoBox-1.4.2-arm64-v8a.apk",
           "size": 15252519,
-          "downloads": 692872,
+          "downloads": 692900,
           "url": "https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.4.2/NekoBox-1.4.2-arm64-v8a.apk"
         },
         {
@@ -3775,11 +3688,10 @@
         {
           "name": "NekoBox-1.4.2-x86_64.apk",
           "size": 15934699,
-          "downloads": 55699,
+          "downloads": 55703,
           "url": "https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.4.2/NekoBox-1.4.2-x86_64.apk"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "clash-verge-rev/clash-verge-rev": {
       "kind": "release",
@@ -3793,7 +3705,7 @@
         {
           "name": "Clash.Verge-2.5.8-1.aarch64.rpm",
           "size": 100298341,
-          "downloads": 12134,
+          "downloads": 12146,
           "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge-2.5.8-1.aarch64.rpm"
         },
         {
@@ -3805,7 +3717,7 @@
         {
           "name": "Clash.Verge-2.5.8-1.x86_64.rpm",
           "size": 104176465,
-          "downloads": 19527,
+          "downloads": 19529,
           "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge-2.5.8-1.x86_64.rpm"
         },
         {
@@ -3817,25 +3729,25 @@
         {
           "name": "Clash.Verge_2.5.8_aarch64.app.tar.gz",
           "size": 83642657,
-          "downloads": 194106,
+          "downloads": 194182,
           "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_aarch64.app.tar.gz"
         },
         {
           "name": "Clash.Verge_2.5.8_aarch64.app.tar.gz.sig",
           "size": 428,
-          "downloads": 1087,
+          "downloads": 1088,
           "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_aarch64.app.tar.gz.sig"
         },
         {
           "name": "Clash.Verge_2.5.8_aarch64.dmg",
           "size": 81825361,
-          "downloads": 942562,
+          "downloads": 943001,
           "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_aarch64.dmg"
         },
         {
           "name": "Clash.Verge_2.5.8_amd64.deb",
           "size": 104179124,
-          "downloads": 220397,
+          "downloads": 220508,
           "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_amd64.deb"
         },
         {
@@ -3847,7 +3759,7 @@
         {
           "name": "Clash.Verge_2.5.8_arm64-setup.exe",
           "size": 53952182,
-          "downloads": 36766,
+          "downloads": 36786,
           "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_arm64-setup.exe"
         },
         {
@@ -3859,13 +3771,13 @@
         {
           "name": "Clash.Verge_2.5.8_arm64.deb",
           "size": 100300512,
-          "downloads": 46132,
+          "downloads": 46147,
           "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_arm64.deb"
         },
         {
           "name": "Clash.Verge_2.5.8_arm64_fixed_webview2-setup.exe",
           "size": 232611095,
-          "downloads": 13566,
+          "downloads": 13577,
           "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_arm64_fixed_webview2-setup.exe"
         },
         {
@@ -3883,7 +3795,7 @@
         {
           "name": "Clash.Verge_2.5.8_x64-setup.exe",
           "size": 60230483,
-          "downloads": 1231657,
+          "downloads": 1232315,
           "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_x64-setup.exe"
         },
         {
@@ -3895,7 +3807,7 @@
         {
           "name": "Clash.Verge_2.5.8_x64.app.tar.gz",
           "size": 89108423,
-          "downloads": 97161,
+          "downloads": 97199,
           "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_x64.app.tar.gz"
         },
         {
@@ -3907,13 +3819,13 @@
         {
           "name": "Clash.Verge_2.5.8_x64.dmg",
           "size": 87523387,
-          "downloads": 75148,
+          "downloads": 75196,
           "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_x64.dmg"
         },
         {
           "name": "Clash.Verge_2.5.8_x64_fixed_webview2-setup.exe",
           "size": 250400964,
-          "downloads": 145105,
+          "downloads": 145174,
           "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_x64_fixed_webview2-setup.exe"
         },
         {
@@ -3925,11 +3837,10 @@
         {
           "name": "latest.json",
           "size": 6667,
-          "downloads": 2727,
+          "downloads": 2728,
           "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/latest.json"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "nomic-ai/gpt4all": {
       "kind": "release",
@@ -3949,7 +3860,7 @@
         {
           "name": "gpt4all-installer-macos-v3.10.0.dmg",
           "size": 319600812,
-          "downloads": 16768,
+          "downloads": 16769,
           "url": "https://github.com/nomic-ai/gpt4all/releases/download/v3.10.0/gpt4all-installer-macos-v3.10.0.dmg"
         },
         {
@@ -3964,8 +3875,7 @@
           "downloads": 79198,
           "url": "https://github.com/nomic-ai/gpt4all/releases/download/v3.10.0/gpt4all-installer-win64-v3.10.0.exe"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "cmliu/CF-Workers-SUB": {
       "kind": "none",
@@ -3975,8 +3885,7 @@
       "url": "",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "SagerNet/sing-box": {
       "kind": "release",
@@ -3990,7 +3899,7 @@
         {
           "name": "SFA-1.14.4-arm64-v8a.apk",
           "size": 36665679,
-          "downloads": 7576,
+          "downloads": 7590,
           "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-arm64-v8a.apk"
         },
         {
@@ -4014,7 +3923,7 @@
         {
           "name": "SFA-1.14.4-legacy-android-5-universal.apk",
           "size": 106884356,
-          "downloads": 351,
+          "downloads": 352,
           "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-legacy-android-5-universal.apk"
         },
         {
@@ -4032,7 +3941,7 @@
         {
           "name": "SFA-1.14.4-universal.apk",
           "size": 127298612,
-          "downloads": 993,
+          "downloads": 994,
           "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-universal.apk"
         },
         {
@@ -4050,7 +3959,7 @@
         {
           "name": "SFA-version-metadata.json",
           "size": 54,
-          "downloads": 17239,
+          "downloads": 17270,
           "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-version-metadata.json"
         },
         {
@@ -4152,7 +4061,7 @@
         {
           "name": "SFW-1.14.4-x64.exe",
           "size": 115346760,
-          "downloads": 2915,
+          "downloads": 2926,
           "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFW-1.14.4-x64.exe"
         },
         {
@@ -4194,19 +4103,19 @@
         {
           "name": "sing-box-1.14.4-darwin-amd64.tar.gz",
           "size": 31503132,
-          "downloads": 2262,
+          "downloads": 2268,
           "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-darwin-amd64.tar.gz"
         },
         {
           "name": "sing-box-1.14.4-darwin-arm64.tar.gz",
           "size": 29186204,
-          "downloads": 8276,
+          "downloads": 8293,
           "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-darwin-arm64.tar.gz"
         },
         {
           "name": "sing-box-1.14.4-linux-386-glibc.tar.gz",
           "size": 31175934,
-          "downloads": 458,
+          "downloads": 459,
           "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-linux-386-glibc.tar.gz"
         },
         {
@@ -4227,8 +4136,7 @@
           "downloads": 92,
           "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-linux-386.tar.gz"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "2dust/v2rayN": {
       "kind": "release",
@@ -4242,7 +4150,7 @@
         {
           "name": "v2rayN-linux-64.deb",
           "size": 86619748,
-          "downloads": 24957,
+          "downloads": 24970,
           "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-64.deb"
         },
         {
@@ -4254,7 +4162,7 @@
         {
           "name": "v2rayN-linux-64.zip",
           "size": 142814357,
-          "downloads": 22802,
+          "downloads": 22811,
           "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-64.zip"
         },
         {
@@ -4362,7 +4270,7 @@
         {
           "name": "v2rayN-macos-64.dmg",
           "size": 142743437,
-          "downloads": 26881,
+          "downloads": 26893,
           "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-macos-64.dmg"
         },
         {
@@ -4374,7 +4282,7 @@
         {
           "name": "v2rayN-macos-64.zip",
           "size": 144964687,
-          "downloads": 6013,
+          "downloads": 6017,
           "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-macos-64.zip"
         },
         {
@@ -4386,7 +4294,7 @@
         {
           "name": "v2rayN-macos-arm64.dmg",
           "size": 135534635,
-          "downloads": 118637,
+          "downloads": 118715,
           "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-macos-arm64.dmg"
         },
         {
@@ -4398,7 +4306,7 @@
         {
           "name": "v2rayN-macos-arm64.zip",
           "size": 137451000,
-          "downloads": 12652,
+          "downloads": 12661,
           "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-macos-arm64.zip"
         },
         {
@@ -4416,7 +4324,7 @@
         {
           "name": "v2rayN-windows-64-desktop.zip",
           "size": 144735873,
-          "downloads": 164149,
+          "downloads": 164256,
           "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-64-desktop.zip"
         },
         {
@@ -4428,7 +4336,7 @@
         {
           "name": "v2rayN-windows-64.zip",
           "size": 168730000,
-          "downloads": 206946,
+          "downloads": 207090,
           "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-64.zip"
         },
         {
@@ -4452,7 +4360,7 @@
         {
           "name": "v2rayN-windows-86.zip",
           "size": 141128830,
-          "downloads": 6003,
+          "downloads": 6012,
           "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-86.zip"
         },
         {
@@ -4464,7 +4372,7 @@
         {
           "name": "v2rayN-windows-arm64-desktop.zip",
           "size": 134940538,
-          "downloads": 5804,
+          "downloads": 5806,
           "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-arm64-desktop.zip"
         },
         {
@@ -4476,11 +4384,10 @@
         {
           "name": "v2rayN-windows-arm64.zip",
           "size": 155862162,
-          "downloads": 6757,
+          "downloads": 6759,
           "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-arm64.zip"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "YanG-1989/m3u": {
       "kind": "none",
@@ -4490,8 +4397,7 @@
       "url": "",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "wukongdaily/tvhelper-docker": {
       "kind": "release",
@@ -4508,8 +4414,7 @@
           "downloads": 623,
           "url": "https://github.com/wukongdaily/tvhelper-docker/releases/download/fpk/tvhelper-1.1.5.fpk"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "nova-video-player/aos-AVP": {
       "kind": "release",
@@ -4535,7 +4440,7 @@
         {
           "name": "org.courville.nova-2673649-6.6.2-20261027.1847-armeabi-v7a-release.apk",
           "size": 32031731,
-          "downloads": 174,
+          "downloads": 177,
           "url": "https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.2/org.courville.nova-2673649-6.6.2-20261027.1847-armeabi-v7a-release.apk"
         },
         {
@@ -4556,8 +4461,7 @@
           "downloads": 12,
           "url": "https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.2/org.courville.nova-2673649-6.6.2-20261027.1847-x86_64-release.apk"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "xiaojieonly/Ehviewer_CN_SXJ": {
       "kind": "release",
@@ -4571,11 +4475,10 @@
         {
           "name": "EhViewer-2.0.2.6.apk",
           "size": 28229547,
-          "downloads": 258853,
+          "downloads": 258954,
           "url": "https://github.com/xiaojieonly/Ehviewer_CN_SXJ/releases/download/2.0.2.6/EhViewer-2.0.2.6.apk"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "WindowsAddict/IDM-Activation-Script": {
       "kind": "release",
@@ -4585,8 +4488,7 @@
       "url": "https://github.com/WindowsAddict/IDM-Activation-Script/releases/tag/1.2",
       "prerelease": false,
       "body": "## Changelog: 1.2\r\n\r\n<details><summary>Click to expand</summary>\r\n\r\n-   Added back activation option with a randomized name, email, and key in registration details along with a warning that it's not working for some users, the recommended option is to use Freeze trial.\r\n\r\n</details>\r\n\r\n----\r\n\r\n### Download / How to use it?\r\n\r\n#### Method 1 - PowerShell (Recommended)\r\n\r\n-   Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).\r\n-   Copy-paste the below code and press enter\\\r\n    `irm https://massgrave.dev/ias | iex`\r\n-   You will see the activation options, and follow onscreen instructions.\r\n-   That's all.\r\n\r\n#### Method 2 - Traditional\r\n\r\n-   Download the file from [GitHub](https://github.com/WindowsAddict/IDM-Activation-Script/archive/refs/heads/main.zip) or [Bitbucket](https://bitbucket.org/WindowsAddict/idm-activation-script/get/main.zip)\r\n-   Right-click on the downloaded zip file and extract\r\n-   In the extracted folder, run the file named `IAS.cmd`\r\n-   You will see the activation options, and follow onscreen instructions.\r\n-   That's all.\r\n\r\n---\r\n\r\n### Check Homepage For More Details https://massgrave.dev/idm-activation-script.html\r\n\r\n## Don't download from the below Source code (zip) link. Read the above instructions for the link.",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "xiaoyaocz/dart_simple_live": {
       "kind": "tag",
@@ -4596,8 +4498,7 @@
       "url": "https://github.com/xiaoyaocz/dart_simple_live/tags",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "xiaye13579/BBLL": {
       "kind": "release",
@@ -4611,11 +4512,10 @@
         {
           "name": "BBLL1.5.2.apk",
           "size": 6957071,
-          "downloads": 113220,
+          "downloads": 113222,
           "url": "https://github.com/xiaye13579/BBLL/releases/download/v1.5.2/BBLL1.5.2.apk"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "cmliu/edgetunnel": {
       "kind": "none",
@@ -4625,8 +4525,7 @@
       "url": "",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "watchingfun/Joi": {
       "kind": "release",
@@ -4643,8 +4542,7 @@
           "downloads": 3021,
           "url": "https://github.com/watchingfun/Joi/releases/download/v0.6.5/Joi-Windows-0.6.5-Setup.exe"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "lizongying/my-tv": {
       "kind": "release",
@@ -4658,11 +4556,10 @@
         {
           "name": "my-tv-v2.1.8.apk",
           "size": 13970381,
-          "downloads": 439080,
+          "downloads": 439083,
           "url": "https://github.com/lizongying/my-tv/releases/download/v2.1.8/my-tv-v2.1.8.apk"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "ping11700/LOLkit": {
       "kind": "release",
@@ -4679,8 +4576,7 @@
           "downloads": 816,
           "url": "https://github.com/ping11700/LOLkit/releases/download/version3.4.9/LOLkit3.4.9.zip"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "YerongAI/Office-Tool": {
       "kind": "release",
@@ -4700,7 +4596,7 @@
         {
           "name": "Office_Tool_v11.8.50.0_x64.zip",
           "size": 10768316,
-          "downloads": 5154,
+          "downloads": 5156,
           "url": "https://github.com/YerongAI/Office-Tool/releases/download/v11.8.50.0/Office_Tool_v11.8.50.0_x64.zip"
         },
         {
@@ -4724,11 +4620,10 @@
         {
           "name": "Office_Tool_with_runtime_v11.8.50.0_x64.zip",
           "size": 81494977,
-          "downloads": 28731,
+          "downloads": 28770,
           "url": "https://github.com/YerongAI/Office-Tool/releases/download/v11.8.50.0/Office_Tool_with_runtime_v11.8.50.0_x64.zip"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "faceair/clash-speedtest": {
       "kind": "release",
@@ -4799,8 +4694,7 @@
           "downloads": 1837,
           "url": "https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/clash-speedtest_Windows_x86_64.zip"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "nearby-sharing/android": {
       "kind": "release",
@@ -4817,8 +4711,7 @@
           "downloads": 1073,
           "url": "https://github.com/nearby-sharing/android/releases/download/v1.11.1/de.shortdev.nearby_sharing_windows.42.apk"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "Adpro-Team/GKD_THS_List": {
       "kind": "none",
@@ -4828,8 +4721,7 @@
       "url": "",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "BiliRoamingX/BiliRoamingX": {
       "kind": "tag",
@@ -4839,8 +4731,7 @@
       "url": "https://github.com/BiliRoamingX/BiliRoamingX/tags",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "aistra0528/Hail": {
       "kind": "release",
@@ -4854,11 +4745,10 @@
         {
           "name": "Hail-v1.11.0.apk",
           "size": 5760575,
-          "downloads": 62630,
+          "downloads": 62635,
           "url": "https://github.com/aistra0528/Hail/releases/download/v1.11.0/Hail-v1.11.0.apk"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "ItosEO/OriginPlan": {
       "kind": "tag",
@@ -4868,8 +4758,7 @@
       "url": "https://github.com/ItosEO/OriginPlan/tags",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "OdysseusYuan/LKY_OfficeTools": {
       "kind": "release",
@@ -4883,11 +4772,10 @@
         {
           "name": "LKY_OfficeTools_v1.3.0.223.zip",
           "size": 12375034,
-          "downloads": 13362,
+          "downloads": 13363,
           "url": "https://github.com/OdysseusYuan/LKY_OfficeTools/releases/download/v1.3.0/LKY_OfficeTools_v1.3.0.223.zip"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "juewuy/ShellCrash": {
       "kind": "release",
@@ -4904,8 +4792,7 @@
           "downloads": 3754,
           "url": "https://github.com/juewuy/ShellCrash/releases/download/1.9.4/ShellCrash.tar.gz"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "Lerist/FakeLocation": {
       "kind": "release",
@@ -4919,11 +4806,10 @@
         {
           "name": "FakeLocation_CN_v1.5.2_1702.apk",
           "size": 34317784,
-          "downloads": 185129,
+          "downloads": 185148,
           "url": "https://github.com/Lerist/FakeLocation/releases/download/1.5.2/FakeLocation_CN_v1.5.2_1702.apk"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "snowie2000/mactype": {
       "kind": "release",
@@ -4940,8 +4826,7 @@
           "downloads": 191600,
           "url": "https://github.com/snowie2000/mactype/releases/download/v1.2025.6.9/MacTypeInstaller_2025.6.9.exe"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "hmjz100/LinkSwift": {
       "kind": "release",
@@ -4955,11 +4840,10 @@
         {
           "name": "v1.1.3.user.js",
           "size": 584293,
-          "downloads": 322082,
+          "downloads": 322115,
           "url": "https://github.com/hmjz100/LinkSwift/releases/download/v1.1.3/v1.1.3.user.js"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "agalwood/Motrix": {
       "kind": "release",
@@ -5045,7 +4929,7 @@
         {
           "name": "Motrix-2.1.0-arm64.dmg",
           "size": 137183291,
-          "downloads": 40,
+          "downloads": 43,
           "url": "https://github.com/agalwood/Motrix/releases/download/v2.1.0/Motrix-2.1.0-arm64.dmg"
         },
         {
@@ -5165,7 +5049,7 @@
         {
           "name": "Motrix-Setup-2.1.0.exe",
           "size": 133571968,
-          "downloads": 118,
+          "downloads": 121,
           "url": "https://github.com/agalwood/Motrix/releases/download/v2.1.0/Motrix-Setup-2.1.0.exe"
         },
         {
@@ -5186,8 +5070,7 @@
           "downloads": 6,
           "url": "https://github.com/agalwood/Motrix/releases/download/v2.1.0/Motrix_2.1.0_arm64.deb"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "cloud-fs/cloud-fs.github.io": {
       "kind": "release",
@@ -5201,7 +5084,7 @@
         {
           "name": "clouddrive-2-android-aarch64-1.1.3.tgz",
           "size": 15080681,
-          "downloads": 382,
+          "downloads": 383,
           "url": "https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive-2-android-aarch64-1.1.3.tgz"
         },
         {
@@ -5213,13 +5096,13 @@
         {
           "name": "clouddrive-2-android-universal-1.1.3-233.apk",
           "size": 48296876,
-          "downloads": 1639,
+          "downloads": 1643,
           "url": "https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive-2-android-universal-1.1.3-233.apk"
         },
         {
           "name": "clouddrive-2-android-x86_64-1.1.3.tgz",
           "size": 16010438,
-          "downloads": 330,
+          "downloads": 332,
           "url": "https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive-2-android-x86_64-1.1.3.tgz"
         },
         {
@@ -5249,13 +5132,13 @@
         {
           "name": "clouddrive-2-macos-x86_64-1.1.3.tgz",
           "size": 15551306,
-          "downloads": 384,
+          "downloads": 385,
           "url": "https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive-2-macos-x86_64-1.1.3.tgz"
         },
         {
           "name": "CloudDrive2Setup-Arm64-1.1.3.exe",
           "size": 13531856,
-          "downloads": 425,
+          "downloads": 426,
           "url": "https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/CloudDrive2Setup-Arm64-1.1.3.exe"
         },
         {
@@ -5267,7 +5150,7 @@
         {
           "name": "clouddrive2_1.1.3_arm.fpk",
           "size": 15534679,
-          "downloads": 206,
+          "downloads": 207,
           "url": "https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive2_1.1.3_arm.fpk"
         },
         {
@@ -5276,8 +5159,7 @@
           "downloads": 584,
           "url": "https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive2_1.1.3_x86.fpk"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "valinet/ExplorerPatcher": {
       "kind": "release",
@@ -5291,17 +5173,16 @@
         {
           "name": "ep_setup.exe",
           "size": 12237312,
-          "downloads": 9903423,
+          "downloads": 9904058,
           "url": "https://github.com/valinet/ExplorerPatcher/releases/download/26100.8457.70.3/ep_setup.exe"
         },
         {
           "name": "ep_setup_arm64.exe",
           "size": 11896320,
-          "downloads": 143145,
+          "downloads": 143152,
           "url": "https://github.com/valinet/ExplorerPatcher/releases/download/26100.8457.70.3/ep_setup_arm64.exe"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "gedoor/legado": {
       "kind": "none",
@@ -5311,8 +5192,7 @@
       "url": "",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "gkd-kit/gkd": {
       "kind": "release",
@@ -5326,7 +5206,7 @@
         {
           "name": "gkd-v1.12.1.apk",
           "size": 3287479,
-          "downloads": 78575,
+          "downloads": 78578,
           "url": "https://github.com/gkd-kit/gkd/releases/download/v1.12.1/gkd-v1.12.1.apk"
         },
         {
@@ -5335,8 +5215,7 @@
           "downloads": 2809,
           "url": "https://github.com/gkd-kit/gkd/releases/download/v1.12.1/outputs-v1.12.1.zip"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "wtwang1998/LiTiaotiao-Custom-Rules": {
       "kind": "release",
@@ -5365,8 +5244,7 @@
           "downloads": 1969,
           "url": "https://github.com/wtwang1998/LiTiaotiao-Custom-Rules/releases/download/20231028/ExtendedRules.json"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "BeyondDimension/SteamTools": {
       "kind": "release",
@@ -5386,7 +5264,7 @@
         {
           "name": "Steam++_v3.1.0_macos.dmg",
           "size": 230704640,
-          "downloads": 126257,
+          "downloads": 126281,
           "url": "https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_macos.dmg"
         },
         {
@@ -5398,11 +5276,10 @@
         {
           "name": "Steam++_v3.1.0_win_x64.exe",
           "size": 96754104,
-          "downloads": 206305,
+          "downloads": 206326,
           "url": "https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_win_x64.exe"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "zbefine/iptv": {
       "kind": "none",
@@ -5412,8 +5289,7 @@
       "url": "",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "yiyuanjichang/dizhi": {
       "kind": "none",
@@ -5423,8 +5299,7 @@
       "url": "",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "hq450/fancyss": {
       "kind": "tag",
@@ -5434,8 +5309,7 @@
       "url": "https://github.com/hq450/fancyss/tags",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "QiuChenlyOpenSource/MusicDownload": {
       "kind": "none",
@@ -5445,8 +5319,7 @@
       "url": "",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "chr233/PureNGA": {
       "kind": "release",
@@ -5487,8 +5360,7 @@
           "downloads": 2695,
           "url": "https://github.com/chr233/PureNGA/releases/download/3.4.0/nga_9.9.68-3.4.0-lspatched.apk"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "yujincheng08/BiliRoaming": {
       "kind": "release",
@@ -5505,8 +5377,7 @@
           "downloads": 73377,
           "url": "https://github.com/yujincheng08/BiliRoaming/releases/download/v1.7.0/BiliRoaming_1.7.0.apk"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "std-microblock/chromatic": {
       "kind": "release",
@@ -5516,8 +5387,7 @@
       "url": "https://github.com/std-microblock/chromatic/releases/tag/2.0.0",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "bozbez/win-capture-audio": {
       "kind": "tag",
@@ -5527,8 +5397,7 @@
       "url": "https://github.com/bozbez/win-capture-audio/tags",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "qd-today/qd": {
       "kind": "release",
@@ -5538,8 +5407,7 @@
       "url": "https://github.com/qd-today/qd/releases/tag/20250803",
       "prerelease": false,
       "body": "### Features\n\n1. Feature(Fetcher): 🚀 支持模板内填充代理地址参数 (#606)\n2. Feature(Subscribe): 🚀 为管理员添加公共模板库加速切换功能 (Fixes #605,#581,#566) (#607)\n\n### Changed\n\n1. Change(Subscribe): 默认关闭公共模板加速\n2. Change(Config): 📝 切换加速源为 gh-proxy",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "WeijieH/D3keyHelper": {
       "kind": "release",
@@ -5556,8 +5424,7 @@
           "downloads": 6409,
           "url": "https://github.com/WeijieH/D3keyHelper/releases/download/v1.4.230222/D3.AHK.v1.4.230222.7z"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "privacy-protection-tools/anti-AD": {
       "kind": "release",
@@ -5567,8 +5434,7 @@
       "url": "https://github.com/privacy-protection-tools/anti-AD/releases/tag/v4.3",
       "prerelease": false,
       "body": "- 引入无效域名、无效hosts剔除机制，大幅提升各过滤列表命中率\r\n- 为了更好的支持pi-hole，加入一个新的全域名列表 - `anti-ad-domains.txt`\r\n- 根据网友 [@xlighting2017](https://github.com/privacy-protection-tools/anti-AD/issues/29) 建议，更新surge到新的格式\r\n- 引入数个新的配置参数，对输出结果精确控制\r\n- 若干bug和逻辑修复",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "guyijie1211/JustLive-Web": {
       "kind": "none",
@@ -5578,8 +5444,7 @@
       "url": "",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "wbt5/real-url": {
       "kind": "none",
@@ -5589,8 +5454,7 @@
       "url": "",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "Sitoi/dailycheckin": {
       "kind": "release",
@@ -5600,8 +5464,7 @@
       "url": "https://github.com/Sitoi/dailycheckin/releases/tag/25.12.9",
       "prerelease": false,
       "body": "![PyPI](https://img.shields.io/badge/Pypi-v25.12.9-brightgreen)\r\n\r\n### ✨ 功能\r\n\r\n- 新增「飞牛 Nas」签到\r\n\r\n### 🐛 修复\r\n\r\n- 修复「恩山」接口失效\r\n- 修复无法检测到「百度网盘」的问题",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "marktext/marktext": {
       "kind": "release",
@@ -5633,7 +5496,7 @@
         {
           "name": "latest-mac.yml",
           "size": 806,
-          "downloads": 11463,
+          "downloads": 11478,
           "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/latest-mac.yml"
         },
         {
@@ -5645,13 +5508,13 @@
         {
           "name": "marktext-linux-0.23.0.AppImage",
           "size": 165020655,
-          "downloads": 840,
+          "downloads": 842,
           "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-0.23.0.AppImage"
         },
         {
           "name": "marktext-linux-0.23.0.deb",
           "size": 126657272,
-          "downloads": 1438,
+          "downloads": 1441,
           "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-0.23.0.deb"
         },
         {
@@ -5669,7 +5532,7 @@
         {
           "name": "marktext-linux-0.23.0.tar.gz",
           "size": 156197559,
-          "downloads": 2466,
+          "downloads": 2470,
           "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-0.23.0.tar.gz"
         },
         {
@@ -5723,7 +5586,7 @@
         {
           "name": "marktext-mac-x64-0.23.0.dmg",
           "size": 164727278,
-          "downloads": 866,
+          "downloads": 868,
           "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-x64-0.23.0.dmg"
         },
         {
@@ -5747,7 +5610,7 @@
         {
           "name": "marktext-win-arm64-0.23.0-setup.exe",
           "size": 126033364,
-          "downloads": 1514,
+          "downloads": 1521,
           "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-arm64-0.23.0-setup.exe"
         },
         {
@@ -5765,7 +5628,7 @@
         {
           "name": "marktext-win-x64-0.23.0-setup.exe",
           "size": 132435617,
-          "downloads": 26339,
+          "downloads": 26398,
           "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-x64-0.23.0-setup.exe"
         },
         {
@@ -5777,17 +5640,16 @@
         {
           "name": "marktext-win-x64-0.23.0.zip",
           "size": 181482586,
-          "downloads": 5069,
+          "downloads": 5076,
           "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-x64-0.23.0.zip"
         },
         {
           "name": "SHA256SUMS.txt",
           "size": 2691,
-          "downloads": 1454,
+          "downloads": 1458,
           "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/SHA256SUMS.txt"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "lostindark/DriverStoreExplorer": {
       "kind": "release",
@@ -5801,11 +5663,10 @@
         {
           "name": "DriverStoreExplorer-v1.0.36.zip",
           "size": 1091061,
-          "downloads": 34785,
+          "downloads": 34791,
           "url": "https://github.com/lostindark/DriverStoreExplorer/releases/download/v1.0.36/DriverStoreExplorer-v1.0.36.zip"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "Chuyu-Team/Dism-Multi-language": {
       "kind": "release",
@@ -5819,11 +5680,10 @@
         {
           "name": "Dism++10.1.1002.1B.zip",
           "size": 3767974,
-          "downloads": 1766515,
+          "downloads": 1766534,
           "url": "https://github.com/Chuyu-Team/Dism-Multi-language/releases/download/v10.1.1002.2/Dism%2B%2B10.1.1002.1B.zip"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "qier222/YesPlayMusic": {
       "kind": "release",
@@ -5843,7 +5703,7 @@
         {
           "name": "latest-mac.yml",
           "size": 690,
-          "downloads": 8604,
+          "downloads": 8609,
           "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/latest-mac.yml"
         },
         {
@@ -5954,8 +5814,7 @@
           "downloads": 73,
           "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic_0.4.11_armv7l.deb"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "hq450/fancyss_history_package": {
       "kind": "none",
@@ -5965,8 +5824,7 @@
       "url": "",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     },
     "cangzhang/ChampR": {
       "kind": "release",
@@ -5989,8 +5847,7 @@
           "downloads": 12584,
           "url": "https://github.com/cangzhang/ChampR/releases/download/v2.0.2-b7/champr-v2.0.2-b7.zip"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "Ha2ryZhang/alltv": {
       "kind": "release",
@@ -6007,8 +5864,7 @@
           "downloads": 507,
           "url": "https://github.com/Ha2ryZhang/alltv/releases/download/1.0.6beta/alltv_1.0.6_beta.apk"
         }
-      ],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      ]
     },
     "dustinblackman/Championify": {
       "kind": "tag",
@@ -6018,8 +5874,7 @@
       "url": "https://github.com/dustinblackman/Championify/tags",
       "prerelease": false,
       "body": "",
-      "assets": [],
-      "checked_at": "2026-10-28T15:59:32+08:00"
+      "assets": []
     }
   }
 }

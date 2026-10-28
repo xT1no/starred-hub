@@ -41,7 +41,7 @@ LightC v2.17.0 发布说明
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [LightC_2.17.0_x64-setup.exe](https://github.com/Chunyu33/light-c/releases/download/v2.17.0/LightC_2.17.0_x64-setup.exe) | 🪟 Windows | 5.8 MB | 4.3k |
+| [LightC_2.17.0_x64-setup.exe](https://github.com/Chunyu33/light-c/releases/download/v2.17.0/LightC_2.17.0_x64-setup.exe) | 🪟 Windows | 5.8 MB | 4.4k |
 | [LightC_webview2_offline_x64_v2.17.0.exe](https://github.com/Chunyu33/light-c/releases/download/v2.17.0/LightC_webview2_offline_x64_v2.17.0.exe) | 🪟 Windows | 213.4 MB | 111 |
 | [LightC_portable_x64_v2.17.0.zip](https://github.com/Chunyu33/light-c/releases/download/v2.17.0/LightC_portable_x64_v2.17.0.zip) | 🌐 Web | 7.7 MB | 372 |
 | [LightC_installer_exe.sig](https://github.com/Chunyu33/light-c/releases/download/v2.17.0/LightC_installer_exe.sig) | 🔐 校验文件 | 396 B | 88 |
