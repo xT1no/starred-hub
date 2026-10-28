@@ -143,7 +143,8 @@ def save_cache(repos: list[dict], cache_path: Path) -> None:
         rel = repo.get("rel") or {}
         if not rel or rel.get("kind") == "ratelimit":
             continue
-        items[repo["full_name"]] = rel
+        # checked_at 每次运行都不同，不落盘，否则每天都会产生 145 行假 diff
+        items[repo["full_name"]] = {k: v for k, v in rel.items() if k != "checked_at"}
     payload = {
         "fetched_at": datetime.now(TZ).isoformat(timespec="seconds"),
         "items": items,
