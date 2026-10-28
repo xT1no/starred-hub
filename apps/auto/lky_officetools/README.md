@@ -6,18 +6,23 @@
 
 一键自动化 下载、安装、激活 Office 的利器。
 
+## ⬇️ 直接下载
+
+📦 [zip · 11.8 MB](https://github.com/OdysseusYuan/LKY_OfficeTools/releases/download/v1.3.0/LKY_OfficeTools_v1.3.0.223.zip)
+
+全部 1 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [OdysseusYuan/LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) |
 | 分类 | ⚡ [自动化 / 部署](../README.md) |
 | 平台 | ❓ |
 | 语言 | C# |
-| Star | 13k · Fork 1.2k |
-| License | GPL-3.0 |
+| Star | 13k · Fork 0 |
+| License | — |
 | 最新版本 | `v1.3.0` |
 | 最近更新 | 2024-02-22（2 年前） |
 | 标星日期 | 2024-01-11 |
-| 官网 | <Email: OdysseusYuan@foxmail.com> |
 
 ## 📦 最新版本
 
@@ -47,6 +52,8 @@
 
 </details>
 
+<a id="pkgs"></a>
+
 ## ⬇️ 安装包
 
 来自最新 Release，共 1 个文件。下表是官方直链，点名字即可下载。
@@ -60,7 +67,6 @@
 - 仓库主页 · https://github.com/OdysseusYuan/LKY_OfficeTools
 - Issues · https://github.com/OdysseusYuan/LKY_OfficeTools/issues
 - Releases · https://github.com/OdysseusYuan/LKY_OfficeTools/releases
-- 官网 / 演示 · Email: OdysseusYuan@foxmail.com
 
 `access` `email` `excel` `kms` `lync` `microsoft` `msoffice` `office` `office-free` `office365` `onedrive` `onenote`
 

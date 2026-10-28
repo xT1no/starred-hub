@@ -4,20 +4,20 @@
 
 共 **1** 个应用 · 其中 **1** 个最近 7 天有更新
 
-[← 全部应用](../README.md) · [星标总览](../../README.md)
+[← 全部应用](../README.md) · [⬇️ 下载索引](../../docs/downloads.md) · [星标总览](../../README.md)
 
 ## 📋 应用清单
 
-| 应用 | 简介 | 平台 | 最新版本 | 更新 | ⭐ |
-|:---|:---|:---:|:---:|:---:|---:|
-| [photocraft](photocraft/README.md) 🆕 | PhotoCraft: An open-source, photo editor written by scratch in … | 🖥️ | `v0.16.0` | 2 天前 | 74k |
+| 应用 | 简介 | 平台 | 最新版本 | 更新 | ⭐ | 下载 |
+|:---|:---|:---:|:---:|:---:|---:|:---:|
+| [photocraft](photocraft/README.md) 🆕 | PhotoCraft: An open-source, photo editor written by scratch in … | 🖥️ | `v0.16.0` | 2 天前 | 74k | [⬇️](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-windows-x64.msi) |
 
 ## 🔥 最近更新
 
 | 应用 | 版本 | 发布日期 |
 |:---|:---|:---:|
-| [photocraft](photocraft/README.md) | `v0.16.0` | 2026-10-25 |
+| [photocraft](photocraft/README.md) | [`v0.16.0`](../../docs/downloads.md#dl-storytold-photocraft) | 2026-10-25 |
 
 ---
 
-[← 全部应用](../README.md) · [返回星标总览](../../README.md)
+[← 全部应用](../README.md) · [⬇️ 下载索引](../../docs/downloads.md) · [返回星标总览](../../README.md)

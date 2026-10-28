@@ -6,14 +6,20 @@
 
 Dism++ Multi-language Support & BUG Report
 
+## ⬇️ 直接下载
+
+📦 [zip · 3.6 MB](https://github.com/Chuyu-Team/Dism-Multi-language/releases/download/v10.1.1002.2/Dism%2B%2B10.1.1002.1B.zip)
+
+全部 1 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) |
 | 分类 | ⚙️ [系统增强 / 优化](../README.md) |
 | 平台 | 🪟 |
 | 语言 | HTML |
-| Star | 21k · Fork 1.2k |
-| License | MIT |
+| Star | 21k · Fork 0 |
+| License | — |
 | 最新版本 | `v10.1.1002.2` |
 | 最近更新 | 2023-03-26（3 年前） |
 | 标星日期 | 2022-07-18 |
@@ -40,6 +46,8 @@ Dism++ Multi-language Support & BUG Report
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

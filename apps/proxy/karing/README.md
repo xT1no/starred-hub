@@ -6,18 +6,23 @@
 
 Simple & Powerful proxy utility, Support routing rules for clash/sing-box
 
+## ⬇️ 直接下载
+
+🪟 [x64 安装版 · 44.6 MB](https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_windows_x64.exe) · 📲 [arm64 apk · 52.9 MB](https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_android_arm64-v8a.apk) · 🍎 [通用 dmg · 98.4 MB](https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_macos_universal.dmg) · 🐧 [x64 AppImage · 64.3 MB](https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_linux_amd64.AppImage) · 📦 [x64 zip · 64.3 MB](https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_windows_x64.zip)
+
+全部 10 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [KaringX/karing](https://github.com/KaringX/karing) |
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | 🖥️ |
 | 语言 | Dart |
-| Star | 16k · Fork 1.3k |
-| License | NOASSERTION |
+| Star | 16k · Fork 0 |
+| License | — |
 | 最新版本 | `v1.2.25.2802` |
 | 最近更新 | 2026-09-10（1 个月前） |
 | 标星日期 | 2024-09-06 |
-| 官网 | <https://karing.app> |
 
 ## 📦 最新版本
 
@@ -35,6 +40,8 @@ iOS/tvOS AppStore: (Search Keywords: karing vpn) https://apps.apple.com/us/app/k
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 
@@ -58,7 +65,6 @@ iOS/tvOS AppStore: (Search Keywords: karing vpn) https://apps.apple.com/us/app/k
 - 仓库主页 · https://github.com/KaringX/karing
 - Issues · https://github.com/KaringX/karing/issues
 - Releases · https://github.com/KaringX/karing/releases
-- 官网 / 演示 · https://karing.app
 
 ---
 

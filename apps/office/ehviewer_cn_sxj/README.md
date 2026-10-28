@@ -8,14 +8,20 @@
 
 ehviewer，用爱发电，快乐前行
 
+## ⬇️ 直接下载
+
+📲 [apk · 26.9 MB](https://github.com/xiaojieonly/Ehviewer_CN_SXJ/releases/download/2.0.2.6/EhViewer-2.0.2.6.apk)
+
+全部 1 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) |
 | 分类 | 📄 [办公 / 阅读 / 笔记](../README.md) |
 | 平台 | 📲 |
 | 语言 | C |
-| Star | 28k · Fork 755 |
-| License | NOASSERTION |
+| Star | 28k · Fork 0 |
+| License | — |
 | 最新版本 | `2.0.2.6` |
 | 最近更新 | 2026-10-21（6 天前） |
 | 标星日期 | 2024-04-14 |
@@ -34,6 +40,8 @@ ehviewer，用爱发电，快乐前行
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

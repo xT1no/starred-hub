@@ -8,18 +8,23 @@
 
 SubsCheck 为 Windows 用户设计的 GUI 程序界面。
 
+## ⬇️ 直接下载
+
+📦 [zip · 0.6 MB](https://github.com/cmliu/SubsCheck-Win-GUI/releases/download/v2.0.1.7/SubsCheck_Win_GUI.zip)
+
+全部 1 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [cmliu/SubsCheck-Win-GUI](https://github.com/cmliu/SubsCheck-Win-GUI) |
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | 🪟 |
 | 语言 | C# |
-| Star | 4.6k · Fork 987 |
-| License | MIT |
+| Star | 4.6k · Fork 0 |
+| License | — |
 | 最新版本 | `v2.0.1.7` |
 | 最近更新 | 2025-04-22（1 年前） |
 | 标星日期 | 2025-04-01 |
-| 官网 | <https://youtu.be/sS9Tuf1PCyc> |
 
 ## 📦 最新版本
 
@@ -36,6 +41,8 @@ SubsCheck 为 Windows 用户设计的 GUI 程序界面。
 
 </details>
 
+<a id="pkgs"></a>
+
 ## ⬇️ 安装包
 
 来自最新 Release，共 1 个文件。下表是官方直链，点名字即可下载。
@@ -49,7 +56,6 @@ SubsCheck 为 Windows 用户设计的 GUI 程序界面。
 - 仓库主页 · https://github.com/cmliu/SubsCheck-Win-GUI
 - Issues · https://github.com/cmliu/SubsCheck-Win-GUI/issues
 - Releases · https://github.com/cmliu/SubsCheck-Win-GUI/releases
-- 官网 / 演示 · https://youtu.be/sS9Tuf1PCyc
 
 `proxypool`
 

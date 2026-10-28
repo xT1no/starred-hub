@@ -8,18 +8,23 @@
 
 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
 
+## ⬇️ 直接下载
+
+📲 [arm64 apk · 22.2 MB](https://github.com/ZCShou/GoGoGo/releases/download/ReleaseV1.12.3/VirtGO-2.1.0-android-arm64-v8a.apk)
+
+全部 1 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) |
 | 分类 | 🧩 [应用增强 / 模块](../README.md) |
 | 平台 | 📲 |
 | 语言 | Java |
-| Star | 12k · Fork 1.3k |
-| License | GPL-3.0 |
+| Star | 12k · Fork 0 |
+| License | — |
 | 最新版本 | `ReleaseV1.12.3` |
 | 最近更新 | 2025-08-09（1 年前） |
 | 标星日期 | 2024-06-18 |
-| 官网 | <https://itexp.blog.csdn.net/> |
 
 ## 📦 最新版本
 
@@ -49,6 +54,8 @@
 
 </details>
 
+<a id="pkgs"></a>
+
 ## ⬇️ 安装包
 
 来自最新 Release，共 1 个文件。下表是官方直链，点名字即可下载。
@@ -62,7 +69,6 @@
 - 仓库主页 · https://github.com/ZCShou/GoGoGo
 - Issues · https://github.com/ZCShou/GoGoGo/issues
 - Releases · https://github.com/ZCShou/GoGoGo/releases
-- 官网 / 演示 · https://itexp.blog.csdn.net/
 
 `android` `fake-gps` `fake-locations` `java` `joystick` `map` `mock-location` `mock-locations` `mockgps` `virtual-location`
 

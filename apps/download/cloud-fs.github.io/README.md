@@ -6,13 +6,19 @@
 
 > CloudFS 网盘挂载文档站
 
+## ⬇️ 直接下载
+
+🪟 [x64 安装版 · 13.9 MB](https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/CloudDrive2Setup-X64-1.1.3.exe) · 📲 [通用 apk · 46.1 MB](https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive-2-android-universal-1.1.3-233.apk) · 📦 [clouddrive-2-linux-armv… · 16.0 MB](https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive-2-linux-armv7-1.1.3.tgz)
+
+全部 13 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [cloud-fs/cloud-fs.github.io](https://github.com/cloud-fs/cloud-fs.github.io) |
 | 分类 | 📥 [下载 / 网盘](../README.md) |
 | 平台 | 🐧 |
 | 语言 | — |
-| Star | 1.7k · Fork 63 |
+| Star | 1.7k · Fork 0 |
 | License | — |
 | 最新版本 | `v1.1.3` |
 | 最近更新 | 2026-10-17（10 天前） |
@@ -39,6 +45,8 @@ CloudDrive2 Core V1.1.3(Web3.1.3)
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

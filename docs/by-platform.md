@@ -2,9 +2,9 @@
 
 # 💻 按平台分类
 
-[总览](../README.md) · [应用目录](../apps/README.md) · [按功能](by-function.md) · **[按平台](by-platform.md)** · [时间线](timeline.md) · [更新动态](updates.md)
+[总览](../README.md) · [应用目录](../apps/README.md) · [按功能](by-function.md) · **[按平台](by-platform.md)** · [时间线](timeline.md) · [更新动态](updates.md) · [⬇️ 下载](downloads.md)
 
-共 **145** 个仓库 · **14** 个平台 · 同步于 2026-10-28 16:26
+共 **145** 个仓库 · **14** 个平台 · 同步于 2026-10-28 16:52
 
 > 一个仓库支持多个平台时会同时出现在多个分类里，所以各分类数量之和会大于总数。
 

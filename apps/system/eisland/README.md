@@ -8,18 +8,23 @@
 
 eIsland - A sleek, Apple Dynamic Island inspired floating widget for Windows, built with Electron.
 
+## ⬇️ 直接下载
+
+🪟 [安装版 · 374 MB](https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.0/eIsland-27.0.0-Setup.exe)
+
+全部 3 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [JNTMTMTM/eIsland](https://github.com/JNTMTMTM/eIsland) |
 | 分类 | ⚙️ [系统增强 / 优化](../README.md) |
 | 平台 | 🪟 |
 | 语言 | TypeScript |
-| Star | 322 · Fork 17 |
-| License | GPL-3.0 |
+| Star | 322 · Fork 0 |
+| License | — |
 | 最新版本 | `v27.0.0` |
 | 最近更新 | 2026-10-09（19 天前） |
 | 标星日期 | 2026-06-20 |
-| 官网 | <https://dev.electronisland.com/> |
 
 ## 📦 最新版本
 
@@ -49,6 +54,8 @@ eIsland - A sleek, Apple Dynamic Island inspired floating widget for Windows, bu
 
 </details>
 
+<a id="pkgs"></a>
+
 ## ⬇️ 安装包
 
 来自最新 Release，共 3 个文件。下表是官方直链，点名字即可下载。
@@ -64,7 +71,6 @@ eIsland - A sleek, Apple Dynamic Island inspired floating widget for Windows, bu
 - 仓库主页 · https://github.com/JNTMTMTM/eIsland
 - Issues · https://github.com/JNTMTMTM/eIsland/issues
 - Releases · https://github.com/JNTMTMTM/eIsland/releases
-- 官网 / 演示 · https://dev.electronisland.com/
 
 `cicd` `claude` `claude-code` `codex` `electron` `react` `taliwindcss` `typescript` `vite`
 

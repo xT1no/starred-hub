@@ -14,7 +14,7 @@
   ],
   "language": "Kotlin",
   "stars": 11534,
-  "forks": 777,
+  "forks": 0,
   "license": "",
   "archived": true,
   "homepage": "",
@@ -23,7 +23,7 @@
     "xposed"
   ],
   "starred_at": "2023-04-04T18:38:54Z",
-  "pushed_at": "2026-07-06T03:51:57Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v1.7.0",
@@ -41,5 +41,5 @@
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

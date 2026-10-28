@@ -14,10 +14,10 @@
   ],
   "language": "Dart",
   "stars": 96115,
-  "forks": 5429,
-  "license": "Apache-2.0",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://localsend.org",
+  "homepage": "",
   "topics": [
     "dart",
     "file-sharing",
@@ -25,7 +25,7 @@
     "flutter-apps"
   ],
   "starred_at": "2025-10-28T12:03:41Z",
-  "pushed_at": "2026-10-25T12:11:01Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v1.18.2",
@@ -176,5 +176,5 @@
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

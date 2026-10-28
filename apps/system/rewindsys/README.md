@@ -8,13 +8,19 @@
 
 Rebirth of Windsys Project
 
+## ⬇️ 直接下载
+
+📦 [zip · 830 MB](https://github.com/FirTech/ReWindsys/releases/download/V1.0.0/ReWindsys.zip)
+
+全部 1 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [FirTech/ReWindsys](https://github.com/FirTech/ReWindsys) |
 | 分类 | ⚙️ [系统增强 / 优化](../README.md) |
 | 平台 | 🪟 |
 | 语言 | PowerShell |
-| Star | 21 · Fork 2 |
+| Star | 21 · Fork 0 |
 | License | — |
 | 最新版本 | `V1.0.0` |
 | 最近更新 | 2026-05-28（5 个月前） |
@@ -25,6 +31,8 @@ Rebirth of Windsys Project
 **`V1.0.0`**　发布于 2026-05-28（5 个月前）
 
 [查看 Release 页面](https://github.com/FirTech/ReWindsys/releases/tag/V1.0.0)
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

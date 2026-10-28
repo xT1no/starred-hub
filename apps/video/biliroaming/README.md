@@ -8,13 +8,19 @@
 
 > 🗄️ **该仓库已归档，作者不再维护。**
 
+## ⬇️ 直接下载
+
+📲 [apk · 0.7 MB](https://github.com/yujincheng08/BiliRoaming/releases/download/v1.7.0/BiliRoaming_1.7.0.apk)
+
+全部 1 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming) |
 | 分类 | 🎬 [影视 / 直播 / 番剧](../README.md) |
 | 平台 | 📲 |
 | 语言 | Kotlin |
-| Star | 12k · Fork 777 |
+| Star | 12k · Fork 0 |
 | License | — |
 | 最新版本 | `v1.7.0` |
 | 最近更新 | 2023-10-12（3 年前） |
@@ -42,6 +48,8 @@ Xpatch/LSPatch 版下载地址：https://wwe.lanzoux.com/b015ll4sb 2333
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

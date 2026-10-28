@@ -14,10 +14,10 @@
   ],
   "language": "Shell",
   "stars": 5223,
-  "forks": 1849,
-  "license": "MIT",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://serv00.eooce.com",
+  "homepage": "",
   "topics": [
     "argo",
     "hysteria2",
@@ -30,7 +30,7 @@
     "vmess-ws-tls"
   ],
   "starred_at": "2024-10-18T18:25:52Z",
-  "pushed_at": "2026-10-01T08:03:36Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "other",
@@ -62,5 +62,5 @@
       "platform": "🌐 Web"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

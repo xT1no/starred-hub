@@ -6,18 +6,23 @@
 
 Better font rendering for Windows.
 
+## ⬇️ 直接下载
+
+🪟 [安装版 · 5.6 MB](https://github.com/snowie2000/mactype/releases/download/v1.2025.6.9/MacTypeInstaller_2025.6.9.exe)
+
+全部 1 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [snowie2000/mactype](https://github.com/snowie2000/mactype) |
 | 分类 | ⚙️ [系统增强 / 优化](../README.md) |
 | 平台 | 🪟 |
 | 语言 | C++ |
-| Star | 12k · Fork 448 |
-| License | GPL-3.0 |
+| Star | 12k · Fork 0 |
+| License | — |
 | 最新版本 | `v1.2025.6.9` |
 | 最近更新 | 2025-06-11（1 年前） |
 | 标星日期 | 2023-12-07 |
-| 官网 | <https://mactype.net> |
 
 ## 📦 最新版本
 
@@ -38,6 +43,8 @@ More about this on #1086
 
 </details>
 
+<a id="pkgs"></a>
+
 ## ⬇️ 安装包
 
 来自最新 Release，共 1 个文件。下表是官方直链，点名字即可下载。
@@ -51,7 +58,6 @@ More about this on #1086
 - 仓库主页 · https://github.com/snowie2000/mactype
 - Issues · https://github.com/snowie2000/mactype/issues
 - Releases · https://github.com/snowie2000/mactype/releases
-- 官网 / 演示 · https://mactype.net
 
 `directwrite` `font` `font-rendering` `mactype`
 

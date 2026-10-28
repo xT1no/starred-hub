@@ -14,8 +14,8 @@
   ],
   "language": "Kotlin",
   "stars": 30115,
-  "forks": 1512,
-  "license": "GPL-3.0",
+  "forks": 0,
+  "license": "",
   "archived": false,
   "homepage": "",
   "topics": [
@@ -29,7 +29,7 @@
     "yt-dlp"
   ],
   "starred_at": "2024-10-30T17:43:37Z",
-  "pushed_at": "2026-09-25T15:35:51Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v1.13.1",
@@ -75,5 +75,5 @@
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

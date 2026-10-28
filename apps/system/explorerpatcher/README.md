@@ -8,14 +8,20 @@
 
 This project aims to enhance the working environment on Windows
 
+## ⬇️ 直接下载
+
+🪟 [安装版 · 11.7 MB](https://github.com/valinet/ExplorerPatcher/releases/download/26100.8457.70.3/ep_setup.exe)
+
+全部 2 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) |
 | 分类 | ⚙️ [系统增强 / 优化](../README.md) |
 | 平台 | 🪟 |
 | 语言 | C |
-| Star | 34k · Fork 1.4k |
-| License | GPL-2.0 |
+| Star | 34k · Fork 0 |
+| License | — |
 | 最新版本 | `26100.8457.70.3` |
 | 最近更新 | 2026-06-20（4 个月前） |
 | 标星日期 | 2023-12-06 |
@@ -44,6 +50,8 @@ This project aims to enhance the working environment on Windows
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

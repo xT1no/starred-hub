@@ -8,18 +8,23 @@ Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
 
 > 🗄️ **该仓库已归档，作者不再维护。**
 
+## ⬇️ 直接下载
+
+🪟 [x64 安装版 · 114 MB](https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-win-x64.exe) · 🍎 [arm64 dmg · 149 MB](https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-mac-arm64.dmg) · 🐧 [x64 AppImage · 156 MB](https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-linux-x86_64.AppImage) · 📦 [x64 zip · 172 MB](https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-win-x64.zip)
+
+全部 18 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) |
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | ☁️ 🪟 🐧 |
 | 语言 | TypeScript |
-| Star | 8.4k · Fork 901 |
-| License | NOASSERTION |
+| Star | 8.4k · Fork 0 |
+| License | — |
 | 最新版本 | `v3.11.0` |
 | 最近更新 | 2025-11-10（11 个月前） |
 | 标星日期 | 2024-06-02 |
-| 官网 | <https://github.com/bepass-org/oblivion-desktop/releases> |
 
 ## 📦 最新版本
 
@@ -49,6 +54,8 @@ https://github.com/bepass-org/oblivion-desktop/issues
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 
@@ -80,7 +87,6 @@ https://github.com/bepass-org/oblivion-desktop/issues
 - 仓库主页 · https://github.com/bepass-org/oblivion-desktop
 - Issues · https://github.com/bepass-org/oblivion-desktop/issues
 - Releases · https://github.com/bepass-org/oblivion-desktop/releases
-- 官网 / 演示 · https://github.com/bepass-org/oblivion-desktop/releases
 
 `anticensorship` `cloudflare` `desktop` `endpoint` `gool` `linux` `mac` `masque` `oblivion` `proxy` `psiphon` `sing-box`
 

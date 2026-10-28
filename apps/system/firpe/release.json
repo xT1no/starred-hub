@@ -14,13 +14,13 @@
   ],
   "language": "",
   "stars": 98,
-  "forks": 5,
+  "forks": 0,
   "license": "",
   "archived": false,
-  "homepage": "https://www.firpe.cn",
+  "homepage": "",
   "topics": [],
   "starred_at": "2025-11-11T11:57:06Z",
-  "pushed_at": "2026-10-01T03:23:18Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v.1.9.3",
@@ -38,5 +38,5 @@
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

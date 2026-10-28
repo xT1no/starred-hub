@@ -14,17 +14,17 @@
   ],
   "language": "Shell",
   "stars": 638,
-  "forks": 166,
-  "license": "MIT",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://github.com/wukongdaily/RunFilesBuilder",
+  "homepage": "",
   "topics": [
     "are-u-ok",
     "makeself-archives",
     "run"
   ],
   "starred_at": "2026-07-02T16:02:49Z",
-  "pushed_at": "2026-10-27T00:43:55Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "2026-10-27",
@@ -315,5 +315,5 @@
       "platform": "⌨️ CLI"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

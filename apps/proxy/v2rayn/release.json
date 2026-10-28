@@ -16,10 +16,10 @@
   ],
   "language": "C#",
   "stars": 119308,
-  "forks": 16191,
-  "license": "GPL-3.0",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://v2rayn.2dust.link",
+  "homepage": "",
   "topics": [
     "proxy",
     "shadowsocks",
@@ -34,7 +34,7 @@
     "xtls"
   ],
   "starred_at": "2024-05-12T11:56:02Z",
-  "pushed_at": "2026-10-27T18:48:13Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "7.25.6",
@@ -325,5 +325,5 @@
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

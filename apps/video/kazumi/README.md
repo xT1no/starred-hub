@@ -6,18 +6,23 @@
 
 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
 
+## ⬇️ 直接下载
+
+🪟 [安装版 · 45.5 MB](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_windows_2.4.2.msix) · 📲 [apk · 31.9 MB](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_android_2.4.2.apk) · 🍎 [dmg · 53.3 MB](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_macos_2.4.2.dmg) · 🐧 [x64 deb · 33.7 MB](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_linux_2.4.2_amd64.deb) · 📦 [zip · 40.9 MB](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_windows_2.4.2.zip)
+
+全部 9 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [Predidit/Kazumi](https://github.com/Predidit/Kazumi) |
 | 分类 | 🎬 [影视 / 直播 / 番剧](../README.md) |
 | 平台 | 🪟 🍎 🐧 📱 📲 🌐 🖥️ |
 | 语言 | Dart |
-| Star | 40k · Fork 1.3k |
-| License | GPL-3.0 |
+| Star | 40k · Fork 0 |
+| License | — |
 | 最新版本 | `2.4.2` |
 | 最近更新 | 2026-10-23（4 天前） |
 | 标星日期 | 2024-08-19 |
-| 官网 | <https://kazumi.app> |
 
 ## 📦 最新版本
 
@@ -32,6 +37,8 @@
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 
@@ -54,7 +61,6 @@
 - 仓库主页 · https://github.com/Predidit/Kazumi
 - Issues · https://github.com/Predidit/Kazumi/issues
 - Releases · https://github.com/Predidit/Kazumi/releases
-- 官网 / 演示 · https://kazumi.app
 
 `android` `cross-platform` `danmaku` `flutter` `ios` `linux-desktop` `macos` `windows`
 

@@ -6,18 +6,23 @@
 
 A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
+## ⬇️ 直接下载
+
+🪟 [x64 安装版 · 57.4 MB](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_x64-setup.exe) · 🍎 [arm64 dmg · 78.0 MB](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_aarch64.dmg) · 🐧 [x64 deb · 99.4 MB](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_amd64.deb) · 📦 [x64 · 85.0 MB](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_x64.app.tar.gz)
+
+全部 23 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) |
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | 🪟 🍎 🐧 🖥️ |
 | 语言 | Rust |
-| Star | 154k · Fork 11k |
-| License | GPL-3.0 |
+| Star | 154k · Fork 0 |
+| License | — |
 | 最新版本 | `v2.5.8` |
 | 最近更新 | 2026-10-09（19 天前） |
 | 标星日期 | 2024-05-14 |
-| 官网 | <https://www.clashverge.dev> |
 
 ## 📦 最新版本
 
@@ -46,6 +51,8 @@ A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux 
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 
@@ -82,7 +89,6 @@ A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux 
 - 仓库主页 · https://github.com/clash-verge-rev/clash-verge-rev
 - Issues · https://github.com/clash-verge-rev/clash-verge-rev/issues
 - Releases · https://github.com/clash-verge-rev/clash-verge-rev/releases
-- 官网 / 演示 · https://www.clashverge.dev
 
 `clash` `clash-meta` `clash-verge` `linux` `mac` `mihomo` `tauri-app` `windows`
 

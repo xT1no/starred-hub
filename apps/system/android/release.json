@@ -15,10 +15,10 @@
   ],
   "language": "C#",
   "stars": 898,
-  "forks": 43,
-  "license": "GPL-3.0",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://nearshare.shortdev.de",
+  "homepage": "",
   "topics": [
     "airdrop",
     "android",
@@ -35,7 +35,7 @@
     "xamarin"
   ],
   "starred_at": "2024-02-28T16:32:09Z",
-  "pushed_at": "2026-10-13T20:11:33Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v1.11.1",
@@ -53,5 +53,5 @@
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

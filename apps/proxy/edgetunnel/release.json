@@ -14,10 +14,10 @@
   ],
   "language": "JavaScript",
   "stars": 48508,
-  "forks": 38471,
-  "license": "GPL-2.0",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://EDT-Pages.github.io/admin",
+  "homepage": "",
   "topics": [
     "shadowsocks",
     "shadowsocks-ws-tls",
@@ -26,7 +26,7 @@
     "vless-ws-tls"
   ],
   "starred_at": "2024-03-22T14:41:03Z",
-  "pushed_at": "2026-10-08T18:29:19Z",
+  "pushed_at": "",
   "latest": {
     "kind": "none",
     "tag": "",
@@ -36,5 +36,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

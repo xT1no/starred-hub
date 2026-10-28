@@ -6,18 +6,23 @@
 
 Clash Mihomo for iOS/MacOS/Android/Windows/Linux
 
+## ⬇️ 直接下载
+
+🪟 [x64 安装版 · 43.4 MB](https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_windows_x64.exe) · 📲 [arm64 apk · 50.3 MB](https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_android_arm64-v8a.apk) · 🍎 [通用 dmg · 93.4 MB](https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_macos_universal.dmg) · 🐧 [x64 AppImage · 59.0 MB](https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_linux_amd64.AppImage) · 📦 [x64 zip · 63.7 MB](https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_windows_x64.zip)
+
+全部 10 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [KaringX/clashmi](https://github.com/KaringX/clashmi) |
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | 🪟 🍎 🐧 📱 📲 |
 | 语言 | Dart |
-| Star | 10k · Fork 634 |
-| License | GPL-3.0 |
+| Star | 10k · Fork 0 |
+| License | — |
 | 最新版本 | `v1.0.31.1703` |
 | 最近更新 | 2026-10-09（19 天前） |
 | 标星日期 | 2026-03-07 |
-| 官网 | <https://clashmi.app/> |
 
 ## 📦 最新版本
 
@@ -36,6 +41,8 @@ ios appstore: https://apps.apple.com/us/app/clash-mi/id6744321968
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 
@@ -59,7 +66,6 @@ ios appstore: https://apps.apple.com/us/app/clash-mi/id6744321968
 - 仓库主页 · https://github.com/KaringX/clashmi
 - Issues · https://github.com/KaringX/clashmi/issues
 - Releases · https://github.com/KaringX/clashmi/releases
-- 官网 / 演示 · https://clashmi.app/
 
 `clash` `clashmi` `mihomo`
 

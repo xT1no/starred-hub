@@ -6,18 +6,23 @@
 
 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
+## ⬇️ 直接下载
+
+🪟 [安装版 · 55.5 MB](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-Setup-0.4.11.exe) · 🍎 [通用 dmg · 152 MB](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-universal.dmg) · 🐧 [AppImage · 90.9 MB](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-0.4.11.AppImage) · 📦 [yesplaymusic-0.4.11.tar… · 85.8 MB](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic-0.4.11.tar.gz)
+
+全部 20 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) |
 | 分类 | 🎵 [音乐 / 音频](../README.md) |
 | 平台 | 🪟 🍎 🐧 🌐 ⌨️ 🖥️ |
 | 语言 | Vue |
-| Star | 33k · Fork 4.7k |
-| License | MIT |
+| Star | 33k · Fork 0 |
+| License | — |
 | 最新版本 | `v0.4.11` |
 | 最近更新 | 2026-10-10（17 天前） |
 | 标星日期 | 2021-12-23 |
-| 官网 | <https://music.qier222.com> |
 
 ## 📦 最新版本
 
@@ -46,6 +51,8 @@
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 
@@ -79,7 +86,6 @@
 - 仓库主页 · https://github.com/qier222/YesPlayMusic
 - Issues · https://github.com/qier222/YesPlayMusic/issues
 - Releases · https://github.com/qier222/YesPlayMusic/releases
-- 官网 / 演示 · https://music.qier222.com
 
 `electron` `javascript` `linux` `mac` `macos` `music` `music-player` `netease-music` `player` `progressive-web-app` `pwa` `pwa-apps`
 

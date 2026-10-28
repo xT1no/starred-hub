@@ -14,7 +14,7 @@
   ],
   "language": "",
   "stars": 886,
-  "forks": 1266,
+  "forks": 0,
   "license": "",
   "archived": false,
   "homepage": "",
@@ -34,7 +34,7 @@
     "ygkkk"
   ],
   "starred_at": "2024-06-25T12:21:32Z",
-  "pushed_at": "2024-05-08T06:13:53Z",
+  "pushed_at": "",
   "latest": {
     "kind": "none",
     "tag": "",
@@ -44,5 +44,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

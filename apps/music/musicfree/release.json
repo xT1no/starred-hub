@@ -15,10 +15,10 @@
   ],
   "language": "TypeScript",
   "stars": 28018,
-  "forks": 2007,
-  "license": "AGPL-3.0",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://musicfree.catcat.work",
+  "homepage": "",
   "topics": [
     "free",
     "music-player",
@@ -29,7 +29,7 @@
     "typescript"
   ],
   "starred_at": "2025-10-15T09:32:25Z",
-  "pushed_at": "2026-10-15T15:16:41Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v0.6.2",
@@ -75,5 +75,5 @@
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

@@ -6,14 +6,20 @@
 
 🦭 Video/Audio Downloader for Android, based on yt-dlp
 
+## ⬇️ 直接下载
+
+📲 [arm64 apk · 41.1 MB](https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-arm64-v8a-release.apk)
+
+全部 5 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [JunkFood02/Seal](https://github.com/JunkFood02/Seal) |
 | 分类 | 📥 [下载 / 网盘](../README.md) |
 | 平台 | 📲 |
 | 语言 | Kotlin |
-| Star | 30k · Fork 1.5k |
-| License | GPL-3.0 |
+| Star | 30k · Fork 0 |
+| License | — |
 | 最新版本 | `v1.13.1` |
 | 最近更新 | 2024-10-16（2 年前） |
 | 标星日期 | 2024-10-30 |
@@ -34,6 +40,8 @@
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

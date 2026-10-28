@@ -12,12 +12,11 @@ edgetunnel2 VLESS/Trojan/SS 多功能面板
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | ☁️ |
 | 语言 | JavaScript |
-| Star | 49k · Fork 38k |
-| License | GPL-2.0 |
+| Star | 49k · Fork 0 |
+| License | — |
 | 最新版本 | 无版本标记 |
-| 最近更新 | 2026-10-08（19 天前） |
+| 最近更新 | —（—） |
 | 标星日期 | 2024-03-22 |
-| 官网 | <https://EDT-Pages.github.io/admin> |
 
 ## 📦 最新版本
 
@@ -28,7 +27,6 @@ edgetunnel2 VLESS/Trojan/SS 多功能面板
 - 仓库主页 · https://github.com/cmliu/edgetunnel
 - Issues · https://github.com/cmliu/edgetunnel/issues
 - Releases · https://github.com/cmliu/edgetunnel/releases
-- 官网 / 演示 · https://EDT-Pages.github.io/admin
 
 `shadowsocks` `shadowsocks-ws-tls` `trojan` `vless` `vless-ws-tls`
 

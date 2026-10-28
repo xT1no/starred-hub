@@ -14,10 +14,10 @@
   ],
   "language": "Rust",
   "stars": 74086,
-  "forks": 13082,
-  "license": "Apache-2.0",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://getartcraft.com/apps/photocraft",
+  "homepage": "",
   "topics": [
     "art",
     "image-editing",
@@ -28,7 +28,7 @@
     "rust"
   ],
   "starred_at": "2026-10-09T17:47:49Z",
-  "pushed_at": "2026-10-28T05:01:25Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v0.16.0",
@@ -235,5 +235,5 @@
       "platform": "🔐 校验文件"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

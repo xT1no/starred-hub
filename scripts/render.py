@@ -11,6 +11,8 @@ from __future__ import annotations
 from collections import Counter
 from datetime import datetime
 
+import downloads
+
 # ---------------------------------------------------------------- 文本工具
 
 
@@ -138,6 +140,7 @@ def nav_bar(current: str) -> str:
         ("platform", "[按平台](by-platform.md)"),
         ("timeline", "[时间线](timeline.md)"),
         ("updates", "[更新动态](updates.md)"),
+        ("downloads", "[⬇️ 下载](downloads.md)"),
     ]
     return " · ".join((f"**{label}**" if key == current else label) for key, label in items)
 
@@ -196,18 +199,45 @@ def render_readme(ctx: dict) -> str:
     if upd:
         A(f"## 🔥 最近更新（{rel_days} 天内 {len(fresh_upd)} 个应用发布新版）")
         A("")
+        A("> 点版本号可以直接跳到下面同页的安装包直链，不用再进应用页。")
+        A("")
         A("| 应用 | 最新版本 | 发布 | 分类 | ⭐ |")
         A("|:---|:---|:---:|:---:|---:|")
-        for r in (fresh_upd or upd)[:14]:
+        shown = fresh_upd or upd
+        for r in shown[:20]:
             cat = r["cls"]["functions"][0]
+            tag = f"`{r['rel']['tag']}`"
+            if downloads.best_links(r):
+                tag = f"[{tag}](#{downloads.anchor(r)})"
             A(
                 f"| [{r['name']}](apps/{cat['slug']}/{r.get('dir') or r['name']}/README.md) | "
-                f"`{r['rel']['tag']}` | {r['rel']['published_at'][:10]} | {cat.get('emoji','')} | "
+                f"{tag} | {r['rel']['published_at'][:10]} | {cat.get('emoji','')} | "
                 f"{fmt_stars(r.get('stars'))} |"
             )
+        if len(shown) > 20:
+            A("")
+            A(f"还有 {len(shown) - 20} 个，见 [更新动态](docs/updates.md)。")
+        else:
+            A("")
+        A(f"全部 **{len(upd)}** 个有版本的应用：见 [⬇️ 下载索引](docs/downloads.md)。")
         A("")
-        A(f"完整清单见 [更新动态](docs/updates.md)，全部应用见 [应用目录](apps/README.md)。")
-        A("")
+
+        # ---------- 同页直链区（供上面的锚点跳转）
+        blocks = [r for r in shown if downloads.best_links(r)]
+        if blocks:
+            A('<a id="downloads"></a>')
+            A("")
+            A("## ⬇️ 最新版本直链")
+            A("")
+            A("每个应用只列「每个平台最该装的那一个」，点一次直接落到官方文件。")
+            A("")
+            for r in blocks:
+                cat = r["cls"]["functions"][0]
+                href = f"apps/{cat['slug']}/{r.get('dir') or r['name']}/README.md"
+                for line in downloads.block(r, href):
+                    A(line)
+            A("---")
+            A("")
 
     # ---------- 最近标星
     if fresh:
@@ -291,6 +321,7 @@ def render_readme(ctx: dict) -> str:
     A("|:---|:---|")
     A("| 分类关键词、新增分类 | [`config/rules.toml`](config/rules.toml) |")
     A("| 某个仓库归错类了 | [`config/overrides.toml`](config/overrides.toml) |")
+    A("| 只想调文案/排版，不联网 | 本地跑 `python scripts/sync.py --offline` |")
     A("| 同步时间、是否自动提交 | [`.github/workflows/sync-stars.yml`](.github/workflows/sync-stars.yml) |")
     A("")
     A("> 本仓库所有 `README.md`、`docs/*.md`、`apps/**` 都是**生成产物**，直接改会在下次同步时被覆盖。")
@@ -467,9 +498,16 @@ def legend(ctx: dict, dim: str) -> str:
 
 
 def render_all(ctx: dict) -> dict[str, str]:
-    return {
+    files = {
         "README.md": render_readme(ctx),
         "docs/by-function.md": render_by_function(ctx),
         "docs/by-platform.md": render_by_platform(ctx),
         "docs/timeline.md": render_timeline(ctx),
     }
+
+    def href_of(repo: dict) -> str:
+        cat = repo["cls"]["functions"][0]
+        return f"../apps/{cat['slug']}/{repo.get('dir') or repo['name']}/README.md"
+
+    files["docs/downloads.md"] = downloads.render_page(ctx["repos"], ctx, href_of)
+    return files

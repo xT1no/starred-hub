@@ -14,7 +14,7 @@
   ],
   "language": "C++",
   "stars": 8503,
-  "forks": 396,
+  "forks": 0,
   "license": "",
   "archived": false,
   "homepage": "",
@@ -26,7 +26,7 @@
     "v8"
   ],
   "starred_at": "2022-08-20T14:07:56Z",
-  "pushed_at": "2026-03-31T12:05:08Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "2.0.0",
@@ -36,5 +36,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

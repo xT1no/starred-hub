@@ -14,13 +14,13 @@
   ],
   "language": "AutoHotkey",
   "stars": 396,
-  "forks": 79,
-  "license": "MIT",
+  "forks": 0,
+  "license": "",
   "archived": false,
   "homepage": "",
   "topics": [],
   "starred_at": "2022-08-01T14:21:47Z",
-  "pushed_at": "2026-04-03T13:22:51Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v1.4.230222",
@@ -38,5 +38,5 @@
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

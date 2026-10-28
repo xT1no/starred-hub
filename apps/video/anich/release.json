@@ -14,10 +14,10 @@
   ],
   "language": "Dart",
   "stars": 7258,
-  "forks": 147,
+  "forks": 0,
   "license": "",
   "archived": false,
-  "homepage": "https://anich.emmmm.eu.org",
+  "homepage": "",
   "topics": [
     "acg",
     "anime",
@@ -28,7 +28,7 @@
     "danmaku"
   ],
   "starred_at": "2026-04-09T05:20:46Z",
-  "pushed_at": "2026-10-05T03:15:29Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "1.5.27",
@@ -123,5 +123,5 @@
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

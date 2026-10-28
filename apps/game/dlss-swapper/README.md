@@ -6,14 +6,20 @@
 
 > 一键替换游戏内的 DLSS 动态库
 
+## ⬇️ 直接下载
+
+🪟 [安装版 · 110 MB](https://github.com/beeradmoore/dlss-swapper/releases/download/v1.2.7.0/DLSS.Swapper-1.2.7.0-installer.exe) · 📦 [便携版 · 115 MB](https://github.com/beeradmoore/dlss-swapper/releases/download/v1.2.7.0/DLSS.Swapper-1.2.7.0-portable.zip)
+
+全部 2 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper) |
 | 分类 | 🎮 [游戏 / 辅助脚本](../README.md) |
 | 平台 | 🪟 |
 | 语言 | C# |
-| Star | 8k · Fork 250 |
-| License | GPL-3.0 |
+| Star | 8k · Fork 0 |
+| License | — |
 | 最新版本 | `v1.2.7.0` |
 | 最近更新 | 2026-10-18（10 天前） |
 | 标星日期 | 2026-09-15 |
@@ -45,6 +51,8 @@ A bug that would cause games library to stop being loaded has been fixed. An add
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

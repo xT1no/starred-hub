@@ -10,13 +10,19 @@ Fake Location
 
 > 🗄️ **该仓库已归档，作者不再维护。**
 
+## ⬇️ 直接下载
+
+📲 [apk · 32.7 MB](https://github.com/Lerist/FakeLocation/releases/download/1.5.2/FakeLocation_CN_v1.5.2_1702.apk)
+
+全部 1 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [Lerist/FakeLocation](https://github.com/Lerist/FakeLocation) |
 | 分类 | 🧩 [应用增强 / 模块](../README.md) |
 | 平台 | 📲 |
 | 语言 | HTML |
-| Star | 7.3k · Fork 488 |
+| Star | 7.3k · Fork 0 |
 | License | — |
 | 最新版本 | `1.5.2` |
 | 最近更新 | 2026-08-19（2 个月前） |
@@ -49,6 +55,8 @@ Fake Location
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

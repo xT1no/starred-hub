@@ -18,6 +18,8 @@ import json
 import re
 from datetime import datetime
 
+import downloads
+
 MARKER = "<!-- 本文件由 starred-hub 自动生成，手动修改会在下次同步时被覆盖 -->"
 
 RESERVED = {
@@ -184,6 +186,16 @@ def render_app(repo: dict, cat: dict, ctx: dict) -> str:
         L.append("> 🗄️ **该仓库已归档，作者不再维护。**")
         L.append("")
 
+    # ---- 把「点一下就能下载」放在最前面
+    quick = downloads.inline_links(repo, 6)
+    if quick:
+        L.append("## ⬇️ 直接下载")
+        L.append("")
+        L.append(quick)
+        L.append("")
+        L.append(f"全部 {len(rel.get('assets') or [])} 个文件见下方 [安装包](#pkgs) 表格。")
+        L.append("")
+
     L.append("| 项目 | 信息 |")
     L.append("|:---|:---|")
     L.append(f"| 仓库 | [{repo['full_name']}]({repo['html_url']}) |")
@@ -233,6 +245,8 @@ def render_app(repo: dict, cat: dict, ctx: dict) -> str:
     # ---- 安装包
     assets = rel.get("assets") or []
     if assets:
+        L.append('<a id="pkgs"></a>')
+        L.append("")
         L.append("## ⬇️ 安装包")
         L.append("")
         L.append(f"来自最新 Release，共 {len(assets)} 个文件。下表是官方直链，点名字即可下载。")
@@ -326,22 +340,24 @@ def render_category(cat: dict, repos: list[dict], ctx: dict) -> str:
     L.append("")
     L.append(f"共 **{len(repos)}** 个应用 · 其中 **{len(fresh)}** 个最近 {days} 天有更新")
     L.append("")
-    L.append("[← 全部应用](../README.md) · [星标总览](../../README.md)")
+    L.append("[← 全部应用](../README.md) · [⬇️ 下载索引](../../docs/downloads.md) · [星标总览](../../README.md)")
     L.append("")
 
     L.append("## 📋 应用清单")
     L.append("")
-    L.append("| 应用 | 简介 | 平台 | 最新版本 | 更新 | ⭐ |")
-    L.append("|:---|:---|:---:|:---:|:---:|---:|")
+    L.append("| 应用 | 简介 | 平台 | 最新版本 | 更新 | ⭐ | 下载 |")
+    L.append("|:---|:---|:---:|:---:|:---:|---:|:---:|")
     ordered = sorted(repos, key=lambda r: (updated_at(r) or "", r["name"].lower()), reverse=True)
     for r in ordered:
         tag = tag_of(r) or "—"
         link = f"[{r['name']}]({write_dir(r)}/README.md)"
         badge = " 🆕" if _recent(repo=updated_at(r), now=now, days=days) else ""
+        first = downloads.best_links(r, 1)
+        grab = f"[⬇️]({first[0]['url']})" if first else "—"
         L.append(
             f"| {link}{badge} | {cell(one_line(r.get('description') or r['cls'].get('note') or '—', 64))} | "
             f"{' '.join(c.get('emoji') or '' for c in r['cls']['platforms'][:4]).strip() or '—'} | "
-            f"`{tag}` | {ago(updated_at(r), now)} | {fmt_stars(r.get('stars'))} |"
+            f"`{tag}` | {ago(updated_at(r), now)} | {fmt_stars(r.get('stars'))} | {grab} |"
         )
     L.append("")
 
@@ -351,12 +367,15 @@ def render_category(cat: dict, repos: list[dict], ctx: dict) -> str:
         L.append("| 应用 | 版本 | 发布日期 |")
         L.append("|:---|:---|:---:|")
         for r in sorted(fresh, key=lambda x: updated_at(x), reverse=True)[:12]:
-            L.append(f"| [{r['name']}]({write_dir(r)}/README.md) | `{tag_of(r) or '—'}` | {day(updated_at(r))} |")
+            ver = f"`{tag_of(r) or '—'}`"
+            if downloads.best_links(r):
+                ver = f"[{ver}](../../docs/downloads.md#{downloads.anchor(r)})"
+            L.append(f"| [{r['name']}]({write_dir(r)}/README.md) | {ver} | {day(updated_at(r))} |")
         L.append("")
 
     L.append("---")
     L.append("")
-    L.append("[← 全部应用](../README.md) · [返回星标总览](../../README.md)")
+    L.append("[← 全部应用](../README.md) · [⬇️ 下载索引](../../docs/downloads.md) · [返回星标总览](../../README.md)")
     return "\n".join(L)
 
 
@@ -383,7 +402,7 @@ def render_index(groups: list[tuple[dict, list[dict]]], ctx: dict) -> str:
     L.append("")
     L.append(f"共 **{total}** 个应用，按功能分成 **{len(groups)}** 个文件夹；其中 **{with_rel}** 个记录了最新版本。")
     L.append("")
-    L.append("[← 星标总览](../README.md) · [按功能](../docs/by-function.md) · [按平台](../docs/by-platform.md) · [更新动态](../docs/updates.md)")
+    L.append("[← 星标总览](../README.md) · [按功能](../docs/by-function.md) · [按平台](../docs/by-platform.md) · [更新动态](../docs/updates.md) · [⬇️ 下载索引](../docs/downloads.md)")
     L.append("")
 
     L.append("## 📁 文件夹")

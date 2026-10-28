@@ -8,14 +8,20 @@
 
 bilibili 硬核会员 AI 自动答题脚本
 
+## ⬇️ 直接下载
+
+📦 [x64 zip · 1.5 MB](https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/bili-hardcore-v1.1.0-windows-x64.zip)
+
+全部 11 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [Karben233/bili-hardcore](https://github.com/Karben233/bili-hardcore) |
 | 分类 | ⚡ [自动化 / 部署](../README.md) |
 | 平台 | ⌨️ |
 | 语言 | Rust |
-| Star | 2.4k · Fork 141 |
-| License | MIT |
+| Star | 2.4k · Fork 0 |
+| License | — |
 | 最新版本 | `v1.1.0` |
 | 最近更新 | 2026-09-26（1 个月前） |
 | 标星日期 | 2026-06-10 |
@@ -48,6 +54,8 @@ bilibili 硬核会员 AI 自动答题脚本
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

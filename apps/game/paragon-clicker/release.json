@@ -14,13 +14,13 @@
   ],
   "language": "Python",
   "stars": 32,
-  "forks": 3,
+  "forks": 0,
   "license": "",
   "archived": false,
   "homepage": "",
   "topics": [],
   "starred_at": "2026-08-05T09:11:21Z",
-  "pushed_at": "2026-05-11T06:37:53Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v0.1.8",
@@ -38,5 +38,5 @@
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

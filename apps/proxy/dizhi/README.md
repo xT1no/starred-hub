@@ -12,12 +12,11 @@
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | 🌐 |
 | 语言 | — |
-| Star | 4.9k · Fork 239 |
+| Star | 4.9k · Fork 0 |
 | License | — |
 | 最新版本 | 无版本标记 |
-| 最近更新 | 2023-10-06（3 年前） |
+| 最近更新 | —（—） |
 | 标星日期 | 2023-04-20 |
-| 官网 | <https://一元.com> |
 
 ## 📦 最新版本
 
@@ -28,7 +27,6 @@
 - 仓库主页 · https://github.com/yiyuanjichang/dizhi
 - Issues · https://github.com/yiyuanjichang/dizhi/issues
 - Releases · https://github.com/yiyuanjichang/dizhi/releases
-- 官网 / 演示 · https://一元.com
 
 ---
 

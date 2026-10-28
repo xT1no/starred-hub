@@ -8,14 +8,20 @@
 
 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
 
+## ⬇️ 直接下载
+
+📦 [zip · 3.1 MB](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_windows_386.zip)
+
+全部 19 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) |
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | ⌨️ |
 | 语言 | Go |
-| Star | 30k · Fork 5.5k |
-| License | GPL-3.0 |
+| Star | 30k · Fork 0 |
+| License | — |
 | 最新版本 | `v2.3.5` |
 | 最近更新 | 2026-04-29（6 个月前） |
 | 标星日期 | 2024-07-27 |
@@ -47,6 +53,8 @@
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

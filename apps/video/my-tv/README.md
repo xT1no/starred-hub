@@ -6,18 +6,23 @@
 
 我的电视 电视直播软件，安装即可使用
 
+## ⬇️ 直接下载
+
+📲 [apk · 13.3 MB](https://github.com/lizongying/my-tv/releases/download/v2.1.8/my-tv-v2.1.8.apk)
+
+全部 1 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [lizongying/my-tv](https://github.com/lizongying/my-tv) |
 | 分类 | 🎬 [影视 / 直播 / 番剧](../README.md) |
 | 平台 | 📺 |
 | 语言 | C |
-| Star | 32k · Fork 3.6k |
+| Star | 32k · Fork 0 |
 | License | — |
 | 最新版本 | `v2.1.8` |
 | 最近更新 | 2024-06-20（2 年前） |
 | 标星日期 | 2024-03-14 |
-| 官网 | <https://lyrics.run/my-tv.html> |
 
 ## 📦 最新版本
 
@@ -33,6 +38,8 @@
 
 </details>
 
+<a id="pkgs"></a>
+
 ## ⬇️ 安装包
 
 来自最新 Release，共 1 个文件。下表是官方直链，点名字即可下载。
@@ -46,7 +53,6 @@
 - 仓库主页 · https://github.com/lizongying/my-tv
 - Issues · https://github.com/lizongying/my-tv/issues
 - Releases · https://github.com/lizongying/my-tv/releases
-- 官网 / 演示 · https://lyrics.run/my-tv.html
 
 `iptv` `my-tv` `mytv` `tv`
 

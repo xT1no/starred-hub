@@ -14,13 +14,13 @@
   ],
   "language": "",
   "stars": 17999,
-  "forks": 2224,
+  "forks": 0,
   "license": "",
   "archived": false,
   "homepage": "",
   "topics": [],
   "starred_at": "2025-11-06T04:55:00Z",
-  "pushed_at": "2026-10-01T19:54:12Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "20260914-1520",
@@ -80,5 +80,5 @@
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

@@ -14,13 +14,13 @@
   ],
   "language": "Kotlin",
   "stars": 3137,
-  "forks": 312,
-  "license": "GPL-3.0",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://t.me/mahsa_net",
+  "homepage": "",
   "topics": [],
   "starred_at": "2024-06-26T11:26:22Z",
-  "pushed_at": "2026-10-26T09:46:05Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v18-(1405-7-10)",
@@ -66,5 +66,5 @@
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

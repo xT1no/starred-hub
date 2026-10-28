@@ -14,10 +14,10 @@
   ],
   "language": "Batchfile",
   "stars": 196564,
-  "forks": 18650,
-  "license": "GPL-3.0",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://massgrave.dev",
+  "homepage": "",
   "topics": [
     "activator",
     "hwid",
@@ -37,7 +37,7 @@
     "windows-11"
   ],
   "starred_at": "2025-12-02T08:27:24Z",
-  "pushed_at": "2026-10-17T01:33:16Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "3.12",
@@ -47,5 +47,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

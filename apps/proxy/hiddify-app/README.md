@@ -6,18 +6,23 @@
 
 Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 
+## ⬇️ 直接下载
+
+🪟 [x64 安装版 · 34.8 MB](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Windows-Setup-x64.exe) · 📲 [arm64 apk · 114 MB](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Android-arm64.apk) · 🍎 [dmg · 79.6 MB](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-MacOS.dmg) · 🐧 [x64 AppImage · 52.7 MB](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Linux-x64-AppImage.AppImage) · 📦 [x64 便携版 · 112 MB](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Windows-Portable-x64.zip)
+
+全部 12 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) |
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | 🖥️ |
 | 语言 | Dart |
-| Star | 33k · Fork 3.1k |
-| License | NOASSERTION |
+| Star | 33k · Fork 0 |
+| License | — |
 | 最新版本 | `v4.1.1` |
 | 最近更新 | 2026-03-05（7 个月前） |
 | 标星日期 | 2024-06-18 |
-| 官网 | <https://hiddify.com> |
 
 ## 📦 最新版本
 
@@ -47,6 +52,8 @@ Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Re
 
 </details>
 
+<a id="pkgs"></a>
+
 ## ⬇️ 安装包
 
 来自最新 Release，共 12 个文件。下表是官方直链，点名字即可下载。
@@ -71,7 +78,6 @@ Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Re
 - 仓库主页 · https://github.com/hiddify/hiddify-app
 - Issues · https://github.com/hiddify/hiddify-app/issues
 - Releases · https://github.com/hiddify/hiddify-app/releases
-- 官网 / 演示 · https://hiddify.com
 
 `clash` `clashmeta` `ech` `hysteria` `hysteria2` `proxy` `reality` `shadowsocks` `shadowtls` `sing-box` `singbox` `ssh`
 

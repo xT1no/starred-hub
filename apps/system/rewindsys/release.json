@@ -14,13 +14,13 @@
   ],
   "language": "PowerShell",
   "stars": 21,
-  "forks": 2,
+  "forks": 0,
   "license": "",
   "archived": false,
   "homepage": "",
   "topics": [],
   "starred_at": "2026-08-10T00:39:40Z",
-  "pushed_at": "2026-05-28T23:57:56Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "V1.0.0",
@@ -38,5 +38,5 @@
       "platform": "🌐 Web"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

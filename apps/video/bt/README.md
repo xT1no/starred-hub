@@ -8,13 +8,19 @@
 
 bilibili TV client
 
+## ⬇️ 直接下载
+
+📲 [通用 apk · 3.1 MB](https://github.com/chinasoul/BT/releases/download/v0.9.41/universal.apk)
+
+全部 4 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [chinasoul/BT](https://github.com/chinasoul/BT) |
 | 分类 | 🎬 [影视 / 直播 / 番剧](../README.md) |
 | 平台 | 📺 |
 | 语言 | — |
-| Star | 2.4k · Fork 88 |
+| Star | 2.4k · Fork 0 |
 | License | — |
 | 最新版本 | `v0.9.41` |
 | 最近更新 | 2026-10-21（6 天前） |
@@ -39,6 +45,8 @@ bilibili TV client
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

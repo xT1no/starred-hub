@@ -6,18 +6,23 @@
 
 UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 
+## ⬇️ 直接下载
+
+🪟 [x64 安装版 · 32.5 MB](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/UniGetUI.Installer.x64.exe) · 🍎 [arm64 dmg · 57.1 MB](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/UniGetUI.macos-arm64.dmg) · 🐧 [x64 deb · 35.1 MB](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/UniGetUI.linux-x64.deb) · 📦 [x64 zip · 48.4 MB](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/UniGetUI.x64.zip)
+
+全部 23 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) |
 | 分类 | 🛠️ [开发工具](../README.md) |
 | 平台 | 🪟 ⌨️ |
 | 语言 | C# |
-| Star | 27k · Fork 964 |
-| License | MIT |
+| Star | 27k · Fork 0 |
+| License | — |
 | 最新版本 | `v2026.3.2` |
 | 最近更新 | 2026-10-15（12 天前） |
 | 标星日期 | 2026-04-12 |
-| 官网 | <https://devolutions.net/unigetui/> |
 
 ## 📦 最新版本
 
@@ -41,6 +46,8 @@ This release adds an experimental Software Catalog and Catalog Editor (turned on
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 
@@ -77,7 +84,6 @@ This release adds an experimental Software Catalog and Catalog Editor (turned on
 - 仓库主页 · https://github.com/Devolutions/UniGetUI
 - Issues · https://github.com/Devolutions/UniGetUI/issues
 - Releases · https://github.com/Devolutions/UniGetUI/releases
-- 官网 / 演示 · https://devolutions.net/unigetui/
 
 `chocolatey` `cli` `npm` `package` `package-manager` `pip` `scoop` `unigetui` `windows` `windows-10` `windows-11` `winget`
 

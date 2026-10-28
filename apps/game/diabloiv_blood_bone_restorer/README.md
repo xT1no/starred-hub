@@ -6,6 +6,12 @@
 
 暗黑4血骨还原器(BBR反和谐工具)
 
+## ⬇️ 直接下载
+
+🪟 [安装版 · 10.9 MB](https://github.com/hongge-ai/DiabloIV_Blood_Bone_Restorer/releases/download/v1.0.0/DiabloIV_BBR.exe)
+
+全部 1 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [hongge-ai/DiabloIV_Blood_Bone_Restorer](https://github.com/hongge-ai/DiabloIV_Blood_Bone_Restorer) |
@@ -13,7 +19,7 @@
 | 平台 | 🪟 |
 | 语言 | Python |
 | Star | 17 · Fork 0 |
-| License | GPL-3.0 |
+| License | — |
 | 最新版本 | `v1.0.0` |
 | 最近更新 | 2025-12-11（10 个月前） |
 | 标星日期 | 2026-05-08 |
@@ -46,6 +52,8 @@
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

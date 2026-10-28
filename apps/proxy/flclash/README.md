@@ -6,18 +6,23 @@
 
 A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 
+## ⬇️ 直接下载
+
+🪟 [x64 安装版 · 41.3 MB](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-windows-amd64-setup.exe) · 📲 [arm64 apk · 58.3 MB](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-android-arm64-v8a.apk) · 🍎 [arm64 dmg · 56.5 MB](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-macos-arm64.dmg) · 🐧 [x64 AppImage · 66.6 MB](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-amd64.AppImage) · 📦 [x64 zip · 65.7 MB](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-windows-amd64.zip)
+
+全部 16 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [chen08209/FlClash](https://github.com/chen08209/FlClash) |
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | 🖥️ |
 | 语言 | Dart |
-| Star | 59k · Fork 3.8k |
-| License | GPL-3.0 |
+| Star | 59k · Fork 0 |
+| License | — |
 | 最新版本 | `v0.9.2` |
 | 最近更新 | 2026-10-24（4 天前） |
 | 标星日期 | 2024-07-12 |
-| 官网 | <https://chen08209.github.io/FlClash> |
 
 ## 📦 最新版本
 
@@ -48,6 +53,8 @@ A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so
 
 </details>
 
+<a id="pkgs"></a>
+
 ## ⬇️ 安装包
 
 来自最新 Release，共 16 个文件。下表是官方直链，点名字即可下载。
@@ -76,7 +83,6 @@ A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so
 - 仓库主页 · https://github.com/chen08209/FlClash
 - Issues · https://github.com/chen08209/FlClash/issues
 - Releases · https://github.com/chen08209/FlClash/releases
-- 官网 / 演示 · https://chen08209.github.io/FlClash
 
 `clash` `clash-meta` `flutter` `hysteria` `multi-platform` `proxy` `v2ray` `vless` `vpn`
 

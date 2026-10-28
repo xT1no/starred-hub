@@ -6,18 +6,23 @@
 
 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 
+## ⬇️ 直接下载
+
+🪟 [x64 安装版 · 92.3 MB](https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_win_x64.exe) · 🍎 [dmg · 220 MB](https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_macos.dmg) · 📦 [x64 zip · 90.3 MB](https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_win_x64.7z)
+
+全部 4 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) |
 | 分类 | 🎮 [游戏 / 辅助脚本](../README.md) |
 | 平台 | 🪟 🍎 🐧 📱 📲 🖥️ |
 | 语言 | C# |
-| Star | 27k · Fork 1.7k |
-| License | GPL-3.0 |
+| Star | 27k · Fork 0 |
+| License | — |
 | 最新版本 | `3.1.0` |
 | 最近更新 | 2026-03-11（7 个月前） |
 | 标星日期 | 2023-07-06 |
-| 官网 | <https://steampp.net> |
 
 ## 📦 最新版本
 
@@ -47,6 +52,8 @@
 
 </details>
 
+<a id="pkgs"></a>
+
 ## ⬇️ 安装包
 
 来自最新 Release，共 4 个文件。下表是官方直链，点名字即可下载。
@@ -63,7 +70,6 @@
 - 仓库主页 · https://github.com/BeyondDimension/SteamTools
 - Issues · https://github.com/BeyondDimension/SteamTools/issues
 - Releases · https://github.com/BeyondDimension/SteamTools/releases
-- 官网 / 演示 · https://steampp.net
 
 `android-app` `avalonia` `avaloniaui` `cross-platform` `crossplatform` `csharp` `dotnet` `dotnetcore` `ios-app` `linux-app` `macos-app` `mvvm`
 

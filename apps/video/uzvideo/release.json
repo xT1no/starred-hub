@@ -14,13 +14,13 @@
   ],
   "language": "HTML",
   "stars": 1538,
-  "forks": 174,
+  "forks": 0,
   "license": "",
   "archived": false,
-  "homepage": "https://uz-video-five.vercel.app",
+  "homepage": "",
   "topics": [],
   "starred_at": "2025-05-28T07:20:00Z",
-  "pushed_at": "2025-11-04T01:30:09Z",
+  "pushed_at": "",
   "latest": {
     "kind": "none",
     "tag": "",
@@ -30,5 +30,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

@@ -12,8 +12,8 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 | 分类 | ⚙️ [系统增强 / 优化](../README.md) |
 | 平台 | 🪟 ⌨️ |
 | 语言 | PowerShell |
-| Star | 61k · Fork 2.7k |
-| License | MIT |
+| Star | 61k · Fork 0 |
+| License | — |
 | 最新版本 | `2026.08.24` |
 | 最近更新 | 2026-08-24（2 个月前） |
 | 标星日期 | 2025-12-18 |
@@ -39,6 +39,8 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

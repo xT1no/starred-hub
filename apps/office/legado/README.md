@@ -14,10 +14,10 @@ Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, �
 | 分类 | 📄 [办公 / 阅读 / 笔记](../README.md) |
 | 平台 | 📲 |
 | 语言 | Kotlin |
-| Star | 47k · Fork 5.6k |
+| Star | 47k · Fork 0 |
 | License | — |
 | 最新版本 | 无版本标记 |
-| 最近更新 | 2026-05-27（5 个月前） |
+| 最近更新 | —（—） |
 | 标星日期 | 2023-11-26 |
 
 ## 📦 最新版本

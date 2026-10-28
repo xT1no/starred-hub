@@ -12,12 +12,11 @@ Free Clash, sing-box, and V2Ray subscription feed with live node status and setu
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | ❓ |
 | 语言 | — |
-| Star | 1.1k · Fork 94 |
-| License | MIT |
+| Star | 1.1k · Fork 0 |
+| License | — |
 | 最新版本 | `feed-20260419-023716` |
 | 最近更新 | 2026-04-19（6 个月前） |
 | 标星日期 | 2026-09-20 |
-| 官网 | <https://au1rxx.github.io/free-vpn-subscriptions/> |
 
 ## 📦 最新版本
 
@@ -48,6 +47,8 @@ Free Clash, sing-box, and V2Ray subscription feed with live node status and setu
 
 </details>
 
+<a id="pkgs"></a>
+
 ## ⬇️ 安装包
 
 来自最新 Release，共 4 个文件。下表是官方直链，点名字即可下载。
@@ -64,7 +65,6 @@ Free Clash, sing-box, and V2Ray subscription feed with live node status and setu
 - 仓库主页 · https://github.com/Au1rxx/free-vpn-subscriptions
 - Issues · https://github.com/Au1rxx/free-vpn-subscriptions/issues
 - Releases · https://github.com/Au1rxx/free-vpn-subscriptions/releases
-- 官网 / 演示 · https://au1rxx.github.io/free-vpn-subscriptions/
 
 `clash` `clash-meta` `free-nodes` `free-proxy` `free-vpn` `hysteria2` `proxy` `proxy-list` `reality` `shadowsocks` `sing-box` `subscription`
 

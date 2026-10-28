@@ -19,10 +19,10 @@
   ],
   "language": "C#",
   "stars": 27315,
-  "forks": 1739,
-  "license": "GPL-3.0",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://steampp.net",
+  "homepage": "",
   "topics": [
     "android-app",
     "avalonia",
@@ -43,7 +43,7 @@
     "xaml"
   ],
   "starred_at": "2023-07-06T02:28:43Z",
-  "pushed_at": "2026-10-28T02:57:09Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "3.1.0",
@@ -82,5 +82,5 @@
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

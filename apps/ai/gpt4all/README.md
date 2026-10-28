@@ -6,18 +6,23 @@
 
 GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 
+## ⬇️ 直接下载
+
+🪟 [安装版 · 710 MB](https://github.com/nomic-ai/gpt4all/releases/download/v3.10.0/gpt4all-installer-win64-v3.10.0.exe) · 🍎 [dmg · 305 MB](https://github.com/nomic-ai/gpt4all/releases/download/v3.10.0/gpt4all-installer-macos-v3.10.0.dmg)
+
+全部 4 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) |
 | 分类 | 🤖 [AI / 大模型](../README.md) |
 | 平台 | 🖥️ |
 | 语言 | C++ |
-| Star | 77k · Fork 8.3k |
-| License | MIT |
+| Star | 77k · Fork 0 |
+| License | — |
 | 最新版本 | `v3.10.0` |
 | 最近更新 | 2025-02-25（1 年前） |
 | 标星日期 | 2024-05-13 |
-| 官网 | <https://nomic.ai/gpt4all> |
 
 ## 📦 最新版本
 
@@ -47,6 +52,8 @@ GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial 
 
 </details>
 
+<a id="pkgs"></a>
+
 ## ⬇️ 安装包
 
 来自最新 Release，共 4 个文件。下表是官方直链，点名字即可下载。
@@ -63,7 +70,6 @@ GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial 
 - 仓库主页 · https://github.com/nomic-ai/gpt4all
 - Issues · https://github.com/nomic-ai/gpt4all/issues
 - Releases · https://github.com/nomic-ai/gpt4all/releases
-- 官网 / 演示 · https://nomic.ai/gpt4all
 
 `ai-chat` `llm-inference`
 

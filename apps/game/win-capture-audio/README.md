@@ -12,10 +12,10 @@ An OBS plugin that allows capture of independant application audio streams on Wi
 | 分类 | 🎮 [游戏 / 辅助脚本](../README.md) |
 | 平台 | 🪟 |
 | 语言 | C++ |
-| Star | 4k · Fork 212 |
-| License | GPL-2.0 |
+| Star | 4k · Fork 0 |
+| License | — |
 | 最新版本 | `v2.2.3-beta` |
-| 最近更新 | 2024-01-30（2 年前） |
+| 最近更新 | —（—） |
 | 标星日期 | 2022-08-12 |
 
 ## 📦 最新版本

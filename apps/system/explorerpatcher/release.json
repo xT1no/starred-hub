@@ -14,13 +14,13 @@
   ],
   "language": "C",
   "stars": 34170,
-  "forks": 1382,
-  "license": "GPL-2.0",
+  "forks": 0,
+  "license": "",
   "archived": false,
   "homepage": "",
   "topics": [],
   "starred_at": "2023-12-06T11:22:35Z",
-  "pushed_at": "2026-07-06T12:44:31Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "26100.8457.70.3",
@@ -45,5 +45,5 @@
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

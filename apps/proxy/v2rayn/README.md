@@ -6,18 +6,23 @@
 
 A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 
+## ⬇️ 直接下载
+
+🍎 [arm64 dmg · 129 MB](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-macos-arm64.dmg) · 🐧 [deb · 82.6 MB](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-64.deb) · 📦 [zip · 161 MB](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-64.zip)
+
+全部 40 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [2dust/v2rayN](https://github.com/2dust/v2rayN) |
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | 🪟 🍎 🐧 |
 | 语言 | C# |
-| Star | 119k · Fork 16k |
-| License | GPL-3.0 |
+| Star | 119k · Fork 0 |
+| License | — |
 | 最新版本 | `7.25.6` |
 | 最近更新 | 2026-10-11（17 天前） |
 | 标星日期 | 2024-05-12 |
-| 官网 | <https://v2rayn.2dust.link> |
 
 ## 📦 最新版本
 
@@ -46,6 +51,8 @@ A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 
@@ -85,7 +92,6 @@ A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 - 仓库主页 · https://github.com/2dust/v2rayN
 - Issues · https://github.com/2dust/v2rayN/issues
 - Releases · https://github.com/2dust/v2rayN/releases
-- 官网 / 演示 · https://v2rayn.2dust.link
 
 `proxy` `shadowsocks` `socks5` `trojan` `v2fly` `v2ray` `vless` `vmess` `windows` `xray` `xtls`
 

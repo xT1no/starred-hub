@@ -6,14 +6,20 @@
 
 一款神奇的云顶之弈自动挂机海克斯科技助手(σ｀・д・)σ。挂机脚本，纯视觉识别，不读取内存。tft，hextech。云顶挂机脚本，云顶脚本，下棋脚本，云顶挂机，支持S17星神最新赛季 (等十月份适配S18新架构云顶)
 
+## ⬇️ 直接下载
+
+🪟 [安装版 · 161 MB](https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.6.1/tft-hextech-helper-1.6.1-setup.exe) · 🍎 [arm64 dmg · 186 MB](https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.6.1/tft-hextech-helper-1.6.1-arm64.dmg) · 🐧 [AppImage · 204 MB](https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.6.1/tft-hextech-helper-1.6.1.AppImage) · 📦 [zip · 197 MB](https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.6.1/TFT-Hextech-Helper-1.6.1-win.zip)
+
+全部 6 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [WJZ-P/TFT-Hextech-Helper](https://github.com/WJZ-P/TFT-Hextech-Helper) |
 | 分类 | 🎮 [游戏 / 辅助脚本](../README.md) |
 | 平台 | 🌐 🖥️ |
 | 语言 | TypeScript |
-| Star | 742 · Fork 127 |
-| License | NOASSERTION |
+| Star | 742 · Fork 0 |
+| License | — |
 | 最新版本 | `v1.6.1` |
 | 最近更新 | 2026-10-01（26 天前） |
 | 标星日期 | 2026-01-29 |
@@ -32,6 +38,8 @@
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

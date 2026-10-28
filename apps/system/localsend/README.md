@@ -8,18 +8,23 @@
 
 An open-source cross-platform alternative to AirDrop
 
+## ⬇️ 直接下载
+
+🪟 [x86 安装版 · 19.0 MB](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-x86-64.exe) · 📲 [arm64 apk · 44.4 MB](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-arm64v8.apk) · 🍎 [dmg · 50.3 MB](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2.dmg) · 🐧 [x86 AppImage · 63.4 MB](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-linux-x86-64.AppImage) · 📦 [zip · 23.3 MB](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-arm-64.zip)
+
+全部 20 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [localsend/localsend](https://github.com/localsend/localsend) |
 | 分类 | ⚙️ [系统增强 / 优化](../README.md) |
 | 平台 | 🖥️ |
 | 语言 | Dart |
-| Star | 96k · Fork 5.4k |
-| License | Apache-2.0 |
+| Star | 96k · Fork 0 |
+| License | — |
 | 最新版本 | `v1.18.2` |
 | 最近更新 | 2026-08-21（2 个月前） |
 | 标星日期 | 2025-10-28 |
-| 官网 | <https://localsend.org> |
 
 ## 📦 最新版本
 
@@ -47,6 +52,8 @@ Note: The Windows binaries have been updated to include a signature.
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 
@@ -80,7 +87,6 @@ Note: The Windows binaries have been updated to include a signature.
 - 仓库主页 · https://github.com/localsend/localsend
 - Issues · https://github.com/localsend/localsend/issues
 - Releases · https://github.com/localsend/localsend/releases
-- 官网 / 演示 · https://localsend.org
 
 `dart` `file-sharing` `flutter` `flutter-apps`
 

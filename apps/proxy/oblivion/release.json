@@ -14,13 +14,13 @@
   ],
   "language": "Dart",
   "stars": 4888,
-  "forks": 641,
-  "license": "MIT",
+  "forks": 0,
+  "license": "",
   "archived": false,
   "homepage": "",
   "topics": [],
   "starred_at": "2024-06-02T17:26:33Z",
-  "pushed_at": "2026-10-15T13:05:11Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v8",
@@ -38,5 +38,5 @@
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

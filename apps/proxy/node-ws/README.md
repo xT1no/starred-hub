@@ -6,14 +6,20 @@
 
 基于serverless实现的vless+trojan+shadowsocks+vmess四协议 + Telegram webproxy，无内核，node环境通用项目
 
+## ⬇️ 直接下载
+
+🪟 [x64 安装版 · 6.8 MB](https://github.com/eooce/node-ws/releases/download/gows-latest/gows_windows_amd64.exe)
+
+全部 10 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [eooce/node-ws](https://github.com/eooce/node-ws) |
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | ☁️ |
 | 语言 | HTML |
-| Star | 6.2k · Fork 10k |
-| License | GPL-3.0 |
+| Star | 6.2k · Fork 0 |
+| License | — |
 | 最新版本 | `gows-latest` |
 | 最近更新 | 2026-01-04（9 个月前） |
 | 标星日期 | 2025-11-14 |
@@ -39,6 +45,8 @@ For usage instructions, please refer to the README.md
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

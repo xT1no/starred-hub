@@ -16,10 +16,10 @@
   ],
   "language": "Shell",
   "stars": 1083,
-  "forks": 225,
-  "license": "GPL-3.0",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://hub.docker.com/r/wukongdaily/box/tags",
+  "homepage": "",
   "topics": [
     "apkm",
     "apkmirror",
@@ -35,7 +35,7 @@
     "xapk"
   ],
   "starred_at": "2024-04-17T16:33:15Z",
-  "pushed_at": "2026-03-28T03:56:22Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "fpk",
@@ -53,5 +53,5 @@
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

@@ -14,13 +14,13 @@
   ],
   "language": "Lua",
   "stars": 380,
-  "forks": 93,
+  "forks": 0,
   "license": "",
   "archived": false,
   "homepage": "",
   "topics": [],
   "starred_at": "2025-11-29T13:12:07Z",
-  "pushed_at": "2026-10-25T18:22:44Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "Classic-0.0.6",
@@ -45,5 +45,5 @@
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

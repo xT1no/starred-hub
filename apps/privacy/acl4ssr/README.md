@@ -12,12 +12,11 @@ SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道�
 | 分类 | 🛡️ [广告过滤 / 隐私](../README.md) |
 | 平台 | ❓ |
 | 语言 | Python |
-| Star | 6.9k · Fork 2k |
-| License | CC-BY-SA-4.0 |
+| Star | 6.9k · Fork 0 |
+| License | — |
 | 最新版本 | 无版本标记 |
-| 最近更新 | 2026-10-25（3 天前） |
+| 最近更新 | —（—） |
 | 标星日期 | 2024-09-08 |
-| 官网 | <https://t.me/ACL4SSR> |
 
 ## 📦 最新版本
 
@@ -28,7 +27,6 @@ SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道�
 - 仓库主页 · https://github.com/ACL4SSR/ACL4SSR
 - Issues · https://github.com/ACL4SSR/ACL4SSR/issues
 - Releases · https://github.com/ACL4SSR/ACL4SSR/releases
-- 官网 / 演示 · https://t.me/ACL4SSR
 
 `acl` `acl4ssr` `clash` `gfwlist`
 

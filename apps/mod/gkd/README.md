@@ -6,18 +6,23 @@
 
 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 
+## ⬇️ 直接下载
+
+📲 [apk · 3.1 MB](https://github.com/gkd-kit/gkd/releases/download/v1.12.1/gkd-v1.12.1.apk) · 📦 [zip · 38.6 MB](https://github.com/gkd-kit/gkd/releases/download/v1.12.1/outputs-v1.12.1.zip)
+
+全部 2 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [gkd-kit/gkd](https://github.com/gkd-kit/gkd) |
 | 分类 | 🧩 [应用增强 / 模块](../README.md) |
 | 平台 | 📲 🌐 🖥️ |
 | 语言 | Kotlin |
-| Star | 44k · Fork 2.1k |
-| License | GPL-3.0 |
+| Star | 44k · Fork 0 |
+| License | — |
 | 最新版本 | `v1.12.1` |
 | 最近更新 | 2026-05-20（5 个月前） |
 | 标星日期 | 2023-10-30 |
-| 官网 | <https://gkd.li> |
 
 ## 📦 最新版本
 
@@ -44,6 +49,8 @@
 
 </details>
 
+<a id="pkgs"></a>
+
 ## ⬇️ 安装包
 
 来自最新 Release，共 2 个文件。下表是官方直链，点名字即可下载。
@@ -58,7 +65,6 @@
 - 仓库主页 · https://github.com/gkd-kit/gkd
 - Issues · https://github.com/gkd-kit/gkd/issues
 - Releases · https://github.com/gkd-kit/gkd/releases
-- 官网 / 演示 · https://gkd.li
 
 `accessibility` `android` `auto` `click` `compose` `compose-multiplatform` `jetpack-compose` `kotlin` `kotlin-js` `kotlin-multiplatform` `webassembly`
 

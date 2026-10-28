@@ -19,10 +19,10 @@
   ],
   "language": "TypeScript",
   "stars": 13814,
-  "forks": 31598,
-  "license": "GPL-3.0",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://bia-pain-bache.github.io/BPB-Worker-Panel/",
+  "homepage": "",
   "topics": [
     "amnezia",
     "android",
@@ -42,7 +42,7 @@
     "xray-core"
   ],
   "starred_at": "2024-07-06T07:43:55Z",
-  "pushed_at": "2026-07-20T13:07:08Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v5.1.1",
@@ -60,5 +60,5 @@
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

@@ -14,10 +14,10 @@
   ],
   "language": "",
   "stars": 10901,
-  "forks": 791,
-  "license": "MIT",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://anti-ad.net",
+  "homepage": "",
   "topics": [
     "adblock",
     "adguardhome",
@@ -29,7 +29,7 @@
     "surge"
   ],
   "starred_at": "2022-07-31T15:34:43Z",
-  "pushed_at": "2026-10-26T13:47:56Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v4.3",
@@ -39,5 +39,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

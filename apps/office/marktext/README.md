@@ -6,18 +6,23 @@
 
 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 
+## ⬇️ 直接下载
+
+🪟 [x64 安装版 · 126 MB](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-x64-0.23.0-setup.exe) · 🍎 [arm64 dmg · 150 MB](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-arm64-0.23.0.dmg) · 🐧 [AppImage · 157 MB](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-0.23.0.AppImage) · 📦 [x64 zip · 173 MB](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-x64-0.23.0.zip)
+
+全部 29 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [marktext/marktext](https://github.com/marktext/marktext) |
 | 分类 | 📄 [办公 / 阅读 / 笔记](../README.md) |
 | 平台 | 🪟 🍎 🐧 🖥️ |
 | 语言 | TypeScript |
-| Star | 63k · Fork 4.7k |
-| License | MIT |
+| Star | 63k · Fork 0 |
+| License | — |
 | 最新版本 | `v0.23.0` |
 | 最近更新 | 2026-10-21（7 天前） |
 | 标星日期 | 2022-07-26 |
-| 官网 | <https://www.marktext.me> |
 
 ## 📦 最新版本
 
@@ -46,6 +51,8 @@ sha256sum -c SHA256SUMS.txt --ignore-missing
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 
@@ -85,7 +92,6 @@ sha256sum -c SHA256SUMS.txt --ignore-missing
 - 仓库主页 · https://github.com/marktext/marktext
 - Issues · https://github.com/marktext/marktext/issues
 - Releases · https://github.com/marktext/marktext/releases
-- 官网 / 演示 · https://www.marktext.me
 
 `editor` `electron` `focus-mode` `latex` `linux` `mac` `macos` `markdown` `marktext` `source-code` `typewriter-mode` `windows`
 

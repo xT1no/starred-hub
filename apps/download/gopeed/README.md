@@ -6,18 +6,23 @@
 
 A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 
+## ⬇️ 直接下载
+
+🪟 [x64 安装版 · 25.2 MB](https://github.com/GopeedLab/gopeed/releases/download/v1.9.3/Gopeed-v1.9.3-windows-amd64.exe) · 📲 [arm64 apk · 24.1 MB](https://github.com/GopeedLab/gopeed/releases/download/v1.9.3/Gopeed-v1.9.3-android-arm64-v8a.apk) · 🍎 [arm64 dmg · 37.6 MB](https://github.com/GopeedLab/gopeed/releases/download/v1.9.3/Gopeed-v1.9.3-macos-arm64.dmg) · 🐧 [x64 AppImage · 36.5 MB](https://github.com/GopeedLab/gopeed/releases/download/v1.9.3/Gopeed-v1.9.3-linux-amd64.AppImage) · 📦 [x64 便携版 · 33.6 MB](https://github.com/GopeedLab/gopeed/releases/download/v1.9.3/Gopeed-v1.9.3-windows-amd64-portable.zip)
+
+全部 30 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) |
 | 分类 | 📥 [下载 / 网盘](../README.md) |
 | 平台 | 🪟 🍎 🐧 📱 📲 🖥️ |
 | 语言 | Dart |
-| Star | 27k · Fork 1.8k |
-| License | GPL-3.0 |
+| Star | 27k · Fork 0 |
+| License | — |
 | 最新版本 | `v1.9.3` |
 | 最近更新 | 2026-03-18（7 个月前） |
 | 标星日期 | 2024-06-25 |
-| 官网 | <https://gopeed.com> |
 
 ## 📦 最新版本
 
@@ -46,6 +51,8 @@ A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-pl
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 
@@ -85,7 +92,6 @@ A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-pl
 - 仓库主页 · https://github.com/GopeedLab/gopeed
 - Issues · https://github.com/GopeedLab/gopeed/issues
 - Releases · https://github.com/GopeedLab/gopeed/releases
-- 官网 / 演示 · https://gopeed.com
 
 `android` `bittorrent` `cross-platform` `debian` `downloader` `flutter` `golang` `http` `https` `ios` `macos` `magnet`
 

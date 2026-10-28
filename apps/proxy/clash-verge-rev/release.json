@@ -17,10 +17,10 @@
   ],
   "language": "Rust",
   "stars": 154495,
-  "forks": 11101,
-  "license": "GPL-3.0",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://www.clashverge.dev",
+  "homepage": "",
   "topics": [
     "clash",
     "clash-meta",
@@ -32,7 +32,7 @@
     "windows"
   ],
   "starred_at": "2024-05-14T18:33:35Z",
-  "pushed_at": "2026-10-28T07:46:02Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v2.5.8",
@@ -204,5 +204,5 @@
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

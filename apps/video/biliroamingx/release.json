@@ -14,17 +14,17 @@
   ],
   "language": "Kotlin",
   "stars": 3875,
-  "forks": 297,
-  "license": "GPL-3.0",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://t.me/bb_show",
+  "homepage": "",
   "topics": [
     "android",
     "bilibili",
     "revanced"
   ],
   "starred_at": "2024-02-10T19:50:42Z",
-  "pushed_at": "2026-04-29T02:06:27Z",
+  "pushed_at": "",
   "latest": {
     "kind": "tag",
     "tag": "v1.23.3",
@@ -34,5 +34,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

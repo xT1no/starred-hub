@@ -14,8 +14,8 @@
   ],
   "language": "Python",
   "stars": 7835,
-  "forks": 1553,
-  "license": "GPL-2.0",
+  "forks": 0,
+  "license": "",
   "archived": false,
   "homepage": "",
   "topics": [
@@ -29,7 +29,7 @@
     "streaming"
   ],
   "starred_at": "2022-07-31T02:01:51Z",
-  "pushed_at": "2024-06-07T01:36:57Z",
+  "pushed_at": "",
   "latest": {
     "kind": "none",
     "tag": "",
@@ -39,5 +39,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

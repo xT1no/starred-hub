@@ -6,7 +6,7 @@
 
 `145` 个仓库 · `15` 个功能分类 · `14` 个平台分类
 
-最近同步：2026-10-28 16:26 (UTC+8)
+最近同步：2026-10-28 16:52 (UTC+8)
 
 [📱 应用目录](apps/README.md) · [按功能浏览](docs/by-function.md) · [按平台浏览](docs/by-platform.md) · [更新动态](docs/updates.md) · [时间线](docs/timeline.md)
 
@@ -16,24 +16,128 @@
 
 ## 🔥 最近更新（7 天内 18 个应用发布新版）
 
+> 点版本号可以直接跳到下面同页的安装包直链，不用再进应用页。
+
 | 应用 | 最新版本 | 发布 | 分类 | ⭐ |
 |:---|:---|:---:|:---:|---:|
-| [Motrix](apps/download/motrix/README.md) | `v2.1.0` | 2026-10-28 | 📥 | 58k |
-| [ok-wuthering-waves](apps/game/ok-wuthering-waves/README.md) | `v3.7.12` | 2026-10-28 | 🎮 | 8.3k |
+| [Motrix](apps/download/motrix/README.md) | [`v2.1.0`](#dl-agalwood-motrix) | 2026-10-28 | 📥 | 58k |
+| [ok-wuthering-waves](apps/game/ok-wuthering-waves/README.md) | [`v3.7.12`](#dl-ok-oldking-ok-wuthering-waves) | 2026-10-28 | 🎮 | 8.3k |
 | [GKD_subscription](apps/mod/gkd_subscription/README.md) | `v620` | 2026-10-27 | 🧩 | 6.4k |
-| [aos-AVP](apps/video/aos-avp/README.md) | `v6.6.2` | 2026-10-27 | 🎬 | 4.8k |
+| [aos-AVP](apps/video/aos-avp/README.md) | [`v6.6.2`](#dl-nova-video-player-aos-avp) | 2026-10-27 | 🎬 | 4.8k |
 | [CloudRunFilesBuilder](apps/auto/cloudrunfilesbuilder/README.md) | `2026-10-27` | 2026-10-27 | ⚡ | 638 |
 | [ImmortalWrt-ImageBuilder](apps/auto/immortalwrt-imagebuilder/README.md) | `Autobuild-x86-64` | 2026-10-27 | ⚡ | 2.7k |
-| [NDui](apps/game/ndui/README.md) | `Classic-0.0.6` | 2026-10-25 | 🎮 | 380 |
-| [photocraft](apps/design/photocraft/README.md) | `v0.16.0` | 2026-10-25 | 🎨 | 74k |
-| [rayburst](apps/download/rayburst/README.md) | `v4.1.1` | 2026-10-25 | 📥 | 11k |
-| [FlClash](apps/proxy/flclash/README.md) | `v0.9.2` | 2026-10-24 | 🌐 | 59k |
-| [light-c](apps/system/light-c/README.md) | `v2.17.0` | 2026-10-24 | ⚙️ | 3.2k |
-| [sing-box](apps/proxy/sing-box/README.md) | `v1.14.4` | 2026-10-24 | 🌐 | 39k |
-| [Kazumi](apps/video/kazumi/README.md) | `2.4.2` | 2026-10-23 | 🎬 | 40k |
-| [iloader](apps/mod/iloader/README.md) | `v2.4.0` | 2026-10-22 | 🧩 | 4.4k |
+| [NDui](apps/game/ndui/README.md) | [`Classic-0.0.6`](#dl-siweia-ndui) | 2026-10-25 | 🎮 | 380 |
+| [photocraft](apps/design/photocraft/README.md) | [`v0.16.0`](#dl-storytold-photocraft) | 2026-10-25 | 🎨 | 74k |
+| [rayburst](apps/download/rayburst/README.md) | [`v4.1.1`](#dl-aninsomniacy-rayburst) | 2026-10-25 | 📥 | 11k |
+| [FlClash](apps/proxy/flclash/README.md) | [`v0.9.2`](#dl-chen08209-flclash) | 2026-10-24 | 🌐 | 59k |
+| [light-c](apps/system/light-c/README.md) | [`v2.17.0`](#dl-chunyu33-light-c) | 2026-10-24 | ⚙️ | 3.2k |
+| [sing-box](apps/proxy/sing-box/README.md) | [`v1.14.4`](#dl-sagernet-sing-box) | 2026-10-24 | 🌐 | 39k |
+| [Kazumi](apps/video/kazumi/README.md) | [`2.4.2`](#dl-predidit-kazumi) | 2026-10-23 | 🎬 | 40k |
+| [iloader](apps/mod/iloader/README.md) | [`v2.4.0`](#dl-nab138-iloader) | 2026-10-22 | 🧩 | 4.4k |
+| [BT](apps/video/bt/README.md) | [`v0.9.41`](#dl-chinasoul-bt) | 2026-10-21 | 🎬 | 2.4k |
+| [Ehviewer_CN_SXJ](apps/office/ehviewer_cn_sxj/README.md) | [`2.0.2.6`](#dl-xiaojieonly-ehviewer-cn-sxj) | 2026-10-21 | 📄 | 28k |
+| [marktext](apps/office/marktext/README.md) | [`v0.23.0`](#dl-marktext-marktext) | 2026-10-21 | 📄 | 63k |
+| [dart_simple_live](apps/video/june6699-dart_simple_live/README.md) | [`v1.13.2`](#dl-june6699-dart-simple-live) | 2026-10-20 | 🎬 | 1.3k |
 
-完整清单见 [更新动态](docs/updates.md)，全部应用见 [应用目录](apps/README.md)。
+全部 **106** 个有版本的应用：见 [⬇️ 下载索引](docs/downloads.md)。
+
+<a id="downloads"></a>
+
+## ⬇️ 最新版本直链
+
+每个应用只列「每个平台最该装的那一个」，点一次直接落到官方文件。
+
+<a id="dl-agalwood-motrix"></a>
+
+**📥 Motrix** · `v2.1.0` · 2026-10-28 · [详情](apps/download/motrix/README.md)
+
+🪟 [安装版 · 127 MB](https://github.com/agalwood/Motrix/releases/download/v2.1.0/Motrix-Setup-2.1.0.exe) · 🍎 [arm64 dmg · 131 MB](https://github.com/agalwood/Motrix/releases/download/v2.1.0/Motrix-2.1.0-arm64.dmg) · 🐧 [x64 AppImage · 126 MB](https://github.com/agalwood/Motrix/releases/download/v2.1.0/Motrix-2.1.0-x86_64.AppImage) · 📦 [zip · 160 MB](https://github.com/agalwood/Motrix/releases/download/v2.1.0/Motrix-2.1.0-win.zip)
+
+<a id="dl-ok-oldking-ok-wuthering-waves"></a>
+
+**🎮 ok-wuthering-waves** · `v3.7.12` · 2026-10-28 · [详情](apps/game/ok-wuthering-waves/README.md)
+
+🪟 [x86 安装版 · 373 MB](https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.12/ok-ww-win32-China-setup.exe) · 📦 [x86 zip · 4.7 MB](https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.12/ok-ww-win32.zip)
+
+<a id="dl-nova-video-player-aos-avp"></a>
+
+**🎬 aos-AVP** · `v6.6.2` · 2026-10-27 · [详情](apps/video/aos-avp/README.md)
+
+📲 [arm64 apk · 33.4 MB](https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.2/org.courville.nova-2673649-6.6.2-20261027.1847-arm64-v8a-release.apk)
+
+<a id="dl-siweia-ndui"></a>
+
+**🎮 NDui** · `Classic-0.0.6` · 2026-10-25 · [详情](apps/game/ndui/README.md)
+
+📦 [zip · 0.9 MB](https://github.com/siweia/NDui/releases/download/Classic-0.0.6/NDui-Classic-0.0.6-forever.zip)
+
+<a id="dl-storytold-photocraft"></a>
+
+**🎨 photocraft** · `v0.16.0` · 2026-10-25 · [详情](apps/design/photocraft/README.md)
+
+🪟 [x64 安装版 · 71.3 MB](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-windows-x64.msi) · 🍎 [通用 dmg · 94.4 MB](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-macos-universal.dmg) · 🐧 [x64 AppImage · 79.5 MB](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-x86_64.AppImage) · 📦 [x64 便携版 · 85.9 MB](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-windows-x64-portable.zip)
+
+<a id="dl-aninsomniacy-rayburst"></a>
+
+**📥 rayburst** · `v4.1.1` · 2026-10-25 · [详情](apps/download/rayburst/README.md)
+
+🪟 [x64 安装版 · 24.6 MB](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_x64-setup.exe) · 🍎 [arm64 dmg · 25.7 MB](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_aarch64.dmg) · 🐧 [x64 AppImage · 99.2 MB](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_amd64.AppImage) · 📦 [x64 · 26.6 MB](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_x64.app.tar.gz)
+
+<a id="dl-chen08209-flclash"></a>
+
+**🌐 FlClash** · `v0.9.2` · 2026-10-24 · [详情](apps/proxy/flclash/README.md)
+
+🪟 [x64 安装版 · 41.3 MB](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-windows-amd64-setup.exe) · 📲 [arm64 apk · 58.3 MB](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-android-arm64-v8a.apk) · 🍎 [arm64 dmg · 56.5 MB](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-macos-arm64.dmg) · 🐧 [x64 AppImage · 66.6 MB](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-amd64.AppImage) · 📦 [x64 zip · 65.7 MB](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-windows-amd64.zip)
+
+<a id="dl-chunyu33-light-c"></a>
+
+**⚙️ light-c** · `v2.17.0` · 2026-10-24 · [详情](apps/system/light-c/README.md)
+
+🪟 [x64 安装版 · 5.8 MB](https://github.com/Chunyu33/light-c/releases/download/v2.17.0/LightC_2.17.0_x64-setup.exe) · 📦 [x64 便携版 · 7.7 MB](https://github.com/Chunyu33/light-c/releases/download/v2.17.0/LightC_portable_x64_v2.17.0.zip)
+
+<a id="dl-sagernet-sing-box"></a>
+
+**🌐 sing-box** · `v1.14.4` · 2026-10-24 · [详情](apps/proxy/sing-box/README.md)
+
+🪟 [x64 安装版 · 110 MB](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFW-1.14.4-x64.exe) · 📲 [arm64 apk · 35.0 MB](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-arm64-v8a.apk) · 🍎 [通用 pkg · 98.7 MB](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFM-1.14.4-Universal.pkg) · 🐧 [x64 deb · 108 MB](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFL-1.14.4-amd64.deb) · 📦 [x64 · 30.0 MB](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-darwin-amd64.tar.gz)
+
+<a id="dl-predidit-kazumi"></a>
+
+**🎬 Kazumi** · `2.4.2` · 2026-10-23 · [详情](apps/video/kazumi/README.md)
+
+🪟 [安装版 · 45.5 MB](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_windows_2.4.2.msix) · 📲 [apk · 31.9 MB](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_android_2.4.2.apk) · 🍎 [dmg · 53.3 MB](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_macos_2.4.2.dmg) · 🐧 [x64 deb · 33.7 MB](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_linux_2.4.2_amd64.deb) · 📦 [zip · 40.9 MB](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_windows_2.4.2.zip)
+
+<a id="dl-nab138-iloader"></a>
+
+**🧩 iloader** · `v2.4.0` · 2026-10-22 · [详情](apps/mod/iloader/README.md)
+
+🪟 [x64 安装版 · 5.8 MB](https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-windows-x64.exe) · 🍎 [通用 dmg · 17.9 MB](https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-darwin-universal.dmg) · 🐧 [x64 AppImage · 84.5 MB](https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-linux-amd64.AppImage) · 📦 [通用 · 18.3 MB](https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-darwin-universal.app.tar.gz)
+
+<a id="dl-chinasoul-bt"></a>
+
+**🎬 BT** · `v0.9.41` · 2026-10-21 · [详情](apps/video/bt/README.md)
+
+📲 [通用 apk · 3.1 MB](https://github.com/chinasoul/BT/releases/download/v0.9.41/universal.apk)
+
+<a id="dl-xiaojieonly-ehviewer-cn-sxj"></a>
+
+**📄 Ehviewer_CN_SXJ** · `2.0.2.6` · 2026-10-21 · [详情](apps/office/ehviewer_cn_sxj/README.md)
+
+📲 [apk · 26.9 MB](https://github.com/xiaojieonly/Ehviewer_CN_SXJ/releases/download/2.0.2.6/EhViewer-2.0.2.6.apk)
+
+<a id="dl-marktext-marktext"></a>
+
+**📄 marktext** · `v0.23.0` · 2026-10-21 · [详情](apps/office/marktext/README.md)
+
+🪟 [x64 安装版 · 126 MB](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-x64-0.23.0-setup.exe) · 🍎 [arm64 dmg · 150 MB](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-arm64-0.23.0.dmg) · 🐧 [AppImage · 157 MB](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-0.23.0.AppImage) · 📦 [x64 zip · 173 MB](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-x64-0.23.0.zip)
+
+<a id="dl-june6699-dart-simple-live"></a>
+
+**🎬 dart_simple_live** · `v1.13.2` · 2026-10-20 · [详情](apps/video/june6699-dart_simple_live/README.md)
+
+🪟 [安装版 · 59.7 MB](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/SimpleLive-Windows-v1.13.2-Setup.exe) · 📲 [arm64 apk · 71.0 MB](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/SimpleLive-v1.13.2-arm64-v8a-release.apk) · 🍎 [dmg · 65.2 MB](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/simple_live_app-1.13.2%2B11302-macos.dmg) · 🐧 [deb · 31.0 MB](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/simple_live_app-1.13.2%2B11302-linux.deb) · 📦 [zip · 82.0 MB](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/SimpleLive-Windows-v1.13.2.zip)
+
+---
 
 ## 🕘 最近标星（14 天内新增 0 个，最近一次是 2026-10-09）
 
@@ -117,6 +221,7 @@
 |:---|:---|
 | 分类关键词、新增分类 | [`config/rules.toml`](config/rules.toml) |
 | 某个仓库归错类了 | [`config/overrides.toml`](config/overrides.toml) |
+| 只想调文案/排版，不联网 | 本地跑 `python scripts/sync.py --offline` |
 | 同步时间、是否自动提交 | [`.github/workflows/sync-stars.yml`](.github/workflows/sync-stars.yml) |
 
 > 本仓库所有 `README.md`、`docs/*.md`、`apps/**` 都是**生成产物**，直接改会在下次同步时被覆盖。

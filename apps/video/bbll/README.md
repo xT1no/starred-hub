@@ -6,13 +6,19 @@
 
 一个第三方哔哩哔哩客户端，A third-party bilibili client。
 
+## ⬇️ 直接下载
+
+📲 [apk · 6.6 MB](https://github.com/xiaye13579/BBLL/releases/download/v1.5.2/BBLL1.5.2.apk)
+
+全部 1 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) |
 | 分类 | 🎬 [影视 / 直播 / 番剧](../README.md) |
 | 平台 | 📲 |
 | 语言 | — |
-| Star | 18k · Fork 531 |
+| Star | 18k · Fork 0 |
 | License | — |
 | 最新版本 | `v1.5.2` |
 | 最近更新 | 2025-02-28（1 年前） |
@@ -31,6 +37,8 @@
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

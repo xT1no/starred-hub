@@ -6,14 +6,20 @@
 
 Unofficial warp client for android
 
+## ⬇️ 直接下载
+
+📲 [apk · 59.6 MB](https://github.com/bepass-org/oblivion/releases/download/v8/oblivion-v8-signed.apk)
+
+全部 1 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [bepass-org/oblivion](https://github.com/bepass-org/oblivion) |
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | 📲 |
 | 语言 | Dart |
-| Star | 4.9k · Fork 641 |
-| License | MIT |
+| Star | 4.9k · Fork 0 |
+| License | — |
 | 最新版本 | `v8` |
 | 最近更新 | 2026-09-08（1 个月前） |
 | 标星日期 | 2024-06-02 |
@@ -36,6 +42,8 @@ Special thanks to @CluvexStudio for continuing the development!
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

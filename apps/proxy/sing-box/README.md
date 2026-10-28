@@ -8,18 +8,23 @@
 
 The universal proxy platform
 
+## ⬇️ 直接下载
+
+🪟 [x64 安装版 · 110 MB](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFW-1.14.4-x64.exe) · 📲 [arm64 apk · 35.0 MB](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-arm64-v8a.apk) · 🍎 [通用 pkg · 98.7 MB](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFM-1.14.4-Universal.pkg) · 🐧 [x64 deb · 108 MB](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFL-1.14.4-amd64.deb) · 📦 [x64 · 30.0 MB](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-darwin-amd64.tar.gz)
+
+全部 40 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [SagerNet/sing-box](https://github.com/SagerNet/sing-box) |
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | ⌨️ |
 | 语言 | Go |
-| Star | 39k · Fork 4.8k |
-| License | NOASSERTION |
+| Star | 39k · Fork 0 |
+| License | — |
 | 最新版本 | `v1.14.4` |
 | 最近更新 | 2026-10-24（4 天前） |
 | 标星日期 | 2024-05-12 |
-| 官网 | <https://sing-box.sagernet.org/> |
 
 ## 📦 最新版本
 
@@ -36,6 +41,8 @@ The universal proxy platform
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 
@@ -75,7 +82,6 @@ The universal proxy platform
 - 仓库主页 · https://github.com/SagerNet/sing-box
 - Issues · https://github.com/SagerNet/sing-box/issues
 - Releases · https://github.com/SagerNet/sing-box/releases
-- 官网 / 演示 · https://sing-box.sagernet.org/
 
 ---
 

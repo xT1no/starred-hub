@@ -8,14 +8,20 @@
 
 一个英雄联盟助手工具
 
+## ⬇️ 直接下载
+
+🪟 [安装版 · 86.1 MB](https://github.com/watchingfun/Joi/releases/download/v0.6.5/Joi-Windows-0.6.5-Setup.exe)
+
+全部 1 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [watchingfun/Joi](https://github.com/watchingfun/Joi) |
 | 分类 | 🎮 [游戏 / 辅助脚本](../README.md) |
 | 平台 | 🪟 |
 | 语言 | TypeScript |
-| Star | 343 · Fork 34 |
-| License | GPL-3.0 |
+| Star | 343 · Fork 0 |
+| License | — |
 | 最新版本 | `v0.6.5` |
 | 最近更新 | 2024-07-06（2 年前） |
 | 标星日期 | 2024-03-20 |
@@ -34,6 +40,8 @@
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

@@ -6,14 +6,20 @@
 
 哔哩哔哩第三方 Android 应用的自用修改版。A modified version of Bilibili’s third-party Android app.
 
+## ⬇️ 直接下载
+
+📲 [通用 apk · 13.4 MB](https://github.com/fantasytyx/bv/releases/download/0.3.0.r986.f02dfc5a.release/BV_986_0.3.0.r986.f02dfc5a.release_default_universal.apk)
+
+全部 1 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [fantasytyx/bv](https://github.com/fantasytyx/bv) |
 | 分类 | 🎬 [影视 / 直播 / 番剧](../README.md) |
 | 平台 | 📲 |
 | 语言 | Kotlin |
-| Star | 762 · Fork 22 |
-| License | MIT |
+| Star | 762 · Fork 0 |
+| License | — |
 | 最新版本 | `0.3.0.r986.f02dfc5a.release` |
 | 最近更新 | 2026-10-05（22 天前） |
 | 标星日期 | 2026-03-25 |
@@ -39,6 +45,8 @@
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

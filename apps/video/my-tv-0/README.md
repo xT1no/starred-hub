@@ -6,14 +6,20 @@
 
 我的電視·〇 電視視頻播放軟件，可以自定義視頻源
 
+## ⬇️ 直接下载
+
+📲 [apk · 5.2 MB](https://github.com/lizongying/my-tv-0/releases/download/v1.3.9.8/my-tv-0_1.3.9.8.apk)
+
+全部 1 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [lizongying/my-tv-0](https://github.com/lizongying/my-tv-0) |
 | 分类 | 🎬 [影视 / 直播 / 番剧](../README.md) |
 | 平台 | 📺 |
 | 语言 | Kotlin |
-| Star | 4.7k · Fork 570 |
-| License | MIT |
+| Star | 4.7k · Fork 0 |
+| License | — |
 | 最新版本 | `v1.3.9.8` |
 | 最近更新 | 2025-03-17（1 年前） |
 | 标星日期 | 2025-03-08 |
@@ -31,6 +37,8 @@
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

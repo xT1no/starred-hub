@@ -6,18 +6,23 @@
 
 A free, minimalist, lightweight, and high-performance C-drive cleanup tool.
 
+## ⬇️ 直接下载
+
+🪟 [x64 安装版 · 5.8 MB](https://github.com/Chunyu33/light-c/releases/download/v2.17.0/LightC_2.17.0_x64-setup.exe) · 📦 [x64 便携版 · 7.7 MB](https://github.com/Chunyu33/light-c/releases/download/v2.17.0/LightC_portable_x64_v2.17.0.zip)
+
+全部 9 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [Chunyu33/light-c](https://github.com/Chunyu33/light-c) |
 | 分类 | ⚙️ [系统增强 / 优化](../README.md) |
 | 平台 | 🪟 |
 | 语言 | Rust |
-| Star | 3.2k · Fork 132 |
-| License | NOASSERTION |
+| Star | 3.2k · Fork 0 |
+| License | — |
 | 最新版本 | `v2.17.0` |
 | 最近更新 | 2026-10-24（4 天前） |
 | 标星日期 | 2026-08-06 |
-| 官网 | <https://www.lightc.app/> |
 
 ## 📦 最新版本
 
@@ -36,6 +41,8 @@ LightC v2.17.0 发布说明
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 
@@ -58,7 +65,6 @@ LightC v2.17.0 发布说明
 - 仓库主页 · https://github.com/Chunyu33/light-c
 - Issues · https://github.com/Chunyu33/light-c/issues
 - Releases · https://github.com/Chunyu33/light-c/releases
-- 官网 / 演示 · https://www.lightc.app/
 
 ---
 

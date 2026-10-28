@@ -6,14 +6,20 @@
 
 简简单单的看直播（SimpleLive续）
 
+## ⬇️ 直接下载
+
+🪟 [安装版 · 59.7 MB](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/SimpleLive-Windows-v1.13.2-Setup.exe) · 📲 [arm64 apk · 71.0 MB](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/SimpleLive-v1.13.2-arm64-v8a-release.apk) · 🍎 [dmg · 65.2 MB](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/simple_live_app-1.13.2%2B11302-macos.dmg) · 🐧 [deb · 31.0 MB](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/simple_live_app-1.13.2%2B11302-linux.deb) · 📦 [zip · 82.0 MB](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/SimpleLive-Windows-v1.13.2.zip)
+
+全部 11 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [June6699/dart_simple_live](https://github.com/June6699/dart_simple_live) |
 | 分类 | 🎬 [影视 / 直播 / 番剧](../README.md) |
 | 平台 | 🖥️ |
 | 语言 | Dart |
-| Star | 1.3k · Fork 55 |
-| License | GPL-3.0 |
+| Star | 1.3k · Fork 0 |
+| License | — |
 | 最新版本 | `v1.13.2` |
 | 最近更新 | 2026-10-20（7 天前） |
 | 标星日期 | 2026-08-06 |
@@ -46,6 +52,8 @@
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

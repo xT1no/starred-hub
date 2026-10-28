@@ -14,10 +14,10 @@
   ],
   "language": "PowerShell",
   "stars": 14609,
-  "forks": 1090,
-  "license": "MIT",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://www.officetool.plus",
+  "homepage": "",
   "topics": [
     "msoffice",
     "msproject",
@@ -28,7 +28,7 @@
     "visio"
   ],
   "starred_at": "2024-03-08T15:02:20Z",
-  "pushed_at": "2026-10-19T13:22:06Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v11.8.50.0",
@@ -81,5 +81,5 @@
       "platform": "🌐 Web"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

@@ -15,10 +15,10 @@
   ],
   "language": "Python",
   "stars": 25804,
-  "forks": 7624,
-  "license": "NOASSERTION",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://guovin.github.io/iptv-api/",
+  "homepage": "",
   "topics": [
     "auto-update",
     "awesome",
@@ -42,7 +42,7 @@
     "tvbox"
   ],
   "starred_at": "2026-04-16T09:04:02Z",
-  "pushed_at": "2026-10-14T01:21:43Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "3.1.0",
@@ -74,5 +74,5 @@
       "platform": "🔐 校验文件"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

@@ -14,10 +14,10 @@
   ],
   "language": "Python",
   "stars": 8297,
-  "forks": 699,
-  "license": "AGPL-3.0",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://ok-script.com/ok-ww",
+  "homepage": "",
   "topics": [
     "ok-ww",
     "okww",
@@ -28,7 +28,7 @@
     "wuwa"
   ],
   "starred_at": "2025-04-01T18:35:53Z",
-  "pushed_at": "2026-10-28T02:21:59Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v3.7.12",
@@ -74,5 +74,5 @@
       "platform": "🔐 校验文件"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

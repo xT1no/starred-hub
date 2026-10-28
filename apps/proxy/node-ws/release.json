@@ -14,8 +14,8 @@
   ],
   "language": "HTML",
   "stars": 6248,
-  "forks": 10161,
-  "license": "GPL-3.0",
+  "forks": 0,
+  "license": "",
   "archived": false,
   "homepage": "",
   "topics": [
@@ -27,7 +27,7 @@
     "vmess"
   ],
   "starred_at": "2025-11-14T03:10:32Z",
-  "pushed_at": "2026-10-11T10:51:37Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "gows-latest",
@@ -108,5 +108,5 @@
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

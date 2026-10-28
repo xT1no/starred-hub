@@ -14,10 +14,10 @@
   ],
   "language": "C++",
   "stars": 12004,
-  "forks": 448,
-  "license": "GPL-3.0",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://mactype.net",
+  "homepage": "",
   "topics": [
     "directwrite",
     "font",
@@ -25,7 +25,7 @@
     "mactype"
   ],
   "starred_at": "2023-12-07T16:47:53Z",
-  "pushed_at": "2026-04-29T03:00:50Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v1.2025.6.9",
@@ -43,5 +43,5 @@
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

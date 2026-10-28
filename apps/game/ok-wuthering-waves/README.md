@@ -8,18 +8,23 @@
 
 鸣潮 后台自动战斗 自动刷声骸 一键日常  Automation for Wuthering Waves
 
+## ⬇️ 直接下载
+
+🪟 [x86 安装版 · 373 MB](https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.12/ok-ww-win32-China-setup.exe) · 📦 [x86 zip · 4.7 MB](https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.12/ok-ww-win32.zip)
+
+全部 5 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves) |
 | 分类 | 🎮 [游戏 / 辅助脚本](../README.md) |
 | 平台 | 🪟 |
 | 语言 | Python |
-| Star | 8.3k · Fork 699 |
-| License | AGPL-3.0 |
+| Star | 8.3k · Fork 0 |
+| License | — |
 | 最新版本 | `v3.7.12` |
 | 最近更新 | 2026-10-28（今天） |
 | 标星日期 | 2025-04-01 |
-| 官网 | <https://ok-script.com/ok-ww> |
 
 ## 📦 最新版本
 
@@ -44,6 +49,8 @@
 
 </details>
 
+<a id="pkgs"></a>
+
 ## ⬇️ 安装包
 
 来自最新 Release，共 5 个文件。下表是官方直链，点名字即可下载。
@@ -61,7 +68,6 @@
 - 仓库主页 · https://github.com/ok-oldking/ok-wuthering-waves
 - Issues · https://github.com/ok-oldking/ok-wuthering-waves/issues
 - Releases · https://github.com/ok-oldking/ok-wuthering-waves/releases
-- 官网 / 演示 · https://ok-script.com/ok-ww
 
 `ok-ww` `okww` `wuthering-waves` `wuthering-waves-hack` `wuthering-waves-software` `wutheringwaves` `wuwa`
 

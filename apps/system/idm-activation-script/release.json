@@ -14,7 +14,7 @@
   ],
   "language": "Batchfile",
   "stars": 7667,
-  "forks": 963,
+  "forks": 0,
   "license": "",
   "archived": true,
   "homepage": "",
@@ -27,7 +27,7 @@
     "internet-download-manager"
   ],
   "starred_at": "2024-04-10T08:15:00Z",
-  "pushed_at": "2024-04-09T23:32:47Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "1.2",
@@ -37,5 +37,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

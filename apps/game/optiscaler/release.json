@@ -14,8 +14,8 @@
   ],
   "language": "C++",
   "stars": 12159,
-  "forks": 571,
-  "license": "GPL-3.0",
+  "forks": 0,
+  "license": "",
   "archived": false,
   "homepage": "",
   "topics": [
@@ -38,7 +38,7 @@
     "xess-sr"
   ],
   "starred_at": "2026-05-18T06:38:41Z",
-  "pushed_at": "2026-10-26T15:00:27Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v0.9.4",
@@ -56,5 +56,5 @@
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

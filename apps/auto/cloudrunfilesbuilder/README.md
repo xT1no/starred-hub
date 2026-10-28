@@ -12,12 +12,11 @@
 | 分类 | ⚡ [自动化 / 部署](../README.md) |
 | 平台 | 🛰️ |
 | 语言 | Shell |
-| Star | 638 · Fork 166 |
-| License | MIT |
+| Star | 638 · Fork 0 |
+| License | — |
 | 最新版本 | `2026-10-27` |
 | 最近更新 | 2026-10-27（昨天） |
 | 标星日期 | 2026-07-02 |
-| 官网 | <https://github.com/wukongdaily/RunFilesBuilder> |
 
 ## 📦 最新版本
 
@@ -37,6 +36,8 @@
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 
@@ -76,7 +77,6 @@
 - 仓库主页 · https://github.com/wkccd/CloudRunFilesBuilder
 - Issues · https://github.com/wkccd/CloudRunFilesBuilder/issues
 - Releases · https://github.com/wkccd/CloudRunFilesBuilder/releases
-- 官网 / 演示 · https://github.com/wukongdaily/RunFilesBuilder
 
 `are-u-ok` `makeself-archives` `run`
 

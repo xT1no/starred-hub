@@ -14,10 +14,10 @@
   ],
   "language": "Dart",
   "stars": 58925,
-  "forks": 3838,
-  "license": "GPL-3.0",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://chen08209.github.io/FlClash",
+  "homepage": "",
   "topics": [
     "clash",
     "clash-meta",
@@ -30,7 +30,7 @@
     "vpn"
   ],
   "starred_at": "2024-07-12T00:49:23Z",
-  "pushed_at": "2026-10-24T05:53:06Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v0.9.2",
@@ -153,5 +153,5 @@
       "platform": "🔐 校验文件"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

@@ -14,13 +14,13 @@
   ],
   "language": "Rust",
   "stars": 3216,
-  "forks": 132,
-  "license": "NOASSERTION",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://www.lightc.app/",
+  "homepage": "",
   "topics": [],
   "starred_at": "2026-08-06T05:50:24Z",
-  "pushed_at": "2026-10-24T01:03:10Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v2.17.0",
@@ -94,5 +94,5 @@
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

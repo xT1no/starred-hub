@@ -6,18 +6,23 @@
 
 A full-featured download manager.
 
+## ⬇️ 直接下载
+
+🪟 [安装版 · 127 MB](https://github.com/agalwood/Motrix/releases/download/v2.1.0/Motrix-Setup-2.1.0.exe) · 🍎 [arm64 dmg · 131 MB](https://github.com/agalwood/Motrix/releases/download/v2.1.0/Motrix-2.1.0-arm64.dmg) · 🐧 [x64 AppImage · 126 MB](https://github.com/agalwood/Motrix/releases/download/v2.1.0/Motrix-2.1.0-x86_64.AppImage) · 📦 [zip · 160 MB](https://github.com/agalwood/Motrix/releases/download/v2.1.0/Motrix-2.1.0-win.zip)
+
+全部 36 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [agalwood/Motrix](https://github.com/agalwood/Motrix) |
 | 分类 | 📥 [下载 / 网盘](../README.md) |
 | 平台 | 🪟 🍎 🐧 🖥️ |
 | 语言 | TypeScript |
-| Star | 58k · Fork 5.1k |
-| License | NOASSERTION |
+| Star | 58k · Fork 0 |
+| License | — |
 | 最新版本 | `v2.1.0` |
 | 最近更新 | 2026-10-28（今天） |
 | 标星日期 | 2023-12-07 |
-| 官网 | <https://motrix.app> |
 
 ## 📦 最新版本
 
@@ -46,6 +51,8 @@ window controls. It also improves large-torrent handling, migration, and updates
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 
@@ -85,7 +92,6 @@ window controls. It also improves large-torrent handling, migration, and updates
 - 仓库主页 · https://github.com/agalwood/Motrix
 - Issues · https://github.com/agalwood/Motrix/issues
 - Releases · https://github.com/agalwood/Motrix/releases
-- 官网 / 演示 · https://motrix.app
 
 `aria2` `bt` `download` `electron` `linux` `mac` `macos` `magnet` `motrix` `torrent` `windows`
 

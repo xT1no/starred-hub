@@ -6,14 +6,20 @@
 
 🐶 Yet another League of Legends helper
 
+## ⬇️ 直接下载
+
+📦 [zip · 3.4 MB](https://github.com/cangzhang/ChampR/releases/download/v2.0.2-b7/champr-v2.0.2-b7.zip)
+
+全部 2 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [cangzhang/ChampR](https://github.com/cangzhang/ChampR) |
 | 分类 | 🎮 [游戏 / 辅助脚本](../README.md) |
 | 平台 | 🪟 |
 | 语言 | Rust |
-| Star | 1.7k · Fork 129 |
-| License | LGPL-2.1 |
+| Star | 1.7k · Fork 0 |
+| License | — |
 | 最新版本 | `v2.0.2-b7` |
 | 最近更新 | 2023-07-12（3 年前） |
 | 标星日期 | 2021-01-10 |
@@ -35,6 +41,8 @@ Changlog:
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

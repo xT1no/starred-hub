@@ -14,13 +14,13 @@
   ],
   "language": "JavaScript",
   "stars": 7050,
-  "forks": 274,
-  "license": "MIT",
+  "forks": 0,
+  "license": "",
   "archived": true,
-  "homepage": "https://liteloaderqqnt.github.io/",
+  "homepage": "",
   "topics": [],
   "starred_at": "2024-05-21T06:47:24Z",
-  "pushed_at": "2026-05-09T00:34:47Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "1.4.1",
@@ -38,5 +38,5 @@
       "platform": "🌐 Web"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

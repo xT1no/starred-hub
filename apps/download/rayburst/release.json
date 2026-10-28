@@ -14,13 +14,13 @@
   ],
   "language": "TypeScript",
   "stars": 11263,
-  "forks": 344,
-  "license": "MIT",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://rayburst.pages.dev",
+  "homepage": "",
   "topics": [],
   "starred_at": "2026-06-10T05:38:47Z",
-  "pushed_at": "2026-10-25T01:49:48Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v4.1.1",
@@ -185,5 +185,5 @@
       "platform": "🔐 校验文件"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

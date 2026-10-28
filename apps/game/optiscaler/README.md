@@ -8,14 +8,20 @@
 
 OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
 
+## ⬇️ 直接下载
+
+📦 [zip · 52.5 MB](https://github.com/optiscaler/OptiScaler/releases/download/v0.9.4/Optiscaler_0.9.4-final.20260718._MM.7z)
+
+全部 1 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler) |
 | 分类 | 🎮 [游戏 / 辅助脚本](../README.md) |
 | 平台 | 🪟 |
 | 语言 | C++ |
-| Star | 12k · Fork 571 |
-| License | GPL-3.0 |
+| Star | 12k · Fork 0 |
+| License | — |
 | 最新版本 | `v0.9.4` |
 | 最近更新 | 2026-07-18（3 个月前） |
 | 标星日期 | 2026-05-18 |
@@ -48,6 +54,8 @@ _Always check the [**Wiki**](https://github.com/optiscaler/OptiScaler/wiki) for 
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

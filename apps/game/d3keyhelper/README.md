@@ -8,14 +8,20 @@
 
 D3KeyHelper是一个有图形界面，可自定义配置的暗黑3鼠标宏工具。
 
+## ⬇️ 直接下载
+
+📦 [zip · 0.5 MB](https://github.com/WeijieH/D3keyHelper/releases/download/v1.4.230222/D3.AHK.v1.4.230222.7z)
+
+全部 1 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [WeijieH/D3keyHelper](https://github.com/WeijieH/D3keyHelper) |
 | 分类 | 🎮 [游戏 / 辅助脚本](../README.md) |
 | 平台 | 🪟 |
 | 语言 | AutoHotkey |
-| Star | 396 · Fork 79 |
-| License | MIT |
+| Star | 396 · Fork 0 |
+| License | — |
 | 最新版本 | `v1.4.230222` |
 | 最近更新 | 2023-02-23（3 年前） |
 | 标星日期 | 2022-08-01 |
@@ -35,6 +41,8 @@ D3KeyHelper是一个有图形界面，可自定义配置的暗黑3鼠标宏工�
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

@@ -8,14 +8,20 @@
 
 Run sing-box/mihomo as client in shell
 
+## ⬇️ 直接下载
+
+📦 [ShellCrash.tar.gz · 0.1 MB](https://github.com/juewuy/ShellCrash/releases/download/1.9.4/ShellCrash.tar.gz)
+
+全部 1 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) |
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | 🛰️ |
 | 语言 | Shell |
-| Star | 14k · Fork 1.9k |
-| License | GPL-3.0 |
+| Star | 14k · Fork 0 |
+| License | — |
 | 最新版本 | `1.9.4` |
 | 最近更新 | 2026-02-15（8 个月前） |
 | 标星日期 | 2023-12-22 |
@@ -47,6 +53,8 @@ Run sing-box/mihomo as client in shell
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

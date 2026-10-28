@@ -14,13 +14,13 @@
   ],
   "language": "",
   "stars": 3193,
-  "forks": 404,
+  "forks": 0,
   "license": "",
   "archived": true,
   "homepage": "",
   "topics": [],
   "starred_at": "2025-06-19T15:13:09Z",
-  "pushed_at": "2026-03-25T14:37:49Z",
+  "pushed_at": "",
   "latest": {
     "kind": "none",
     "tag": "",
@@ -30,5 +30,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

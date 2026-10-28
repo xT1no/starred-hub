@@ -6,18 +6,23 @@
 
 User friendly sideloader
 
+## ⬇️ 直接下载
+
+🪟 [x64 安装版 · 5.8 MB](https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-windows-x64.exe) · 🍎 [通用 dmg · 17.9 MB](https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-darwin-universal.dmg) · 🐧 [x64 AppImage · 84.5 MB](https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-linux-amd64.AppImage) · 📦 [通用 · 18.3 MB](https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-darwin-universal.app.tar.gz)
+
+全部 20 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [nab138/iloader](https://github.com/nab138/iloader) |
 | 分类 | 🧩 [应用增强 / 模块](../README.md) |
 | 平台 | 📱 |
 | 语言 | TypeScript |
-| Star | 4.4k · Fork 329 |
-| License | MIT |
+| Star | 4.4k · Fork 0 |
+| License | — |
 | 最新版本 | `v2.4.0` |
 | 最近更新 | 2026-10-22（6 天前） |
 | 标星日期 | 2026-02-28 |
-| 官网 | <https://iloader.app> |
 
 ## 📦 最新版本
 
@@ -41,6 +46,8 @@ Apple has been making this past week hard for us, sorry about all the instabilit
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 
@@ -74,7 +81,6 @@ Apple has been making this past week hard for us, sorry about all the instabilit
 - 仓库主页 · https://github.com/nab138/iloader
 - Issues · https://github.com/nab138/iloader/issues
 - Releases · https://github.com/nab138/iloader/releases
-- 官网 / 演示 · https://iloader.app
 
 `idevice` `ios` `sideloading` `sidestore`
 

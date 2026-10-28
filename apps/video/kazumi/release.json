@@ -20,10 +20,10 @@
   ],
   "language": "Dart",
   "stars": 39915,
-  "forks": 1309,
-  "license": "GPL-3.0",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://kazumi.app",
+  "homepage": "",
   "topics": [
     "android",
     "cross-platform",
@@ -35,7 +35,7 @@
     "windows"
   ],
   "starred_at": "2024-08-19T16:56:23Z",
-  "pushed_at": "2026-10-26T14:44:25Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "2.4.2",
@@ -109,5 +109,5 @@
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

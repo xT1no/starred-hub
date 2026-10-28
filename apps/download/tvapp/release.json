@@ -15,10 +15,10 @@
   ],
   "language": "JavaScript",
   "stars": 26602,
-  "forks": 3543,
-  "license": "Apache-2.0",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://app.iyouhun.com",
+  "homepage": "",
   "topics": [
     "android",
     "android-tv",
@@ -28,7 +28,7 @@
     "tv-box"
   ],
   "starred_at": "2026-06-01T17:24:36Z",
-  "pushed_at": "2026-10-28T00:24:46Z",
+  "pushed_at": "",
   "latest": {
     "kind": "none",
     "tag": "",
@@ -38,5 +38,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

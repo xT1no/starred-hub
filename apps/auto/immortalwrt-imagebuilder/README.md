@@ -12,12 +12,11 @@
 | 分类 | ⚡ [自动化 / 部署](../README.md) |
 | 平台 | 🛰️ |
 | 语言 | Shell |
-| Star | 2.7k · Fork 9.4k |
-| License | GPL-3.0 |
+| Star | 2.7k · Fork 0 |
+| License | — |
 | 最新版本 | `Autobuild-x86-64` |
 | 最近更新 | 2026-10-27（昨天） |
 | 标星日期 | 2025-10-10 |
-| 官网 | <https://t.me/imm_imagebuilder> |
 
 ## 📦 最新版本
 
@@ -42,6 +41,8 @@
 
 </details>
 
+<a id="pkgs"></a>
+
 ## ⬇️ 安装包
 
 来自最新 Release，共 1 个文件。下表是官方直链，点名字即可下载。
@@ -55,7 +56,6 @@
 - 仓库主页 · https://github.com/wukongdaily/ImmortalWrt-ImageBuilder
 - Issues · https://github.com/wukongdaily/ImmortalWrt-ImageBuilder/issues
 - Releases · https://github.com/wukongdaily/ImmortalWrt-ImageBuilder/releases
-- 官网 / 演示 · https://t.me/imm_imagebuilder
 
 `docker` `imagebuilder` `immortalwrt` `luci-app-dockerman` `op-25-12` `openwrt` `rootfs` `rootsize`
 

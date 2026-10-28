@@ -8,13 +8,19 @@
 
 NDui for World of Warcraft
 
+## ⬇️ 直接下载
+
+📦 [zip · 0.9 MB](https://github.com/siweia/NDui/releases/download/Classic-0.0.6/NDui-Classic-0.0.6-forever.zip)
+
+全部 2 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [siweia/NDui](https://github.com/siweia/NDui) |
 | 分类 | 🎮 [游戏 / 辅助脚本](../README.md) |
 | 平台 | 🪟 |
 | 语言 | Lua |
-| Star | 380 · Fork 93 |
+| Star | 380 · Fork 0 |
 | License | — |
 | 最新版本 | `Classic-0.0.6` |
 | 最近更新 | 2026-10-25（2 天前） |
@@ -40,6 +46,8 @@ NDui for World of Warcraft
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

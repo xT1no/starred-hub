@@ -14,13 +14,13 @@
   ],
   "language": "Shell",
   "stars": 13619,
-  "forks": 1879,
-  "license": "GPL-3.0",
+  "forks": 0,
+  "license": "",
   "archived": false,
   "homepage": "",
   "topics": [],
   "starred_at": "2023-12-22T05:13:37Z",
-  "pushed_at": "2026-10-27T18:20:29Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "1.9.4",
@@ -38,5 +38,5 @@
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

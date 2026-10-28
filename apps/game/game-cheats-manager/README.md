@@ -8,18 +8,23 @@
 
 Easily download and manage single-player game cheats for your convenience
 
+## ⬇️ 直接下载
+
+🪟 [安装版 · 37.6 MB](https://github.com/dyang886/Game-Cheats-Manager/releases/download/v2.5.4/Game.Cheats.Manager.Setup.2.5.4.exe) · 📦 [便携版 · 51.3 MB](https://github.com/dyang886/Game-Cheats-Manager/releases/download/v2.5.4/Game.Cheats.Manager.Portable.2.5.4.zip)
+
+全部 2 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [dyang886/Game-Cheats-Manager](https://github.com/dyang886/Game-Cheats-Manager) |
 | 分类 | 🎮 [游戏 / 辅助脚本](../README.md) |
 | 平台 | 🪟 |
 | 语言 | C++ |
-| Star | 16k · Fork 571 |
-| License | GPL-3.0 |
+| Star | 16k · Fork 0 |
+| License | — |
 | 最新版本 | `v2.5.4` |
 | 最近更新 | 2026-10-11（16 天前） |
 | 标星日期 | 2025-03-01 |
-| 官网 | <https://gamezonelabs.com> |
 
 ## 📦 最新版本
 
@@ -41,6 +46,8 @@ Easily download and manage single-player game cheats for your convenience
 
 </details>
 
+<a id="pkgs"></a>
+
 ## ⬇️ 安装包
 
 来自最新 Release，共 2 个文件。下表是官方直链，点名字即可下载。
@@ -55,7 +62,6 @@ Easily download and manage single-player game cheats for your convenience
 - 仓库主页 · https://github.com/dyang886/Game-Cheats-Manager
 - Issues · https://github.com/dyang886/Game-Cheats-Manager/issues
 - Releases · https://github.com/dyang886/Game-Cheats-Manager/releases
-- 官网 / 演示 · https://gamezonelabs.com
 
 ---
 

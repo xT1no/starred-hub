@@ -14,8 +14,8 @@
   ],
   "language": "Python",
   "stars": 4024,
-  "forks": 662,
-  "license": "GPL-3.0",
+  "forks": 0,
+  "license": "",
   "archived": false,
   "homepage": "",
   "topics": [
@@ -41,7 +41,7 @@
     "vmess"
   ],
   "starred_at": "2024-07-08T06:16:40Z",
-  "pushed_at": "2026-10-28T05:55:03Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "1.0.0",
@@ -66,5 +66,5 @@
       "platform": "🐧 Linux"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

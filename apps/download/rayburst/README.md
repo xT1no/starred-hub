@@ -6,18 +6,23 @@
 
 Redefining the open-source download manager
 
+## ⬇️ 直接下载
+
+🪟 [x64 安装版 · 24.6 MB](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_x64-setup.exe) · 🍎 [arm64 dmg · 25.7 MB](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_aarch64.dmg) · 🐧 [x64 AppImage · 99.2 MB](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_amd64.AppImage) · 📦 [x64 · 26.6 MB](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_x64.app.tar.gz)
+
+全部 22 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [AnInsomniacy/rayburst](https://github.com/AnInsomniacy/rayburst) |
 | 分类 | 📥 [下载 / 网盘](../README.md) |
 | 平台 | 🖥️ |
 | 语言 | TypeScript |
-| Star | 11k · Fork 344 |
-| License | MIT |
+| Star | 11k · Fork 0 |
+| License | — |
 | 最新版本 | `v4.1.1` |
 | 最近更新 | 2026-10-25（3 天前） |
 | 标星日期 | 2026-06-10 |
-| 官网 | <https://rayburst.pages.dev> |
 
 ## 📦 最新版本
 
@@ -40,6 +45,8 @@ This release bundles Aria2 Next 3.0.9 for all platforms. Downloads finish withou
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 
@@ -75,7 +82,6 @@ This release bundles Aria2 Next 3.0.9 for all platforms. Downloads finish withou
 - 仓库主页 · https://github.com/AnInsomniacy/rayburst
 - Issues · https://github.com/AnInsomniacy/rayburst/issues
 - Releases · https://github.com/AnInsomniacy/rayburst/releases
-- 官网 / 演示 · https://rayburst.pages.dev
 
 ---
 

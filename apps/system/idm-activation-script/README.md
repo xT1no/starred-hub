@@ -16,7 +16,7 @@ An open source tool to activate and reset trial of Internet Download Manager
 | 分类 | ⚙️ [系统增强 / 优化](../README.md) |
 | 平台 | 🪟 |
 | 语言 | Batchfile |
-| Star | 7.7k · Fork 963 |
+| Star | 7.7k · Fork 0 |
 | License | — |
 | 最新版本 | `1.2` |
 | 最近更新 | 2024-02-12（2 年前） |

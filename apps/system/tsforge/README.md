@@ -6,14 +6,20 @@
 
 A collection of activation/evaluation extension methods for Windows Vista through 11.
 
+## ⬇️ 直接下载
+
+📦 [zip · 0.0 MB](https://github.com/massgravel/TSforge/releases/download/1.1.1/TSforge-1.1.1.zip)
+
+全部 1 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [massgravel/TSforge](https://github.com/massgravel/TSforge) |
 | 分类 | ⚙️ [系统增强 / 优化](../README.md) |
 | 平台 | 🪟 |
 | 语言 | C# |
-| Star | 2.6k · Fork 349 |
-| License | GPL-3.0 |
+| Star | 2.6k · Fork 0 |
+| License | — |
 | 最新版本 | `1.1.1` |
 | 最近更新 | 2025-09-09（1 年前） |
 | 标星日期 | 2026-06-21 |
@@ -32,6 +38,8 @@ Changes:
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

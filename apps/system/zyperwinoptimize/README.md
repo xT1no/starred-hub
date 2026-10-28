@@ -6,13 +6,19 @@
 
 ZyperWin++是一个轻便的Windows优化工具，适用于Win7-Win11最新版的优化，包括性能优化、服务项优化、垃圾清理等操作，还支持系统激活和Office快速安装。
 
+## ⬇️ 直接下载
+
+📦 [zip · 1.3 MB](https://github.com/ZyperWave/ZyperWinOptimize/releases/download/v4.1/ZyperWin%2B%2B4.1.zip)
+
+全部 1 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [ZyperWave/ZyperWinOptimize](https://github.com/ZyperWave/ZyperWinOptimize) |
 | 分类 | ⚙️ [系统增强 / 优化](../README.md) |
 | 平台 | 🪟 |
 | 语言 | C# |
-| Star | 8.5k · Fork 477 |
+| Star | 8.5k · Fork 0 |
 | License | — |
 | 最新版本 | `v4.1` |
 | 最近更新 | 2025-10-07（1 年前） |
@@ -45,6 +51,8 @@ v4.1 251007
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

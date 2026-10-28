@@ -14,10 +14,10 @@
   ],
   "language": "Shell",
   "stars": 2706,
-  "forks": 9417,
-  "license": "GPL-3.0",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://t.me/imm_imagebuilder",
+  "homepage": "",
   "topics": [
     "docker",
     "imagebuilder",
@@ -29,7 +29,7 @@
     "rootsize"
   ],
   "starred_at": "2025-10-10T15:26:38Z",
-  "pushed_at": "2026-09-16T08:53:54Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "Autobuild-x86-64",
@@ -47,5 +47,5 @@
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

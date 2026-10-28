@@ -2,7 +2,7 @@
 
 # 🔄 应用更新动态
 
-跟踪 **112** 个有版本号的应用，按最新版本发布时间倒序 · 同步于 2026-10-28 16:26
+跟踪 **112** 个有版本号的应用，按最新版本发布时间倒序 · 同步于 2026-10-28 16:52
 
 [← 星标总览](../README.md) · [应用目录](../apps/README.md) · [按功能](by-function.md) · [按平台](by-platform.md)
 
@@ -68,7 +68,6 @@
 
 | 应用 | 版本 | 发布 | 分类 | 简介 |
 |:---|:---|:---:|:---:|:---|
-| [dart_simple_live](../apps/video/dart_simple_live/README.md) | `v1.8.6` | 2026-08-27 | 🎬 | 简简单单的看直播 |
 | [Hail](../apps/mod/hail/README.md) | `v1.11.0` | 2026-08-26 | 🧩 | Disable / Hide / Suspend / Uninstall Android apps without… |
 | [Win11Debloat](../apps/system/win11debloat/README.md) | `2026.08.24` | 2026-08-24 | ⚙️ | A simple, lightweight PowerShell script that allows you t… |
 | [LOLkit](../apps/game/lolkit/README.md) | `version3.4.9` | 2026-08-24 | 🎮 | One gift for all LOL gamers， League of Legends工具 |
@@ -89,7 +88,6 @@
 | 应用 | 版本 | 发布 | 分类 | 简介 |
 |:---|:---|:---:|:---:|:---|
 | [ExplorerPatcher](../apps/system/explorerpatcher/README.md) | `26100.8457.70.3` | 2026-06-20 | ⚙️ | This project aims to enhance the working environment on W… |
-| [fancyss](../apps/proxy/fancyss/README.md) | `v3.1.3` | 2026-06-01 | 🌐 | fancyss is a project providing tools to across the GFW on… |
 
 ## 2026-05
 
@@ -106,7 +104,6 @@
 | 应用 | 版本 | 发布 | 分类 | 简介 |
 |:---|:---|:---:|:---:|:---|
 | [CloudflareSpeedTest](../apps/proxy/cloudflarespeedtest/README.md) | `v2.3.5` | 2026-04-29 | 🌐 | 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / … |
-| [BiliRoamingX](../apps/video/biliroamingx/README.md) | `v1.23.3` | 2026-04-29 | 🎬 | BiliRoamingX integrations and patches powered by ReVanced. |
 | [free-vpn-subscriptions](../apps/proxy/free-vpn-subscriptions/README.md) | `feed-20260419-023716` | 2026-04-19 | 🌐 | Free Clash, sing-box, and V2Ray subscription feed with li… |
 
 ## 2026-03
@@ -206,12 +203,6 @@
 |:---|:---|:---:|:---:|:---|
 | [telegram_media_downloader](../apps/download/telegram_media_downloader/README.md) | `v2.2.5` | 2025-01-06 | 📥 | 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下… |
 
-## 2024-11
-
-| 应用 | 版本 | 发布 | 分类 | 简介 |
-|:---|:---|:---:|:---:|:---|
-| [OriginPlan](../apps/other/originplan/README.md) | `12313` | 2024-11-10 | 📦 | — |
-
 ## 2024-10
 
 | 应用 | 版本 | 发布 | 分类 | 简介 |
@@ -242,18 +233,6 @@
 |:---|:---|:---:|:---:|:---|
 | [LKY_OfficeTools](../apps/auto/lky_officetools/README.md) | `v1.3.0` | 2024-02-22 | ⚡ | 一键自动化 下载、安装、激活 Office 的利器。 |
 | [IDM-Activation-Script](../apps/system/idm-activation-script/README.md) | `1.2` | 2024-02-12 | ⚙️ | An open source tool to activate and reset trial of Intern… |
-
-## 2024-01
-
-| 应用 | 版本 | 发布 | 分类 | 简介 |
-|:---|:---|:---:|:---:|:---|
-| [win-capture-audio](../apps/game/win-capture-audio/README.md) | `v2.2.3-beta` | 2024-01-30 | 🎮 | An OBS plugin that allows capture of independant applicat… |
-
-## 2023-11
-
-| 应用 | 版本 | 发布 | 分类 | 简介 |
-|:---|:---|:---:|:---:|:---|
-| [Championify](../apps/game/championify/README.md) | `2.1.5` | 2023-11-07 | 🎮 | Import recent item sets from popular aggregators like Cha… |
 
 ## 2023-10
 
@@ -309,3 +288,14 @@
 | 应用 | 版本 | 发布 | 分类 | 简介 |
 |:---|:---|:---:|:---:|:---|
 | [LTSC-Add-MicrosoftStore](../apps/system/ltsc-add-microsoftstore/README.md) | `2019` | 2018-10-05 | ⚙️ | Add Windows Store for LTSC |
+
+## 未知
+
+| 应用 | 版本 | 发布 | 分类 | 简介 |
+|:---|:---|:---:|:---:|:---|
+| [fancyss](../apps/proxy/fancyss/README.md) | `v3.1.3` | — | 🌐 | fancyss is a project providing tools to across the GFW on… |
+| [win-capture-audio](../apps/game/win-capture-audio/README.md) | `v2.2.3-beta` | — | 🎮 | An OBS plugin that allows capture of independant applicat… |
+| [Championify](../apps/game/championify/README.md) | `2.1.5` | — | 🎮 | Import recent item sets from popular aggregators like Cha… |
+| [dart_simple_live](../apps/video/dart_simple_live/README.md) | `v1.8.6` | — | 🎬 | 简简单单的看直播 |
+| [BiliRoamingX](../apps/video/biliroamingx/README.md) | `v1.23.3` | — | 🎬 | BiliRoamingX integrations and patches powered by ReVanced. |
+| [OriginPlan](../apps/other/originplan/README.md) | `12313` | — | 📦 | — |

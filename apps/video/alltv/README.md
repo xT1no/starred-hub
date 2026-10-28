@@ -10,18 +10,23 @@
 
 > 🗄️ **该仓库已归档，作者不再维护。**
 
+## ⬇️ 直接下载
+
+📲 [apk · 8.7 MB](https://github.com/Ha2ryZhang/alltv/releases/download/1.0.6beta/alltv_1.0.6_beta.apk)
+
+全部 1 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [Ha2ryZhang/alltv](https://github.com/Ha2ryZhang/alltv) |
 | 分类 | 🎬 [影视 / 直播 / 番剧](../README.md) |
 | 平台 | 📲 |
 | 语言 | Java |
-| Star | 170 · Fork 27 |
-| License | MIT |
+| Star | 170 · Fork 0 |
+| License | — |
 | 最新版本 | `1.0.6beta` |
 | 最近更新 | 2020-05-18（6 年前） |
 | 标星日期 | 2020-10-08 |
-| 官网 | <http://debugers.com:8888/swagger-ui.html#/> |
 
 ## 📦 最新版本
 
@@ -37,6 +42,8 @@
 
 </details>
 
+<a id="pkgs"></a>
+
 ## ⬇️ 安装包
 
 来自最新 Release，共 1 个文件。下表是官方直链，点名字即可下载。
@@ -50,7 +57,6 @@
 - 仓库主页 · https://github.com/Ha2ryZhang/alltv
 - Issues · https://github.com/Ha2ryZhang/alltv/issues
 - Releases · https://github.com/Ha2ryZhang/alltv/releases
-- 官网 / 演示 · http://debugers.com:8888/swagger-ui.html#/
 
 `bilibili-live` `douyu` `huya` `java`
 

@@ -6,14 +6,20 @@
 
 clash speedtest
 
+## ⬇️ 直接下载
+
+📦 [zip · 11.4 MB](https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/clash-speedtest_Windows_i386.zip)
+
+全部 10 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [faceair/clash-speedtest](https://github.com/faceair/clash-speedtest) |
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | ⌨️ |
 | 语言 | Go |
-| Star | 976 · Fork 128 |
-| License | GPL-3.0 |
+| Star | 976 · Fork 0 |
+| License | — |
 | 最新版本 | `v1.8.8` |
 | 最近更新 | 2026-05-17（5 个月前） |
 | 标星日期 | 2024-02-29 |
@@ -33,6 +39,8 @@ clash speedtest
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

@@ -17,10 +17,10 @@
   ],
   "language": "TypeScript",
   "stars": 63204,
-  "forks": 4670,
-  "license": "MIT",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://www.marktext.me",
+  "homepage": "",
   "topics": [
     "editor",
     "electron",
@@ -36,7 +36,7 @@
     "windows"
   ],
   "starred_at": "2022-07-26T16:47:43Z",
-  "pushed_at": "2026-10-28T07:54:32Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v0.23.0",
@@ -250,5 +250,5 @@
       "platform": "🔐 校验文件"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

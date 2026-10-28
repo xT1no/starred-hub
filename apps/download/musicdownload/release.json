@@ -14,8 +14,8 @@
   ],
   "language": "",
   "stars": 2444,
-  "forks": 441,
-  "license": "GPL-3.0",
+  "forks": 0,
+  "license": "",
   "archived": true,
   "homepage": "",
   "topics": [
@@ -23,7 +23,7 @@
     "qqmusicapi"
   ],
   "starred_at": "2023-04-10T18:00:04Z",
-  "pushed_at": "2023-11-03T02:11:44Z",
+  "pushed_at": "",
   "latest": {
     "kind": "none",
     "tag": "",
@@ -33,5 +33,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

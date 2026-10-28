@@ -19,10 +19,10 @@
   ],
   "language": "Dart",
   "stars": 27220,
-  "forks": 1771,
-  "license": "GPL-3.0",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://gopeed.com",
+  "homepage": "",
   "topics": [
     "android",
     "bittorrent",
@@ -41,7 +41,7 @@
     "windows"
   ],
   "starred_at": "2024-06-25T19:14:07Z",
-  "pushed_at": "2026-10-28T05:58:06Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v1.9.3",
@@ -262,5 +262,5 @@
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

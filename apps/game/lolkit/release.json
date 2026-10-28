@@ -14,16 +14,16 @@
   ],
   "language": "Shell",
   "stars": 770,
-  "forks": 39,
+  "forks": 0,
   "license": "",
   "archived": false,
-  "homepage": "https://ping11700.github.io/lolkitweb",
+  "homepage": "",
   "topics": [
     "league-of-legends",
     "lol"
   ],
   "starred_at": "2024-03-08T16:01:04Z",
-  "pushed_at": "2026-10-27T09:23:55Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "version3.4.9",
@@ -41,5 +41,5 @@
       "platform": "🌐 Web"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

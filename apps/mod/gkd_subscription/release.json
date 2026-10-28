@@ -14,7 +14,7 @@
   ],
   "language": "TypeScript",
   "stars": 6377,
-  "forks": 207,
+  "forks": 0,
   "license": "",
   "archived": false,
   "homepage": "",
@@ -25,7 +25,7 @@
     "subscription"
   ],
   "starred_at": "2026-02-19T15:11:08Z",
-  "pushed_at": "2026-10-27T22:27:26Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v620",
@@ -43,5 +43,5 @@
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

@@ -14,10 +14,10 @@
   ],
   "language": "Kotlin",
   "stars": 23291,
-  "forks": 1922,
-  "license": "NOASSERTION",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://matsuridayo.github.io/",
+  "homepage": "",
   "topics": [
     "android",
     "gfw",
@@ -29,7 +29,7 @@
     "vpn"
   ],
   "starred_at": "2024-05-14T19:16:03Z",
-  "pushed_at": "2026-02-09T03:54:59Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "1.4.2",
@@ -68,5 +68,5 @@
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

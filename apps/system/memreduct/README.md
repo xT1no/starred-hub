@@ -6,14 +6,20 @@
 
 Lightweight real-time memory management application to monitor and clean system memory on your computer.
 
+## ⬇️ 直接下载
+
+🪟 [安装版 · 0.4 MB](https://github.com/henrypp/memreduct/releases/download/v.3.5.2/memreduct-3.5.2-setup.exe) · 📦 [zip · 0.4 MB](https://github.com/henrypp/memreduct/releases/download/v.3.5.2/memreduct-3.5.2-bin.7z)
+
+全部 5 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [henrypp/memreduct](https://github.com/henrypp/memreduct) |
 | 分类 | ⚙️ [系统增强 / 优化](../README.md) |
 | 平台 | 🪟 |
 | 语言 | C |
-| Star | 11k · Fork 627 |
-| License | GPL-3.0 |
+| Star | 11k · Fork 0 |
+| License | — |
 | 最新版本 | `v.3.5.2` |
 | 最近更新 | 2025-04-01（1 年前） |
 | 标星日期 | 2026-03-19 |
@@ -37,6 +43,8 @@ Lightweight real-time memory management application to monitor and clean system 
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

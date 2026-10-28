@@ -14,8 +14,8 @@
   ],
   "language": "Kotlin",
   "stars": 7028,
-  "forks": 264,
-  "license": "GPL-3.0",
+  "forks": 0,
+  "license": "",
   "archived": false,
   "homepage": "",
   "topics": [
@@ -28,7 +28,7 @@
     "shizuku"
   ],
   "starred_at": "2024-02-01T18:45:32Z",
-  "pushed_at": "2026-10-27T23:44:25Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v1.11.0",
@@ -46,5 +46,5 @@
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

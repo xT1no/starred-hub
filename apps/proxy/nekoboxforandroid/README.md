@@ -6,18 +6,23 @@
 
 NekoBox for Android / sing-box / universal proxy toolchain for Android
 
+## ⬇️ 直接下载
+
+📲 [arm64 apk · 14.5 MB](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.4.2/NekoBox-1.4.2-arm64-v8a.apk)
+
+全部 4 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) |
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | 📲 |
 | 语言 | Kotlin |
-| Star | 23k · Fork 1.9k |
-| License | NOASSERTION |
+| Star | 23k · Fork 0 |
+| License | — |
 | 最新版本 | `1.4.2` |
 | 最近更新 | 2026-02-09（8 个月前） |
 | 标星日期 | 2024-05-14 |
-| 官网 | <https://matsuridayo.github.io/> |
 
 ## 📦 最新版本
 
@@ -47,6 +52,8 @@ NekoBox for Android / sing-box / universal proxy toolchain for Android
 
 </details>
 
+<a id="pkgs"></a>
+
 ## ⬇️ 安装包
 
 来自最新 Release，共 4 个文件。下表是官方直链，点名字即可下载。
@@ -63,7 +70,6 @@ NekoBox for Android / sing-box / universal proxy toolchain for Android
 - 仓库主页 · https://github.com/MatsuriDayo/NekoBoxForAndroid
 - Issues · https://github.com/MatsuriDayo/NekoBoxForAndroid/issues
 - Releases · https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
-- 官网 / 演示 · https://matsuridayo.github.io/
 
 `android` `gfw` `proxy` `shadowsocks` `sing-box` `trojan` `vmess` `vpn`
 

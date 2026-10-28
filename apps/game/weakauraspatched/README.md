@@ -10,14 +10,20 @@
 
 > 🗄️ **该仓库已归档，作者不再维护。**
 
+## ⬇️ 直接下载
+
+📦 [zip · 10.1 MB](https://github.com/wind-addons/WeakAurasPatched/releases/download/5.21.1/WeakAurasPatched-5.21.1.zip)
+
+全部 2 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [wind-addons/WeakAurasPatched](https://github.com/wind-addons/WeakAurasPatched) |
 | 分类 | 🎮 [游戏 / 辅助脚本](../README.md) |
 | 平台 | 🪟 |
 | 语言 | Shell |
-| Star | 38 · Fork 3 |
-| License | GPL-2.0 |
+| Star | 38 · Fork 0 |
+| License | — |
 | 最新版本 | `5.21.1` |
 | 最近更新 | 2026-01-18（9 个月前） |
 | 标星日期 | 2024-09-17 |
@@ -36,6 +42,8 @@
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

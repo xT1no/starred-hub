@@ -12,12 +12,11 @@
 | 分类 | 📥 [下载 / 网盘](../README.md) |
 | 平台 | 🧩 |
 | 语言 | JavaScript |
-| Star | 34k · Fork 2.4k |
-| License | AGPL-3.0 |
+| Star | 34k · Fork 0 |
+| License | — |
 | 最新版本 | `v1.1.3` |
 | 最近更新 | 2026-02-18（8 个月前） |
 | 标星日期 | 2023-12-07 |
-| 官网 | <https://github.com/hmjz100/LinkSwift/raw/main/%EF%BC%88%E6%94%B9%EF%BC%89%E7%BD%91%E7%9B%98%E7%9B%B4%E9%93%BE%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B.user.js> |
 
 ## 📦 最新版本
 
@@ -47,6 +46,8 @@
 
 </details>
 
+<a id="pkgs"></a>
+
 ## ⬇️ 安装包
 
 来自最新 Release，共 1 个文件。下表是官方直链，点名字即可下载。
@@ -60,7 +61,6 @@
 - 仓库主页 · https://github.com/hmjz100/LinkSwift
 - Issues · https://github.com/hmjz100/LinkSwift/issues
 - Releases · https://github.com/hmjz100/LinkSwift/releases
-- 官网 / 演示 · https://github.com/hmjz100/LinkSwift/raw/main/%EF%BC%88%E6%94%B9%EF%BC%89%E7%BD%91%E7%9B%98%E7%9B%B4%E9%93%BE%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B.user.js
 
 `123pan` `aliyun-drive` `aliyunpan` `aria2` `baidu` `baidu-netdisk` `baidunetdisk` `baidupan` `baiduyun` `guangya-netdisk` `motrix` `quark-netdisk`
 

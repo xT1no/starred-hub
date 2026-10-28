@@ -8,18 +8,23 @@
 
 PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 
+## ⬇️ 直接下载
+
+🪟 [x64 安装版 · 71.3 MB](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-windows-x64.msi) · 🍎 [通用 dmg · 94.4 MB](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-macos-universal.dmg) · 🐧 [x64 AppImage · 79.5 MB](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-x86_64.AppImage) · 📦 [x64 便携版 · 85.9 MB](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-windows-x64-portable.zip)
+
+全部 28 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [storytold/photocraft](https://github.com/storytold/photocraft) |
 | 分类 | 🎨 [图像 / 设计](../README.md) |
 | 平台 | 🖥️ |
 | 语言 | Rust |
-| Star | 74k · Fork 13k |
-| License | Apache-2.0 |
+| Star | 74k · Fork 0 |
+| License | — |
 | 最新版本 | `v0.16.0` |
 | 最近更新 | 2026-10-25（2 天前） |
 | 标星日期 | 2026-10-09 |
-| 官网 | <https://getartcraft.com/apps/photocraft> |
 
 ## 📦 最新版本
 
@@ -41,6 +46,8 @@ PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 
@@ -80,7 +87,6 @@ PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 - 仓库主页 · https://github.com/storytold/photocraft
 - Issues · https://github.com/storytold/photocraft/issues
 - Releases · https://github.com/storytold/photocraft/releases
-- 官网 / 演示 · https://getartcraft.com/apps/photocraft
 
 `art` `image-editing` `image-editing-software` `image-editor` `images` `photo-editing` `rust`
 

@@ -14,10 +14,10 @@
   ],
   "language": "Shell",
   "stars": 1592,
-  "forks": 154,
-  "license": "MIT",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "http://proxy-tutorials.dustinwin.cc.cd/",
+  "homepage": "",
   "topics": [
     "adguard-home",
     "adguardhome",
@@ -30,7 +30,7 @@
     "singbox"
   ],
   "starred_at": "2024-06-05T02:56:48Z",
-  "pushed_at": "2026-09-25T11:26:20Z",
+  "pushed_at": "",
   "latest": {
     "kind": "none",
     "tag": "",
@@ -40,5 +40,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

@@ -8,13 +8,19 @@
 
 Upscaled icon pack for World of Warcraft.
 
+## ⬇️ 直接下载
+
+📦 [zip · 1.1 GB](https://github.com/AcidWeb/Clean-Icons-Mechagnome-Edition/releases/download/12.1.5.70391-V5-1/CleanIcons-MechagnomeEdition-12.1.5.70391-V5-1.zip)
+
+全部 1 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [AcidWeb/Clean-Icons-Mechagnome-Edition](https://github.com/AcidWeb/Clean-Icons-Mechagnome-Edition) |
 | 分类 | 🎮 [游戏 / 辅助脚本](../README.md) |
 | 平台 | 🪟 |
 | 语言 | — |
-| Star | 808 · Fork 35 |
+| Star | 808 · Fork 0 |
 | License | — |
 | 最新版本 | `12.1.5.70391-V5-1` |
 | 最近更新 | 2026-10-15（12 天前） |
@@ -33,6 +39,8 @@ Upscaled icon pack for World of Warcraft.
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

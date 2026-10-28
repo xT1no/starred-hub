@@ -14,13 +14,13 @@
   ],
   "language": "Dart",
   "stars": 15773,
-  "forks": 1308,
-  "license": "NOASSERTION",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://karing.app",
+  "homepage": "",
   "topics": [],
   "starred_at": "2024-09-06T01:02:17Z",
-  "pushed_at": "2026-10-28T05:40:36Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v1.2.25.2802",
@@ -101,5 +101,5 @@
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

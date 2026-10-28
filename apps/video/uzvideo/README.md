@@ -14,12 +14,11 @@ uz影视
 | 分类 | 🎬 [影视 / 直播 / 番剧](../README.md) |
 | 平台 | 📲 |
 | 语言 | HTML |
-| Star | 1.5k · Fork 174 |
+| Star | 1.5k · Fork 0 |
 | License | — |
 | 最新版本 | 无版本标记 |
-| 最近更新 | 2025-11-04（11 个月前） |
+| 最近更新 | —（—） |
 | 标星日期 | 2025-05-28 |
-| 官网 | <https://uz-video-five.vercel.app> |
 
 ## 📦 最新版本
 
@@ -30,7 +29,6 @@ uz影视
 - 仓库主页 · https://github.com/YYDS678/uzVideo
 - Issues · https://github.com/YYDS678/uzVideo/issues
 - Releases · https://github.com/YYDS678/uzVideo/releases
-- 官网 / 演示 · https://uz-video-five.vercel.app
 
 ---
 

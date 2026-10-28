@@ -6,18 +6,23 @@
 
 NGA 去广告Xposed模块 支持 Lspatch
 
+## ⬇️ 直接下载
+
+📲 [apk · 89.3 MB](https://github.com/chr233/PureNGA/releases/download/3.4.0/nga_9.9.64-3.4.0-lspatched.apk)
+
+全部 5 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [chr233/PureNGA](https://github.com/chr233/PureNGA) |
 | 分类 | 🛡️ [广告过滤 / 隐私](../README.md) |
 | 平台 | 📲 |
 | 语言 | Kotlin |
-| Star | 1.1k · Fork 14 |
-| License | AGPL-3.0 |
+| Star | 1.1k · Fork 0 |
+| License | — |
 | 最新版本 | `3.4.0` |
 | 最近更新 | 2026-09-08（1 个月前） |
 | 标星日期 | 2023-04-04 |
-| 官网 | <https://github.com/Xposed-Modules-Repo/com.chrxw.purenga> |
 
 ## 📦 最新版本
 
@@ -47,6 +52,8 @@ NGA 去广告Xposed模块 支持 Lspatch
 
 </details>
 
+<a id="pkgs"></a>
+
 ## ⬇️ 安装包
 
 来自最新 Release，共 5 个文件。下表是官方直链，点名字即可下载。
@@ -64,7 +71,6 @@ NGA 去广告Xposed模块 支持 Lspatch
 - 仓库主页 · https://github.com/chr233/PureNGA
 - Issues · https://github.com/chr233/PureNGA/issues
 - Releases · https://github.com/chr233/PureNGA/releases
-- 官网 / 演示 · https://github.com/Xposed-Modules-Repo/com.chrxw.purenga
 
 `178` `ezxhelper` `nga` `purenga` `xposed`
 

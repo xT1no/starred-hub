@@ -12,12 +12,11 @@
 | 分类 | ⚡ [自动化 / 部署](../README.md) |
 | 平台 | ☁️ 🐧 |
 | 语言 | Python |
-| Star | 8.7k · Fork 1.3k |
-| License | MIT |
+| Star | 8.7k · Fork 0 |
+| License | — |
 | 最新版本 | `25.12.9` |
 | 最近更新 | 2025-12-24（10 个月前） |
 | 标星日期 | 2022-07-27 |
-| 官网 | <https://sitoi.github.io/dailycheckin/> |
 
 ## 📦 最新版本
 
@@ -47,7 +46,6 @@
 - 仓库主页 · https://github.com/Sitoi/dailycheckin
 - Issues · https://github.com/Sitoi/dailycheckin/issues
 - Releases · https://github.com/Sitoi/dailycheckin/releases
-- 官网 / 演示 · https://sitoi.github.io/dailycheckin/
 
 `acfun` `aliyundrive` `baidu` `bilibili` `chatgpt` `checkin` `dailycheckin` `docker` `imaotai` `iqiyi` `kgqq` `mimotion`
 

@@ -16,10 +16,10 @@
   ],
   "language": "TypeScript",
   "stars": 8406,
-  "forks": 901,
-  "license": "NOASSERTION",
+  "forks": 0,
+  "license": "",
   "archived": true,
-  "homepage": "https://github.com/bepass-org/oblivion-desktop/releases",
+  "homepage": "",
   "topics": [
     "anticensorship",
     "cloudflare",
@@ -43,7 +43,7 @@
     "zerotrust"
   ],
   "starred_at": "2024-06-02T17:30:27Z",
-  "pushed_at": "2026-06-30T04:31:48Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v3.11.0",
@@ -180,5 +180,5 @@
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

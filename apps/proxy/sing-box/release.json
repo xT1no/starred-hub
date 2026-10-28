@@ -14,13 +14,13 @@
   ],
   "language": "Go",
   "stars": 39331,
-  "forks": 4840,
-  "license": "NOASSERTION",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://sing-box.sagernet.org/",
+  "homepage": "",
   "topics": [],
   "starred_at": "2024-05-12T18:27:19Z",
-  "pushed_at": "2026-10-28T02:44:53Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v1.14.4",
@@ -311,5 +311,5 @@
       "platform": "🐧 Linux"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

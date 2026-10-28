@@ -12,12 +12,11 @@ EDtunnel 是一个基于 Cloudflare Workers 和 Pages 的代理工具，支持�
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | ☁️ 🌐 |
 | 语言 | JavaScript |
-| Star | 3.1k · Fork 5.3k |
-| License | MIT |
+| Star | 3.1k · Fork 0 |
+| License | — |
 | 最新版本 | 无版本标记 |
-| 最近更新 | 2026-04-25（6 个月前） |
+| 最近更新 | —（—） |
 | 标星日期 | 2024-09-11 |
-| 官网 | <https://cfworker.edtunnel.best/> |
 
 ## 📦 最新版本
 
@@ -28,7 +27,6 @@ EDtunnel 是一个基于 Cloudflare Workers 和 Pages 的代理工具，支持�
 - 仓库主页 · https://github.com/6Kmfi6HP/EDtunnel
 - Issues · https://github.com/6Kmfi6HP/EDtunnel/issues
 - Releases · https://github.com/6Kmfi6HP/EDtunnel/releases
-- 官网 / 演示 · https://cfworker.edtunnel.best/
 
 `cloudflare` `cloudflare-pages` `cloudflare-workers` `edtunnel` `nodejs` `v2ray` `vless` `xray`
 

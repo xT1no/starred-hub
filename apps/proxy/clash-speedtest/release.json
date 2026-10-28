@@ -14,8 +14,8 @@
   ],
   "language": "Go",
   "stars": 976,
-  "forks": 128,
-  "license": "GPL-3.0",
+  "forks": 0,
+  "license": "",
   "archived": false,
   "homepage": "",
   "topics": [
@@ -23,7 +23,7 @@
     "mihomo"
   ],
   "starred_at": "2024-02-29T16:58:29Z",
-  "pushed_at": "2026-05-17T16:13:50Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v1.8.8",
@@ -104,5 +104,5 @@
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

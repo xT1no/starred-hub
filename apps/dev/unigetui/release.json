@@ -15,10 +15,10 @@
   ],
   "language": "C#",
   "stars": 26792,
-  "forks": 964,
-  "license": "MIT",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://devolutions.net/unigetui/",
+  "homepage": "",
   "topics": [
     "chocolatey",
     "cli",
@@ -34,7 +34,7 @@
     "winget"
   ],
   "starred_at": "2026-04-12T12:53:56Z",
-  "pushed_at": "2026-10-27T20:58:42Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v2026.3.2",
@@ -206,5 +206,5 @@
       "platform": "🌐 Web"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

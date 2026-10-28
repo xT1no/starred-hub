@@ -14,16 +14,16 @@
   ],
   "language": "C++",
   "stars": 77353,
-  "forks": 8256,
-  "license": "MIT",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://nomic.ai/gpt4all",
+  "homepage": "",
   "topics": [
     "ai-chat",
     "llm-inference"
   ],
   "starred_at": "2024-05-13T17:24:18Z",
-  "pushed_at": "2025-05-27T20:05:19Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v3.10.0",
@@ -62,5 +62,5 @@
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

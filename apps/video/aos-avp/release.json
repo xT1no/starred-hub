@@ -14,8 +14,8 @@
   ],
   "language": "HTML",
   "stars": 4768,
-  "forks": 279,
-  "license": "Apache-2.0",
+  "forks": 0,
+  "license": "",
   "archived": false,
   "homepage": "",
   "topics": [
@@ -27,7 +27,7 @@
     "video"
   ],
   "starred_at": "2024-04-17T16:03:40Z",
-  "pushed_at": "2026-10-27T18:05:14Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v6.6.2",
@@ -80,5 +80,5 @@
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

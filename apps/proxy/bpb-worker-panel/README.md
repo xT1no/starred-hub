@@ -12,12 +12,11 @@ A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs al
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | ☁️ 🪟 🐧 📱 📲 🖥️ |
 | 语言 | TypeScript |
-| Star | 14k · Fork 32k |
-| License | GPL-3.0 |
+| Star | 14k · Fork 0 |
+| License | — |
 | 最新版本 | `v5.1.1` |
 | 最近更新 | 2026-07-19（3 个月前） |
 | 标星日期 | 2024-07-06 |
-| 官网 | <https://bia-pain-bache.github.io/BPB-Worker-Panel/> |
 
 ## 📦 最新版本
 
@@ -44,6 +43,8 @@ Also manual deployment and BPB Wizard client deployments do not work on this rel
 
 </details>
 
+<a id="pkgs"></a>
+
 ## ⬇️ 安装包
 
 来自最新 Release，共 1 个文件。下表是官方直链，点名字即可下载。
@@ -57,7 +58,6 @@ Also manual deployment and BPB Wizard client deployments do not work on this rel
 - 仓库主页 · https://github.com/bia-pain-bache/BPB-Worker-Panel
 - Issues · https://github.com/bia-pain-bache/BPB-Worker-Panel/issues
 - Releases · https://github.com/bia-pain-bache/BPB-Worker-Panel/releases
-- 官网 / 演示 · https://bia-pain-bache.github.io/BPB-Worker-Panel/
 
 `amnezia` `android` `chain` `clash-core` `doh-server` `fragment` `ios` `linux` `mihomo` `proxy-chain` `singbox-core` `trojan`
 

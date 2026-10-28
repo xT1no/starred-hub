@@ -14,8 +14,8 @@
   ],
   "language": "C",
   "stars": 28331,
-  "forks": 755,
-  "license": "NOASSERTION",
+  "forks": 0,
+  "license": "",
   "archived": false,
   "homepage": "",
   "topics": [
@@ -36,7 +36,7 @@
     "screenshot"
   ],
   "starred_at": "2024-04-14T14:37:38Z",
-  "pushed_at": "2026-10-28T02:39:26Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "2.0.2.6",
@@ -54,5 +54,5 @@
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

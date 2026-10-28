@@ -6,18 +6,23 @@
 
 一个支持超分辨率的在线动漫弹幕APP。多平台，多番剧源，多弹幕，高清无广告。追番看番必备软件。
 
+## ⬇️ 直接下载
+
+🪟 [安装版 · 36.0 MB](https://github.com/Sle2p/AniCh/releases/download/1.5.27/anich-windows-installer-1.5.27.exe) · 📲 [arm64 apk · 25.3 MB](https://github.com/Sle2p/AniCh/releases/download/1.5.27/anich-android-arm64-v8a-1.5.27.apk) · 🍎 [dmg · 53.4 MB](https://github.com/Sle2p/AniCh/releases/download/1.5.27/anich-macos-1.5.27.dmg) · 🐧 [deb · 21.4 MB](https://github.com/Sle2p/AniCh/releases/download/1.5.27/anich-linux-1.5.27.deb) · 📦 [zip · 47.7 MB](https://github.com/Sle2p/AniCh/releases/download/1.5.27/anich-windows-1.5.27.zip)
+
+全部 12 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [Sle2p/AniCh](https://github.com/Sle2p/AniCh) |
 | 分类 | 🎬 [影视 / 直播 / 番剧](../README.md) |
 | 平台 | 🌐 |
 | 语言 | Dart |
-| Star | 7.3k · Fork 147 |
+| Star | 7.3k · Fork 0 |
 | License | — |
 | 最新版本 | `1.5.27` |
 | 最近更新 | 2026-10-05（23 天前） |
 | 标星日期 | 2026-04-09 |
-| 官网 | <https://anich.emmmm.eu.org> |
 
 ## 📦 最新版本
 
@@ -32,6 +37,8 @@
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 
@@ -57,7 +64,6 @@
 - 仓库主页 · https://github.com/Sle2p/AniCh
 - Issues · https://github.com/Sle2p/AniCh/issues
 - Releases · https://github.com/Sle2p/AniCh/releases
-- 官网 / 演示 · https://anich.emmmm.eu.org
 
 `acg` `anime` `anime-chan` `anime-channel` `anime4k` `bangumi` `danmaku`
 

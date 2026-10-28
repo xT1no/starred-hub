@@ -14,10 +14,10 @@ Import recent item sets from popular aggregators like Champion.gg in to League o
 | 分类 | 🎮 [游戏 / 辅助脚本](../README.md) |
 | 平台 | 🖥️ |
 | 语言 | HTML |
-| Star | 870 · Fork 144 |
-| License | MIT |
+| Star | 870 · Fork 0 |
+| License | — |
 | 最新版本 | `2.1.5` |
-| 最近更新 | 2023-11-07（2 年前） |
+| 最近更新 | —（—） |
 | 标星日期 | 2020-08-15 |
 
 ## 📦 最新版本

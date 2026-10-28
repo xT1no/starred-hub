@@ -6,18 +6,23 @@
 
 One gift for all LOL gamers， League of Legends工具
 
+## ⬇️ 直接下载
+
+📦 [zip · 22.2 MB](https://github.com/ping11700/LOLkit/releases/download/version3.4.9/LOLkit3.4.9.zip)
+
+全部 1 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [ping11700/LOLkit](https://github.com/ping11700/LOLkit) |
 | 分类 | 🎮 [游戏 / 辅助脚本](../README.md) |
 | 平台 | 🪟 |
 | 语言 | Shell |
-| Star | 770 · Fork 39 |
+| Star | 770 · Fork 0 |
 | License | — |
 | 最新版本 | `version3.4.9` |
 | 最近更新 | 2026-08-24（2 个月前） |
 | 标星日期 | 2024-03-08 |
-| 官网 | <https://ping11700.github.io/lolkitweb> |
 
 ## 📦 最新版本
 
@@ -37,6 +42,8 @@ One gift for all LOL gamers， League of Legends工具
 
 </details>
 
+<a id="pkgs"></a>
+
 ## ⬇️ 安装包
 
 来自最新 Release，共 1 个文件。下表是官方直链，点名字即可下载。
@@ -50,7 +57,6 @@ One gift for all LOL gamers， League of Legends工具
 - 仓库主页 · https://github.com/ping11700/LOLkit
 - Issues · https://github.com/ping11700/LOLkit/issues
 - Releases · https://github.com/ping11700/LOLkit/releases
-- 官网 / 演示 · https://ping11700.github.io/lolkitweb
 
 `league-of-legends` `lol`
 

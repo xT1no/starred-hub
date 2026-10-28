@@ -8,14 +8,20 @@
 
 青听音乐-一款免费无广告的本地音乐播放器。
 
+## ⬇️ 直接下载
+
+📲 [apk · 48.6 MB](https://github.com/kejichangqing/QingMusic/releases/download/v1.4.0/QingMusic_v1.4.0-arm-release.apk)
+
+全部 2 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [kejichangqing/QingMusic](https://github.com/kejichangqing/QingMusic) |
 | 分类 | 🎵 [音乐 / 音频](../README.md) |
 | 平台 | 🪟 |
 | 语言 | — |
-| Star | 1.9k · Fork 84 |
-| License | Apache-2.0 |
+| Star | 1.9k · Fork 0 |
+| License | — |
 | 最新版本 | `v1.4.0` |
 | 最近更新 | 2026-10-16（11 天前） |
 | 标星日期 | 2026-09-15 |
@@ -47,6 +53,8 @@
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

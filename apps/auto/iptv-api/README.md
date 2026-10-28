@@ -6,18 +6,23 @@
 
 ⚡️ IPTV直播源自动更新工具：自动采集、校验、测速并生成可播放结果，支持 M3U/TXT/API 输出、自定义频道、IPv4/IPv6、Docker、GitHub Actions、CLI 与 GUI 多端部署
 
+## ⬇️ 直接下载
+
+📦 [x64 zip · 82.5 MB](https://github.com/Guovin/iptv-api/releases/download/3.1.0/IPTV-API-GUI-Windows-X64-v3.1.0.zip)
+
+全部 3 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [Guovin/iptv-api](https://github.com/Guovin/iptv-api) |
 | 分类 | ⚡ [自动化 / 部署](../README.md) |
 | 平台 | 📺 ⌨️ |
 | 语言 | Python |
-| Star | 26k · Fork 7.6k |
-| License | NOASSERTION |
+| Star | 26k · Fork 0 |
+| License | — |
 | 最新版本 | `3.1.0` |
 | 最近更新 | 2026-10-12（16 天前） |
 | 标星日期 | 2026-04-16 |
-| 官网 | <https://guovin.github.io/iptv-api/> |
 
 ## 📦 最新版本
 
@@ -47,6 +52,8 @@
 
 </details>
 
+<a id="pkgs"></a>
+
 ## ⬇️ 安装包
 
 来自最新 Release，共 3 个文件。下表是官方直链，点名字即可下载。
@@ -62,7 +69,6 @@
 - 仓库主页 · https://github.com/Guovin/iptv-api
 - Issues · https://github.com/Guovin/iptv-api/issues
 - Releases · https://github.com/Guovin/iptv-api/releases
-- 官网 / 演示 · https://guovin.github.io/iptv-api/
 
 `auto-update` `awesome` `epg` `iptv` `iptv-api` `iptv-channels` `iptv-free` `iptv-m3u` `iptv-m3u8` `iptv-playlist` `ipv4` `ipv6`
 

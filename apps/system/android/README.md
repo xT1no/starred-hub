@@ -8,18 +8,23 @@
 
 Share files between android and PC via the Windows 10 / 11 built-in nearby-sharing functionality (Project Rome)
 
+## ⬇️ 直接下载
+
+📲 [apk · 81.2 MB](https://github.com/nearby-sharing/android/releases/download/v1.11.1/de.shortdev.nearby_sharing_windows.42.apk)
+
+全部 1 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [nearby-sharing/android](https://github.com/nearby-sharing/android) |
 | 分类 | ⚙️ [系统增强 / 优化](../README.md) |
 | 平台 | 🪟 📲 |
 | 语言 | C# |
-| Star | 898 · Fork 43 |
-| License | GPL-3.0 |
+| Star | 898 · Fork 0 |
+| License | — |
 | 最新版本 | `v1.11.1` |
 | 最近更新 | 2026-05-21（5 个月前） |
 | 标星日期 | 2024-02-28 |
-| 官网 | <https://nearshare.shortdev.de> |
 
 ## 📦 最新版本
 
@@ -48,6 +53,8 @@ Share files between android and PC via the Windows 10 / 11 built-in nearby-shari
 
 </details>
 
+<a id="pkgs"></a>
+
 ## ⬇️ 安装包
 
 来自最新 Release，共 1 个文件。下表是官方直链，点名字即可下载。
@@ -61,7 +68,6 @@ Share files between android and PC via the Windows 10 / 11 built-in nearby-shari
 - 仓库主页 · https://github.com/nearby-sharing/android
 - Issues · https://github.com/nearby-sharing/android/issues
 - Releases · https://github.com/nearby-sharing/android/releases
-- 官网 / 演示 · https://nearshare.shortdev.de
 
 `airdrop` `android` `bluetooth` `hacktoberfest` `nearby` `nearby-sharing` `nearshare` `project-rome` `share` `wifi` `windows-10` `windows-11`
 

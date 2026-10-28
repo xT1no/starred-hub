@@ -6,22 +6,27 @@
 
 Office Tool Plus localization projects.
 
+## ⬇️ 直接下载
+
+📦 [x64 zip · 10.3 MB](https://github.com/YerongAI/Office-Tool/releases/download/v11.8.50.0/Office_Tool_v11.8.50.0_x64.zip)
+
+全部 6 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) |
 | 分类 | 📄 [办公 / 阅读 / 笔记](../README.md) |
 | 平台 | 🪟 |
 | 语言 | PowerShell |
-| Star | 15k · Fork 1.1k |
-| License | MIT |
+| Star | 15k · Fork 0 |
+| License | — |
 | 最新版本 | `v11.8.50.0` |
-| 最近更新 | 2026-10-18（9 天前） |
+| 最近更新 | 2026-10-18（10 天前） |
 | 标星日期 | 2024-03-08 |
-| 官网 | <https://www.officetool.plus> |
 
 ## 📦 最新版本
 
-**`v11.8.50.0`** · Office Tool Plus v11.8.50.0　发布于 2026-10-18（9 天前）
+**`v11.8.50.0`** · Office Tool Plus v11.8.50.0　发布于 2026-10-18（10 天前）
 
 [查看 Release 页面](https://github.com/YerongAI/Office-Tool/releases/tag/v11.8.50.0)
 
@@ -48,6 +53,8 @@ Office Tool Plus localization projects.
 
 </details>
 
+<a id="pkgs"></a>
+
 ## ⬇️ 安装包
 
 来自最新 Release，共 6 个文件。下表是官方直链，点名字即可下载。
@@ -66,7 +73,6 @@ Office Tool Plus localization projects.
 - 仓库主页 · https://github.com/YerongAI/Office-Tool
 - Issues · https://github.com/YerongAI/Office-Tool/issues
 - Releases · https://github.com/YerongAI/Office-Tool/releases
-- 官网 / 演示 · https://www.officetool.plus
 
 `msoffice` `msproject` `office` `office-365` `office-tools` `office365` `visio`
 

@@ -6,13 +6,19 @@
 
 > 清理网络连接列表残留
 
+## ⬇️ 直接下载
+
+🪟 [安装版 · 0.0 MB](https://github.com/control0forver/NetWorkList-Clear/releases/download/1.1.0.0_Release_X86/NetWorkList.Clear.exe)
+
+全部 2 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [control0forver/NetWorkList-Clear](https://github.com/control0forver/NetWorkList-Clear) |
 | 分类 | ⚙️ [系统增强 / 优化](../README.md) |
 | 平台 | 🪟 |
 | 语言 | C# |
-| Star | 11 · Fork 1 |
+| Star | 11 · Fork 0 |
 | License | — |
 | 最新版本 | `1.1.0.0_Release_X86` |
 | 最近更新 | 2023-06-22（3 年前） |
@@ -23,6 +29,8 @@
 **`1.1.0.0_Release_X86`** · 1.1.0.0 Release X86　发布于 2023-06-22（3 年前）
 
 [查看 Release 页面](https://github.com/control0forver/NetWorkList-Clear/releases/tag/1.1.0.0_Release_X86)
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

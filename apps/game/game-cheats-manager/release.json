@@ -14,13 +14,13 @@
   ],
   "language": "C++",
   "stars": 15748,
-  "forks": 571,
-  "license": "GPL-3.0",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://gamezonelabs.com",
+  "homepage": "",
   "topics": [],
   "starred_at": "2025-03-01T08:11:57Z",
-  "pushed_at": "2026-10-25T07:28:38Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v2.5.4",
@@ -45,5 +45,5 @@
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

@@ -14,13 +14,13 @@
   ],
   "language": "",
   "stars": 2608,
-  "forks": 799,
-  "license": "MIT",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://ipdb.030101.xyz",
+  "homepage": "",
   "topics": [],
   "starred_at": "2024-06-20T02:04:17Z",
-  "pushed_at": "2026-10-28T08:09:10Z",
+  "pushed_at": "",
   "latest": {
     "kind": "none",
     "tag": "",
@@ -30,5 +30,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

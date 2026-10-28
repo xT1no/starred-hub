@@ -17,10 +17,10 @@
   ],
   "language": "TypeScript",
   "stars": 57547,
-  "forks": 5126,
-  "license": "NOASSERTION",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://motrix.app",
+  "homepage": "",
   "topics": [
     "aria2",
     "bt",
@@ -35,7 +35,7 @@
     "windows"
   ],
   "starred_at": "2023-12-07T06:48:32Z",
-  "pushed_at": "2026-10-28T05:47:35Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v2.1.0",
@@ -298,5 +298,5 @@
       "platform": "🐧 Linux"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

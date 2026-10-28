@@ -6,18 +6,23 @@
 
 一个基于 Electron 的音乐软件
 
+## ⬇️ 直接下载
+
+🪟 [x64 安装版 · 116 MB](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-x64-Setup.exe) · 🍎 [arm64 dmg · 125 MB](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-2.12.6-arm64.dmg) · 🐧 [x64 AppImage · 133 MB](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop_2.12.6_x64.AppImage) · 📦 [x64 zip · 96.1 MB](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-win_x64-green.7z)
+
+全部 25 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) |
 | 分类 | 🎵 [音乐 / 音频](../README.md) |
 | 平台 | 🌐 🖥️ |
 | 语言 | TypeScript |
-| Star | 55k · Fork 7.1k |
-| License | Apache-2.0 |
+| Star | 55k · Fork 0 |
+| License | — |
 | 最新版本 | `v2.12.6` |
 | 最近更新 | 2026-09-19（1 个月前） |
 | 标星日期 | 2024-06-18 |
-| 官网 | <https://lyswhut.github.io/lx-music-doc/> |
 
 ## 📦 最新版本
 
@@ -46,6 +51,8 @@ Any Listen 的项目地址为 https://github.com/any-listen/any-listen
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 
@@ -85,7 +92,6 @@ Any Listen 的项目地址为 https://github.com/any-listen/any-listen
 - 仓库主页 · https://github.com/lyswhut/lx-music-desktop
 - Issues · https://github.com/lyswhut/lx-music-desktop/issues
 - Releases · https://github.com/lyswhut/lx-music-desktop/releases
-- 官网 / 演示 · https://lyswhut.github.io/lx-music-doc/
 
 `electron` `javascript` `music-player` `vue`
 

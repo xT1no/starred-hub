@@ -6,13 +6,19 @@
 
 > Cloudflare Workers 节点部署
 
+## ⬇️ 直接下载
+
+📦 [zip · 0.0 MB](https://github.com/byJoey/cfnew/releases/download/v2026.10.17.2/Pages.zip)
+
+全部 3 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [byJoey/cfnew](https://github.com/byJoey/cfnew) |
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | 🌐 |
 | 语言 | Python |
-| Star | 17k · Fork 8.5k |
+| Star | 17k · Fork 0 |
 | License | — |
 | 最新版本 | `v2026.10.17.2` |
 | 最近更新 | 2026-10-18（10 天前） |
@@ -45,6 +51,8 @@ Windows、macOS、Linux 都用同一份，按 Cloudflare 部署方式选择。
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

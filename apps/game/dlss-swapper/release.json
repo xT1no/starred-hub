@@ -14,13 +14,13 @@
   ],
   "language": "C#",
   "stars": 7978,
-  "forks": 250,
-  "license": "GPL-3.0",
+  "forks": 0,
+  "license": "",
   "archived": false,
   "homepage": "",
   "topics": [],
   "starred_at": "2026-09-15T08:09:20Z",
-  "pushed_at": "2026-10-18T05:35:15Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v1.2.7.0",
@@ -45,5 +45,5 @@
       "platform": "🌐 Web"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

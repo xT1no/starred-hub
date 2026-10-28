@@ -15,10 +15,10 @@
   ],
   "language": "TypeScript",
   "stars": 54832,
-  "forks": 7084,
-  "license": "Apache-2.0",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://lyswhut.github.io/lx-music-doc/",
+  "homepage": "",
   "topics": [
     "electron",
     "javascript",
@@ -26,7 +26,7 @@
     "vue"
   ],
   "starred_at": "2024-06-18T08:05:15Z",
-  "pushed_at": "2026-10-26T04:57:55Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v2.12.6",
@@ -212,5 +212,5 @@
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

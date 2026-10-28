@@ -14,10 +14,10 @@
   ],
   "language": "TypeScript",
   "stars": 322,
-  "forks": 17,
-  "license": "GPL-3.0",
+  "forks": 0,
+  "license": "",
   "archived": false,
-  "homepage": "https://dev.electronisland.com/",
+  "homepage": "",
   "topics": [
     "cicd",
     "claude",
@@ -30,7 +30,7 @@
     "vite"
   ],
   "starred_at": "2026-06-20T07:30:41Z",
-  "pushed_at": "2026-10-28T04:00:20Z",
+  "pushed_at": "",
   "latest": {
     "kind": "release",
     "tag": "v27.0.0",
@@ -62,5 +62,5 @@
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-10-28T16:26:01+08:00"
+  "generated_at": "2026-10-28T16:52:00+08:00"
 }

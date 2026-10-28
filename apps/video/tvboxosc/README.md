@@ -6,13 +6,19 @@
 
 > TVBox 配置与源
 
+## ⬇️ 直接下载
+
+📲 [apk · 31.8 MB](https://github.com/j4Uq/TVBoxOSC/releases/download/20260914-1520/TVBox_q215613905_20260914-1520-java.apk) · 📦 [sourceCode-ab11d28.tar.… · 15.9 MB](https://github.com/j4Uq/TVBoxOSC/releases/download/20260914-1520/sourceCode-ab11d28.tar.xz)
+
+全部 7 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [j4Uq/TVBoxOSC](https://github.com/j4Uq/TVBoxOSC) |
 | 分类 | 🎬 [影视 / 直播 / 番剧](../README.md) |
 | 平台 | 📺 |
 | 语言 | — |
-| Star | 18k · Fork 2.2k |
+| Star | 18k · Fork 0 |
 | License | — |
 | 最新版本 | `20260914-1520` |
 | 最近更新 | 2026-09-14（1 个月前） |
@@ -45,6 +51,8 @@ Changelog:
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

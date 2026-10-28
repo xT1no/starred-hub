@@ -6,14 +6,20 @@
 
 NOVA opeN sOurce Video plAyer: main repository to build them all
 
+## ⬇️ 直接下载
+
+📲 [arm64 apk · 33.4 MB](https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.2/org.courville.nova-2673649-6.6.2-20261027.1847-arm64-v8a-release.apk)
+
+全部 6 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [nova-video-player/aos-AVP](https://github.com/nova-video-player/aos-AVP) |
 | 分类 | 🎬 [影视 / 直播 / 番剧](../README.md) |
 | 平台 | 📲 |
 | 语言 | HTML |
-| Star | 4.8k · Fork 279 |
-| License | Apache-2.0 |
+| Star | 4.8k · Fork 0 |
+| License | — |
 | 最新版本 | `v6.6.2` |
 | 最近更新 | 2026-10-27（今天） |
 | 标星日期 | 2024-04-17 |
@@ -38,6 +44,8 @@ NOVA opeN sOurce Video plAyer: main repository to build them all
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

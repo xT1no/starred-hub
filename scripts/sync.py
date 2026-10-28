@@ -256,6 +256,7 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--public", metavar="LOGIN", help="不给 token，读取该用户的公开星标")
     ap.add_argument("--demo", action="store_true", help="用内置示例数据生成预览，不联网")
     ap.add_argument("--use-cache", action="store_true", help="不请求 Release 接口，复用 data/releases.json")
+    ap.add_argument("--offline", action="store_true", help="完全不联网，用 data/stars.json + data/releases.json 重渲染")
     args = ap.parse_args(argv)
 
     started = time.time()
@@ -268,6 +269,27 @@ def main(argv: list[str] | None = None) -> int:
         repos = [normalize_raw(x) for x in DEMO_RAW]
         login = "your-name"
         prev = {"repos": {}, "recently_removed": []}
+    elif args.offline:
+        snap = load_snapshot()
+        if not snap.get("repos"):
+            raise SystemExit("data/stars.json 不存在或为空，无法离线渲染")
+        log("== 离线模式：读取 data/stars.json，不访问网络 ==")
+        repos = []
+        for full_name, item in snap["repos"].items():
+            repo = dict(item)
+            repo["full_name"] = full_name
+            repo.setdefault("name", full_name.split("/")[-1])
+            repo.setdefault("owner", full_name.split("/")[0])
+            repo.setdefault("description", "")
+            repo.setdefault("topics", [])
+            repo.setdefault("forks", 0)
+            repo.setdefault("license", None)
+            repo.setdefault("homepage", None)
+            repo.setdefault("html_url", f"https://github.com/{full_name}")
+            repos.append(repo)
+        login = snap.get("login") or "xT1no"
+        prev = snap
+        args.use_cache = True
     else:
         token = os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN") or os.environ.get("STARS_TOKEN")
         if not token and not args.public:
@@ -402,9 +424,10 @@ def main(argv: list[str] | None = None) -> int:
             for r in repos
         },
         "recently_removed": removed,
+        "login": login,
     }
     SNAPSHOT.parent.mkdir(parents=True, exist_ok=True)
-    if not args.demo:
+    if not args.demo and not args.offline:
         _write(SNAPSHOT, json.dumps(snapshot, ensure_ascii=False, indent=2) + "\n")
         _write(
             UNCLASSIFIED,

@@ -8,14 +8,20 @@
 
 解决某些地区Edge浏览器copilot消失的问题
 
+## ⬇️ 直接下载
+
+🪟 [x64 安装版 · 3.3 MB](https://github.com/emmm1245/EdgeCopilotFix/releases/download/1.2/EdgeCopilotFixTool-windows-amd64.exe)
+
+全部 4 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [emmm1245/EdgeCopilotFix](https://github.com/emmm1245/EdgeCopilotFix) |
 | 分类 | 🧩 [应用增强 / 模块](../README.md) |
 | 平台 | 🪟 |
 | 语言 | Go |
-| Star | 110 · Fork 5 |
-| License | MIT |
+| Star | 110 · Fork 0 |
+| License | — |
 | 最新版本 | `1.2` |
 | 最近更新 | 2026-10-16（11 天前） |
 | 标星日期 | 2026-01-10 |
@@ -41,6 +47,8 @@
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 

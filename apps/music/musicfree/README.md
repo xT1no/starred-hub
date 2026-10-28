@@ -6,18 +6,23 @@
 
 插件化、定制化、无广告的免费音乐播放器
 
+## ⬇️ 直接下载
+
+📲 [arm64 apk · 17.4 MB](https://github.com/maotoumao/MusicFree/releases/download/v0.6.2/app-arm64-v8a-release.apk)
+
+全部 5 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) |
 | 分类 | 🎵 [音乐 / 音频](../README.md) |
 | 平台 | 🌐 📱 |
 | 语言 | TypeScript |
-| Star | 28k · Fork 2k |
-| License | AGPL-3.0 |
+| Star | 28k · Fork 0 |
+| License | — |
 | 最新版本 | `v0.6.2` |
 | 最近更新 | 2025-10-11（1 年前） |
 | 标星日期 | 2025-10-15 |
-| 官网 | <https://musicfree.catcat.work> |
 
 ## 📦 最新版本
 
@@ -32,6 +37,8 @@
 ```
 
 </details>
+
+<a id="pkgs"></a>
 
 ## ⬇️ 安装包
 
@@ -50,7 +57,6 @@
 - 仓库主页 · https://github.com/maotoumao/MusicFree
 - Issues · https://github.com/maotoumao/MusicFree/issues
 - Releases · https://github.com/maotoumao/MusicFree/releases
-- 官网 / 演示 · https://musicfree.catcat.work
 
 `free` `music-player` `musicfree` `plugin` `react` `react-native` `typescript`
 
