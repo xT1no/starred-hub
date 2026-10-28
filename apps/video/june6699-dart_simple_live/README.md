@@ -61,7 +61,7 @@
 | [simple_live_app-1.13.2+11302-linux.zip](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/simple_live_app-1.13.2%2B11302-linux.zip) | 🐧 Linux | 41.3 MB | 32 |
 | [simple_live_app-1.13.2+11302-linux.deb](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/simple_live_app-1.13.2%2B11302-linux.deb) | 🐧 Linux | 31.0 MB | 13 |
 | [mpv-dev-x86_64-20261021-git-e471496c56.7z](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/mpv-dev-x86_64-20261021-git-e471496c56.7z) | ⌨️ CLI | 30.2 MB | 31 |
-| [ios_no_sign.ipa](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/ios_no_sign.ipa) | 📦 其他 | 33.5 MB | 289 |
+| [ios_no_sign.ipa](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/ios_no_sign.ipa) | 📦 其他 | 33.5 MB | 290 |
 
 ## 🔗 快速链接
 

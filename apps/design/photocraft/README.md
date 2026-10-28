@@ -63,8 +63,8 @@ PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 | [photocraft-0.16.0-linux-x86_64.pkg.tar.zst](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-x86_64.pkg.tar.zst) | 🐧 Linux | 66.2 MB | 1.3k |
 | [photocraft-0.16.0-linux-aarch64.AppImage](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-aarch64.AppImage) | 🐧 Linux | 75.4 MB | 1.1k |
 | [photocraft-0.16.0-linux-aarch64.deb](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-aarch64.deb) | 🐧 Linux | 81.6 MB | 880 |
-| [photocraft-0.16.0-linux-aarch64.flatpak](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-aarch64.flatpak) | 🐧 Linux | 57.7 MB | 686 |
-| [photocraft-0.16.0-linux-aarch64.tar.gz](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-aarch64.tar.gz) | 🐧 Linux | 79.3 MB | 663 |
+| [photocraft-0.16.0-linux-aarch64.flatpak](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-aarch64.flatpak) | 🐧 Linux | 57.7 MB | 687 |
+| [photocraft-0.16.0-linux-aarch64.tar.gz](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-aarch64.tar.gz) | 🐧 Linux | 79.3 MB | 664 |
 | [photocraft-0.16.0-linux-aarch64.rpm](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-aarch64.rpm) | 🐧 Linux | 80.9 MB | 522 |
 | [photocraft-0.16.0-linux-riscv64.deb](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-riscv64.deb) | 🐧 Linux | 82.5 MB | 519 |
 | [photocraft-0.16.0-linux-aarch64.AppImage.zsync](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-aarch64.AppImage.zsync) | 🐧 Linux | 264 KB | 445 |

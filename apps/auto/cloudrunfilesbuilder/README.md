@@ -55,11 +55,11 @@
 | [argon-2.4.3-r20250722_x86_64.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-10-27/argon-2.4.3-r20250722_x86_64.run) | ⌨️ CLI | 415 KB | 2 |
 | [clashoo_2026.10.25_x86_64.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-10-27/clashoo_2026.10.25_x86_64.run) | ⌨️ CLI | 22.8 MB | 2 |
 | [dufs-0.46.0-r1_x86_64.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-10-27/dufs-0.46.0-r1_x86_64.run) | ⌨️ CLI | 2.5 MB | 1 |
-| [25-openclash-aarch64_cortex-a53-v0.48.002.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-10-27/25-openclash-aarch64_cortex-a53-v0.48.002.run) | 📦 其他 | 23.0 MB | 25 |
+| [25-openclash-aarch64_cortex-a53-v0.48.002.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-10-27/25-openclash-aarch64_cortex-a53-v0.48.002.run) | 📦 其他 | 23.0 MB | 26 |
 | [25-openclash-x86-64-v0.48.002.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-10-27/25-openclash-x86-64-v0.48.002.run) | 📦 其他 | 25.5 MB | 18 |
 | [25_PassWall_26.10.22_aarch64_generic.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-10-27/25_PassWall_26.10.22_aarch64_generic.run) | 📦 其他 | 28.8 MB | 12 |
+| [25_PassWall_26.10.22_aarch64_a53.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-10-27/25_PassWall_26.10.22_aarch64_a53.run) | 📦 其他 | 28.8 MB | 11 |
 | [25-passwall2_aarch64_a53_26.10.20-1.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-10-27/25-passwall2_aarch64_a53_26.10.20-1.run) | 📦 其他 | 51.5 MB | 10 |
-| [25_PassWall_26.10.22_aarch64_a53.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-10-27/25_PassWall_26.10.22_aarch64_a53.run) | 📦 其他 | 28.8 MB | 10 |
 | [AdGuardHome_v0.107.79_aarch64.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-10-27/AdGuardHome_v0.107.79_aarch64.run) | 📦 其他 | 10.8 MB | 8 |
 | [25-openwrt-daede-2026.10.27-aarch64_cortex-a53.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-10-27/25-openwrt-daede-2026.10.27-aarch64_cortex-a53.run) | 📦 其他 | 34.0 MB | 7 |
 | [25-SSRP-mihomo-aarch64_cortex-a53-198-r2.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-10-27/25-SSRP-mihomo-aarch64_cortex-a53-198-r2.run) | 📦 其他 | 20.8 MB | 7 |

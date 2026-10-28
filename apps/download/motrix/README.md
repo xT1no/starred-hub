@@ -64,8 +64,8 @@ window controls. It also improves large-torrent handling, migration, and updates
 | [Motrix-Setup-2.1.0-arm64.exe.blockmap](https://github.com/agalwood/Motrix/releases/download/v2.1.0/Motrix-Setup-2.1.0-arm64.exe.blockmap) | 🪟 Windows | 132 KB | 4 |
 | [Motrix-Setup-2.1.0.exe.blockmap](https://github.com/agalwood/Motrix/releases/download/v2.1.0/Motrix-Setup-2.1.0.exe.blockmap) | 🪟 Windows | 137 KB | 4 |
 | [Motrix_2.1.0_amd64.deb](https://github.com/agalwood/Motrix/releases/download/v2.1.0/Motrix_2.1.0_amd64.deb) | 🐧 Linux | 106.8 MB | 11 |
+| [Motrix-2.1.0-x86_64.AppImage](https://github.com/agalwood/Motrix/releases/download/v2.1.0/Motrix-2.1.0-x86_64.AppImage) | 🐧 Linux | 125.5 MB | 10 |
 | [Motrix-2.1.0-arm64.zip](https://github.com/agalwood/Motrix/releases/download/v2.1.0/Motrix-2.1.0-arm64.zip) | 🐧 Linux | 125.8 MB | 9 |
-| [Motrix-2.1.0-x86_64.AppImage](https://github.com/agalwood/Motrix/releases/download/v2.1.0/Motrix-2.1.0-x86_64.AppImage) | 🐧 Linux | 125.5 MB | 9 |
 | [beta-linux-arm64.yml](https://github.com/agalwood/Motrix/releases/download/v2.1.0/beta-linux-arm64.yml) | 🐧 Linux | 836 B | 8 |
 | [beta-linux.yml](https://github.com/agalwood/Motrix/releases/download/v2.1.0/beta-linux.yml) | 🐧 Linux | 832 B | 7 |
 | [latest-linux-arm64.yml](https://github.com/agalwood/Motrix/releases/download/v2.1.0/latest-linux-arm64.yml) | 🐧 Linux | 836 B | 7 |

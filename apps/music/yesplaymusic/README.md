@@ -52,7 +52,7 @@
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
 | [latest-mac.yml](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/latest-mac.yml) | 🍎 macOS | 690 B | 8.6k |
-| [YesPlayMusic-mac-0.4.11-arm64.dmg](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-arm64.dmg) | 🍎 macOS | 88.8 MB | 821 |
+| [YesPlayMusic-mac-0.4.11-arm64.dmg](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-arm64.dmg) | 🍎 macOS | 88.8 MB | 822 |
 | [YesPlayMusic-mac-0.4.11-x64.dmg](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-x64.dmg) | 🍎 macOS | 85.0 MB | 174 |
 | [YesPlayMusic-mac-0.4.11-universal.dmg](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-universal.dmg) | 🍎 macOS | 152.0 MB | 133 |
 | [YesPlayMusic-mac-0.4.11-arm64.dmg.blockmap](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-arm64.dmg.blockmap) | 🍎 macOS | 96 KB | 31 |

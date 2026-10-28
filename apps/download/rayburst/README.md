@@ -48,10 +48,10 @@ This release bundles Aria2 Next 3.0.9 for all platforms. Downloads finish withou
 | [Rayburst_4.1.1_aarch64.dmg](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_aarch64.dmg) | 🍎 macOS | 25.7 MB | 2.3k |
 | [Rayburst_4.1.1_x64.dmg](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_x64.dmg) | 🍎 macOS | 26.7 MB | 152 |
 | [Rayburst_4.1.1_x64-setup.exe](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_x64-setup.exe) | 🪟 Windows | 24.6 MB | 11k |
-| [Rayburst_4.1.1_arm64-setup.exe](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_arm64-setup.exe) | 🪟 Windows | 21.8 MB | 507 |
+| [Rayburst_4.1.1_arm64-setup.exe](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_arm64-setup.exe) | 🪟 Windows | 21.8 MB | 508 |
 | [Rayburst_4.1.1_amd64.deb](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_amd64.deb) | 🐧 Linux | 27.2 MB | 540 |
-| [Rayburst-4.1.1-1.x86_64.rpm](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst-4.1.1-1.x86_64.rpm) | 🐧 Linux | 27.2 MB | 451 |
-| [Rayburst_4.1.1_amd64.AppImage](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_amd64.AppImage) | 🐧 Linux | 99.2 MB | 245 |
+| [Rayburst-4.1.1-1.x86_64.rpm](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst-4.1.1-1.x86_64.rpm) | 🐧 Linux | 27.2 MB | 452 |
+| [Rayburst_4.1.1_amd64.AppImage](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_amd64.AppImage) | 🐧 Linux | 99.2 MB | 247 |
 | [Rayburst-4.1.1-1.aarch64.rpm](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst-4.1.1-1.aarch64.rpm) | 🐧 Linux | 28.0 MB | 200 |
 | [Rayburst_4.1.1_aarch64.AppImage](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_aarch64.AppImage) | 🐧 Linux | 98.0 MB | 96 |
 | [Rayburst_4.1.1_arm64.deb](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_arm64.deb) | 🐧 Linux | 28.0 MB | 94 |

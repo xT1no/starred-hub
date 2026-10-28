@@ -53,7 +53,7 @@ The universal proxy platform
 | [SFA-1.14.4-x86_64.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-x86_64.apk) | 📲 Android | 36.8 MB | 318 |
 | [SFA-1.14.4-legacy-android-5-armeabi-v7a.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-legacy-android-5-armeabi-v7a.apk) | 📲 Android | 30.3 MB | 196 |
 | [SFA-1.14.4-legacy-android-5-x86_64.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-legacy-android-5-x86_64.apk) | 📲 Android | 31.5 MB | 186 |
-| [SFA-1.14.4-x86.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-x86.apk) | 📲 Android | 37.8 MB | 178 |
+| [SFA-1.14.4-x86.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-x86.apk) | 📲 Android | 37.8 MB | 179 |
 | [SFA-1.14.4-legacy-android-5-x86.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-legacy-android-5-x86.apk) | 📲 Android | 32.2 MB | 164 |
 | [sing-box-1.14.4-android-amd64.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-android-amd64.tar.gz) | 📲 Android | 26.3 MB | 162 |
 | [sing-box-1.14.4-android-arm.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-android-arm.tar.gz) | 📲 Android | 24.9 MB | 157 |
@@ -61,7 +61,7 @@ The universal proxy platform
 | [SFW-1.14.4-x64.exe](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFW-1.14.4-x64.exe) | 🪟 Windows | 110.0 MB | 2.9k |
 | [SFW-1.14.4-x86.exe](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFW-1.14.4-x86.exe) | 🪟 Windows | 94.7 MB | 194 |
 | [SFW-1.14.4-arm64.exe](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFW-1.14.4-arm64.exe) | 🪟 Windows | 113.0 MB | 183 |
-| [sing-box-1.14.4-linux-386-glibc.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-linux-386-glibc.tar.gz) | 🐧 Linux | 29.7 MB | 457 |
+| [sing-box-1.14.4-linux-386-glibc.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-linux-386-glibc.tar.gz) | 🐧 Linux | 29.7 MB | 458 |
 | [SFL-1.14.4-amd64.deb](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFL-1.14.4-amd64.deb) | 🐧 Linux | 107.5 MB | 236 |
 | [SFL-1.14.4-x86_64.rpm](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFL-1.14.4-x86_64.rpm) | 🐧 Linux | 107.5 MB | 152 |
 | [SFI-1.14.4-iphoneos-arm64.deb](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFI-1.14.4-iphoneos-arm64.deb) | 🐧 Linux | 28.7 MB | 142 |

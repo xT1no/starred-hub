@@ -1,6 +1,6 @@
 {
   "user": "xT1no",
-  "synced_at": "2026-10-28T15:58:41+08:00",
+  "synced_at": "2026-10-28T15:59:18+08:00",
   "count": 145,
   "repos": {
     "storytold/photocraft": {
@@ -1037,7 +1037,7 @@
       "name": "Kazumi",
       "description": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。",
       "language": "Dart",
-      "stars": 39911,
+      "stars": 39912,
       "topics": [
         "android",
         "cross-platform",
@@ -1461,7 +1461,7 @@
       "name": "clash-verge-rev",
       "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
       "language": "Rust",
-      "stars": 154484,
+      "stars": 154485,
       "topics": [
         "clash",
         "clash-meta",
@@ -1941,7 +1941,7 @@
       "name": "Motrix",
       "description": "A full-featured download manager.",
       "language": "TypeScript",
-      "stars": 57539,
+      "stars": 57540,
       "topics": [
         "aria2",
         "bt",
