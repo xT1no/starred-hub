@@ -58,7 +58,7 @@ window controls. It also improves large-torrent handling, migration, and updates
 | [Motrix-2.1.0-arm64.dmg.blockmap](https://github.com/agalwood/Motrix/releases/download/v2.1.0/Motrix-2.1.0-arm64.dmg.blockmap) | 🍎 macOS | 143 KB | 4 |
 | [Motrix-2.1.0-x64.dmg.blockmap](https://github.com/agalwood/Motrix/releases/download/v2.1.0/Motrix-2.1.0-x64.dmg.blockmap) | 🍎 macOS | 150 KB | 4 |
 | [Motrix-Setup-2.1.0.exe](https://github.com/agalwood/Motrix/releases/download/v2.1.0/Motrix-Setup-2.1.0.exe) | 🪟 Windows | 127.4 MB | 121 |
-| [Motrix-2.1.0-win.zip](https://github.com/agalwood/Motrix/releases/download/v2.1.0/Motrix-2.1.0-win.zip) | 🪟 Windows | 159.8 MB | 54 |
+| [Motrix-2.1.0-win.zip](https://github.com/agalwood/Motrix/releases/download/v2.1.0/Motrix-2.1.0-win.zip) | 🪟 Windows | 159.8 MB | 63 |
 | [Motrix-2.1.0-win-arm64.zip](https://github.com/agalwood/Motrix/releases/download/v2.1.0/Motrix-2.1.0-win-arm64.zip) | 🪟 Windows | 157.3 MB | 11 |
 | [Motrix-Setup-2.1.0-arm64.exe](https://github.com/agalwood/Motrix/releases/download/v2.1.0/Motrix-Setup-2.1.0-arm64.exe) | 🪟 Windows | 121.6 MB | 8 |
 | [Motrix-Setup-2.1.0-arm64.exe.blockmap](https://github.com/agalwood/Motrix/releases/download/v2.1.0/Motrix-Setup-2.1.0-arm64.exe.blockmap) | 🪟 Windows | 132 KB | 4 |

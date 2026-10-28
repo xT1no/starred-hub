@@ -46,7 +46,7 @@ The universal proxy platform
 | [sing-box-1.14.4-darwin-amd64-legacy-macos-10.13.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-darwin-amd64-legacy-macos-10.13.tar.gz) | 🍎 macOS | 24.9 MB | 166 |
 | [SFA-1.14.4-arm64-v8a.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-arm64-v8a.apk) | 📲 Android | 35.0 MB | 7.6k |
 | [SFA-1.14.4-universal.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-universal.apk) | 📲 Android | 121.4 MB | 994 |
-| [sing-box-1.14.4-android-arm64.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-android-arm64.tar.gz) | 📲 Android | 24.4 MB | 795 |
+| [sing-box-1.14.4-android-arm64.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-android-arm64.tar.gz) | 📲 Android | 24.4 MB | 796 |
 | [SFA-1.14.4-armeabi-v7a.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-armeabi-v7a.apk) | 📲 Android | 34.9 MB | 422 |
 | [SFA-1.14.4-legacy-android-5-arm64-v8a.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-legacy-android-5-arm64-v8a.apk) | 📲 Android | 29.8 MB | 375 |
 | [SFA-1.14.4-legacy-android-5-universal.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-legacy-android-5-universal.apk) | 📲 Android | 101.9 MB | 352 |

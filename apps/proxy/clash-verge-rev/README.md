@@ -66,7 +66,7 @@ A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux 
 | [Clash.Verge_2.5.8_x64-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_x64-setup.exe.sig) | 🔐 校验文件 | 440 B | 2.1k |
 | [Clash.Verge_2.5.8_amd64.deb.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_amd64.deb.sig) | 🔐 校验文件 | 436 B | 1.1k |
 | [Clash.Verge_2.5.8_aarch64.app.tar.gz.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_aarch64.app.tar.gz.sig) | 🔐 校验文件 | 428 B | 1.1k |
-| [Clash.Verge-2.5.8-1.x86_64.rpm.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge-2.5.8-1.x86_64.rpm.sig) | 🔐 校验文件 | 440 B | 853 |
+| [Clash.Verge-2.5.8-1.x86_64.rpm.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge-2.5.8-1.x86_64.rpm.sig) | 🔐 校验文件 | 440 B | 854 |
 | [Clash.Verge_2.5.8_arm64-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_arm64-setup.exe.sig) | 🔐 校验文件 | 444 B | 538 |
 | [Clash.Verge_2.5.8_x64_fixed_webview2-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_x64_fixed_webview2-setup.exe.sig) | 🔐 校验文件 | 440 B | 519 |
 | [Clash.Verge_2.5.8_arm64_fixed_webview2-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_arm64_fixed_webview2-setup.exe.sig) | 🔐 校验文件 | 444 B | 471 |
