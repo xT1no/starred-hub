@@ -31,9 +31,15 @@ class Category:
 
 
 def _compile(pattern: str) -> re.Pattern:
-    """把关键词编译成「两侧不能紧邻英数字」的正则，避免 git 命中 github。"""
+    """编译关键词。
+
+    纯英文词加「两侧不能紧邻英数字」的边界，避免 git 命中 github；
+    含中文的词直接子串匹配 —— 否则「去广告Xposed」这种中英紧邻的写法会被漏掉。
+    """
     escaped = re.escape(pattern.lower())
-    return re.compile(r"(?<![a-z0-9])" + escaped + r"(?![a-z0-9])")
+    if pattern.isascii():
+        return re.compile(r"(?<![a-z0-9])" + escaped + r"(?![a-z0-9])")
+    return re.compile(escaped)
 
 
 def load_rules(path: Path) -> dict[str, list[Category]]:
@@ -88,7 +94,7 @@ def classify(
     functions = [c for c in rules["function"] if c.matches(hay)]
 
     if not platforms:
-        platforms = [Category(name="未标注平台", slug=fallback_platform, emoji="❓")]
+        platforms = [Category(name="通用 / 未指定", slug=fallback_platform, emoji="❓")]
     if not functions:
         functions = [Category(name="其他", slug=fallback_function, emoji="📦")]
 

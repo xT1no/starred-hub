@@ -95,10 +95,16 @@ def new_badge(repo: dict, new_days: int) -> str:
 # ---------------------------------------------------------------- 分组
 
 
-def group_by(repos: list[dict], dim: str, order: list[str]) -> list[tuple[dict, list[dict]]]:
+def group_by(repos: list[dict], dim: str, order: list[str], primary: bool = False) -> list[tuple[dict, list[dict]]]:
+    """按某个维度分组。
+
+    primary=True 时一个仓库只进「主分类」，保证各分类数量之和等于仓库总数；
+    primary=False 时允许多归属（平台维度就是这样）。
+    """
     buckets: dict[str, dict] = {}
     for repo in repos:
-        for cat in repo["cls"][dim]:
+        cats = repo["cls"][dim][:1] if primary else repo["cls"][dim]
+        for cat in cats:
             slot = buckets.setdefault(cat["slug"], {"cat": cat, "repos": []})
             slot["repos"].append(repo)
 
@@ -138,7 +144,7 @@ def render_readme(ctx: dict) -> str:
 
     order_platform = [c.slug for c in rules["platform"]]
     order_function = [c.slug for c in rules["function"]]
-    fn_groups = group_by(repos, "functions", order_function)
+    fn_groups = group_by(repos, "functions", order_function, primary=True)
     pf_groups = group_by(repos, "platforms", order_platform)
 
     fresh = [r for r in repos if new_badge(r, new_days)]
@@ -170,9 +176,9 @@ def render_readme(ctx: dict) -> str:
     A("")
 
     # ---------- 最近标星
-    A(f"## 🆕 最近标星（{new_days} 天内 · {len(fresh)} 个）")
-    A("")
     if fresh:
+        A(f"## 🆕 最近标星（{new_days} 天内 · {len(fresh)} 个）")
+        A("")
         A("| 仓库 | 简介 | 平台 | ⭐ | 标星日期 |")
         A("|:---|:---|:---:|:---|---:|")
         for r in fresh[:24]:
@@ -181,7 +187,17 @@ def render_readme(ctx: dict) -> str:
             A("")
             A(f"还有 {len(fresh) - 24} 个，见 [时间线](docs/timeline.md)。")
     else:
-        A("_这段时间没有新标星的仓库。_")
+        latest = sorted(repos, key=lambda r: r.get("starred_at") or "", reverse=True)[:12]
+        stamp = starred_day(latest[0]) if latest else "—"
+        A(f"## 🕘 最近标星（{new_days} 天内新增 0 个，最近一次是 {stamp}）")
+        A("")
+        A("| 仓库 | 简介 | 平台 | 功能 | ⭐ | 标星日期 |")
+        A("|:---|:---|:---:|:---:|---|---:|")
+        for r in latest:
+            A(
+                f"| {md_link(r)} | {desc_text(r)} | {platforms_text(r)} | "
+                f"{functions_text(r)} | {fmt_stars(r.get('stars'))} | {starred_day(r)} |"
+            )
     A("")
 
     # ---------- 功能概览
@@ -255,7 +271,7 @@ def render_readme(ctx: dict) -> str:
 def render_by_function(ctx: dict) -> str:
     repos = ctx["repos"]
     order = [c.slug for c in ctx["rules"]["function"]]
-    groups = group_by(repos, "functions", order)
+    groups = group_by(repos, "functions", order, primary=True)
 
     L: list[str] = []
     A = L.append
@@ -407,7 +423,7 @@ def legend(ctx: dict, dim: str) -> str:
     cats = ctx["rules"][key]
     parts = [f"{c.emoji} {c.name}" for c in cats if c.emoji]
     if key == "platform":
-        parts.append("❓ 未标注平台")
+        parts.append("❓ 通用 / 未指定")
     else:
         parts.append("📦 其他")
     return "**图标对照**：" + " · ".join(parts)

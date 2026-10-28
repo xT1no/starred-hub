@@ -1,21 +1,348 @@
 # ============================================================================
 # 手动分类覆盖
 # ============================================================================
-# 自动分类永远不可能 100% 准。遇到归错类的仓库，写在这里，
-# 之后每次同步都会优先采用你写的分类，不会被自动规则覆盖。
+# 自动分类永远不可能 100% 准（尤其是没有描述、纯中文名、或一个仓库身兼数职的）。
+# 下面这些是逐个看过之后钉死的分类，每次同步都优先采用，不会被自动规则覆盖。
 #
 # 写法：
-#   [repos."所有者/仓库名"]      ← 必须是 full_name，大小写不敏感
-#   platform = ["Windows"]        ← 写了就整体替换自动识别出的平台
-#   function = ["系统工具"]       ← 写了就整体替换自动识别出的功能
-#   note     = "自己加一句话备注"  ← 可选，会显示在简介前面
+#   [repos."所有者/仓库名"]      ← full_name，大小写不敏感
+#   platform = ["Windows"]        ← 写了就整体替换自动识别的平台
+#   function = ["系统增强 / 优化"]  ← 写了就整体替换自动识别的功能
+#   note     = "自己的一句话备注"   ← 可选，显示在简介前面
 #
 # 分类名可以写中文名，也可以写 slug（见 rules.toml 的 name / slug 字段）。
-# 只写 platform 不写 function 的话，功能维度继续用自动识别结果。
-#
-# 例：
-# [repos."microsoft/PowerToys"]
-# platform = ["Windows"]
-# function = ["系统工具"]
-# note = "Windows 必备增强工具集"
 # ============================================================================
+
+
+# ---------------------------------------------------------------- Windows 系统
+[repos."firtech/rewindsys"]
+platform = ["Windows"]
+function = ["系统增强 / 优化"]
+note = "Windows 精简系统镜像项目"
+
+[repos."luyuanbo79/firpe"]
+platform = ["Windows"]
+function = ["系统增强 / 优化"]
+note = "Windows PE 维护盘"
+
+[repos."listerovo1211/lazyenv"]
+platform = ["Windows"]
+function = ["系统增强 / 优化"]
+note = "Windows 环境变量管理"
+
+[repos."valinet/explorerpatcher"]
+platform = ["Windows"]
+function = ["系统增强 / 优化"]
+note = "恢复 Windows 11 经典任务栏与资源管理器"
+
+[repos."control0forver/networklist-clear"]
+platform = ["Windows"]
+function = ["系统增强 / 优化"]
+note = "清理网络连接列表残留"
+
+[repos."chunyu33/light-c"]
+platform = ["Windows"]
+function = ["系统增强 / 优化"]
+
+[repos."darrylmorley/whatcable"]
+platform = ["macOS"]
+function = ["系统增强 / 优化"]
+
+[repos."jntmtmtm/eisland"]
+platform = ["Windows"]
+function = ["系统增强 / 优化"]
+note = "Windows 上的灵动岛悬浮窗"
+
+[repos."std-microblock/chromatic"]
+platform = ["Windows"]
+function = ["应用增强 / 模块"]
+note = "Chromium/V8 通用注入修改器"
+
+[repos."jiarandiana0307/patch-edge-copilot"]
+platform = ["Windows"]
+function = ["应用增强 / 模块"]
+note = "修复 Edge 顶部 Copilot 图标消失"
+
+[repos."emmm1245/edgecopilotfix"]
+platform = ["Windows"]
+function = ["应用增强 / 模块"]
+note = "修复 Edge Copilot 在部分地区消失"
+
+
+# ---------------------------------------------------------------- Windows 游戏辅助
+[repos."ok-oldking/ok-wuthering-waves"]
+platform = ["Windows"]
+function = ["游戏 / 辅助脚本"]
+note = "鸣潮后台自动战斗 / 一键日常"
+
+[repos."siweia/ndui"]
+platform = ["Windows"]
+function = ["游戏 / 辅助脚本"]
+note = "魔兽世界 NDui 整合界面"
+
+[repos."wind-addons/weakauraspatched"]
+platform = ["Windows"]
+function = ["游戏 / 辅助脚本"]
+note = "WeakAuras 修改版"
+
+[repos."ping11700/lolkit"]
+platform = ["Windows"]
+function = ["游戏 / 辅助脚本"]
+
+[repos."watchingfun/joi"]
+platform = ["Windows"]
+function = ["游戏 / 辅助脚本"]
+note = "英雄联盟助手"
+
+[repos."weijieh/d3keyhelper"]
+platform = ["Windows"]
+function = ["游戏 / 辅助脚本"]
+note = "暗黑 3 鼠标宏配置工具"
+
+[repos."optiscaler/optiscaler"]
+platform = ["Windows"]
+function = ["游戏 / 辅助脚本"]
+note = "跨显卡的 DLSS / FSR 超分桥接"
+
+[repos."beeradmoore/dlss-swapper"]
+platform = ["Windows"]
+function = ["游戏 / 辅助脚本"]
+note = "一键替换游戏内的 DLSS 动态库"
+
+
+# ---------------------------------------------------------------- 安卓
+[repos."lerist/fakelocation"]
+platform = ["Android"]
+function = ["应用增强 / 模块"]
+note = "安卓虚拟定位"
+
+[repos."adpro-team/gkd_ths_list"]
+platform = ["Android"]
+function = ["应用增强 / 模块"]
+note = "GKD 第三方订阅规则收录"
+
+[repos."zcshou/gogogo"]
+platform = ["Android"]
+function = ["应用增强 / 模块"]
+note = "安卓虚拟定位 + 摇杆行走"
+
+[repos."aistra0528/hail"]
+platform = ["Android"]
+function = ["应用增强 / 模块"]
+note = "免 root 冻结 / 隐藏安卓应用"
+
+[repos."wtwang1998/litiaotiao-custom-rules"]
+platform = ["Android"]
+function = ["广告过滤 / 隐私"]
+note = "李跳跳自定义跳过广告规则"
+
+[repos."xiaojieonly/ehviewer_cn_sxj"]
+platform = ["Android"]
+function = ["办公 / 阅读 / 笔记"]
+note = "漫画阅读客户端"
+
+
+# ---------------------------------------------------------------- 电视盒子
+[repos."ha2ryzhang/alltv"]
+platform = ["Android"]
+function = ["影视 / 直播 / 番剧"]
+note = "聚合斗鱼 / 虎牙 / B站 直播源"
+
+[repos."chinasoul/bt"]
+platform = ["AndroidTV"]
+function = ["影视 / 直播 / 番剧"]
+note = "bilibili TV 客户端"
+
+[repos."lizongying/my-tv"]
+platform = ["AndroidTV"]
+function = ["影视 / 直播 / 番剧"]
+
+[repos."j4uq/tvboxosc"]
+platform = ["AndroidTV"]
+function = ["影视 / 直播 / 番剧"]
+note = "TVBox 配置与源"
+
+[repos."xianyuyimu/tvbox-"]
+platform = ["AndroidTV"]
+function = ["影视 / 直播 / 番剧"]
+
+[repos."lizongying/my-tv-0"]
+platform = ["AndroidTV"]
+function = ["影视 / 直播 / 番剧"]
+
+
+# ---------------------------------------------------------------- 跨平台 / 桌面
+[repos."nomic-ai/gpt4all"]
+platform = ["跨平台桌面"]
+function = ["AI / 大模型"]
+
+[repos."xiaoyaocz/dart_simple_live"]
+platform = ["跨平台桌面"]
+function = ["影视 / 直播 / 番剧"]
+
+[repos."june6699/dart_simple_live"]
+platform = ["跨平台桌面"]
+function = ["影视 / 直播 / 番剧"]
+
+[repos."aninsomniacy/rayburst"]
+platform = ["跨平台桌面"]
+function = ["下载 / 网盘"]
+
+[repos."storytold/photocraft"]
+platform = ["跨平台桌面"]
+function = ["图像 / 设计"]
+note = "纯 Rust 从零写的开源修图工具"
+
+[repos."localsend/localsend"]
+function = ["系统增强 / 优化"]
+note = "跨设备局域网文件互传（类 AirDrop）"
+
+[repos."nearby-sharing/android"]
+platform = ["Windows", "Android"]
+function = ["系统增强 / 优化"]
+note = "用 Windows 就近共享在手机与电脑间传文件"
+
+[repos."kejichangqing/qingmusic"]
+platform = ["Windows"]
+function = ["音乐 / 音频"]
+note = "本地音乐播放器"
+
+[repos."xxnuo/musicfreepluginshub"]
+function = ["音乐 / 音频"]
+note = "MusicFree 插件合集"
+
+
+# ---------------------------------------------------------------- iOS
+[repos."fmz200/global-testflight-link"]
+platform = ["iOS", "macOS"]
+function = ["学习 / 资源合集"]
+note = "公开 TestFlight 测试链接合集"
+
+[repos."fmz200/wool_scripts"]
+platform = ["iOS"]
+function = ["广告过滤 / 隐私"]
+note = "Loon / Surge / QuantumultX 去广告规则"
+
+[repos."tom-snow/sidestore-clashmi"]
+platform = ["iOS"]
+function = ["网络代理 / 节点"]
+
+
+# ---------------------------------------------------------------- Web / 服务端
+[repos."byjoey/cfnew"]
+platform = ["Web"]
+function = ["网络代理 / 节点"]
+note = "Cloudflare Workers 节点部署"
+
+[repos."yiyuanjichang/dizhi"]
+platform = ["Web"]
+function = ["网络代理 / 节点"]
+
+[repos."ymyuuu/ipdb"]
+platform = ["Web"]
+function = ["网络代理 / 节点"]
+
+[repos."cloud-fs/cloud-fs.github.io"]
+platform = ["Linux"]
+function = ["下载 / 网盘"]
+note = "CloudFS 网盘挂载文档站"
+
+[repos."xiaoyadev/xiaoya-alist"]
+platform = ["Linux"]
+function = ["下载 / 网盘"]
+note = "小雅 Alist 相关周边（网盘聚合）"
+
+# ---------------------------------------------------------------- 客户端 / 工具补全平台
+[repos."gfw-knocker/mahsang"]
+platform = ["Android"]
+function = ["网络代理 / 节点"]
+note = "V2RayNG 改版，带分片与 DoH"
+
+[repos."karingx/karing"]
+platform = ["跨平台桌面"]
+function = ["网络代理 / 节点"]
+
+[repos."sagernet/sing-box"]
+platform = ["CLI"]
+function = ["网络代理 / 节点"]
+note = "通用代理内核"
+
+[repos."juewuy/shellcrash"]
+platform = ["路由器 / 固件"]
+function = ["网络代理 / 节点"]
+note = "在路由器上跑 sing-box / mihomo"
+
+[repos."faceair/clash-speedtest"]
+platform = ["CLI"]
+function = ["网络代理 / 节点"]
+
+[repos."hq450/fancyss_history_package"]
+platform = ["路由器 / 固件"]
+
+[repos."liteloaderqqnt/liteloaderqqnt"]
+platform = ["Windows"]
+function = ["应用增强 / 模块"]
+note = "QQNT 插件加载器"
+
+[repos."odysseesyuan/lky_officetools"]
+platform = ["Windows"]
+function = ["办公 / 阅读 / 笔记"]
+note = "一键下载 / 安装 / 激活 Office"
+
+[repos."windowsaddict/idm-activation-script"]
+platform = ["Windows"]
+function = ["系统增强 / 优化"]
+note = "IDM 激活与试用重置"
+
+[repos."yerongai/office-tool"]
+platform = ["Windows"]
+function = ["办公 / 阅读 / 笔记"]
+
+[repos."lostindark/driverstoreexplorer"]
+platform = ["Windows"]
+function = ["系统增强 / 优化"]
+note = "驱动仓库管理（DriverStore 清理）"
+
+[repos."dyang886/game-cheats-manager"]
+platform = ["Windows"]
+function = ["游戏 / 辅助脚本"]
+note = "单机游戏修改器下载与管理"
+
+[repos."hongge-ai/diabloiv_blood_bone_restorer"]
+platform = ["Windows"]
+function = ["游戏 / 辅助脚本"]
+
+[repos."acidweb/clean-icons-mechagnome-edition"]
+platform = ["Windows"]
+function = ["游戏 / 辅助脚本"]
+note = "魔兽世界图标包"
+
+[repos."yyds678/uzvideo"]
+platform = ["Android"]
+function = ["影视 / 直播 / 番剧"]
+note = "uz 影视客户端"
+
+[repos."gedoor/legado"]
+platform = ["Android"]
+function = ["办公 / 阅读 / 笔记"]
+note = "阅读 3.0 书源阅读器"
+
+[repos."karben233/bili-hardcore"]
+platform = ["CLI"]
+function = ["自动化 / 部署"]
+note = "B站硬核会员自动答题脚本"
+
+[repos."wbt5/real-url"]
+platform = ["CLI"]
+function = ["影视 / 直播 / 番剧"]
+note = "取各直播平台真实流地址"
+
+[repos."xiu2/cloudflarespeedtest"]
+platform = ["CLI"]
+function = ["网络代理 / 节点"]
+note = "Cloudflare CDN 优选 IP 测速"
+
+[repos."cmliu/subscheck-win-gui"]
+platform = ["Windows"]
+function = ["网络代理 / 节点"]
+note = "订阅节点可用性批量检测"
