@@ -33,6 +33,11 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 
+def _write(path: Path, content: str) -> None:
+    """总是写 LF，避免 Windows 本地跑完、Actions 跑完出现换行差异。"""
+    path.write_text(content, encoding="utf-8", newline="\n")
+
+
 import pages  # noqa: E402
 import releases  # noqa: E402
 import render  # noqa: E402
@@ -354,7 +359,7 @@ def main(argv: list[str] | None = None) -> int:
     for rel, content in files.items():
         path = out_dir / rel
         path.parent.mkdir(parents=True, exist_ok=True)
-        path.write_text(content.rstrip() + "\n", encoding="utf-8")
+        _write(path, content.rstrip() + "\n")
         keep.add(path)
     log(f"  写入 {len(files)} 个 Markdown 文件（含 apps/ 目录树）")
     if not args.demo:
@@ -385,10 +390,10 @@ def main(argv: list[str] | None = None) -> int:
     }
     SNAPSHOT.parent.mkdir(parents=True, exist_ok=True)
     if not args.demo:
-        SNAPSHOT.write_text(json.dumps(snapshot, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-        UNCLASSIFIED.write_text(
+        _write(SNAPSHOT, json.dumps(snapshot, ensure_ascii=False, indent=2) + "\n")
+        _write(
+            UNCLASSIFIED,
             json.dumps(sorted(unclassified, key=lambda x: x["full_name"]), ensure_ascii=False, indent=2) + "\n",
-            encoding="utf-8",
         )
 
     # ---- 小结
