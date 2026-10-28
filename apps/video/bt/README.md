@@ -46,7 +46,7 @@ bilibili TV client
 |:---|:---:|:---|---:|
 | [BT-v0.9.41-universal.apk](https://github.com/chinasoul/BT/releases/download/v0.9.41/BT-v0.9.41-universal.apk) | 📲 Android | 3.1 MB | 15k |
 | [BT-v0.9.41-universal-api19-22.apk](https://github.com/chinasoul/BT/releases/download/v0.9.41/BT-v0.9.41-universal-api19-22.apk) | 📲 Android | 3.3 MB | 6.7k |
-| [universal.apk](https://github.com/chinasoul/BT/releases/download/v0.9.41/universal.apk) | 📲 Android | 3.1 MB | 2.6k |
+| [universal.apk](https://github.com/chinasoul/BT/releases/download/v0.9.41/universal.apk) | 📲 Android | 3.1 MB | 2.7k |
 | [universal-api19-22.apk](https://github.com/chinasoul/BT/releases/download/v0.9.41/universal-api19-22.apk) | 📲 Android | 3.3 MB | 237 |
 
 ## 🔗 快速链接

@@ -55,7 +55,7 @@ eIsland - A sleek, Apple Dynamic Island inspired floating widget for Windows, bu
 |:---|:---:|:---|---:|
 | [eIsland-27.0.0-Setup.exe](https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.0/eIsland-27.0.0-Setup.exe) | 🪟 Windows | 373.9 MB | 260 |
 | [eIsland-27.0.0-Setup.exe.blockmap](https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.0/eIsland-27.0.0-Setup.exe.blockmap) | 🪟 Windows | 377 KB | 67 |
-| [latest.yml](https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.0/latest.yml) | 📦 其他 | 346 B | 895 |
+| [latest.yml](https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.0/latest.yml) | 📦 其他 | 346 B | 897 |
 
 ## 🔗 快速链接
 

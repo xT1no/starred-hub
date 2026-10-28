@@ -50,7 +50,7 @@ v619 -> v620
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [gkd-subscription-offline-id667-v620.json5](https://github.com/Lin-arm/GKD_subscription/releases/download/v620/gkd-subscription-offline-id667-v620.json5) | 📦 其他 | 1.3 MB | 22 |
+| [gkd-subscription-offline-id667-v620.json5](https://github.com/Lin-arm/GKD_subscription/releases/download/v620/gkd-subscription-offline-id667-v620.json5) | 📦 其他 | 1.3 MB | 24 |
 
 ## 🔗 快速链接
 

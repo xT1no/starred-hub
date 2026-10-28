@@ -53,7 +53,7 @@ bilibili 硬核会员 AI 自动答题脚本
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [bili-hardcore-v1.1.0-darwin-universal.tar.gz](https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/bili-hardcore-v1.1.0-darwin-universal.tar.gz) | 🍎 macOS | 3.0 MB | 37 |
+| [bili-hardcore-v1.1.0-darwin-universal.tar.gz](https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/bili-hardcore-v1.1.0-darwin-universal.tar.gz) | 🍎 macOS | 3.0 MB | 38 |
 | [bili-hardcore-v1.1.0-darwin-arm64.tar.gz](https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/bili-hardcore-v1.1.0-darwin-arm64.tar.gz) | 🍎 macOS | 1.5 MB | 27 |
 | [bili-hardcore-v1.1.0-darwin-x64.tar.gz](https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/bili-hardcore-v1.1.0-darwin-x64.tar.gz) | 🍎 macOS | 1.6 MB | 15 |
 | [bili-hardcore-v1.1.0-windows-x64.zip](https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/bili-hardcore-v1.1.0-windows-x64.zip) | 🪟 Windows | 1.5 MB | 490 |
@@ -63,7 +63,7 @@ bilibili 硬核会员 AI 自动答题脚本
 | [bili-hardcore-v1.1.0-linux-arm64.tar.gz](https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/bili-hardcore-v1.1.0-linux-arm64.tar.gz) | 🐧 Linux | 1.6 MB | 11 |
 | [checksums.txt](https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/checksums.txt) | 🔐 校验文件 | 1011 B | 23 |
 | [install.ps1](https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/install.ps1) | 📦 其他 | 2 KB | 79 |
-| [install.sh](https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/install.sh) | 📦 其他 | 3 KB | 39 |
+| [install.sh](https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/install.sh) | 📦 其他 | 3 KB | 40 |
 
 ## 🔗 快速链接
 
