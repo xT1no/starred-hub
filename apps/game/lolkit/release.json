@@ -1,0 +1,45 @@
+{
+  "name": "LOLkit",
+  "full_name": "ping11700/LOLkit",
+  "url": "https://github.com/ping11700/LOLkit",
+  "description": "One gift for all LOL gamers， League of Legends工具",
+  "note": "",
+  "function": {
+    "name": "游戏 / 辅助脚本",
+    "slug": "game",
+    "dir": "apps/game"
+  },
+  "platforms": [
+    "Windows"
+  ],
+  "language": "Shell",
+  "stars": 770,
+  "forks": 39,
+  "license": "",
+  "archived": false,
+  "homepage": "https://ping11700.github.io/lolkitweb",
+  "topics": [
+    "league-of-legends",
+    "lol"
+  ],
+  "starred_at": "2024-03-08T16:01:04Z",
+  "pushed_at": "2026-10-27T09:23:55Z",
+  "latest": {
+    "kind": "release",
+    "tag": "version3.4.9",
+    "title": "version3.4.9 2026-08-24",
+    "published_at": "2026-08-24T03:36:07Z",
+    "url": "https://github.com/ping11700/LOLkit/releases/tag/version3.4.9",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "LOLkit3.4.9.zip",
+      "size": 23296561,
+      "downloads": 816,
+      "url": "https://github.com/ping11700/LOLkit/releases/download/version3.4.9/LOLkit3.4.9.zip",
+      "platform": "🌐 Web"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "mactype",
+  "full_name": "snowie2000/mactype",
+  "url": "https://github.com/snowie2000/mactype",
+  "description": "Better font rendering for Windows.",
+  "note": "",
+  "function": {
+    "name": "系统增强 / 优化",
+    "slug": "system",
+    "dir": "apps/system"
+  },
+  "platforms": [
+    "Windows"
+  ],
+  "language": "C++",
+  "stars": 12004,
+  "forks": 448,
+  "license": "GPL-3.0",
+  "archived": false,
+  "homepage": "https://mactype.net",
+  "topics": [
+    "directwrite",
+    "font",
+    "font-rendering",
+    "mactype"
+  ],
+  "starred_at": "2023-12-07T16:47:53Z",
+  "pushed_at": "2026-04-29T03:00:50Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v1.2025.6.9",
+    "title": "2025.6.9 IFEO Support",
+    "published_at": "2025-06-11T12:31:48Z",
+    "url": "https://github.com/snowie2000/mactype/releases/tag/v1.2025.6.9",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "MacTypeInstaller_2025.6.9.exe",
+      "size": 5859096,
+      "downloads": 191600,
+      "url": "https://github.com/snowie2000/mactype/releases/download/v1.2025.6.9/MacTypeInstaller_2025.6.9.exe",
+      "platform": "🪟 Windows"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

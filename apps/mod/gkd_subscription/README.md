@@ -2,6 +2,8 @@
 
 # GKD_subscription
 
+<img src="icon.png" width="72" align="right" alt="GKD_subscription icon">
+
 用于安卓 GKD 的第三方订阅规则 (👻Fork版)
 
 | 项目 | 信息 |
@@ -50,7 +52,7 @@ v619 -> v620
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [gkd-subscription-offline-id667-v620.json5](https://github.com/Lin-arm/GKD_subscription/releases/download/v620/gkd-subscription-offline-id667-v620.json5) | 📦 其他 | 1.3 MB | 24 |
+| [gkd-subscription-offline-id667-v620.json5](https://github.com/Lin-arm/GKD_subscription/releases/download/v620/gkd-subscription-offline-id667-v620.json5) | 📦 其他 | 1.3 MB | 22 |
 
 ## 🔗 快速链接
 

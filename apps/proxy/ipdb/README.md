@@ -2,6 +2,8 @@
 
 # IPDB
 
+<img src="icon.png" width="72" align="right" alt="IPDB icon">
+
 Cloudflare反代优选IP库
 
 | 项目 | 信息 |

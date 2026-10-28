@@ -1,0 +1,70 @@
+{
+  "name": "MahsaNG",
+  "full_name": "GFW-knocker/MahsaNG",
+  "url": "https://github.com/GFW-knocker/MahsaNG",
+  "description": "a V2RayNG with Fragment , DoH , Rotating Configs , & free VPN servers",
+  "note": "V2RayNG 改版，带分片与 DoH",
+  "function": {
+    "name": "网络代理 / 节点",
+    "slug": "proxy",
+    "dir": "apps/proxy"
+  },
+  "platforms": [
+    "Android"
+  ],
+  "language": "Kotlin",
+  "stars": 3137,
+  "forks": 312,
+  "license": "GPL-3.0",
+  "archived": false,
+  "homepage": "https://t.me/mahsa_net",
+  "topics": [],
+  "starred_at": "2024-06-26T11:26:22Z",
+  "pushed_at": "2026-10-26T09:46:05Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v18-(1405-7-10)",
+    "title": "v18-(1405-7-10)",
+    "published_at": "2026-10-02T06:52:13Z",
+    "url": "https://github.com/GFW-knocker/MahsaNG/releases/tag/v18-(1405-7-10)",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "MahsaNG_18_arm64-v8a.apk",
+      "size": 64789460,
+      "downloads": 15515,
+      "url": "https://github.com/GFW-knocker/MahsaNG/releases/download/v18-%281405-7-10%29/MahsaNG_18_arm64-v8a.apk",
+      "platform": "📲 Android"
+    },
+    {
+      "name": "MahsaNG_18_armeabi-v7a.apk",
+      "size": 66052068,
+      "downloads": 2690,
+      "url": "https://github.com/GFW-knocker/MahsaNG/releases/download/v18-%281405-7-10%29/MahsaNG_18_armeabi-v7a.apk",
+      "platform": "📲 Android"
+    },
+    {
+      "name": "MahsaNG_18_universal.apk",
+      "size": 180048043,
+      "downloads": 4995,
+      "url": "https://github.com/GFW-knocker/MahsaNG/releases/download/v18-%281405-7-10%29/MahsaNG_18_universal.apk",
+      "platform": "📲 Android"
+    },
+    {
+      "name": "MahsaNG_18_x86.apk",
+      "size": 69463869,
+      "downloads": 679,
+      "url": "https://github.com/GFW-knocker/MahsaNG/releases/download/v18-%281405-7-10%29/MahsaNG_18_x86.apk",
+      "platform": "📲 Android"
+    },
+    {
+      "name": "MahsaNG_18_x86_64.apk",
+      "size": 68078203,
+      "downloads": 1006,
+      "url": "https://github.com/GFW-knocker/MahsaNG/releases/download/v18-%281405-7-10%29/MahsaNG_18_x86_64.apk",
+      "platform": "📲 Android"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

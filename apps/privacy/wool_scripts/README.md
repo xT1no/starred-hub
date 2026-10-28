@@ -2,6 +2,8 @@
 
 # wool_scripts
 
+<img src="icon.png" width="72" align="right" alt="wool_scripts icon">
+
 > Loon / Surge / QuantumultX 去广告规则
 
 收集一些Loon、Surge、QuantumultX、ShadowRocket、Egern的配置与去广告规则。

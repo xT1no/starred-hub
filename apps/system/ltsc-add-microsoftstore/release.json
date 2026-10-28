@@ -1,0 +1,34 @@
+{
+  "name": "LTSC-Add-MicrosoftStore",
+  "full_name": "kkkgo/LTSC-Add-MicrosoftStore",
+  "url": "https://github.com/kkkgo/LTSC-Add-MicrosoftStore",
+  "description": "Add Windows Store for LTSC",
+  "note": "",
+  "function": {
+    "name": "系统增强 / 优化",
+    "slug": "system",
+    "dir": "apps/system"
+  },
+  "platforms": [
+    "Windows"
+  ],
+  "language": "Batchfile",
+  "stars": 4068,
+  "forks": 586,
+  "license": "",
+  "archived": false,
+  "homepage": "",
+  "topics": [],
+  "starred_at": "2024-06-17T16:55:36Z",
+  "pushed_at": "2024-07-30T20:41:01Z",
+  "latest": {
+    "kind": "release",
+    "tag": "2019",
+    "title": "LTSC-Add-MicrosoftStore",
+    "published_at": "2018-10-05T03:13:13Z",
+    "url": "https://github.com/kkkgo/LTSC-Add-MicrosoftStore/releases/tag/2019",
+    "prerelease": false
+  },
+  "assets": [],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "DriverStoreExplorer",
+  "full_name": "lostindark/DriverStoreExplorer",
+  "url": "https://github.com/lostindark/DriverStoreExplorer",
+  "description": "Driver Store Explorer",
+  "note": "驱动仓库管理（DriverStore 清理）",
+  "function": {
+    "name": "系统增强 / 优化",
+    "slug": "system",
+    "dir": "apps/system"
+  },
+  "platforms": [
+    "Windows"
+  ],
+  "language": "C#",
+  "stars": 11998,
+  "forks": 561,
+  "license": "GPL-2.0",
+  "archived": false,
+  "homepage": "",
+  "topics": [
+    "driver",
+    "driver-store",
+    "driverstore"
+  ],
+  "starred_at": "2022-07-23T06:27:25Z",
+  "pushed_at": "2026-10-28T08:07:45Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v1.0.36",
+    "title": "DriverStore Explorer v1.0.36",
+    "published_at": "2026-10-10T20:14:32Z",
+    "url": "https://github.com/lostindark/DriverStoreExplorer/releases/tag/v1.0.36",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "DriverStoreExplorer-v1.0.36.zip",
+      "size": 1091061,
+      "downloads": 34785,
+      "url": "https://github.com/lostindark/DriverStoreExplorer/releases/download/v1.0.36/DriverStoreExplorer-v1.0.36.zip",
+      "platform": "🌐 Web"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

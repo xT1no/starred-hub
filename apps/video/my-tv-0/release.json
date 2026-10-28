@@ -1,0 +1,48 @@
+{
+  "name": "my-tv-0",
+  "full_name": "lizongying/my-tv-0",
+  "url": "https://github.com/lizongying/my-tv-0",
+  "description": "我的電視·〇 電視視頻播放軟件，可以自定義視頻源",
+  "note": "",
+  "function": {
+    "name": "影视 / 直播 / 番剧",
+    "slug": "video",
+    "dir": "apps/video"
+  },
+  "platforms": [
+    "AndroidTV"
+  ],
+  "language": "Kotlin",
+  "stars": 4671,
+  "forks": 570,
+  "license": "MIT",
+  "archived": false,
+  "homepage": "",
+  "topics": [
+    "iptv",
+    "my-tv",
+    "mytv",
+    "tv",
+    "tvbox"
+  ],
+  "starred_at": "2025-03-08T12:10:49Z",
+  "pushed_at": "2025-05-12T12:50:54Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v1.3.9.8",
+    "title": "Release v1.3.9.8",
+    "published_at": "2025-03-17T03:01:22Z",
+    "url": "https://github.com/lizongying/my-tv-0/releases/tag/v1.3.9.8",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "my-tv-0_1.3.9.8.apk",
+      "size": 5458634,
+      "downloads": 42096,
+      "url": "https://github.com/lizongying/my-tv-0/releases/download/v1.3.9.8/my-tv-0_1.3.9.8.apk",
+      "platform": "📺 AndroidTV"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

@@ -2,6 +2,8 @@
 
 # NDui
 
+<img src="icon.png" width="72" align="right" alt="NDui icon">
+
 > 魔兽世界 NDui 整合界面
 
 NDui for World of Warcraft

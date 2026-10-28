@@ -38,6 +38,7 @@ def _write(path: Path, content: str) -> None:
     path.write_text(content, encoding="utf-8", newline="\n")
 
 
+import assets  # noqa: E402
 import pages  # noqa: E402
 import releases  # noqa: E402
 import render  # noqa: E402
@@ -217,21 +218,30 @@ def demo_releases(repos: list[dict]) -> None:
 
 
 def prune_apps(keep: set[Path]) -> int:
-    """删掉上次生成、这次已经不存在的应用页（只动带生成标记的文件）。"""
+    """删掉上次生成、这次已经不存在的应用文件（只动带生成标记的文件）。"""
     if not APPS_DIR.exists():
         return 0
+    keep_dirs = {p.parent for p in keep if p.name == "README.md"}
     removed = 0
-    for path in sorted(APPS_DIR.rglob("*.md"), reverse=True):
-        if path in keep:
+
+    for path in sorted(APPS_DIR.rglob("*"), reverse=True):
+        if path.is_dir() or path in keep:
             continue
-        try:
-            head = path.read_text(encoding="utf-8", errors="ignore")[:200]
-        except OSError:
-            continue
-        if not head.startswith(pages.MARKER):
+        if path.suffix == ".md":
+            try:
+                head = path.read_text(encoding="utf-8", errors="ignore")[:200]
+            except OSError:
+                continue
+            if not head.startswith(pages.MARKER):
+                continue
+        elif path.name in ("icon.png", "release.json"):
+            if path.parent in keep_dirs:
+                continue
+        else:
             continue
         path.unlink()
         removed += 1
+
     for path in sorted(APPS_DIR.rglob("*"), reverse=True):
         if path.is_dir() and not any(path.iterdir()):
             path.rmdir()
@@ -365,9 +375,12 @@ def main(argv: list[str] | None = None) -> int:
         keep.add(path)
     log(f"  写入 {len(files)} 个 Markdown 文件（含 apps/ 目录树）")
     if not args.demo:
+        new_icons = assets.ensure_icons(repos, APPS_DIR)
+        if new_icons:
+            log(f"  下载 {new_icons} 个应用图标")
         gone = prune_apps(keep)
         if gone:
-            log(f"  清理 {gone} 个已失效的应用页")
+            log(f"  清理 {gone} 个已失效的应用文件")
 
     # ---- 快照
     snapshot = {

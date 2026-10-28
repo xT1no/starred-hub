@@ -2,6 +2,8 @@
 
 # android
 
+<img src="icon.png" width="72" align="right" alt="android icon">
+
 > 用 Windows 就近共享在手机与电脑间传文件
 
 Share files between android and PC via the Windows 10 / 11 built-in nearby-sharing functionality (Project Rome)

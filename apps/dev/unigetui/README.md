@@ -2,6 +2,8 @@
 
 # UniGetUI
 
+<img src="icon.png" width="72" align="right" alt="UniGetUI icon">
+
 UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 
 | 项目 | 信息 |
@@ -52,7 +54,7 @@ This release adds an experimental Software Catalog and Catalog Editor (turned on
 | [UniGetUI.macos-x64.tar.gz](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/UniGetUI.macos-x64.tar.gz) | 🍎 macOS | 62.9 MB | 234 |
 | [sizes.macos-arm64.json](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/sizes.macos-arm64.json) | 🍎 macOS | 350 B | 192 |
 | [sizes.macos-x64.json](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/sizes.macos-x64.json) | 🍎 macOS | 342 B | 185 |
-| [UniGetUI.Installer.exe](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/UniGetUI.Installer.exe) | 🪟 Windows | 32.5 MB | 858k |
+| [UniGetUI.Installer.exe](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/UniGetUI.Installer.exe) | 🪟 Windows | 32.5 MB | 857k |
 | [UniGetUI.Installer.x64.exe](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/UniGetUI.Installer.x64.exe) | 🪟 Windows | 32.5 MB | 11k |
 | [UniGetUI.Installer.arm64.exe](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/UniGetUI.Installer.arm64.exe) | 🪟 Windows | 31.0 MB | 1.1k |
 | [UniGetUI.linux-x64.deb](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/UniGetUI.linux-x64.deb) | 🐧 Linux | 35.1 MB | 690 |

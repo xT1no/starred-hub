@@ -1,0 +1,38 @@
+{
+  "name": "BiliRoamingX",
+  "full_name": "BiliRoamingX/BiliRoamingX",
+  "url": "https://github.com/BiliRoamingX/BiliRoamingX",
+  "description": "BiliRoamingX integrations and patches powered by ReVanced.",
+  "note": "",
+  "function": {
+    "name": "影视 / 直播 / 番剧",
+    "slug": "video",
+    "dir": "apps/video"
+  },
+  "platforms": [
+    "Android"
+  ],
+  "language": "Kotlin",
+  "stars": 3875,
+  "forks": 297,
+  "license": "GPL-3.0",
+  "archived": false,
+  "homepage": "https://t.me/bb_show",
+  "topics": [
+    "android",
+    "bilibili",
+    "revanced"
+  ],
+  "starred_at": "2024-02-10T19:50:42Z",
+  "pushed_at": "2026-04-29T02:06:27Z",
+  "latest": {
+    "kind": "tag",
+    "tag": "v1.23.3",
+    "title": "v1.23.3",
+    "published_at": "",
+    "url": "https://github.com/BiliRoamingX/BiliRoamingX/tags",
+    "prerelease": false
+  },
+  "assets": [],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

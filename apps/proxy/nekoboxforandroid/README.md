@@ -2,6 +2,8 @@
 
 # NekoBoxForAndroid
 
+<img src="icon.png" width="72" align="right" alt="NekoBoxForAndroid icon">
+
 NekoBox for Android / sing-box / universal proxy toolchain for Android
 
 | 项目 | 信息 |

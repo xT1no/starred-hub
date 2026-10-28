@@ -2,6 +2,8 @@
 
 # Hail
 
+<img src="icon.png" width="72" align="right" alt="Hail icon">
+
 > 免 root 冻结 / 隐藏安卓应用
 
 Disable / Hide / Suspend / Uninstall Android apps without root.

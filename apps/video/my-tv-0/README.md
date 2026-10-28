@@ -2,6 +2,8 @@
 
 # my-tv-0
 
+<img src="icon.png" width="72" align="right" alt="my-tv-0 icon">
+
 我的電視·〇 電視視頻播放軟件，可以自定義視頻源
 
 | 项目 | 信息 |

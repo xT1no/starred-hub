@@ -2,6 +2,8 @@
 
 # firpe
 
+<img src="icon.png" width="72" align="right" alt="firpe icon">
+
 > Windows PE 维护盘
 
 | 项目 | 信息 |

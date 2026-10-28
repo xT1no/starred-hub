@@ -2,6 +2,8 @@
 
 # iloader
 
+<img src="icon.png" width="72" align="right" alt="iloader icon">
+
 User friendly sideloader
 
 | 项目 | 信息 |

@@ -1,0 +1,47 @@
+{
+  "name": "my-tv",
+  "full_name": "lizongying/my-tv",
+  "url": "https://github.com/lizongying/my-tv",
+  "description": "我的电视 电视直播软件，安装即可使用",
+  "note": "",
+  "function": {
+    "name": "影视 / 直播 / 番剧",
+    "slug": "video",
+    "dir": "apps/video"
+  },
+  "platforms": [
+    "AndroidTV"
+  ],
+  "language": "C",
+  "stars": 31967,
+  "forks": 3585,
+  "license": "",
+  "archived": false,
+  "homepage": "https://lyrics.run/my-tv.html",
+  "topics": [
+    "iptv",
+    "my-tv",
+    "mytv",
+    "tv"
+  ],
+  "starred_at": "2024-03-14T07:08:31Z",
+  "pushed_at": "2024-06-20T06:21:11Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v2.1.8",
+    "title": "Release v2.1.8",
+    "published_at": "2024-06-20T06:24:59Z",
+    "url": "https://github.com/lizongying/my-tv/releases/tag/v2.1.8",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "my-tv-v2.1.8.apk",
+      "size": 13970381,
+      "downloads": 439080,
+      "url": "https://github.com/lizongying/my-tv/releases/download/v2.1.8/my-tv-v2.1.8.apk",
+      "platform": "📺 AndroidTV"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

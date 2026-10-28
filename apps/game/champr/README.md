@@ -2,6 +2,8 @@
 
 # ChampR
 
+<img src="icon.png" width="72" align="right" alt="ChampR icon">
+
 🐶 Yet another League of Legends helper
 
 | 项目 | 信息 |

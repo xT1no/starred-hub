@@ -2,6 +2,8 @@
 
 # Dism-Multi-language
 
+<img src="icon.png" width="72" align="right" alt="Dism-Multi-language icon">
+
 Dism++ Multi-language Support & BUG Report
 
 | 项目 | 信息 |

@@ -1,0 +1,210 @@
+{
+  "name": "UniGetUI",
+  "full_name": "Devolutions/UniGetUI",
+  "url": "https://github.com/Devolutions/UniGetUI",
+  "description": "UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers",
+  "note": "",
+  "function": {
+    "name": "开发工具",
+    "slug": "dev",
+    "dir": "apps/dev"
+  },
+  "platforms": [
+    "Windows",
+    "CLI"
+  ],
+  "language": "C#",
+  "stars": 26792,
+  "forks": 964,
+  "license": "MIT",
+  "archived": false,
+  "homepage": "https://devolutions.net/unigetui/",
+  "topics": [
+    "chocolatey",
+    "cli",
+    "npm",
+    "package",
+    "package-manager",
+    "pip",
+    "scoop",
+    "unigetui",
+    "windows",
+    "windows-10",
+    "windows-11",
+    "winget"
+  ],
+  "starred_at": "2026-04-12T12:53:56Z",
+  "pushed_at": "2026-10-27T20:58:42Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v2026.3.2",
+    "title": "UniGetUI v2026.3.2",
+    "published_at": "2026-10-15T18:58:36Z",
+    "url": "https://github.com/Devolutions/UniGetUI/releases/tag/v2026.3.2",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "checksums.txt",
+      "size": 1948,
+      "downloads": 419,
+      "url": "https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/checksums.txt",
+      "platform": "🔐 校验文件"
+    },
+    {
+      "name": "sizes.arm64.json",
+      "size": 355,
+      "downloads": 212,
+      "url": "https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/sizes.arm64.json",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "sizes.linux-arm64.json",
+      "size": 434,
+      "downloads": 198,
+      "url": "https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/sizes.linux-arm64.json",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "sizes.linux-x64.json",
+      "size": 424,
+      "downloads": 203,
+      "url": "https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/sizes.linux-x64.json",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "sizes.macos-arm64.json",
+      "size": 350,
+      "downloads": 192,
+      "url": "https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/sizes.macos-arm64.json",
+      "platform": "🍎 macOS"
+    },
+    {
+      "name": "sizes.macos-x64.json",
+      "size": 342,
+      "downloads": 185,
+      "url": "https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/sizes.macos-x64.json",
+      "platform": "🍎 macOS"
+    },
+    {
+      "name": "sizes.md",
+      "size": 1363,
+      "downloads": 208,
+      "url": "https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/sizes.md",
+      "platform": "📦 其他"
+    },
+    {
+      "name": "sizes.x64.json",
+      "size": 347,
+      "downloads": 216,
+      "url": "https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/sizes.x64.json",
+      "platform": "📦 其他"
+    },
+    {
+      "name": "UniGetUI.arm64.zip",
+      "size": 48138704,
+      "downloads": 636,
+      "url": "https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/UniGetUI.arm64.zip",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "UniGetUI.Installer.arm64.exe",
+      "size": 32458624,
+      "downloads": 1090,
+      "url": "https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/UniGetUI.Installer.arm64.exe",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "UniGetUI.Installer.exe",
+      "size": 34122400,
+      "downloads": 857342,
+      "url": "https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/UniGetUI.Installer.exe",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "UniGetUI.Installer.x64.exe",
+      "size": 34122400,
+      "downloads": 10849,
+      "url": "https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/UniGetUI.Installer.x64.exe",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "UniGetUI.linux-arm64.deb",
+      "size": 34839020,
+      "downloads": 439,
+      "url": "https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/UniGetUI.linux-arm64.deb",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "UniGetUI.linux-arm64.rpm",
+      "size": 34666185,
+      "downloads": 400,
+      "url": "https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/UniGetUI.linux-arm64.rpm",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "UniGetUI.linux-arm64.tar.gz",
+      "size": 34811525,
+      "downloads": 415,
+      "url": "https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/UniGetUI.linux-arm64.tar.gz",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "UniGetUI.linux-x64.deb",
+      "size": 36771204,
+      "downloads": 690,
+      "url": "https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/UniGetUI.linux-x64.deb",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "UniGetUI.linux-x64.rpm",
+      "size": 36582341,
+      "downloads": 447,
+      "url": "https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/UniGetUI.linux-x64.rpm",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "UniGetUI.linux-x64.tar.gz",
+      "size": 36744162,
+      "downloads": 471,
+      "url": "https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/UniGetUI.linux-x64.tar.gz",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "UniGetUI.macos-arm64.dmg",
+      "size": 59868553,
+      "downloads": 611,
+      "url": "https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/UniGetUI.macos-arm64.dmg",
+      "platform": "🍎 macOS"
+    },
+    {
+      "name": "UniGetUI.macos-arm64.tar.gz",
+      "size": 60467240,
+      "downloads": 243,
+      "url": "https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/UniGetUI.macos-arm64.tar.gz",
+      "platform": "🍎 macOS"
+    },
+    {
+      "name": "UniGetUI.macos-x64.dmg",
+      "size": 65211885,
+      "downloads": 504,
+      "url": "https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/UniGetUI.macos-x64.dmg",
+      "platform": "🍎 macOS"
+    },
+    {
+      "name": "UniGetUI.macos-x64.tar.gz",
+      "size": 65926533,
+      "downloads": 234,
+      "url": "https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/UniGetUI.macos-x64.tar.gz",
+      "platform": "🍎 macOS"
+    },
+    {
+      "name": "UniGetUI.x64.zip",
+      "size": 50756046,
+      "downloads": 5007,
+      "url": "https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/UniGetUI.x64.zip",
+      "platform": "🌐 Web"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

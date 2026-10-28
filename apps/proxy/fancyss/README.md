@@ -2,6 +2,8 @@
 
 # fancyss
 
+<img src="icon.png" width="72" align="right" alt="fancyss icon">
+
 fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.
 
 | 项目 | 信息 |

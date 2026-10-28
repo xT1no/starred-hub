@@ -1,0 +1,56 @@
+{
+  "name": "cfnew",
+  "full_name": "byJoey/cfnew",
+  "url": "https://github.com/byJoey/cfnew",
+  "description": "",
+  "note": "Cloudflare Workers 节点部署",
+  "function": {
+    "name": "网络代理 / 节点",
+    "slug": "proxy",
+    "dir": "apps/proxy"
+  },
+  "platforms": [
+    "Web"
+  ],
+  "language": "Python",
+  "stars": 16516,
+  "forks": 8469,
+  "license": "",
+  "archived": false,
+  "homepage": "",
+  "topics": [],
+  "starred_at": "2025-11-01T13:07:35Z",
+  "pushed_at": "2026-10-18T06:30:32Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v2026.10.17.2",
+    "title": "CFnew 精简内核 2026.10.17.2",
+    "published_at": "2026-10-18T06:17:28Z",
+    "url": "https://github.com/byJoey/cfnew/releases/tag/v2026.10.17.2",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "Pages.zip",
+      "size": 15220,
+      "downloads": 12488,
+      "url": "https://github.com/byJoey/cfnew/releases/download/v2026.10.17.2/Pages.zip",
+      "platform": "🌐 Web"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "size": 153,
+      "downloads": 289,
+      "url": "https://github.com/byJoey/cfnew/releases/download/v2026.10.17.2/SHA256SUMS.txt",
+      "platform": "🔐 校验文件"
+    },
+    {
+      "name": "_worker.js",
+      "size": 37806,
+      "downloads": 1123,
+      "url": "https://github.com/byJoey/cfnew/releases/download/v2026.10.17.2/_worker.js",
+      "platform": "📦 其他"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

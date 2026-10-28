@@ -1,0 +1,42 @@
+{
+  "name": "FakeLocation",
+  "full_name": "Lerist/FakeLocation",
+  "url": "https://github.com/Lerist/FakeLocation",
+  "description": "Fake Location",
+  "note": "安卓虚拟定位",
+  "function": {
+    "name": "应用增强 / 模块",
+    "slug": "mod",
+    "dir": "apps/mod"
+  },
+  "platforms": [
+    "Android"
+  ],
+  "language": "HTML",
+  "stars": 7299,
+  "forks": 488,
+  "license": "",
+  "archived": true,
+  "homepage": "",
+  "topics": [],
+  "starred_at": "2023-12-08T02:57:35Z",
+  "pushed_at": "2026-08-20T06:56:57Z",
+  "latest": {
+    "kind": "release",
+    "tag": "1.5.2",
+    "title": "Fake Location v1.5.2",
+    "published_at": "2026-08-19T05:08:53Z",
+    "url": "https://github.com/Lerist/FakeLocation/releases/tag/1.5.2",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "FakeLocation_CN_v1.5.2_1702.apk",
+      "size": 34317784,
+      "downloads": 185129,
+      "url": "https://github.com/Lerist/FakeLocation/releases/download/1.5.2/FakeLocation_CN_v1.5.2_1702.apk",
+      "platform": "📲 Android"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

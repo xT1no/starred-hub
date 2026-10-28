@@ -1,0 +1,57 @@
+{
+  "name": "android",
+  "full_name": "nearby-sharing/android",
+  "url": "https://github.com/nearby-sharing/android",
+  "description": "Share files between android and PC via the Windows 10 / 11 built-in nearby-sharing functionality (Project Rome)",
+  "note": "用 Windows 就近共享在手机与电脑间传文件",
+  "function": {
+    "name": "系统增强 / 优化",
+    "slug": "system",
+    "dir": "apps/system"
+  },
+  "platforms": [
+    "Windows",
+    "Android"
+  ],
+  "language": "C#",
+  "stars": 898,
+  "forks": 43,
+  "license": "GPL-3.0",
+  "archived": false,
+  "homepage": "https://nearshare.shortdev.de",
+  "topics": [
+    "airdrop",
+    "android",
+    "bluetooth",
+    "hacktoberfest",
+    "nearby",
+    "nearby-sharing",
+    "nearshare",
+    "project-rome",
+    "share",
+    "wifi",
+    "windows-10",
+    "windows-11",
+    "xamarin"
+  ],
+  "starred_at": "2024-02-28T16:32:09Z",
+  "pushed_at": "2026-10-13T20:11:33Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v1.11.1",
+    "title": "v1.11.1",
+    "published_at": "2026-05-21T14:42:26Z",
+    "url": "https://github.com/nearby-sharing/android/releases/tag/v1.11.1",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "de.shortdev.nearby_sharing_windows.42.apk",
+      "size": 85121651,
+      "downloads": 1073,
+      "url": "https://github.com/nearby-sharing/android/releases/download/v1.11.1/de.shortdev.nearby_sharing_windows.42.apk",
+      "platform": "📲 Android"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

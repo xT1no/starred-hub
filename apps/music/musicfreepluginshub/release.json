@@ -1,0 +1,34 @@
+{
+  "name": "MusicFreePluginsHub",
+  "full_name": "xxnuo/MusicFreePluginsHub",
+  "url": "https://github.com/xxnuo/MusicFreePluginsHub",
+  "description": "",
+  "note": "MusicFree 插件合集",
+  "function": {
+    "name": "音乐 / 音频",
+    "slug": "music",
+    "dir": "apps/music"
+  },
+  "platforms": [
+    "通用 / 未指定"
+  ],
+  "language": "",
+  "stars": 3193,
+  "forks": 404,
+  "license": "",
+  "archived": true,
+  "homepage": "",
+  "topics": [],
+  "starred_at": "2025-06-19T15:13:09Z",
+  "pushed_at": "2026-03-25T14:37:49Z",
+  "latest": {
+    "kind": "none",
+    "tag": "",
+    "title": "",
+    "published_at": "",
+    "url": "",
+    "prerelease": false
+  },
+  "assets": [],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

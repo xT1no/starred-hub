@@ -2,6 +2,8 @@
 
 # PureNGA
 
+<img src="icon.png" width="72" align="right" alt="PureNGA icon">
+
 NGA 去广告Xposed模块 支持 Lspatch
 
 | 项目 | 信息 |

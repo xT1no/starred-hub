@@ -1,0 +1,34 @@
+{
+  "name": "IPDB",
+  "full_name": "ymyuuu/IPDB",
+  "url": "https://github.com/ymyuuu/IPDB",
+  "description": "Cloudflare反代优选IP库",
+  "note": "",
+  "function": {
+    "name": "网络代理 / 节点",
+    "slug": "proxy",
+    "dir": "apps/proxy"
+  },
+  "platforms": [
+    "Web"
+  ],
+  "language": "",
+  "stars": 2608,
+  "forks": 799,
+  "license": "MIT",
+  "archived": false,
+  "homepage": "https://ipdb.030101.xyz",
+  "topics": [],
+  "starred_at": "2024-06-20T02:04:17Z",
+  "pushed_at": "2026-10-28T08:09:10Z",
+  "latest": {
+    "kind": "none",
+    "tag": "",
+    "title": "",
+    "published_at": "",
+    "url": "",
+    "prerelease": false
+  },
+  "assets": [],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

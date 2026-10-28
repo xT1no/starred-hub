@@ -2,6 +2,8 @@
 
 # whatcable
 
+<img src="icon.png" width="72" align="right" alt="whatcable icon">
+
 macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 
 | 项目 | 信息 |

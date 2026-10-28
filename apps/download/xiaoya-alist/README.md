@@ -2,6 +2,8 @@
 
 # xiaoya-alist
 
+<img src="icon.png" width="72" align="right" alt="xiaoya-alist icon">
+
 > 小雅 Alist 相关周边（网盘聚合）
 
 小雅Alist的相关周边

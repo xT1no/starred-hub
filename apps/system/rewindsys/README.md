@@ -2,6 +2,8 @@
 
 # ReWindsys
 
+<img src="icon.png" width="72" align="right" alt="ReWindsys icon">
+
 > Windows 精简系统镜像项目
 
 Rebirth of Windsys Project

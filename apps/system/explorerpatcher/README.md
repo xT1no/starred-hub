@@ -2,6 +2,8 @@
 
 # ExplorerPatcher
 
+<img src="icon.png" width="72" align="right" alt="ExplorerPatcher icon">
+
 > 恢复 Windows 11 经典任务栏与资源管理器
 
 This project aims to enhance the working environment on Windows
@@ -49,7 +51,7 @@ This project aims to enhance the working environment on Windows
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [ep_setup.exe](https://github.com/valinet/ExplorerPatcher/releases/download/26100.8457.70.3/ep_setup.exe) | 🪟 Windows | 11.7 MB | 9905k |
+| [ep_setup.exe](https://github.com/valinet/ExplorerPatcher/releases/download/26100.8457.70.3/ep_setup.exe) | 🪟 Windows | 11.7 MB | 9903k |
 | [ep_setup_arm64.exe](https://github.com/valinet/ExplorerPatcher/releases/download/26100.8457.70.3/ep_setup_arm64.exe) | 🪟 Windows | 11.3 MB | 143k |
 
 ## 🔗 快速链接

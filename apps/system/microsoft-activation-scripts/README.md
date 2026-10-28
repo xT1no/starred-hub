@@ -2,6 +2,8 @@
 
 # Microsoft-Activation-Scripts
 
+<img src="icon.png" width="72" align="right" alt="Microsoft-Activation-Scripts icon">
+
 Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 
 | 项目 | 信息 |

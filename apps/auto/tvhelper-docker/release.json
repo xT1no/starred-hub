@@ -1,0 +1,57 @@
+{
+  "name": "tvhelper-docker",
+  "full_name": "wukongdaily/tvhelper-docker",
+  "url": "https://github.com/wukongdaily/tvhelper-docker",
+  "description": "让你使用电脑、NAS等一切能运行docker的设备变成盒子的ADB安装助手",
+  "note": "",
+  "function": {
+    "name": "自动化 / 部署",
+    "slug": "auto",
+    "dir": "apps/auto"
+  },
+  "platforms": [
+    "Linux",
+    "Android",
+    "AndroidTV"
+  ],
+  "language": "Shell",
+  "stars": 1083,
+  "forks": 225,
+  "license": "GPL-3.0",
+  "archived": false,
+  "homepage": "https://hub.docker.com/r/wukongdaily/box/tags",
+  "topics": [
+    "apkm",
+    "apkmirror",
+    "apkpure",
+    "box",
+    "disney-apk",
+    "hbo",
+    "netflix-apk",
+    "sony",
+    "tvbox",
+    "tvhelper",
+    "wukongdaily",
+    "xapk"
+  ],
+  "starred_at": "2024-04-17T16:33:15Z",
+  "pushed_at": "2026-03-28T03:56:22Z",
+  "latest": {
+    "kind": "release",
+    "tag": "fpk",
+    "title": "飞牛fpk安装包",
+    "published_at": "2026-03-26T08:31:38Z",
+    "url": "https://github.com/wukongdaily/tvhelper-docker/releases/tag/fpk",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "tvhelper-1.1.5.fpk",
+      "size": 139508,
+      "downloads": 623,
+      "url": "https://github.com/wukongdaily/tvhelper-docker/releases/download/fpk/tvhelper-1.1.5.fpk",
+      "platform": "📦 其他"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

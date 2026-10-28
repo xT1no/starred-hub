@@ -14,6 +14,7 @@
 """
 from __future__ import annotations
 
+import json
 import re
 from datetime import datetime
 
@@ -169,6 +170,8 @@ def render_app(repo: dict, cat: dict, ctx: dict) -> str:
 
     L.append(f"# {repo['name']}")
     L.append("")
+    L.append(f'<img src="icon.png" width="72" align="right" alt="{repo["name"]} icon">')
+    L.append("")
     desc = repo.get("description") or ""
     note = repo["cls"].get("note")
     if note:
@@ -263,6 +266,52 @@ def render_app(repo: dict, cat: dict, ctx: dict) -> str:
     L.append("")
     L.append("← 返回 [" + f"{cat.get('emoji','')} {cat['name']}".strip() + "](../README.md) · [全部应用](../../README.md) · [星标总览](../../../README.md)")
     return "\n".join(L)
+
+
+# ------------------------------------------------------------------ 元数据
+
+
+def render_meta(repo: dict, cat: dict, ctx: dict) -> str:
+    """给机器读的结构化元数据，和 README 同源。"""
+    rel = release_of(repo)
+    payload = {
+        "name": repo["name"],
+        "full_name": repo["full_name"],
+        "url": repo["html_url"],
+        "description": repo.get("description") or "",
+        "note": repo["cls"].get("note") or "",
+        "function": {"name": cat["name"], "slug": cat["slug"], "dir": f"apps/{cat['slug']}"},
+        "platforms": [c["name"] for c in repo["cls"]["platforms"]],
+        "language": repo.get("language") or "",
+        "stars": repo.get("stars") or 0,
+        "forks": repo.get("forks") or 0,
+        "license": repo.get("license") or "",
+        "archived": bool(repo.get("archived")),
+        "homepage": repo.get("homepage") or "",
+        "topics": repo.get("topics") or [],
+        "starred_at": repo.get("starred_at") or "",
+        "pushed_at": repo.get("pushed_at") or "",
+        "latest": {
+            "kind": rel.get("kind") or "none",
+            "tag": rel.get("tag") or "",
+            "title": rel.get("title") or "",
+            "published_at": rel.get("published_at") or "",
+            "url": rel.get("url") or "",
+            "prerelease": bool(rel.get("prerelease")),
+        },
+        "assets": [
+            {
+                "name": a["name"],
+                "size": a["size"],
+                "downloads": a["downloads"],
+                "url": a["url"],
+                "platform": guess_platform(a["name"]),
+            }
+            for a in (rel.get("assets") or [])
+        ],
+        "generated_at": ctx["synced_at"].isoformat(timespec="seconds"),
+    }
+    return json.dumps(payload, ensure_ascii=False, indent=2)
 
 
 # ------------------------------------------------------------------ 分类索引页
@@ -423,6 +472,8 @@ def plan(ctx: dict, groups: list[tuple[dict, list[dict]]]) -> dict[str, str]:
     for cat, items in groups:
         files[f"apps/{cat['slug']}/README.md"] = render_category(cat, items, ctx)
         for repo in items:
-            files[f"apps/{cat['slug']}/{write_dir(repo)}/README.md"] = render_app(repo, cat, ctx)
+            base = f"apps/{cat['slug']}/{write_dir(repo)}"
+            files[f"{base}/README.md"] = render_app(repo, cat, ctx)
+            files[f"{base}/release.json"] = render_meta(repo, cat, ctx)
     files["docs/updates.md"] = render_updates(groups, ctx)
     return files

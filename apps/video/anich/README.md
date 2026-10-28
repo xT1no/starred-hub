@@ -2,6 +2,8 @@
 
 # AniCh
 
+<img src="icon.png" width="72" align="right" alt="AniCh icon">
+
 一个支持超分辨率的在线动漫弹幕APP。多平台，多番剧源，多弹幕，高清无广告。追番看番必备软件。
 
 | 项目 | 信息 |

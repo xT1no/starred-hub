@@ -2,6 +2,8 @@
 
 # SubsCheck-Win-GUI
 
+<img src="icon.png" width="72" align="right" alt="SubsCheck-Win-GUI icon">
+
 > 订阅节点可用性批量检测
 
 SubsCheck 为 Windows 用户设计的 GUI 程序界面。

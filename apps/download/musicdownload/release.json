@@ -1,0 +1,37 @@
+{
+  "name": "MusicDownload",
+  "full_name": "QiuChenlyOpenSource/MusicDownload",
+  "url": "https://github.com/QiuChenlyOpenSource/MusicDownload",
+  "description": "歌曲下载",
+  "note": "",
+  "function": {
+    "name": "下载 / 网盘",
+    "slug": "download",
+    "dir": "apps/download"
+  },
+  "platforms": [
+    "通用 / 未指定"
+  ],
+  "language": "",
+  "stars": 2444,
+  "forks": 441,
+  "license": "GPL-3.0",
+  "archived": true,
+  "homepage": "",
+  "topics": [
+    "flac-mp3",
+    "qqmusicapi"
+  ],
+  "starred_at": "2023-04-10T18:00:04Z",
+  "pushed_at": "2023-11-03T02:11:44Z",
+  "latest": {
+    "kind": "none",
+    "tag": "",
+    "title": "",
+    "published_at": "",
+    "url": "",
+    "prerelease": false
+  },
+  "assets": [],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

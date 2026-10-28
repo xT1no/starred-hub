@@ -1,0 +1,34 @@
+{
+  "name": "CF-Workers-SUB",
+  "full_name": "cmliu/CF-Workers-SUB",
+  "url": "https://github.com/cmliu/CF-Workers-SUB",
+  "description": "这个是一个通过 Cloudflare Workers 搭建，将你任意节点与多个订阅汇聚成专属于你的订阅链接",
+  "note": "",
+  "function": {
+    "name": "网络代理 / 节点",
+    "slug": "proxy",
+    "dir": "apps/proxy"
+  },
+  "platforms": [
+    "服务端 / 云端"
+  ],
+  "language": "JavaScript",
+  "stars": 7515,
+  "forks": 9005,
+  "license": "Apache-2.0",
+  "archived": true,
+  "homepage": "https://youtu.be/w6rRY4FDd58",
+  "topics": [],
+  "starred_at": "2024-05-13T03:44:57Z",
+  "pushed_at": "2026-06-25T09:23:11Z",
+  "latest": {
+    "kind": "none",
+    "tag": "",
+    "title": "",
+    "published_at": "",
+    "url": "",
+    "prerelease": false
+  },
+  "assets": [],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

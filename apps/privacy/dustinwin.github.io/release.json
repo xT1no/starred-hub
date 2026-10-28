@@ -1,0 +1,44 @@
+{
+  "name": "dustinwin.github.io",
+  "full_name": "DustinWin/dustinwin.github.io",
+  "url": "https://github.com/DustinWin/dustinwin.github.io",
+  "description": "mihomo 和 sing-box 教程合集——安装、配置、自定义规则、DNS 分流",
+  "note": "",
+  "function": {
+    "name": "广告过滤 / 隐私",
+    "slug": "privacy",
+    "dir": "apps/privacy"
+  },
+  "platforms": [
+    "通用 / 未指定"
+  ],
+  "language": "Shell",
+  "stars": 1592,
+  "forks": 154,
+  "license": "MIT",
+  "archived": false,
+  "homepage": "http://proxy-tutorials.dustinwin.cc.cd/",
+  "topics": [
+    "adguard-home",
+    "adguardhome",
+    "clash",
+    "clash-meta",
+    "mihomo",
+    "proxy",
+    "shellcrash",
+    "sing-box",
+    "singbox"
+  ],
+  "starred_at": "2024-06-05T02:56:48Z",
+  "pushed_at": "2026-09-25T11:26:20Z",
+  "latest": {
+    "kind": "none",
+    "tag": "",
+    "title": "",
+    "published_at": "",
+    "url": "",
+    "prerelease": false
+  },
+  "assets": [],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

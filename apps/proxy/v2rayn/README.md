@@ -2,6 +2,8 @@
 
 # v2rayN
 
+<img src="icon.png" width="72" align="right" alt="v2rayN icon">
+
 A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 
 | 项目 | 信息 |
@@ -72,7 +74,7 @@ A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 | [v2rayN-linux-rhel-loong64.rpm](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-rhel-loong64.rpm) | 🐧 Linux | 81.3 MB | 723 |
 | [v2rayN-linux-rhel-riscv64.rpm](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-rhel-riscv64.rpm) | 🐧 Linux | 84.6 MB | 715 |
 | [v2rayN-windows-64-desktop.zip.sig](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-64-desktop.zip.sig) | 🔐 校验文件 | 297 B | 2.6k |
-| [v2rayN-windows-64.zip.sig](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-64.zip.sig) | 🔐 校验文件 | 297 B | 2.6k |
+| [v2rayN-windows-64.zip.sig](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-64.zip.sig) | 🔐 校验文件 | 297 B | 2.5k |
 | [v2rayN-linux-64.deb.sig](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-64.deb.sig) | 🔐 校验文件 | 297 B | 1.9k |
 | [v2rayN-linux-64.zip.sig](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-64.zip.sig) | 🔐 校验文件 | 297 B | 1.2k |
 

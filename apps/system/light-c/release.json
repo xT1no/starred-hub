@@ -1,0 +1,98 @@
+{
+  "name": "light-c",
+  "full_name": "Chunyu33/light-c",
+  "url": "https://github.com/Chunyu33/light-c",
+  "description": "A free, minimalist, lightweight, and high-performance C-drive cleanup tool.",
+  "note": "",
+  "function": {
+    "name": "系统增强 / 优化",
+    "slug": "system",
+    "dir": "apps/system"
+  },
+  "platforms": [
+    "Windows"
+  ],
+  "language": "Rust",
+  "stars": 3216,
+  "forks": 132,
+  "license": "NOASSERTION",
+  "archived": false,
+  "homepage": "https://www.lightc.app/",
+  "topics": [],
+  "starred_at": "2026-08-06T05:50:24Z",
+  "pushed_at": "2026-10-24T01:03:10Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v2.17.0",
+    "title": "LightC v2.17.0",
+    "published_at": "2026-10-24T01:08:26Z",
+    "url": "https://github.com/Chunyu33/light-c/releases/tag/v2.17.0",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "download.json",
+      "size": 290,
+      "downloads": 35,
+      "url": "https://github.com/Chunyu33/light-c/releases/download/v2.17.0/download.json",
+      "platform": "📦 其他"
+    },
+    {
+      "name": "latest.json",
+      "size": 1912,
+      "downloads": 12465,
+      "url": "https://github.com/Chunyu33/light-c/releases/download/v2.17.0/latest.json",
+      "platform": "📦 其他"
+    },
+    {
+      "name": "LightC_2.17.0_x64-setup.exe",
+      "size": 6118879,
+      "downloads": 4349,
+      "url": "https://github.com/Chunyu33/light-c/releases/download/v2.17.0/LightC_2.17.0_x64-setup.exe",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "LightC_2.17.0_x64-setup.exe.sig",
+      "size": 416,
+      "downloads": 5,
+      "url": "https://github.com/Chunyu33/light-c/releases/download/v2.17.0/LightC_2.17.0_x64-setup.exe.sig",
+      "platform": "🔐 校验文件"
+    },
+    {
+      "name": "LightC_installer_exe.sig",
+      "size": 396,
+      "downloads": 88,
+      "url": "https://github.com/Chunyu33/light-c/releases/download/v2.17.0/LightC_installer_exe.sig",
+      "platform": "🔐 校验文件"
+    },
+    {
+      "name": "LightC_portable_exe.sig",
+      "size": 396,
+      "downloads": 29,
+      "url": "https://github.com/Chunyu33/light-c/releases/download/v2.17.0/LightC_portable_exe.sig",
+      "platform": "🔐 校验文件"
+    },
+    {
+      "name": "LightC_portable_x64_v2.17.0.zip",
+      "size": 8048686,
+      "downloads": 372,
+      "url": "https://github.com/Chunyu33/light-c/releases/download/v2.17.0/LightC_portable_x64_v2.17.0.zip",
+      "platform": "🌐 Web"
+    },
+    {
+      "name": "LightC_webview2_offline_exe.sig",
+      "size": 396,
+      "downloads": 82,
+      "url": "https://github.com/Chunyu33/light-c/releases/download/v2.17.0/LightC_webview2_offline_exe.sig",
+      "platform": "🔐 校验文件"
+    },
+    {
+      "name": "LightC_webview2_offline_x64_v2.17.0.exe",
+      "size": 223733588,
+      "downloads": 111,
+      "url": "https://github.com/Chunyu33/light-c/releases/download/v2.17.0/LightC_webview2_offline_x64_v2.17.0.exe",
+      "platform": "🪟 Windows"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

@@ -1,0 +1,86 @@
+{
+  "name": "SteamTools",
+  "full_name": "BeyondDimension/SteamTools",
+  "url": "https://github.com/BeyondDimension/SteamTools",
+  "description": "🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。",
+  "note": "",
+  "function": {
+    "name": "游戏 / 辅助脚本",
+    "slug": "game",
+    "dir": "apps/game"
+  },
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "iOS",
+    "Android",
+    "跨平台桌面"
+  ],
+  "language": "C#",
+  "stars": 27315,
+  "forks": 1739,
+  "license": "GPL-3.0",
+  "archived": false,
+  "homepage": "https://steampp.net",
+  "topics": [
+    "android-app",
+    "avalonia",
+    "avaloniaui",
+    "cross-platform",
+    "crossplatform",
+    "csharp",
+    "dotnet",
+    "dotnetcore",
+    "ios-app",
+    "linux-app",
+    "macos-app",
+    "mvvm",
+    "steam",
+    "steamtools",
+    "windows-app",
+    "wpf",
+    "xaml"
+  ],
+  "starred_at": "2023-07-06T02:28:43Z",
+  "pushed_at": "2026-10-28T02:57:09Z",
+  "latest": {
+    "kind": "release",
+    "tag": "3.1.0",
+    "title": "3.1.0",
+    "published_at": "2026-03-11T18:03:11Z",
+    "url": "https://github.com/BeyondDimension/SteamTools/releases/tag/3.1.0",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "Steam++_v3.1.0_linux_x64.tgz",
+      "size": 85626421,
+      "downloads": 78359,
+      "url": "https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_linux_x64.tgz",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "Steam++_v3.1.0_macos.dmg",
+      "size": 230704640,
+      "downloads": 126257,
+      "url": "https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_macos.dmg",
+      "platform": "🍎 macOS"
+    },
+    {
+      "name": "Steam++_v3.1.0_win_x64.7z",
+      "size": 94651502,
+      "downloads": 71067,
+      "url": "https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_win_x64.7z",
+      "platform": "📦 其他"
+    },
+    {
+      "name": "Steam++_v3.1.0_win_x64.exe",
+      "size": 96754104,
+      "downloads": 206305,
+      "url": "https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_win_x64.exe",
+      "platform": "🪟 Windows"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

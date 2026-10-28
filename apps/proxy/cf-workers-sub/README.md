@@ -2,6 +2,8 @@
 
 # CF-Workers-SUB
 
+<img src="icon.png" width="72" align="right" alt="CF-Workers-SUB icon">
+
 这个是一个通过 Cloudflare Workers 搭建，将你任意节点与多个订阅汇聚成专属于你的订阅链接
 
 > 🗄️ **该仓库已归档，作者不再维护。**

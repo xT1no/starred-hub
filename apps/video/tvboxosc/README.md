@@ -2,6 +2,8 @@
 
 # TVBoxOSC
 
+<img src="icon.png" width="72" align="right" alt="TVBoxOSC icon">
+
 > TVBox 配置与源
 
 | 项目 | 信息 |

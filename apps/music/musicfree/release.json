@@ -1,0 +1,79 @@
+{
+  "name": "MusicFree",
+  "full_name": "maotoumao/MusicFree",
+  "url": "https://github.com/maotoumao/MusicFree",
+  "description": "插件化、定制化、无广告的免费音乐播放器",
+  "note": "",
+  "function": {
+    "name": "音乐 / 音频",
+    "slug": "music",
+    "dir": "apps/music"
+  },
+  "platforms": [
+    "Web",
+    "移动端"
+  ],
+  "language": "TypeScript",
+  "stars": 28018,
+  "forks": 2007,
+  "license": "AGPL-3.0",
+  "archived": false,
+  "homepage": "https://musicfree.catcat.work",
+  "topics": [
+    "free",
+    "music-player",
+    "musicfree",
+    "plugin",
+    "react",
+    "react-native",
+    "typescript"
+  ],
+  "starred_at": "2025-10-15T09:32:25Z",
+  "pushed_at": "2026-10-15T15:16:41Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v0.6.2",
+    "title": "v0.6.2",
+    "published_at": "2025-10-11T05:11:23Z",
+    "url": "https://github.com/maotoumao/MusicFree/releases/tag/v0.6.2",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "app-arm64-v8a-release.apk",
+      "size": 18228172,
+      "downloads": 36928,
+      "url": "https://github.com/maotoumao/MusicFree/releases/download/v0.6.2/app-arm64-v8a-release.apk",
+      "platform": "📲 Android"
+    },
+    {
+      "name": "app-armeabi-v7a-release.apk",
+      "size": 17594166,
+      "downloads": 3920,
+      "url": "https://github.com/maotoumao/MusicFree/releases/download/v0.6.2/app-armeabi-v7a-release.apk",
+      "platform": "📲 Android"
+    },
+    {
+      "name": "app-universal-release.apk",
+      "size": 31675833,
+      "downloads": 9018,
+      "url": "https://github.com/maotoumao/MusicFree/releases/download/v0.6.2/app-universal-release.apk",
+      "platform": "📲 Android"
+    },
+    {
+      "name": "app-x86-release.apk",
+      "size": 18674630,
+      "downloads": 2379,
+      "url": "https://github.com/maotoumao/MusicFree/releases/download/v0.6.2/app-x86-release.apk",
+      "platform": "📲 Android"
+    },
+    {
+      "name": "app-x86_64-release.apk",
+      "size": 18365499,
+      "downloads": 4197,
+      "url": "https://github.com/maotoumao/MusicFree/releases/download/v0.6.2/app-x86_64-release.apk",
+      "platform": "📲 Android"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "alltv",
+  "full_name": "Ha2ryZhang/alltv",
+  "url": "https://github.com/Ha2ryZhang/alltv",
+  "description": "一个app看全网直播--获取 斗鱼、虎牙、bilibili等平台直播源、直播弹幕",
+  "note": "聚合斗鱼 / 虎牙 / B站 直播源",
+  "function": {
+    "name": "影视 / 直播 / 番剧",
+    "slug": "video",
+    "dir": "apps/video"
+  },
+  "platforms": [
+    "Android"
+  ],
+  "language": "Java",
+  "stars": 170,
+  "forks": 27,
+  "license": "MIT",
+  "archived": true,
+  "homepage": "http://debugers.com:8888/swagger-ui.html#/",
+  "topics": [
+    "bilibili-live",
+    "douyu",
+    "huya",
+    "java"
+  ],
+  "starred_at": "2020-10-08T12:15:18Z",
+  "pushed_at": "2022-09-19T09:10:31Z",
+  "latest": {
+    "kind": "release",
+    "tag": "1.0.6beta",
+    "title": "alltv_flutter",
+    "published_at": "2020-05-18T09:39:54Z",
+    "url": "https://github.com/Ha2ryZhang/alltv/releases/tag/1.0.6beta",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "alltv_1.0.6_beta.apk",
+      "size": 9128471,
+      "downloads": 507,
+      "url": "https://github.com/Ha2ryZhang/alltv/releases/download/1.0.6beta/alltv_1.0.6_beta.apk",
+      "platform": "📲 Android"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

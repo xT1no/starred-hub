@@ -2,6 +2,8 @@
 
 # ddgksf2013
 
+<img src="icon.png" width="72" align="right" alt="ddgksf2013 icon">
+
 墨鱼去广告计划 | QuantumultX 去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | 圈 X 配置 | Shadowrocket配置 | 墨鱼规则 | Clash配置 | 小火箭去广告 | 资源库 | AdBlock | 网页广告 | 不完全指北
 
 | 项目 | 信息 |

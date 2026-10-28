@@ -2,6 +2,8 @@
 
 # localsend
 
+<img src="icon.png" width="72" align="right" alt="localsend icon">
+
 > 跨设备局域网文件互传（类 AirDrop）
 
 An open-source cross-platform alternative to AirDrop

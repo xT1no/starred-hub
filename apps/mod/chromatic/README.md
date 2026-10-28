@@ -2,6 +2,8 @@
 
 # chromatic
 
+<img src="icon.png" width="72" align="right" alt="chromatic icon">
+
 > Chromium/V8 通用注入修改器
 
 Universal modifier for Chromium/V8 | 广谱注入 Chromium/V8 的通用修改器

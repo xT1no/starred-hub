@@ -1,0 +1,34 @@
+{
+  "name": "TVBOX-",
+  "full_name": "xianyuyimu/TVBOX-",
+  "url": "https://github.com/xianyuyimu/TVBOX-",
+  "description": "一木TVBOX自用仓库",
+  "note": "",
+  "function": {
+    "name": "影视 / 直播 / 番剧",
+    "slug": "video",
+    "dir": "apps/video"
+  },
+  "platforms": [
+    "AndroidTV"
+  ],
+  "language": "JavaScript",
+  "stars": 3119,
+  "forks": 410,
+  "license": "",
+  "archived": false,
+  "homepage": "",
+  "topics": [],
+  "starred_at": "2025-06-15T08:54:05Z",
+  "pushed_at": "2026-09-18T16:55:15Z",
+  "latest": {
+    "kind": "none",
+    "tag": "",
+    "title": "",
+    "published_at": "",
+    "url": "",
+    "prerelease": false
+  },
+  "assets": [],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

@@ -2,6 +2,8 @@
 
 # tvbox
 
+<img src="icon.png" width="72" align="right" alt="tvbox icon">
+
 OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
 
 | 项目 | 信息 |

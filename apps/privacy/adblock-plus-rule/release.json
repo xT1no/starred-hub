@@ -1,0 +1,34 @@
+{
+  "name": "Adblock-Plus-Rule",
+  "full_name": "xinggsf/Adblock-Plus-Rule",
+  "url": "https://github.com/xinggsf/Adblock-Plus-Rule",
+  "description": "uBlock Origin 乘风广告过滤规则",
+  "note": "",
+  "function": {
+    "name": "广告过滤 / 隐私",
+    "slug": "privacy",
+    "dir": "apps/privacy"
+  },
+  "platforms": [
+    "浏览器扩展"
+  ],
+  "language": "Batchfile",
+  "stars": 2414,
+  "forks": 289,
+  "license": "",
+  "archived": false,
+  "homepage": "",
+  "topics": [],
+  "starred_at": "2025-07-06T05:14:14Z",
+  "pushed_at": "2026-03-20T08:08:42Z",
+  "latest": {
+    "kind": "none",
+    "tag": "",
+    "title": "",
+    "published_at": "",
+    "url": "",
+    "prerelease": false
+  },
+  "assets": [],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

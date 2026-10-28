@@ -2,6 +2,8 @@
 
 # clash-speedtest
 
+<img src="icon.png" width="72" align="right" alt="clash-speedtest icon">
+
 clash speedtest
 
 | 项目 | 信息 |
@@ -47,7 +49,7 @@ clash speedtest
 | [clash-speedtest_Linux_arm64.tar.gz](https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/clash-speedtest_Linux_arm64.tar.gz) | 🐧 Linux | 11.2 MB | 146 |
 | [clash-speedtest_Linux_armv7.tar.gz](https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/clash-speedtest_Linux_armv7.tar.gz) | 🐧 Linux | 11.5 MB | 16 |
 | [clash-speedtest_Linux_i386.tar.gz](https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/clash-speedtest_Linux_i386.tar.gz) | 🐧 Linux | 11.6 MB | 14 |
-| [checksums.txt](https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/checksums.txt) | 🔐 校验文件 | 909 B | 224 |
+| [checksums.txt](https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/checksums.txt) | 🔐 校验文件 | 909 B | 223 |
 
 ## 🔗 快速链接
 

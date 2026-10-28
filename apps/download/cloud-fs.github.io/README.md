@@ -2,6 +2,8 @@
 
 # cloud-fs.github.io
 
+<img src="icon.png" width="72" align="right" alt="cloud-fs.github.io icon">
+
 > CloudFS 网盘挂载文档站
 
 | 项目 | 信息 |
@@ -45,18 +47,18 @@ CloudDrive2 Core V1.1.3(Web3.1.3)
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
 | [clouddrive-2-macos-aarch64-1.1.3.tgz](https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive-2-macos-aarch64-1.1.3.tgz) | 🍎 macOS | 13.5 MB | 612 |
-| [clouddrive-2-macos-x86_64-1.1.3.tgz](https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive-2-macos-x86_64-1.1.3.tgz) | 🍎 macOS | 14.8 MB | 385 |
+| [clouddrive-2-macos-x86_64-1.1.3.tgz](https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive-2-macos-x86_64-1.1.3.tgz) | 🍎 macOS | 14.8 MB | 384 |
 | [clouddrive-2-android-universal-1.1.3-233.apk](https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive-2-android-universal-1.1.3-233.apk) | 📲 Android | 46.1 MB | 1.6k |
-| [clouddrive-2-android-aarch64-1.1.3.tgz](https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive-2-android-aarch64-1.1.3.tgz) | 📲 Android | 14.4 MB | 383 |
+| [clouddrive-2-android-aarch64-1.1.3.tgz](https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive-2-android-aarch64-1.1.3.tgz) | 📲 Android | 14.4 MB | 382 |
 | [clouddrive-2-android-armv7-1.1.3.tgz](https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive-2-android-armv7-1.1.3.tgz) | 📲 Android | 14.0 MB | 333 |
-| [clouddrive-2-android-x86_64-1.1.3.tgz](https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive-2-android-x86_64-1.1.3.tgz) | 📲 Android | 15.3 MB | 332 |
+| [clouddrive-2-android-x86_64-1.1.3.tgz](https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive-2-android-x86_64-1.1.3.tgz) | 📲 Android | 15.3 MB | 330 |
 | [CloudDrive2Setup-X64-1.1.3.exe](https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/CloudDrive2Setup-X64-1.1.3.exe) | 🪟 Windows | 13.9 MB | 2.7k |
-| [CloudDrive2Setup-Arm64-1.1.3.exe](https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/CloudDrive2Setup-Arm64-1.1.3.exe) | 🪟 Windows | 12.9 MB | 426 |
+| [CloudDrive2Setup-Arm64-1.1.3.exe](https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/CloudDrive2Setup-Arm64-1.1.3.exe) | 🪟 Windows | 12.9 MB | 425 |
 | [clouddrive-2-linux-x86_64-1.1.3.tgz](https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive-2-linux-x86_64-1.1.3.tgz) | 🐧 Linux | 15.3 MB | 850 |
 | [clouddrive-2-linux-aarch64-1.1.3.tgz](https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive-2-linux-aarch64-1.1.3.tgz) | 🐧 Linux | 14.2 MB | 609 |
 | [clouddrive-2-linux-armv7-1.1.3.tgz](https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive-2-linux-armv7-1.1.3.tgz) | 🐧 Linux | 16.0 MB | 422 |
 | [clouddrive2_1.1.3_x86.fpk](https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive2_1.1.3_x86.fpk) | 📦 其他 | 15.7 MB | 584 |
-| [clouddrive2_1.1.3_arm.fpk](https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive2_1.1.3_arm.fpk) | 📦 其他 | 14.8 MB | 207 |
+| [clouddrive2_1.1.3_arm.fpk](https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive2_1.1.3_arm.fpk) | 📦 其他 | 14.8 MB | 206 |
 
 ## 🔗 快速链接
 

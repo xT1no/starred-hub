@@ -2,6 +2,8 @@
 
 # gkd
 
+<img src="icon.png" width="72" align="right" alt="gkd icon">
+
 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 
 | 项目 | 信息 |

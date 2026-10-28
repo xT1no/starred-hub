@@ -2,6 +2,8 @@
 
 # global-testflight-link
 
+<img src="icon.png" width="72" align="right" alt="global-testflight-link icon">
+
 > 公开 TestFlight 测试链接合集
 
 收集苹果公开的iOS/iPadOS/MacOS Testflight链接。Collect Apple's public iOS/iPadOS/MacOS Testflight links.

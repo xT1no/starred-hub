@@ -1,0 +1,63 @@
+{
+  "name": "gkd",
+  "full_name": "gkd-kit/gkd",
+  "url": "https://github.com/gkd-kit/gkd",
+  "description": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
+  "note": "",
+  "function": {
+    "name": "应用增强 / 模块",
+    "slug": "mod",
+    "dir": "apps/mod"
+  },
+  "platforms": [
+    "Android",
+    "Web",
+    "跨平台桌面"
+  ],
+  "language": "Kotlin",
+  "stars": 43550,
+  "forks": 2081,
+  "license": "GPL-3.0",
+  "archived": false,
+  "homepage": "https://gkd.li",
+  "topics": [
+    "accessibility",
+    "android",
+    "auto",
+    "click",
+    "compose",
+    "compose-multiplatform",
+    "jetpack-compose",
+    "kotlin",
+    "kotlin-js",
+    "kotlin-multiplatform",
+    "webassembly"
+  ],
+  "starred_at": "2023-10-30T11:16:20Z",
+  "pushed_at": "2026-10-20T11:37:07Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v1.12.1",
+    "title": "Release v1.12.1",
+    "published_at": "2026-05-20T09:43:34Z",
+    "url": "https://github.com/gkd-kit/gkd/releases/tag/v1.12.1",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "gkd-v1.12.1.apk",
+      "size": 3287479,
+      "downloads": 78575,
+      "url": "https://github.com/gkd-kit/gkd/releases/download/v1.12.1/gkd-v1.12.1.apk",
+      "platform": "📲 Android"
+    },
+    {
+      "name": "outputs-v1.12.1.zip",
+      "size": 40463401,
+      "downloads": 2809,
+      "url": "https://github.com/gkd-kit/gkd/releases/download/v1.12.1/outputs-v1.12.1.zip",
+      "platform": "🌐 Web"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

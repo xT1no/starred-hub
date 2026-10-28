@@ -1,0 +1,42 @@
+{
+  "name": "DiabloIV_Blood_Bone_Restorer",
+  "full_name": "hongge-ai/DiabloIV_Blood_Bone_Restorer",
+  "url": "https://github.com/hongge-ai/DiabloIV_Blood_Bone_Restorer",
+  "description": "暗黑4血骨还原器(BBR反和谐工具)",
+  "note": "",
+  "function": {
+    "name": "游戏 / 辅助脚本",
+    "slug": "game",
+    "dir": "apps/game"
+  },
+  "platforms": [
+    "Windows"
+  ],
+  "language": "Python",
+  "stars": 17,
+  "forks": 0,
+  "license": "GPL-3.0",
+  "archived": false,
+  "homepage": "",
+  "topics": [],
+  "starred_at": "2026-05-08T08:06:18Z",
+  "pushed_at": "2025-12-11T10:38:33Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v1.0.0",
+    "title": "v1.0.0 - 暗黑四BBR正式版首发",
+    "published_at": "2025-12-11T10:38:33Z",
+    "url": "https://github.com/hongge-ai/DiabloIV_Blood_Bone_Restorer/releases/tag/v1.0.0",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "DiabloIV_BBR.exe",
+      "size": 11457557,
+      "downloads": 3092,
+      "url": "https://github.com/hongge-ai/DiabloIV_Blood_Bone_Restorer/releases/download/v1.0.0/DiabloIV_BBR.exe",
+      "platform": "🪟 Windows"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

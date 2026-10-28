@@ -1,0 +1,63 @@
+{
+  "name": "EdgeCopilotFix",
+  "full_name": "emmm1245/EdgeCopilotFix",
+  "url": "https://github.com/emmm1245/EdgeCopilotFix",
+  "description": "解决某些地区Edge浏览器copilot消失的问题",
+  "note": "修复 Edge Copilot 在部分地区消失",
+  "function": {
+    "name": "应用增强 / 模块",
+    "slug": "mod",
+    "dir": "apps/mod"
+  },
+  "platforms": [
+    "Windows"
+  ],
+  "language": "Go",
+  "stars": 110,
+  "forks": 5,
+  "license": "MIT",
+  "archived": false,
+  "homepage": "",
+  "topics": [],
+  "starred_at": "2026-01-10T11:57:52Z",
+  "pushed_at": "2026-10-16T11:17:35Z",
+  "latest": {
+    "kind": "release",
+    "tag": "1.2",
+    "title": "Edge Copilot Fix Tool 1.2 - 修复新版 Copilot 侧边栏入口",
+    "published_at": "2026-10-16T11:17:35Z",
+    "url": "https://github.com/emmm1245/EdgeCopilotFix/releases/tag/1.2",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "EdgeCopilotFixTool-darwin-amd64",
+      "size": 3350752,
+      "downloads": 3,
+      "url": "https://github.com/emmm1245/EdgeCopilotFix/releases/download/1.2/EdgeCopilotFixTool-darwin-amd64",
+      "platform": "🍎 macOS"
+    },
+    {
+      "name": "EdgeCopilotFixTool-darwin-arm64",
+      "size": 3269490,
+      "downloads": 4,
+      "url": "https://github.com/emmm1245/EdgeCopilotFix/releases/download/1.2/EdgeCopilotFixTool-darwin-arm64",
+      "platform": "🍎 macOS"
+    },
+    {
+      "name": "EdgeCopilotFixTool-linux-amd64",
+      "size": 3395651,
+      "downloads": 0,
+      "url": "https://github.com/emmm1245/EdgeCopilotFix/releases/download/1.2/EdgeCopilotFixTool-linux-amd64",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "EdgeCopilotFixTool-windows-amd64.exe",
+      "size": 3472896,
+      "downloads": 47,
+      "url": "https://github.com/emmm1245/EdgeCopilotFix/releases/download/1.2/EdgeCopilotFixTool-windows-amd64.exe",
+      "platform": "🪟 Windows"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

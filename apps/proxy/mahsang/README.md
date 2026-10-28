@@ -2,6 +2,8 @@
 
 # MahsaNG
 
+<img src="icon.png" width="72" align="right" alt="MahsaNG icon">
+
 > V2RayNG 改版，带分片与 DoH
 
 a V2RayNG with Fragment , DoH , Rotating Configs , & free VPN servers

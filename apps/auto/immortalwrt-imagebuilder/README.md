@@ -2,6 +2,8 @@
 
 # ImmortalWrt-ImageBuilder
 
+<img src="icon.png" width="72" align="right" alt="ImmortalWrt-ImageBuilder icon">
+
 它是一个工作流。可快速构建 可选docker、可选1G~4G固件大小的 immortalWrt。它相当于一个云端的ImageBuilder,属于构建的范畴,不算是编译。目前也支持第三方插件的按需集成。
 
 | 项目 | 信息 |

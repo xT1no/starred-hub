@@ -2,6 +2,8 @@
 
 # hiddify-app
 
+<img src="icon.png" width="72" align="right" alt="hiddify-app icon">
+
 Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 
 | 项目 | 信息 |

@@ -2,6 +2,8 @@
 
 # EDtunnel
 
+<img src="icon.png" width="72" align="right" alt="EDtunnel icon">
+
 EDtunnel 是一个基于 Cloudflare Workers 和 Pages 的代理工具，支持多种协议和配置选项。  EDtunnel is a proxy tool based on Cloudflare Workers and Pages, supporting multiple protocols and configuration options.
 
 | 项目 | 信息 |

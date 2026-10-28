@@ -2,6 +2,8 @@
 
 # telegram_media_downloader
 
+<img src="icon.png" width="72" align="right" alt="telegram_media_downloader icon">
+
 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
 
 | 项目 | 信息 |

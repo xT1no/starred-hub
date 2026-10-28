@@ -2,6 +2,8 @@
 
 # light-c
 
+<img src="icon.png" width="72" align="right" alt="light-c icon">
+
 A free, minimalist, lightweight, and high-performance C-drive cleanup tool.
 
 | 项目 | 信息 |
@@ -41,14 +43,14 @@ LightC v2.17.0 发布说明
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [LightC_2.17.0_x64-setup.exe](https://github.com/Chunyu33/light-c/releases/download/v2.17.0/LightC_2.17.0_x64-setup.exe) | 🪟 Windows | 5.8 MB | 4.4k |
+| [LightC_2.17.0_x64-setup.exe](https://github.com/Chunyu33/light-c/releases/download/v2.17.0/LightC_2.17.0_x64-setup.exe) | 🪟 Windows | 5.8 MB | 4.3k |
 | [LightC_webview2_offline_x64_v2.17.0.exe](https://github.com/Chunyu33/light-c/releases/download/v2.17.0/LightC_webview2_offline_x64_v2.17.0.exe) | 🪟 Windows | 213.4 MB | 111 |
-| [LightC_portable_x64_v2.17.0.zip](https://github.com/Chunyu33/light-c/releases/download/v2.17.0/LightC_portable_x64_v2.17.0.zip) | 🌐 Web | 7.7 MB | 373 |
+| [LightC_portable_x64_v2.17.0.zip](https://github.com/Chunyu33/light-c/releases/download/v2.17.0/LightC_portable_x64_v2.17.0.zip) | 🌐 Web | 7.7 MB | 372 |
 | [LightC_installer_exe.sig](https://github.com/Chunyu33/light-c/releases/download/v2.17.0/LightC_installer_exe.sig) | 🔐 校验文件 | 396 B | 88 |
 | [LightC_webview2_offline_exe.sig](https://github.com/Chunyu33/light-c/releases/download/v2.17.0/LightC_webview2_offline_exe.sig) | 🔐 校验文件 | 396 B | 82 |
 | [LightC_portable_exe.sig](https://github.com/Chunyu33/light-c/releases/download/v2.17.0/LightC_portable_exe.sig) | 🔐 校验文件 | 396 B | 29 |
 | [LightC_2.17.0_x64-setup.exe.sig](https://github.com/Chunyu33/light-c/releases/download/v2.17.0/LightC_2.17.0_x64-setup.exe.sig) | 🔐 校验文件 | 416 B | 5 |
-| [latest.json](https://github.com/Chunyu33/light-c/releases/download/v2.17.0/latest.json) | 📦 其他 | 2 KB | 13k |
+| [latest.json](https://github.com/Chunyu33/light-c/releases/download/v2.17.0/latest.json) | 📦 其他 | 2 KB | 12k |
 | [download.json](https://github.com/Chunyu33/light-c/releases/download/v2.17.0/download.json) | 📦 其他 | 290 B | 35 |
 
 ## 🔗 快速链接

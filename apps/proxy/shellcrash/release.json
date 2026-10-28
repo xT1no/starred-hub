@@ -1,0 +1,42 @@
+{
+  "name": "ShellCrash",
+  "full_name": "juewuy/ShellCrash",
+  "url": "https://github.com/juewuy/ShellCrash",
+  "description": "Run sing-box/mihomo as client in shell",
+  "note": "在路由器上跑 sing-box / mihomo",
+  "function": {
+    "name": "网络代理 / 节点",
+    "slug": "proxy",
+    "dir": "apps/proxy"
+  },
+  "platforms": [
+    "路由器 / 固件"
+  ],
+  "language": "Shell",
+  "stars": 13619,
+  "forks": 1879,
+  "license": "GPL-3.0",
+  "archived": false,
+  "homepage": "",
+  "topics": [],
+  "starred_at": "2023-12-22T05:13:37Z",
+  "pushed_at": "2026-10-27T18:20:29Z",
+  "latest": {
+    "kind": "release",
+    "tag": "1.9.4",
+    "title": "1.9.4-release",
+    "published_at": "2026-02-15T11:33:00Z",
+    "url": "https://github.com/juewuy/ShellCrash/releases/tag/1.9.4",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "ShellCrash.tar.gz",
+      "size": 123627,
+      "downloads": 3754,
+      "url": "https://github.com/juewuy/ShellCrash/releases/download/1.9.4/ShellCrash.tar.gz",
+      "platform": "📦 其他"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

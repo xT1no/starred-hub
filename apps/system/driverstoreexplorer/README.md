@@ -2,6 +2,8 @@
 
 # DriverStoreExplorer
 
+<img src="icon.png" width="72" align="right" alt="DriverStoreExplorer icon">
+
 > 驱动仓库管理（DriverStore 清理）
 
 Driver Store Explorer

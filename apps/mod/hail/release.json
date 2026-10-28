@@ -1,0 +1,50 @@
+{
+  "name": "Hail",
+  "full_name": "aistra0528/Hail",
+  "url": "https://github.com/aistra0528/Hail",
+  "description": "Disable / Hide / Suspend / Uninstall Android apps without root.",
+  "note": "免 root 冻结 / 隐藏安卓应用",
+  "function": {
+    "name": "应用增强 / 模块",
+    "slug": "mod",
+    "dir": "apps/mod"
+  },
+  "platforms": [
+    "Android"
+  ],
+  "language": "Kotlin",
+  "stars": 7028,
+  "forks": 264,
+  "license": "GPL-3.0",
+  "archived": false,
+  "homepage": "",
+  "topics": [
+    "android",
+    "android-application",
+    "debloat",
+    "non-root",
+    "privacy",
+    "root",
+    "shizuku"
+  ],
+  "starred_at": "2024-02-01T18:45:32Z",
+  "pushed_at": "2026-10-27T23:44:25Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v1.11.0",
+    "title": "雹 Hail v1.11.0",
+    "published_at": "2026-08-26T07:23:01Z",
+    "url": "https://github.com/aistra0528/Hail/releases/tag/v1.11.0",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "Hail-v1.11.0.apk",
+      "size": 5760575,
+      "downloads": 62630,
+      "url": "https://github.com/aistra0528/Hail/releases/download/v1.11.0/Hail-v1.11.0.apk",
+      "platform": "📲 Android"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

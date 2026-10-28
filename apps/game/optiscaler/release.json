@@ -1,0 +1,60 @@
+{
+  "name": "OptiScaler",
+  "full_name": "optiscaler/OptiScaler",
+  "url": "https://github.com/optiscaler/OptiScaler",
+  "description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
+  "note": "跨显卡的 DLSS / FSR 超分桥接",
+  "function": {
+    "name": "游戏 / 辅助脚本",
+    "slug": "game",
+    "dir": "apps/game"
+  },
+  "platforms": [
+    "Windows"
+  ],
+  "language": "C++",
+  "stars": 12159,
+  "forks": 571,
+  "license": "GPL-3.0",
+  "archived": false,
+  "homepage": "",
+  "topics": [
+    "amd",
+    "dlss",
+    "framegeneration",
+    "fsr2",
+    "fsr3",
+    "fsr4",
+    "intel",
+    "ml-fg",
+    "nvidia",
+    "redstone",
+    "tweak",
+    "upscaler",
+    "xefg",
+    "xell",
+    "xess",
+    "xess-fg",
+    "xess-sr"
+  ],
+  "starred_at": "2026-05-18T06:38:41Z",
+  "pushed_at": "2026-10-26T15:00:27Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v0.9.4",
+    "title": "v0.9.4",
+    "published_at": "2026-07-18T21:46:07Z",
+    "url": "https://github.com/optiscaler/OptiScaler/releases/tag/v0.9.4",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "Optiscaler_0.9.4-final.20260718._MM.7z",
+      "size": 55016448,
+      "downloads": 788772,
+      "url": "https://github.com/optiscaler/OptiScaler/releases/download/v0.9.4/Optiscaler_0.9.4-final.20260718._MM.7z",
+      "platform": "📦 其他"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

@@ -2,6 +2,8 @@
 
 # EdgeCopilotFix
 
+<img src="icon.png" width="72" align="right" alt="EdgeCopilotFix icon">
+
 > 修复 Edge Copilot 在部分地区消失
 
 解决某些地区Edge浏览器copilot消失的问题

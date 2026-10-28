@@ -1,0 +1,43 @@
+{
+  "name": "anti-AD",
+  "full_name": "privacy-protection-tools/anti-AD",
+  "url": "https://github.com/privacy-protection-tools/anti-AD",
+  "description": "致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD 现已支持 AdGuardHome，dnsmasq，Surge，Pi-Hole，Clash, mihomo，smartdns，sing-box 等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式",
+  "note": "",
+  "function": {
+    "name": "广告过滤 / 隐私",
+    "slug": "privacy",
+    "dir": "apps/privacy"
+  },
+  "platforms": [
+    "通用 / 未指定"
+  ],
+  "language": "",
+  "stars": 10901,
+  "forks": 791,
+  "license": "MIT",
+  "archived": false,
+  "homepage": "https://anti-ad.net",
+  "topics": [
+    "adblock",
+    "adguardhome",
+    "dnsmasq",
+    "easylist",
+    "neohosts",
+    "php",
+    "pi-hole",
+    "surge"
+  ],
+  "starred_at": "2022-07-31T15:34:43Z",
+  "pushed_at": "2026-10-26T13:47:56Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v4.3",
+    "title": "v4.3 (2020.02.04)",
+    "published_at": "2020-02-04T09:32:25Z",
+    "url": "https://github.com/privacy-protection-tools/anti-AD/releases/tag/v4.3",
+    "prerelease": false
+  },
+  "assets": [],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

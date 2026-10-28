@@ -2,6 +2,8 @@
 
 # win-capture-audio
 
+<img src="icon.png" width="72" align="right" alt="win-capture-audio icon">
+
 An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBS's game capture and Discord's application streaming.
 
 | 项目 | 信息 |

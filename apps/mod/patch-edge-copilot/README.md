@@ -2,6 +2,8 @@
 
 # patch-edge-copilot
 
+<img src="icon.png" width="72" align="right" alt="patch-edge-copilot icon">
+
 > 修复 Edge 顶部 Copilot 图标消失
 
 Solve the problem of disappearance of the Copilot icon in the upper right cornor of Edge Browser due to its use in unsupported regions (e.g. China Mainland and Russia). 解决Edge浏览器右上角Copilot图标消失的问题。

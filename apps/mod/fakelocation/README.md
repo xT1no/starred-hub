@@ -2,6 +2,8 @@
 
 # FakeLocation
 
+<img src="icon.png" width="72" align="right" alt="FakeLocation icon">
+
 > 安卓虚拟定位
 
 Fake Location

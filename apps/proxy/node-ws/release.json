@@ -1,0 +1,112 @@
+{
+  "name": "node-ws",
+  "full_name": "eooce/node-ws",
+  "url": "https://github.com/eooce/node-ws",
+  "description": "基于serverless实现的vless+trojan+shadowsocks+vmess四协议 + Telegram webproxy，无内核，node环境通用项目",
+  "note": "",
+  "function": {
+    "name": "网络代理 / 节点",
+    "slug": "proxy",
+    "dir": "apps/proxy"
+  },
+  "platforms": [
+    "服务端 / 云端"
+  ],
+  "language": "HTML",
+  "stars": 6248,
+  "forks": 10161,
+  "license": "GPL-3.0",
+  "archived": false,
+  "homepage": "",
+  "topics": [
+    "nezha",
+    "serverless",
+    "telegram-webproxy",
+    "trojan",
+    "vless",
+    "vmess"
+  ],
+  "starred_at": "2025-11-14T03:10:32Z",
+  "pushed_at": "2026-10-11T10:51:37Z",
+  "latest": {
+    "kind": "release",
+    "tag": "gows-latest",
+    "title": "Gows Latest",
+    "published_at": "2026-01-04T17:17:14Z",
+    "url": "https://github.com/eooce/node-ws/releases/tag/gows-latest",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "gows_freebsd_amd64",
+      "size": 6889666,
+      "downloads": 44,
+      "url": "https://github.com/eooce/node-ws/releases/download/gows-latest/gows_freebsd_amd64",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "gows_freebsd_arm64",
+      "size": 6488258,
+      "downloads": 21,
+      "url": "https://github.com/eooce/node-ws/releases/download/gows-latest/gows_freebsd_arm64",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "gows_linux_amd",
+      "size": 6643896,
+      "downloads": 25,
+      "url": "https://github.com/eooce/node-ws/releases/download/gows-latest/gows_linux_amd",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "gows_linux_amd64",
+      "size": 6910136,
+      "downloads": 52,
+      "url": "https://github.com/eooce/node-ws/releases/download/gows-latest/gows_linux_amd64",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "gows_linux_arm",
+      "size": 6684856,
+      "downloads": 24,
+      "url": "https://github.com/eooce/node-ws/releases/download/gows-latest/gows_linux_arm",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "gows_linux_arm64",
+      "size": 6488248,
+      "downloads": 32,
+      "url": "https://github.com/eooce/node-ws/releases/download/gows-latest/gows_linux_arm64",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "gows_macos_amd64",
+      "size": 7058432,
+      "downloads": 21,
+      "url": "https://github.com/eooce/node-ws/releases/download/gows-latest/gows_macos_amd64",
+      "platform": "🍎 macOS"
+    },
+    {
+      "name": "gows_macos_arm64",
+      "size": 6659394,
+      "downloads": 20,
+      "url": "https://github.com/eooce/node-ws/releases/download/gows-latest/gows_macos_arm64",
+      "platform": "🍎 macOS"
+    },
+    {
+      "name": "gows_windows_amd64.exe",
+      "size": 7083008,
+      "downloads": 77,
+      "url": "https://github.com/eooce/node-ws/releases/download/gows-latest/gows_windows_amd64.exe",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "gows_windows_arm64.exe",
+      "size": 6532608,
+      "downloads": 38,
+      "url": "https://github.com/eooce/node-ws/releases/download/gows-latest/gows_windows_arm64.exe",
+      "platform": "🪟 Windows"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

@@ -1,0 +1,63 @@
+{
+  "name": "LKY_OfficeTools",
+  "full_name": "OdysseusYuan/LKY_OfficeTools",
+  "url": "https://github.com/OdysseusYuan/LKY_OfficeTools",
+  "description": "一键自动化 下载、安装、激活 Office 的利器。",
+  "note": "",
+  "function": {
+    "name": "自动化 / 部署",
+    "slug": "auto",
+    "dir": "apps/auto"
+  },
+  "platforms": [
+    "通用 / 未指定"
+  ],
+  "language": "C#",
+  "stars": 12948,
+  "forks": 1239,
+  "license": "GPL-3.0",
+  "archived": false,
+  "homepage": "Email: OdysseusYuan@foxmail.com",
+  "topics": [
+    "access",
+    "email",
+    "excel",
+    "kms",
+    "lync",
+    "microsoft",
+    "msoffice",
+    "office",
+    "office-free",
+    "office365",
+    "onedrive",
+    "onenote",
+    "outlook",
+    "ppt",
+    "project",
+    "publisher",
+    "skype",
+    "teams",
+    "visio",
+    "word"
+  ],
+  "starred_at": "2024-01-11T14:12:09Z",
+  "pushed_at": "2024-02-22T20:49:45Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v1.3.0",
+    "title": "LKY OfficeTools v1.3.0",
+    "published_at": "2024-02-22T18:35:54Z",
+    "url": "https://github.com/OdysseusYuan/LKY_OfficeTools/releases/tag/v1.3.0",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "LKY_OfficeTools_v1.3.0.223.zip",
+      "size": 12375034,
+      "downloads": 13362,
+      "url": "https://github.com/OdysseusYuan/LKY_OfficeTools/releases/download/v1.3.0/LKY_OfficeTools_v1.3.0.223.zip",
+      "platform": "🌐 Web"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

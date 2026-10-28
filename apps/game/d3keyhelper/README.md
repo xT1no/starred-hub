@@ -2,6 +2,8 @@
 
 # D3keyHelper
 
+<img src="icon.png" width="72" align="right" alt="D3keyHelper icon">
+
 > 暗黑 3 鼠标宏配置工具
 
 D3KeyHelper是一个有图形界面，可自定义配置的暗黑3鼠标宏工具。

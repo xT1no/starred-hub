@@ -1,0 +1,51 @@
+{
+  "name": "Microsoft-Activation-Scripts",
+  "full_name": "massgravel/Microsoft-Activation-Scripts",
+  "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+  "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.",
+  "note": "",
+  "function": {
+    "name": "系统增强 / 优化",
+    "slug": "system",
+    "dir": "apps/system"
+  },
+  "platforms": [
+    "Windows"
+  ],
+  "language": "Batchfile",
+  "stars": 196564,
+  "forks": 18650,
+  "license": "GPL-3.0",
+  "archived": false,
+  "homepage": "https://massgrave.dev",
+  "topics": [
+    "activator",
+    "hwid",
+    "kms",
+    "kms38",
+    "massgrave",
+    "massgravel",
+    "microsoft",
+    "microsoft365",
+    "office",
+    "office365",
+    "ohook",
+    "powershell",
+    "tsforge",
+    "windows",
+    "windows-10",
+    "windows-11"
+  ],
+  "starred_at": "2025-12-02T08:27:24Z",
+  "pushed_at": "2026-10-17T01:33:16Z",
+  "latest": {
+    "kind": "release",
+    "tag": "3.12",
+    "title": "v3.12 8 Years of MAS",
+    "published_at": "2026-07-04T07:56:17Z",
+    "url": "https://github.com/massgravel/Microsoft-Activation-Scripts/releases/tag/3.12",
+    "prerelease": false
+  },
+  "assets": [],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

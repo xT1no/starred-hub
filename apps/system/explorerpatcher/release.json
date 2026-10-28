@@ -1,0 +1,49 @@
+{
+  "name": "ExplorerPatcher",
+  "full_name": "valinet/ExplorerPatcher",
+  "url": "https://github.com/valinet/ExplorerPatcher",
+  "description": "This project aims to enhance the working environment on Windows",
+  "note": "恢复 Windows 11 经典任务栏与资源管理器",
+  "function": {
+    "name": "系统增强 / 优化",
+    "slug": "system",
+    "dir": "apps/system"
+  },
+  "platforms": [
+    "Windows"
+  ],
+  "language": "C",
+  "stars": 34170,
+  "forks": 1382,
+  "license": "GPL-2.0",
+  "archived": false,
+  "homepage": "",
+  "topics": [],
+  "starred_at": "2023-12-06T11:22:35Z",
+  "pushed_at": "2026-07-06T12:44:31Z",
+  "latest": {
+    "kind": "release",
+    "tag": "26100.8457.70.3",
+    "title": "26100.8457.70.3",
+    "published_at": "2026-06-20T10:50:27Z",
+    "url": "https://github.com/valinet/ExplorerPatcher/releases/tag/26100.8457.70.3",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "ep_setup.exe",
+      "size": 12237312,
+      "downloads": 9903423,
+      "url": "https://github.com/valinet/ExplorerPatcher/releases/download/26100.8457.70.3/ep_setup.exe",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "ep_setup_arm64.exe",
+      "size": 11896320,
+      "downloads": 143145,
+      "url": "https://github.com/valinet/ExplorerPatcher/releases/download/26100.8457.70.3/ep_setup_arm64.exe",
+      "platform": "🪟 Windows"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

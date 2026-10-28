@@ -2,6 +2,8 @@
 
 # dustinwin.github.io
 
+<img src="icon.png" width="72" align="right" alt="dustinwin.github.io icon">
+
 mihomo 和 sing-box 教程合集——安装、配置、自定义规则、DNS 分流
 
 | 项目 | 信息 |

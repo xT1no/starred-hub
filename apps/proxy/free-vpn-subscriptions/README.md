@@ -2,6 +2,8 @@
 
 # free-vpn-subscriptions
 
+<img src="icon.png" width="72" align="right" alt="free-vpn-subscriptions icon">
+
 Free Clash, sing-box, and V2Ray subscription feed with live node status and setup guides
 
 | 项目 | 信息 |

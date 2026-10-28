@@ -1,0 +1,53 @@
+{
+  "name": "ChampR",
+  "full_name": "cangzhang/ChampR",
+  "url": "https://github.com/cangzhang/ChampR",
+  "description": "🐶 Yet another League of Legends helper",
+  "note": "",
+  "function": {
+    "name": "游戏 / 辅助脚本",
+    "slug": "game",
+    "dir": "apps/game"
+  },
+  "platforms": [
+    "Windows"
+  ],
+  "language": "Rust",
+  "stars": 1687,
+  "forks": 129,
+  "license": "LGPL-2.1",
+  "archived": false,
+  "homepage": "",
+  "topics": [
+    "league-of-legends",
+    "windows-10",
+    "windows-11"
+  ],
+  "starred_at": "2021-01-10T03:28:16Z",
+  "pushed_at": "2026-04-17T12:51:41Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v2.0.2-b7",
+    "title": "v2.0.2-b7",
+    "published_at": "2023-07-12T14:44:01Z",
+    "url": "https://github.com/cangzhang/ChampR/releases/tag/v2.0.2-b7",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "champr-riot-server.zip",
+      "size": 3658517,
+      "downloads": 4024,
+      "url": "https://github.com/cangzhang/ChampR/releases/download/v2.0.2-b7/champr-riot-server.zip",
+      "platform": "🌐 Web"
+    },
+    {
+      "name": "champr-v2.0.2-b7.zip",
+      "size": 3574657,
+      "downloads": 12584,
+      "url": "https://github.com/cangzhang/ChampR/releases/download/v2.0.2-b7/champr-v2.0.2-b7.zip",
+      "platform": "🌐 Web"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

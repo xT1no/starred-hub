@@ -2,6 +2,8 @@
 
 # Joi
 
+<img src="icon.png" width="72" align="right" alt="Joi icon">
+
 > 英雄联盟助手
 
 一个英雄联盟助手工具

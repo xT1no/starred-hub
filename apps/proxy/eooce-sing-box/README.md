@@ -2,6 +2,8 @@
 
 # Sing-box
 
+<img src="icon.png" width="72" align="right" alt="Sing-box icon">
+
 既然来了，就留下你的Star吧！Serv00 | CT8 | Hostuno | VPS | 游戏机 | sing-box(reality + hy2 + vmess-argo +tuic5)四合一无交互一键安装脚本(已适配Alpine)，支持纯V6 vps，丰富的分流服务, 可添加anytls,socks5,ss-2022等协议
 
 | 项目 | 信息 |

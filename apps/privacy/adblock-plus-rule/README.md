@@ -2,6 +2,8 @@
 
 # Adblock-Plus-Rule
 
+<img src="icon.png" width="72" align="right" alt="Adblock-Plus-Rule icon">
+
 uBlock Origin 乘风广告过滤规则
 
 | 项目 | 信息 |

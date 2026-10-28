@@ -2,6 +2,8 @@
 
 # oblivion-desktop
 
+<img src="icon.png" width="72" align="right" alt="oblivion-desktop icon">
+
 Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
 
 > 🗄️ **该仓库已归档，作者不再维护。**

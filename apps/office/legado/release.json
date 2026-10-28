@@ -1,0 +1,34 @@
+{
+  "name": "legado",
+  "full_name": "gedoor/legado",
+  "url": "https://github.com/gedoor/legado",
+  "description": "Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。",
+  "note": "阅读 3.0 书源阅读器",
+  "function": {
+    "name": "办公 / 阅读 / 笔记",
+    "slug": "office",
+    "dir": "apps/office"
+  },
+  "platforms": [
+    "Android"
+  ],
+  "language": "Kotlin",
+  "stars": 47174,
+  "forks": 5608,
+  "license": "",
+  "archived": false,
+  "homepage": "",
+  "topics": [],
+  "starred_at": "2023-11-26T14:16:53Z",
+  "pushed_at": "2026-05-27T08:41:54Z",
+  "latest": {
+    "kind": "none",
+    "tag": "",
+    "title": "",
+    "published_at": "",
+    "url": "",
+    "prerelease": false
+  },
+  "assets": [],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

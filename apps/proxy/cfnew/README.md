@@ -2,6 +2,8 @@
 
 # cfnew
 
+<img src="icon.png" width="72" align="right" alt="cfnew icon">
+
 > Cloudflare Workers 节点部署
 
 | 项目 | 信息 |

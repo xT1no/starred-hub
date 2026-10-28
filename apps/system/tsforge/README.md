@@ -2,6 +2,8 @@
 
 # TSforge
 
+<img src="icon.png" width="72" align="right" alt="TSforge icon">
+
 A collection of activation/evaluation extension methods for Windows Vista through 11.
 
 | 项目 | 信息 |

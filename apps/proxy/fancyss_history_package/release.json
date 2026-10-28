@@ -1,0 +1,34 @@
+{
+  "name": "fancyss_history_package",
+  "full_name": "hq450/fancyss_history_package",
+  "url": "https://github.com/hq450/fancyss_history_package",
+  "description": "科学上网插件的离线安装包储存在这里",
+  "note": "",
+  "function": {
+    "name": "网络代理 / 节点",
+    "slug": "proxy",
+    "dir": "apps/proxy"
+  },
+  "platforms": [
+    "路由器 / 固件"
+  ],
+  "language": "",
+  "stars": 11029,
+  "forks": 3574,
+  "license": "GPL-3.0",
+  "archived": false,
+  "homepage": "",
+  "topics": [],
+  "starred_at": "2021-07-01T14:36:19Z",
+  "pushed_at": "2026-05-20T15:41:15Z",
+  "latest": {
+    "kind": "none",
+    "tag": "",
+    "title": "",
+    "published_at": "",
+    "url": "",
+    "prerelease": false
+  },
+  "assets": [],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

@@ -2,6 +2,8 @@
 
 # JustLive-Web
 
+<img src="icon.png" width="72" align="right" alt="JustLive-Web icon">
+
 :tv:一个整合国内多个直播平台内容的网站
 
 | 项目 | 信息 |

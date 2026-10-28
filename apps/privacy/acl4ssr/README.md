@@ -2,6 +2,8 @@
 
 # ACL4SSR
 
+<img src="icon.png" width="72" align="right" alt="ACL4SSR icon">
+
 SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址
 
 | 项目 | 信息 |

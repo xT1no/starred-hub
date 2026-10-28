@@ -1,0 +1,79 @@
+{
+  "name": "Seal",
+  "full_name": "JunkFood02/Seal",
+  "url": "https://github.com/JunkFood02/Seal",
+  "description": "🦭 Video/Audio Downloader for Android, based on yt-dlp",
+  "note": "",
+  "function": {
+    "name": "下载 / 网盘",
+    "slug": "download",
+    "dir": "apps/download"
+  },
+  "platforms": [
+    "Android"
+  ],
+  "language": "Kotlin",
+  "stars": 30115,
+  "forks": 1512,
+  "license": "GPL-3.0",
+  "archived": false,
+  "homepage": "",
+  "topics": [
+    "android",
+    "f-droid",
+    "jetpack-compose",
+    "kotlin",
+    "material-design",
+    "youtube-dl",
+    "youtube-downloader",
+    "yt-dlp"
+  ],
+  "starred_at": "2024-10-30T17:43:37Z",
+  "pushed_at": "2026-09-25T15:35:51Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v1.13.1",
+    "title": "v1.13.1",
+    "published_at": "2024-10-16T17:00:00Z",
+    "url": "https://github.com/JunkFood02/Seal/releases/tag/v1.13.1",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "Seal-1.13.1-arm64-v8a-release.apk",
+      "size": 43069442,
+      "downloads": 2466041,
+      "url": "https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-arm64-v8a-release.apk",
+      "platform": "📲 Android"
+    },
+    {
+      "name": "Seal-1.13.1-armeabi-v7a-release.apk",
+      "size": 40611853,
+      "downloads": 121111,
+      "url": "https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-armeabi-v7a-release.apk",
+      "platform": "📲 Android"
+    },
+    {
+      "name": "Seal-1.13.1-universal-release.apk",
+      "size": 144991600,
+      "downloads": 318044,
+      "url": "https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-universal-release.apk",
+      "platform": "📲 Android"
+    },
+    {
+      "name": "Seal-1.13.1-x86-release.apk",
+      "size": 44364789,
+      "downloads": 30954,
+      "url": "https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-x86-release.apk",
+      "platform": "📲 Android"
+    },
+    {
+      "name": "Seal-1.13.1-x86_64-release.apk",
+      "size": 45218592,
+      "downloads": 50250,
+      "url": "https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-x86_64-release.apk",
+      "platform": "📲 Android"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

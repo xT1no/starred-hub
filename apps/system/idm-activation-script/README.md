@@ -2,6 +2,8 @@
 
 # IDM-Activation-Script
 
+<img src="icon.png" width="72" align="right" alt="IDM-Activation-Script icon">
+
 > IDM 激活与试用重置
 
 An open source tool to activate and reset trial of Internet Download Manager

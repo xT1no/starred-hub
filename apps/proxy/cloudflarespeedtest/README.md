@@ -2,6 +2,8 @@
 
 # CloudflareSpeedTest
 
+<img src="icon.png" width="72" align="right" alt="CloudflareSpeedTest icon">
+
 > Cloudflare CDN 优选 IP 测速
 
 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~

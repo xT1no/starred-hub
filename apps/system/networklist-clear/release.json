@@ -1,0 +1,49 @@
+{
+  "name": "NetWorkList-Clear",
+  "full_name": "control0forver/NetWorkList-Clear",
+  "url": "https://github.com/control0forver/NetWorkList-Clear",
+  "description": "",
+  "note": "清理网络连接列表残留",
+  "function": {
+    "name": "系统增强 / 优化",
+    "slug": "system",
+    "dir": "apps/system"
+  },
+  "platforms": [
+    "Windows"
+  ],
+  "language": "C#",
+  "stars": 11,
+  "forks": 1,
+  "license": "",
+  "archived": false,
+  "homepage": "",
+  "topics": [],
+  "starred_at": "2026-07-24T01:49:38Z",
+  "pushed_at": "2023-06-22T17:19:01Z",
+  "latest": {
+    "kind": "release",
+    "tag": "1.1.0.0_Release_X86",
+    "title": "1.1.0.0 Release X86",
+    "published_at": "2023-06-22T17:19:02Z",
+    "url": "https://github.com/control0forver/NetWorkList-Clear/releases/tag/1.1.0.0_Release_X86",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "NetWorkList.Clear.exe",
+      "size": 24576,
+      "downloads": 289,
+      "url": "https://github.com/control0forver/NetWorkList-Clear/releases/download/1.1.0.0_Release_X86/NetWorkList.Clear.exe",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "NetWorkList.Clear.pdb",
+      "size": 44544,
+      "downloads": 13,
+      "url": "https://github.com/control0forver/NetWorkList-Clear/releases/download/1.1.0.0_Release_X86/NetWorkList.Clear.pdb",
+      "platform": "📦 其他"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

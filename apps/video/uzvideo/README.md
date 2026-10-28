@@ -2,6 +2,8 @@
 
 # uzVideo
 
+<img src="icon.png" width="72" align="right" alt="uzVideo icon">
+
 > uz 影视客户端
 
 uz影视

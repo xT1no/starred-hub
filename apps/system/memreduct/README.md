@@ -2,6 +2,8 @@
 
 # memreduct
 
+<img src="icon.png" width="72" align="right" alt="memreduct icon">
+
 Lightweight real-time memory management application to monitor and clean system memory on your computer.
 
 | 项目 | 信息 |

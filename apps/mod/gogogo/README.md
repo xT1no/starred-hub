@@ -2,6 +2,8 @@
 
 # GoGoGo
 
+<img src="icon.png" width="72" align="right" alt="GoGoGo icon">
+
 > 安卓虚拟定位 + 摇杆行走
 
 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆

@@ -2,6 +2,8 @@
 
 # karing
 
+<img src="icon.png" width="72" align="right" alt="karing icon">
+
 Simple & Powerful proxy utility, Support routing rules for clash/sing-box
 
 | 项目 | 信息 |

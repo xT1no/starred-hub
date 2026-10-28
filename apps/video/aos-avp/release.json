@@ -1,0 +1,84 @@
+{
+  "name": "aos-AVP",
+  "full_name": "nova-video-player/aos-AVP",
+  "url": "https://github.com/nova-video-player/aos-AVP",
+  "description": "NOVA opeN sOurce Video plAyer: main repository to build them all",
+  "note": "",
+  "function": {
+    "name": "影视 / 直播 / 番剧",
+    "slug": "video",
+    "dir": "apps/video"
+  },
+  "platforms": [
+    "Android"
+  ],
+  "language": "HTML",
+  "stars": 4768,
+  "forks": 279,
+  "license": "Apache-2.0",
+  "archived": false,
+  "homepage": "",
+  "topics": [
+    "android",
+    "archos",
+    "nova",
+    "open-source",
+    "player",
+    "video"
+  ],
+  "starred_at": "2024-04-17T16:03:40Z",
+  "pushed_at": "2026-10-27T18:05:14Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v6.6.2",
+    "title": "v6.6.2 release",
+    "published_at": "2026-10-27T18:05:15Z",
+    "url": "https://github.com/nova-video-player/aos-AVP/releases/tag/v6.6.2",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "manifest.xml",
+      "size": 6427,
+      "downloads": 14,
+      "url": "https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.2/manifest.xml",
+      "platform": "📦 其他"
+    },
+    {
+      "name": "org.courville.nova-2673649-6.6.2-20261027.1847-arm64-v8a-release.apk",
+      "size": 34983051,
+      "downloads": 337,
+      "url": "https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.2/org.courville.nova-2673649-6.6.2-20261027.1847-arm64-v8a-release.apk",
+      "platform": "📲 Android"
+    },
+    {
+      "name": "org.courville.nova-2673649-6.6.2-20261027.1847-armeabi-v7a-release.apk",
+      "size": 32031731,
+      "downloads": 174,
+      "url": "https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.2/org.courville.nova-2673649-6.6.2-20261027.1847-armeabi-v7a-release.apk",
+      "platform": "📲 Android"
+    },
+    {
+      "name": "org.courville.nova-2673649-6.6.2-20261027.1847-universal-release.apk",
+      "size": 93234228,
+      "downloads": 177,
+      "url": "https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.2/org.courville.nova-2673649-6.6.2-20261027.1847-universal-release.apk",
+      "platform": "📲 Android"
+    },
+    {
+      "name": "org.courville.nova-2673649-6.6.2-20261027.1847-x86-release.apk",
+      "size": 34578431,
+      "downloads": 4,
+      "url": "https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.2/org.courville.nova-2673649-6.6.2-20261027.1847-x86-release.apk",
+      "platform": "📲 Android"
+    },
+    {
+      "name": "org.courville.nova-2673649-6.6.2-20261027.1847-x86_64-release.apk",
+      "size": 35802404,
+      "downloads": 12,
+      "url": "https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.2/org.courville.nova-2673649-6.6.2-20261027.1847-x86_64-release.apk",
+      "platform": "📲 Android"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

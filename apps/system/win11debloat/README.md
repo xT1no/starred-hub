@@ -2,6 +2,8 @@
 
 # Win11Debloat
 
+<img src="icon.png" width="72" align="right" alt="Win11Debloat icon">
+
 A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 
 | 项目 | 信息 |

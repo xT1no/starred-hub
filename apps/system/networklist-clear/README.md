@@ -2,6 +2,8 @@
 
 # NetWorkList-Clear
 
+<img src="icon.png" width="72" align="right" alt="NetWorkList-Clear icon">
+
 > 清理网络连接列表残留
 
 | 项目 | 信息 |

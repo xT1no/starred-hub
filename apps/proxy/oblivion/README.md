@@ -2,6 +2,8 @@
 
 # oblivion
 
+<img src="icon.png" width="72" align="right" alt="oblivion icon">
+
 Unofficial warp client for android
 
 | 项目 | 信息 |

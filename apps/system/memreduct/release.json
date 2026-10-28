@@ -1,0 +1,79 @@
+{
+  "name": "memreduct",
+  "full_name": "henrypp/memreduct",
+  "url": "https://github.com/henrypp/memreduct",
+  "description": "Lightweight real-time memory management application to monitor and clean system memory on your computer.",
+  "note": "",
+  "function": {
+    "name": "系统增强 / 优化",
+    "slug": "system",
+    "dir": "apps/system"
+  },
+  "platforms": [
+    "Windows"
+  ],
+  "language": "C",
+  "stars": 11005,
+  "forks": 627,
+  "license": "GPL-3.0",
+  "archived": false,
+  "homepage": "",
+  "topics": [
+    "cleaner",
+    "foss",
+    "mem-reduct",
+    "memory",
+    "memory-management",
+    "memory-monitoring",
+    "monitor",
+    "windows"
+  ],
+  "starred_at": "2026-03-19T12:55:41Z",
+  "pushed_at": "2026-10-07T11:50:59Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v.3.5.2",
+    "title": "v.3.5.2",
+    "published_at": "2025-04-01T07:22:04Z",
+    "url": "https://github.com/henrypp/memreduct/releases/tag/v.3.5.2",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "memreduct-3.5.2-bin.7z",
+      "size": 395161,
+      "downloads": 158297,
+      "url": "https://github.com/henrypp/memreduct/releases/download/v.3.5.2/memreduct-3.5.2-bin.7z",
+      "platform": "📦 其他"
+    },
+    {
+      "name": "memreduct-3.5.2-pdb.7z",
+      "size": 1939650,
+      "downloads": 22785,
+      "url": "https://github.com/henrypp/memreduct/releases/download/v.3.5.2/memreduct-3.5.2-pdb.7z",
+      "platform": "📦 其他"
+    },
+    {
+      "name": "memreduct-3.5.2-setup.exe",
+      "size": 381582,
+      "downloads": 1580261,
+      "url": "https://github.com/henrypp/memreduct/releases/download/v.3.5.2/memreduct-3.5.2-setup.exe",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "memreduct-3.5.2-setup.exe.sig",
+      "size": 566,
+      "downloads": 10739,
+      "url": "https://github.com/henrypp/memreduct/releases/download/v.3.5.2/memreduct-3.5.2-setup.exe.sig",
+      "platform": "🔐 校验文件"
+    },
+    {
+      "name": "memreduct-3.5.2.sha256",
+      "size": 533,
+      "downloads": 41696,
+      "url": "https://github.com/henrypp/memreduct/releases/download/v.3.5.2/memreduct-3.5.2.sha256",
+      "platform": "🔐 校验文件"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

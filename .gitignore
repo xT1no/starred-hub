@@ -3,3 +3,4 @@ __pycache__/
 .preview/
 .DS_Store
 Thumbs.db
+.tmp/

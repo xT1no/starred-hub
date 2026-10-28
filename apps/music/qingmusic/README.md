@@ -2,6 +2,8 @@
 
 # QingMusic
 
+<img src="icon.png" width="72" align="right" alt="QingMusic icon">
+
 > 本地音乐播放器
 
 青听音乐-一款免费无广告的本地音乐播放器。

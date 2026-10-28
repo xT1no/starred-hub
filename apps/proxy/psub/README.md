@@ -2,6 +2,8 @@
 
 # psub
 
+<img src="icon.png" width="72" align="right" alt="psub icon">
+
 利用CF Worker搭建的反代订阅转换工具
 
 | 项目 | 信息 |

@@ -2,6 +2,8 @@
 
 # MusicDownload
 
+<img src="icon.png" width="72" align="right" alt="MusicDownload icon">
+
 歌曲下载
 
 > 🗄️ **该仓库已归档，作者不再维护。**

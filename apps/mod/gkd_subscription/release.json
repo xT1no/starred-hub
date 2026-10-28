@@ -1,0 +1,47 @@
+{
+  "name": "GKD_subscription",
+  "full_name": "Lin-arm/GKD_subscription",
+  "url": "https://github.com/Lin-arm/GKD_subscription",
+  "description": "用于安卓 GKD 的第三方订阅规则 (👻Fork版)",
+  "note": "",
+  "function": {
+    "name": "应用增强 / 模块",
+    "slug": "mod",
+    "dir": "apps/mod"
+  },
+  "platforms": [
+    "Android"
+  ],
+  "language": "TypeScript",
+  "stars": 6377,
+  "forks": 207,
+  "license": "",
+  "archived": false,
+  "homepage": "",
+  "topics": [
+    "ad",
+    "gkd",
+    "gkd-subscription",
+    "subscription"
+  ],
+  "starred_at": "2026-02-19T15:11:08Z",
+  "pushed_at": "2026-10-27T22:27:26Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v620",
+    "title": "v620",
+    "published_at": "2026-10-27T22:27:27Z",
+    "url": "https://github.com/Lin-arm/GKD_subscription/releases/tag/v620",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "gkd-subscription-offline-id667-v620.json5",
+      "size": 1359840,
+      "downloads": 22,
+      "url": "https://github.com/Lin-arm/GKD_subscription/releases/download/v620/gkd-subscription-offline-id667-v620.json5",
+      "platform": "📦 其他"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

@@ -2,6 +2,8 @@
 
 # BiliRoaming
 
+<img src="icon.png" width="72" align="right" alt="BiliRoaming icon">
+
 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
 
 > 🗄️ **该仓库已归档，作者不再维护。**

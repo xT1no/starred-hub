@@ -1,0 +1,56 @@
+{
+  "name": "LiTiaotiao-Custom-Rules",
+  "full_name": "wtwang1998/LiTiaotiao-Custom-Rules",
+  "url": "https://github.com/wtwang1998/LiTiaotiao-Custom-Rules",
+  "description": "",
+  "note": "李跳跳自定义跳过广告规则",
+  "function": {
+    "name": "广告过滤 / 隐私",
+    "slug": "privacy",
+    "dir": "apps/privacy"
+  },
+  "platforms": [
+    "Android"
+  ],
+  "language": "",
+  "stars": 10169,
+  "forks": 741,
+  "license": "",
+  "archived": true,
+  "homepage": "",
+  "topics": [],
+  "starred_at": "2023-08-30T13:42:41Z",
+  "pushed_at": "2024-11-08T07:51:46Z",
+  "latest": {
+    "kind": "release",
+    "tag": "20231028",
+    "title": "20231028",
+    "published_at": "2023-10-28T14:40:48Z",
+    "url": "https://github.com/wtwang1998/LiTiaotiao-Custom-Rules/releases/tag/20231028",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "AllRules.json",
+      "size": 62777,
+      "downloads": 15017,
+      "url": "https://github.com/wtwang1998/LiTiaotiao-Custom-Rules/releases/download/20231028/AllRules.json",
+      "platform": "📦 其他"
+    },
+    {
+      "name": "BasicRules.json",
+      "size": 62002,
+      "downloads": 2400,
+      "url": "https://github.com/wtwang1998/LiTiaotiao-Custom-Rules/releases/download/20231028/BasicRules.json",
+      "platform": "📦 其他"
+    },
+    {
+      "name": "ExtendedRules.json",
+      "size": 828,
+      "downloads": 1969,
+      "url": "https://github.com/wtwang1998/LiTiaotiao-Custom-Rules/releases/download/20231028/ExtendedRules.json",
+      "platform": "📦 其他"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

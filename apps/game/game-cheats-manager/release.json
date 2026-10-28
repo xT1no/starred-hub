@@ -1,0 +1,49 @@
+{
+  "name": "Game-Cheats-Manager",
+  "full_name": "dyang886/Game-Cheats-Manager",
+  "url": "https://github.com/dyang886/Game-Cheats-Manager",
+  "description": "Easily download and manage single-player game cheats for your convenience",
+  "note": "单机游戏修改器下载与管理",
+  "function": {
+    "name": "游戏 / 辅助脚本",
+    "slug": "game",
+    "dir": "apps/game"
+  },
+  "platforms": [
+    "Windows"
+  ],
+  "language": "C++",
+  "stars": 15748,
+  "forks": 571,
+  "license": "GPL-3.0",
+  "archived": false,
+  "homepage": "https://gamezonelabs.com",
+  "topics": [],
+  "starred_at": "2025-03-01T08:11:57Z",
+  "pushed_at": "2026-10-25T07:28:38Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v2.5.4",
+    "title": "Version 2.5.4",
+    "published_at": "2026-10-11T19:03:10Z",
+    "url": "https://github.com/dyang886/Game-Cheats-Manager/releases/tag/v2.5.4",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "Game.Cheats.Manager.Portable.2.5.4.zip",
+      "size": 53835710,
+      "downloads": 30626,
+      "url": "https://github.com/dyang886/Game-Cheats-Manager/releases/download/v2.5.4/Game.Cheats.Manager.Portable.2.5.4.zip",
+      "platform": "🌐 Web"
+    },
+    {
+      "name": "Game.Cheats.Manager.Setup.2.5.4.exe",
+      "size": 39474900,
+      "downloads": 27405,
+      "url": "https://github.com/dyang886/Game-Cheats-Manager/releases/download/v2.5.4/Game.Cheats.Manager.Setup.2.5.4.exe",
+      "platform": "🪟 Windows"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

@@ -2,6 +2,8 @@
 
 # OptiScaler
 
+<img src="icon.png" width="72" align="right" alt="OptiScaler icon">
+
 > 跨显卡的 DLSS / FSR 超分桥接
 
 OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.

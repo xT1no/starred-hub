@@ -2,6 +2,8 @@
 
 # ShellCrash
 
+<img src="icon.png" width="72" align="right" alt="ShellCrash icon">
+
 > 在路由器上跑 sing-box / mihomo
 
 Run sing-box/mihomo as client in shell

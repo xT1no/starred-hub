@@ -2,6 +2,8 @@
 
 # real-url
 
+<img src="icon.png" width="72" align="right" alt="real-url icon">
+
 > 取各直播平台真实流地址
 
 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。

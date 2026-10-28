@@ -2,6 +2,8 @@
 
 # LTSC-Add-MicrosoftStore
 
+<img src="icon.png" width="72" align="right" alt="LTSC-Add-MicrosoftStore icon">
+
 Add Windows Store for LTSC
 
 | 项目 | 信息 |

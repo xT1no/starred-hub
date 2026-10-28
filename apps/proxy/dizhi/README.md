@@ -2,6 +2,8 @@
 
 # dizhi
 
+<img src="icon.png" width="72" align="right" alt="dizhi icon">
+
 一元机场官网
 
 | 项目 | 信息 |

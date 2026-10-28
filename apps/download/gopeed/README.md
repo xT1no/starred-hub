@@ -2,6 +2,8 @@
 
 # gopeed
 
+<img src="icon.png" width="72" align="right" alt="gopeed icon">
+
 A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 
 | 项目 | 信息 |

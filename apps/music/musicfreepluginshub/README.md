@@ -2,6 +2,8 @@
 
 # MusicFreePluginsHub
 
+<img src="icon.png" width="72" align="right" alt="MusicFreePluginsHub icon">
+
 > MusicFree 插件合集
 
 > 🗄️ **该仓库已归档，作者不再维护。**

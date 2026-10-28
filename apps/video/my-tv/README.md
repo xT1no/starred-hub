@@ -2,6 +2,8 @@
 
 # my-tv
 
+<img src="icon.png" width="72" align="right" alt="my-tv icon">
+
 我的电视 电视直播软件，安装即可使用
 
 | 项目 | 信息 |

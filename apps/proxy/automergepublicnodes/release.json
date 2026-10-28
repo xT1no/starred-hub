@@ -1,0 +1,34 @@
+{
+  "name": "AutoMergePublicNodes",
+  "full_name": "chengaopan/AutoMergePublicNodes",
+  "url": "https://github.com/chengaopan/AutoMergePublicNodes",
+  "description": "自动抓取合并互联网上的公开节点。 🚀 免费节点,🚀免费节点订阅,🚀v2ray免费节点,ssr免费节点订阅,clash免费节点订阅,免费梯子,免费翻墙,免费科学上网,免费ss/v2ray/trojan/clash节点,谷歌商店,翻墙梯子",
+  "note": "",
+  "function": {
+    "name": "网络代理 / 节点",
+    "slug": "proxy",
+    "dir": "apps/proxy"
+  },
+  "platforms": [
+    "通用 / 未指定"
+  ],
+  "language": "Python",
+  "stars": 8289,
+  "forks": 1261,
+  "license": "NOASSERTION",
+  "archived": false,
+  "homepage": "",
+  "topics": [],
+  "starred_at": "2024-07-08T06:18:20Z",
+  "pushed_at": "2026-10-28T05:53:46Z",
+  "latest": {
+    "kind": "none",
+    "tag": "",
+    "title": "",
+    "published_at": "",
+    "url": "",
+    "prerelease": false
+  },
+  "assets": [],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

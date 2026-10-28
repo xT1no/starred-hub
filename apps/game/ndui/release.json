@@ -1,0 +1,49 @@
+{
+  "name": "NDui",
+  "full_name": "siweia/NDui",
+  "url": "https://github.com/siweia/NDui",
+  "description": "NDui for World of Warcraft",
+  "note": "魔兽世界 NDui 整合界面",
+  "function": {
+    "name": "游戏 / 辅助脚本",
+    "slug": "game",
+    "dir": "apps/game"
+  },
+  "platforms": [
+    "Windows"
+  ],
+  "language": "Lua",
+  "stars": 380,
+  "forks": 93,
+  "license": "",
+  "archived": false,
+  "homepage": "",
+  "topics": [],
+  "starred_at": "2025-11-29T13:12:07Z",
+  "pushed_at": "2026-10-25T18:22:44Z",
+  "latest": {
+    "kind": "release",
+    "tag": "Classic-0.0.6",
+    "title": "Classic-0.0.6",
+    "published_at": "2026-10-25T18:22:44Z",
+    "url": "https://github.com/siweia/NDui/releases/tag/Classic-0.0.6",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "NDui-Classic-0.0.6-forever.zip",
+      "size": 911975,
+      "downloads": 1,
+      "url": "https://github.com/siweia/NDui/releases/download/Classic-0.0.6/NDui-Classic-0.0.6-forever.zip",
+      "platform": "🌐 Web"
+    },
+    {
+      "name": "release.json",
+      "size": 167,
+      "downloads": 2,
+      "url": "https://github.com/siweia/NDui/releases/download/Classic-0.0.6/release.json",
+      "platform": "📦 其他"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

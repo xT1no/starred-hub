@@ -1,0 +1,42 @@
+{
+  "name": "bv",
+  "full_name": "fantasytyx/bv",
+  "url": "https://github.com/fantasytyx/bv",
+  "description": "哔哩哔哩第三方 Android 应用的自用修改版。A modified version of Bilibili’s third-party Android app.",
+  "note": "",
+  "function": {
+    "name": "影视 / 直播 / 番剧",
+    "slug": "video",
+    "dir": "apps/video"
+  },
+  "platforms": [
+    "Android"
+  ],
+  "language": "Kotlin",
+  "stars": 762,
+  "forks": 22,
+  "license": "MIT",
+  "archived": false,
+  "homepage": "",
+  "topics": [],
+  "starred_at": "2026-03-25T06:28:12Z",
+  "pushed_at": "2026-10-05T16:57:14Z",
+  "latest": {
+    "kind": "release",
+    "tag": "0.3.0.r986.f02dfc5a.release",
+    "title": "0.3.0.r986.f02dfc5a.release",
+    "published_at": "2026-10-05T16:55:54Z",
+    "url": "https://github.com/fantasytyx/bv/releases/tag/0.3.0.r986.f02dfc5a.release",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "BV_986_0.3.0.r986.f02dfc5a.release_default_universal.apk",
+      "size": 14042297,
+      "downloads": 1639,
+      "url": "https://github.com/fantasytyx/bv/releases/download/0.3.0.r986.f02dfc5a.release/BV_986_0.3.0.r986.f02dfc5a.release_default_universal.apk",
+      "platform": "📲 Android"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

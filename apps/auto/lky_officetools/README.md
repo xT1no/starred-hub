@@ -2,6 +2,8 @@
 
 # LKY_OfficeTools
 
+<img src="icon.png" width="72" align="right" alt="LKY_OfficeTools icon">
+
 一键自动化 下载、安装、激活 Office 的利器。
 
 | 项目 | 信息 |

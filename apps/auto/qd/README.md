@@ -2,6 +2,8 @@
 
 # qd
 
+<img src="icon.png" width="72" align="right" alt="qd icon">
+
 QD [v20240210] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
 
 | 项目 | 信息 |

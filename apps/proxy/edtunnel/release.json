@@ -1,0 +1,44 @@
+{
+  "name": "EDtunnel",
+  "full_name": "6Kmfi6HP/EDtunnel",
+  "url": "https://github.com/6Kmfi6HP/EDtunnel",
+  "description": "EDtunnel 是一个基于 Cloudflare Workers 和 Pages 的代理工具，支持多种协议和配置选项。  EDtunnel is a proxy tool based on Cloudflare Workers and Pages, supporting multiple protocols and configuration options.",
+  "note": "",
+  "function": {
+    "name": "网络代理 / 节点",
+    "slug": "proxy",
+    "dir": "apps/proxy"
+  },
+  "platforms": [
+    "服务端 / 云端",
+    "Web"
+  ],
+  "language": "JavaScript",
+  "stars": 3063,
+  "forks": 5345,
+  "license": "MIT",
+  "archived": false,
+  "homepage": "https://cfworker.edtunnel.best/",
+  "topics": [
+    "cloudflare",
+    "cloudflare-pages",
+    "cloudflare-workers",
+    "edtunnel",
+    "nodejs",
+    "v2ray",
+    "vless",
+    "xray"
+  ],
+  "starred_at": "2024-09-11T11:48:38Z",
+  "pushed_at": "2026-04-25T19:21:52Z",
+  "latest": {
+    "kind": "none",
+    "tag": "",
+    "title": "",
+    "published_at": "",
+    "url": "",
+    "prerelease": false
+  },
+  "assets": [],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

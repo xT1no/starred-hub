@@ -1,0 +1,63 @@
+{
+  "name": "BT",
+  "full_name": "chinasoul/BT",
+  "url": "https://github.com/chinasoul/BT",
+  "description": "bilibili TV client",
+  "note": "bilibili TV 客户端",
+  "function": {
+    "name": "影视 / 直播 / 番剧",
+    "slug": "video",
+    "dir": "apps/video"
+  },
+  "platforms": [
+    "AndroidTV"
+  ],
+  "language": "",
+  "stars": 2392,
+  "forks": 88,
+  "license": "",
+  "archived": false,
+  "homepage": "",
+  "topics": [],
+  "starred_at": "2026-03-25T06:28:15Z",
+  "pushed_at": "2026-10-21T17:53:10Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v0.9.41",
+    "title": "v0.9.41",
+    "published_at": "2026-10-21T17:51:03Z",
+    "url": "https://github.com/chinasoul/BT/releases/tag/v0.9.41",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "BT-v0.9.41-universal-api19-22.apk",
+      "size": 3422342,
+      "downloads": 6681,
+      "url": "https://github.com/chinasoul/BT/releases/download/v0.9.41/BT-v0.9.41-universal-api19-22.apk",
+      "platform": "📲 Android"
+    },
+    {
+      "name": "BT-v0.9.41-universal.apk",
+      "size": 3296332,
+      "downloads": 14647,
+      "url": "https://github.com/chinasoul/BT/releases/download/v0.9.41/BT-v0.9.41-universal.apk",
+      "platform": "📲 Android"
+    },
+    {
+      "name": "universal-api19-22.apk",
+      "size": 3422342,
+      "downloads": 237,
+      "url": "https://github.com/chinasoul/BT/releases/download/v0.9.41/universal-api19-22.apk",
+      "platform": "📲 Android"
+    },
+    {
+      "name": "universal.apk",
+      "size": 3296332,
+      "downloads": 2650,
+      "url": "https://github.com/chinasoul/BT/releases/download/v0.9.41/universal.apk",
+      "platform": "📲 Android"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

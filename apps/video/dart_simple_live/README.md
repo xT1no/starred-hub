@@ -2,6 +2,8 @@
 
 # dart_simple_live
 
+<img src="icon.png" width="72" align="right" alt="dart_simple_live icon">
+
 简简单单的看直播
 
 | 项目 | 信息 |

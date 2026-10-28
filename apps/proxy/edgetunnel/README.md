@@ -2,6 +2,8 @@
 
 # edgetunnel
 
+<img src="icon.png" width="72" align="right" alt="edgetunnel icon">
+
 edgetunnel2 VLESS/Trojan/SS 多功能面板
 
 | 项目 | 信息 |

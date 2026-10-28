@@ -2,6 +2,8 @@
 
 # LiteLoaderQQNT
 
+<img src="icon.png" width="72" align="right" alt="LiteLoaderQQNT icon">
+
 > QQNT 插件加载器
 
 QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞

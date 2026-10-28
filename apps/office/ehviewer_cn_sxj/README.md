@@ -2,6 +2,8 @@
 
 # Ehviewer_CN_SXJ
 
+<img src="icon.png" width="72" align="right" alt="Ehviewer_CN_SXJ icon">
+
 > 漫画阅读客户端
 
 ehviewer，用爱发电，快乐前行

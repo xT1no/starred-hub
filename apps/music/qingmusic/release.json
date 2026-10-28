@@ -1,0 +1,49 @@
+{
+  "name": "QingMusic",
+  "full_name": "kejichangqing/QingMusic",
+  "url": "https://github.com/kejichangqing/QingMusic",
+  "description": "青听音乐-一款免费无广告的本地音乐播放器。",
+  "note": "本地音乐播放器",
+  "function": {
+    "name": "音乐 / 音频",
+    "slug": "music",
+    "dir": "apps/music"
+  },
+  "platforms": [
+    "Windows"
+  ],
+  "language": "",
+  "stars": 1863,
+  "forks": 84,
+  "license": "Apache-2.0",
+  "archived": false,
+  "homepage": "",
+  "topics": [],
+  "starred_at": "2026-09-15T14:57:05Z",
+  "pushed_at": "2026-10-16T13:01:53Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v1.4.0",
+    "title": "QingMusic v1.4.0",
+    "published_at": "2026-10-16T13:01:53Z",
+    "url": "https://github.com/kejichangqing/QingMusic/releases/tag/v1.4.0",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "QingMusic_v1.4.0-arm-release.apk",
+      "size": 50978333,
+      "downloads": 6379,
+      "url": "https://github.com/kejichangqing/QingMusic/releases/download/v1.4.0/QingMusic_v1.4.0-arm-release.apk",
+      "platform": "📲 Android"
+    },
+    {
+      "name": "QingMusic_v1.4.0-x86-release.apk",
+      "size": 56690486,
+      "downloads": 1074,
+      "url": "https://github.com/kejichangqing/QingMusic/releases/download/v1.4.0/QingMusic_v1.4.0-x86-release.apk",
+      "platform": "📲 Android"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

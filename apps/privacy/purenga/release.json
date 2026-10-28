@@ -1,0 +1,76 @@
+{
+  "name": "PureNGA",
+  "full_name": "chr233/PureNGA",
+  "url": "https://github.com/chr233/PureNGA",
+  "description": "NGA 去广告Xposed模块 支持 Lspatch",
+  "note": "",
+  "function": {
+    "name": "广告过滤 / 隐私",
+    "slug": "privacy",
+    "dir": "apps/privacy"
+  },
+  "platforms": [
+    "Android"
+  ],
+  "language": "Kotlin",
+  "stars": 1137,
+  "forks": 14,
+  "license": "AGPL-3.0",
+  "archived": false,
+  "homepage": "https://github.com/Xposed-Modules-Repo/com.chrxw.purenga",
+  "topics": [
+    "178",
+    "ezxhelper",
+    "nga",
+    "purenga",
+    "xposed"
+  ],
+  "starred_at": "2023-04-04T18:46:23Z",
+  "pushed_at": "2026-10-22T22:55:09Z",
+  "latest": {
+    "kind": "release",
+    "tag": "3.4.0",
+    "title": "3.4.0",
+    "published_at": "2026-09-08T05:54:33Z",
+    "url": "https://github.com/chr233/PureNGA/releases/tag/3.4.0",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "nga_9.9.64-3.4.0-lspatched.apk",
+      "size": 93634151,
+      "downloads": 394,
+      "url": "https://github.com/chr233/PureNGA/releases/download/3.4.0/nga_9.9.64-3.4.0-lspatched.apk",
+      "platform": "📲 Android"
+    },
+    {
+      "name": "nga_9.9.65-3.4.0-lspatched.apk",
+      "size": 79301142,
+      "downloads": 84,
+      "url": "https://github.com/chr233/PureNGA/releases/download/3.4.0/nga_9.9.65-3.4.0-lspatched.apk",
+      "platform": "📲 Android"
+    },
+    {
+      "name": "nga_9.9.66-3.4.0-lspatched.apk",
+      "size": 79524623,
+      "downloads": 60,
+      "url": "https://github.com/chr233/PureNGA/releases/download/3.4.0/nga_9.9.66-3.4.0-lspatched.apk",
+      "platform": "📲 Android"
+    },
+    {
+      "name": "nga_9.9.67-3.4.0-lspatched.apk",
+      "size": 82889444,
+      "downloads": 75,
+      "url": "https://github.com/chr233/PureNGA/releases/download/3.4.0/nga_9.9.67-3.4.0-lspatched.apk",
+      "platform": "📲 Android"
+    },
+    {
+      "name": "nga_9.9.68-3.4.0-lspatched.apk",
+      "size": 82979627,
+      "downloads": 2695,
+      "url": "https://github.com/chr233/PureNGA/releases/download/3.4.0/nga_9.9.68-3.4.0-lspatched.apk",
+      "platform": "📲 Android"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

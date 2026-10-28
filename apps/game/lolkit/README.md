@@ -2,6 +2,8 @@
 
 # LOLkit
 
+<img src="icon.png" width="72" align="right" alt="LOLkit icon">
+
 One gift for all LOL gamers， League of Legends工具
 
 | 项目 | 信息 |

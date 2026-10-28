@@ -2,6 +2,8 @@
 
 # TFT-Hextech-Helper
 
+<img src="icon.png" width="72" align="right" alt="TFT-Hextech-Helper icon">
+
 一款神奇的云顶之弈自动挂机海克斯科技助手(σ｀・д・)σ。挂机脚本，纯视觉识别，不读取内存。tft，hextech。云顶挂机脚本，云顶脚本，下棋脚本，云顶挂机，支持S17星神最新赛季 (等十月份适配S18新架构云顶)
 
 | 项目 | 信息 |

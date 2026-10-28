@@ -2,6 +2,8 @@
 
 # MusicFree
 
+<img src="icon.png" width="72" align="right" alt="MusicFree icon">
+
 插件化、定制化、无广告的免费音乐播放器
 
 | 项目 | 信息 |

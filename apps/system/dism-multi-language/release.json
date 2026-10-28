@@ -1,0 +1,42 @@
+{
+  "name": "Dism-Multi-language",
+  "full_name": "Chuyu-Team/Dism-Multi-language",
+  "url": "https://github.com/Chuyu-Team/Dism-Multi-language",
+  "description": "Dism++ Multi-language Support & BUG Report",
+  "note": "",
+  "function": {
+    "name": "系统增强 / 优化",
+    "slug": "system",
+    "dir": "apps/system"
+  },
+  "platforms": [
+    "Windows"
+  ],
+  "language": "HTML",
+  "stars": 20677,
+  "forks": 1246,
+  "license": "MIT",
+  "archived": false,
+  "homepage": "",
+  "topics": [],
+  "starred_at": "2022-07-18T06:33:13Z",
+  "pushed_at": "2026-10-09T08:19:25Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v10.1.1002.2",
+    "title": "Dism++ 10.1.1002.2",
+    "published_at": "2023-03-26T08:38:36Z",
+    "url": "https://github.com/Chuyu-Team/Dism-Multi-language/releases/tag/v10.1.1002.2",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "Dism++10.1.1002.1B.zip",
+      "size": 3767974,
+      "downloads": 1766515,
+      "url": "https://github.com/Chuyu-Team/Dism-Multi-language/releases/download/v10.1.1002.2/Dism%2B%2B10.1.1002.1B.zip",
+      "platform": "🌐 Web"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

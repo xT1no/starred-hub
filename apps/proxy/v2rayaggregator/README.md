@@ -2,6 +2,8 @@
 
 # V2RayAggregator
 
+<img src="icon.png" width="72" align="right" alt="V2RayAggregator icon">
+
 Collect Lots of Shadowsocks, ShadowsocksR, Trojan, Vmess from Public Sources & Filter Best Nodes By Speed
 
 | 项目 | 信息 |

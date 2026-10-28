@@ -2,6 +2,8 @@
 
 # Office-Tool
 
+<img src="icon.png" width="72" align="right" alt="Office-Tool icon">
+
 Office Tool Plus localization projects.
 
 | 项目 | 信息 |

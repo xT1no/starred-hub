@@ -1,0 +1,42 @@
+{
+  "name": "oblivion",
+  "full_name": "bepass-org/oblivion",
+  "url": "https://github.com/bepass-org/oblivion",
+  "description": "Unofficial warp client for android",
+  "note": "",
+  "function": {
+    "name": "网络代理 / 节点",
+    "slug": "proxy",
+    "dir": "apps/proxy"
+  },
+  "platforms": [
+    "Android"
+  ],
+  "language": "Dart",
+  "stars": 4888,
+  "forks": 641,
+  "license": "MIT",
+  "archived": false,
+  "homepage": "",
+  "topics": [],
+  "starred_at": "2024-06-02T17:26:33Z",
+  "pushed_at": "2026-10-15T13:05:11Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v8",
+    "title": "v8.0.0",
+    "published_at": "2026-09-08T19:21:36Z",
+    "url": "https://github.com/bepass-org/oblivion/releases/tag/v8",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "oblivion-v8-signed.apk",
+      "size": 62486494,
+      "downloads": 18316,
+      "url": "https://github.com/bepass-org/oblivion/releases/download/v8/oblivion-v8-signed.apk",
+      "platform": "📲 Android"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

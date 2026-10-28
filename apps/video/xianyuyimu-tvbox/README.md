@@ -2,6 +2,8 @@
 
 # TVBOX-
 
+<img src="icon.png" width="72" align="right" alt="TVBOX- icon">
+
 一木TVBOX自用仓库
 
 | 项目 | 信息 |

@@ -2,6 +2,8 @@
 
 # OriginPlan
 
+<img src="icon.png" width="72" align="right" alt="OriginPlan icon">
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [ItosEO/OriginPlan](https://github.com/ItosEO/OriginPlan) |

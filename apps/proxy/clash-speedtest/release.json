@@ -1,0 +1,108 @@
+{
+  "name": "clash-speedtest",
+  "full_name": "faceair/clash-speedtest",
+  "url": "https://github.com/faceair/clash-speedtest",
+  "description": "clash speedtest",
+  "note": "",
+  "function": {
+    "name": "网络代理 / 节点",
+    "slug": "proxy",
+    "dir": "apps/proxy"
+  },
+  "platforms": [
+    "CLI"
+  ],
+  "language": "Go",
+  "stars": 976,
+  "forks": 128,
+  "license": "GPL-3.0",
+  "archived": false,
+  "homepage": "",
+  "topics": [
+    "clash",
+    "mihomo"
+  ],
+  "starred_at": "2024-02-29T16:58:29Z",
+  "pushed_at": "2026-05-17T16:13:50Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v1.8.8",
+    "title": "v1.8.8",
+    "published_at": "2026-05-17T15:53:15Z",
+    "url": "https://github.com/faceair/clash-speedtest/releases/tag/v1.8.8",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "checksums.txt",
+      "size": 909,
+      "downloads": 223,
+      "url": "https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/checksums.txt",
+      "platform": "🔐 校验文件"
+    },
+    {
+      "name": "clash-speedtest_Darwin_arm64.tar.gz",
+      "size": 11588426,
+      "downloads": 193,
+      "url": "https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/clash-speedtest_Darwin_arm64.tar.gz",
+      "platform": "🍎 macOS"
+    },
+    {
+      "name": "clash-speedtest_Darwin_x86_64.tar.gz",
+      "size": 12578191,
+      "downloads": 105,
+      "url": "https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/clash-speedtest_Darwin_x86_64.tar.gz",
+      "platform": "🍎 macOS"
+    },
+    {
+      "name": "clash-speedtest_Linux_arm64.tar.gz",
+      "size": 11697978,
+      "downloads": 146,
+      "url": "https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/clash-speedtest_Linux_arm64.tar.gz",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "clash-speedtest_Linux_armv7.tar.gz",
+      "size": 12064581,
+      "downloads": 16,
+      "url": "https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/clash-speedtest_Linux_armv7.tar.gz",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "clash-speedtest_Linux_i386.tar.gz",
+      "size": 12171664,
+      "downloads": 14,
+      "url": "https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/clash-speedtest_Linux_i386.tar.gz",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "clash-speedtest_Linux_x86_64.tar.gz",
+      "size": 12963702,
+      "downloads": 1675,
+      "url": "https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/clash-speedtest_Linux_x86_64.tar.gz",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "clash-speedtest_Windows_arm64.zip",
+      "size": 11110252,
+      "downloads": 151,
+      "url": "https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/clash-speedtest_Windows_arm64.zip",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "clash-speedtest_Windows_i386.zip",
+      "size": 11923089,
+      "downloads": 102,
+      "url": "https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/clash-speedtest_Windows_i386.zip",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "clash-speedtest_Windows_x86_64.zip",
+      "size": 12558048,
+      "downloads": 1837,
+      "url": "https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/clash-speedtest_Windows_x86_64.zip",
+      "platform": "🪟 Windows"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Replit-Xray",
+  "full_name": "yonggekkk/Replit-Xray",
+  "url": "https://github.com/yonggekkk/Replit-Xray",
+  "description": "Replit容器部署xray代理，支持argo固定隧道与临时隧道，自定义伪装网页，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks5",
+  "note": "",
+  "function": {
+    "name": "网络代理 / 节点",
+    "slug": "proxy",
+    "dir": "apps/proxy"
+  },
+  "platforms": [
+    "Web"
+  ],
+  "language": "",
+  "stars": 886,
+  "forks": 1266,
+  "license": "",
+  "archived": false,
+  "homepage": "",
+  "topics": [
+    "argo",
+    "chatgpt",
+    "cloudflared",
+    "nginx",
+    "oneclick",
+    "replit",
+    "shadowsocks",
+    "socks",
+    "trojan",
+    "vless",
+    "vmess",
+    "xray-core",
+    "ygkkk"
+  ],
+  "starred_at": "2024-06-25T12:21:32Z",
+  "pushed_at": "2024-05-08T06:13:53Z",
+  "latest": {
+    "kind": "none",
+    "tag": "",
+    "title": "",
+    "published_at": "",
+    "url": "",
+    "prerelease": false
+  },
+  "assets": [],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

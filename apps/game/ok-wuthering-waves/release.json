@@ -1,0 +1,78 @@
+{
+  "name": "ok-wuthering-waves",
+  "full_name": "ok-oldking/ok-wuthering-waves",
+  "url": "https://github.com/ok-oldking/ok-wuthering-waves",
+  "description": "鸣潮 后台自动战斗 自动刷声骸 一键日常  Automation for Wuthering Waves",
+  "note": "鸣潮后台自动战斗 / 一键日常",
+  "function": {
+    "name": "游戏 / 辅助脚本",
+    "slug": "game",
+    "dir": "apps/game"
+  },
+  "platforms": [
+    "Windows"
+  ],
+  "language": "Python",
+  "stars": 8297,
+  "forks": 699,
+  "license": "AGPL-3.0",
+  "archived": false,
+  "homepage": "https://ok-script.com/ok-ww",
+  "topics": [
+    "ok-ww",
+    "okww",
+    "wuthering-waves",
+    "wuthering-waves-hack",
+    "wuthering-waves-software",
+    "wutheringwaves",
+    "wuwa"
+  ],
+  "starred_at": "2025-04-01T18:35:53Z",
+  "pushed_at": "2026-10-28T02:21:59Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v3.7.12",
+    "title": "v3.7.12",
+    "published_at": "2026-10-28T03:05:22Z",
+    "url": "https://github.com/ok-oldking/ok-wuthering-waves/releases/tag/v3.7.12",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "ok-ww-win32-China-setup.exe",
+      "size": 391207576,
+      "downloads": 1973,
+      "url": "https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.12/ok-ww-win32-China-setup.exe",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "ok-ww-win32-Global-setup.exe",
+      "size": 534682310,
+      "downloads": 144,
+      "url": "https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.12/ok-ww-win32-Global-setup.exe",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "ok-ww-win32-online-setup.exe",
+      "size": 4023925,
+      "downloads": 228,
+      "url": "https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.12/ok-ww-win32-online-setup.exe",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "ok-ww-win32.zip",
+      "size": 4976098,
+      "downloads": 145,
+      "url": "https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.12/ok-ww-win32.zip",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "win32_sha256.txt",
+      "size": 64,
+      "downloads": 420,
+      "url": "https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.12/win32_sha256.txt",
+      "platform": "🔐 校验文件"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

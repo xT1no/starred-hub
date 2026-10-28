@@ -2,6 +2,8 @@
 
 # gpt4all
 
+<img src="icon.png" width="72" align="right" alt="gpt4all icon">
+
 GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 
 | 项目 | 信息 |

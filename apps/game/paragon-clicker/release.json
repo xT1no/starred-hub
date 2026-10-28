@@ -1,0 +1,42 @@
+{
+  "name": "paragon-clicker",
+  "full_name": "zfxsquare/paragon-clicker",
+  "url": "https://github.com/zfxsquare/paragon-clicker",
+  "description": "Windows D2Core Diablo IV paragon auto clicker",
+  "note": "",
+  "function": {
+    "name": "游戏 / 辅助脚本",
+    "slug": "game",
+    "dir": "apps/game"
+  },
+  "platforms": [
+    "Windows"
+  ],
+  "language": "Python",
+  "stars": 32,
+  "forks": 3,
+  "license": "",
+  "archived": false,
+  "homepage": "",
+  "topics": [],
+  "starred_at": "2026-08-05T09:11:21Z",
+  "pushed_at": "2026-05-11T06:37:53Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v0.1.8",
+    "title": "v0.1.8",
+    "published_at": "2026-05-11T06:40:03Z",
+    "url": "https://github.com/zfxsquare/paragon-clicker/releases/tag/v0.1.8",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "paragon-clicker-windows-x64.zip",
+      "size": 40910063,
+      "downloads": 933,
+      "url": "https://github.com/zfxsquare/paragon-clicker/releases/download/v0.1.8/paragon-clicker-windows-x64.zip",
+      "platform": "🪟 Windows"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

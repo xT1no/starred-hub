@@ -2,6 +2,8 @@
 
 # GKD_THS_List
 
+<img src="icon.png" width="72" align="right" alt="GKD_THS_List icon">
+
 > GKD 第三方订阅规则收录
 
 GKD第三方订阅收录名单

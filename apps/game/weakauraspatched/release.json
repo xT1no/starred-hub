@@ -1,0 +1,49 @@
+{
+  "name": "WeakAurasPatched",
+  "full_name": "wind-addons/WeakAurasPatched",
+  "url": "https://github.com/wind-addons/WeakAurasPatched",
+  "description": "✨ A patched version of WeakAuras (WoW Addon)",
+  "note": "WeakAuras 修改版",
+  "function": {
+    "name": "游戏 / 辅助脚本",
+    "slug": "game",
+    "dir": "apps/game"
+  },
+  "platforms": [
+    "Windows"
+  ],
+  "language": "Shell",
+  "stars": 38,
+  "forks": 3,
+  "license": "GPL-2.0",
+  "archived": true,
+  "homepage": "",
+  "topics": [],
+  "starred_at": "2024-09-17T03:30:43Z",
+  "pushed_at": "2026-01-18T20:50:23Z",
+  "latest": {
+    "kind": "release",
+    "tag": "5.21.1",
+    "title": "5.21.1",
+    "published_at": "2026-01-18T20:51:51Z",
+    "url": "https://github.com/wind-addons/WeakAurasPatched/releases/tag/5.21.1",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "release.json",
+      "size": 393,
+      "downloads": 16223,
+      "url": "https://github.com/wind-addons/WeakAurasPatched/releases/download/5.21.1/release.json",
+      "platform": "📦 其他"
+    },
+    {
+      "name": "WeakAurasPatched-5.21.1.zip",
+      "size": 10540278,
+      "downloads": 447,
+      "url": "https://github.com/wind-addons/WeakAurasPatched/releases/download/5.21.1/WeakAurasPatched-5.21.1.zip",
+      "platform": "🌐 Web"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

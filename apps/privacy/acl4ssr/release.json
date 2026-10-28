@@ -1,0 +1,39 @@
+{
+  "name": "ACL4SSR",
+  "full_name": "ACL4SSR/ACL4SSR",
+  "url": "https://github.com/ACL4SSR/ACL4SSR",
+  "description": "SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址",
+  "note": "",
+  "function": {
+    "name": "广告过滤 / 隐私",
+    "slug": "privacy",
+    "dir": "apps/privacy"
+  },
+  "platforms": [
+    "通用 / 未指定"
+  ],
+  "language": "Python",
+  "stars": 6864,
+  "forks": 2045,
+  "license": "CC-BY-SA-4.0",
+  "archived": false,
+  "homepage": "https://t.me/ACL4SSR",
+  "topics": [
+    "acl",
+    "acl4ssr",
+    "clash",
+    "gfwlist"
+  ],
+  "starred_at": "2024-09-08T01:29:14Z",
+  "pushed_at": "2026-10-25T02:43:33Z",
+  "latest": {
+    "kind": "none",
+    "tag": "",
+    "title": "",
+    "published_at": "",
+    "url": "",
+    "prerelease": false
+  },
+  "assets": [],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

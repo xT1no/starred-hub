@@ -1,0 +1,51 @@
+{
+  "name": "ImmortalWrt-ImageBuilder",
+  "full_name": "wukongdaily/ImmortalWrt-ImageBuilder",
+  "url": "https://github.com/wukongdaily/ImmortalWrt-ImageBuilder",
+  "description": "它是一个工作流。可快速构建 可选docker、可选1G~4G固件大小的 immortalWrt。它相当于一个云端的ImageBuilder,属于构建的范畴,不算是编译。目前也支持第三方插件的按需集成。",
+  "note": "",
+  "function": {
+    "name": "自动化 / 部署",
+    "slug": "auto",
+    "dir": "apps/auto"
+  },
+  "platforms": [
+    "路由器 / 固件"
+  ],
+  "language": "Shell",
+  "stars": 2706,
+  "forks": 9417,
+  "license": "GPL-3.0",
+  "archived": false,
+  "homepage": "https://t.me/imm_imagebuilder",
+  "topics": [
+    "docker",
+    "imagebuilder",
+    "immortalwrt",
+    "luci-app-dockerman",
+    "op-25-12",
+    "openwrt",
+    "rootfs",
+    "rootsize"
+  ],
+  "starred_at": "2025-10-10T15:26:38Z",
+  "pushed_at": "2026-09-16T08:53:54Z",
+  "latest": {
+    "kind": "release",
+    "tag": "Autobuild-x86-64",
+    "title": "Autobuild-x86-64",
+    "published_at": "2026-10-27T00:32:19Z",
+    "url": "https://github.com/wukongdaily/ImmortalWrt-ImageBuilder/releases/tag/Autobuild-x86-64",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "immortalwrt-25.12.2-x86-64-generic-squashfs-combined-efi.img.gz",
+      "size": 24694278,
+      "downloads": 4,
+      "url": "https://github.com/wukongdaily/ImmortalWrt-ImageBuilder/releases/download/Autobuild-x86-64/immortalwrt-25.12.2-x86-64-generic-squashfs-combined-efi.img.gz",
+      "platform": "📦 其他"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

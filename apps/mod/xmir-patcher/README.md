@@ -2,6 +2,8 @@
 
 # xmir-patcher
 
+<img src="icon.png" width="72" align="right" alt="xmir-patcher icon">
+
 Firmware patcher for Xiaomi routers
 
 | 项目 | 信息 |

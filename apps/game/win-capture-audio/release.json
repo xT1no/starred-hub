@@ -1,0 +1,34 @@
+{
+  "name": "win-capture-audio",
+  "full_name": "bozbez/win-capture-audio",
+  "url": "https://github.com/bozbez/win-capture-audio",
+  "description": "An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBS's game capture and Discord's application streaming.",
+  "note": "",
+  "function": {
+    "name": "游戏 / 辅助脚本",
+    "slug": "game",
+    "dir": "apps/game"
+  },
+  "platforms": [
+    "Windows"
+  ],
+  "language": "C++",
+  "stars": 4018,
+  "forks": 212,
+  "license": "GPL-2.0",
+  "archived": false,
+  "homepage": "",
+  "topics": [],
+  "starred_at": "2022-08-12T12:54:18Z",
+  "pushed_at": "2024-01-30T01:36:15Z",
+  "latest": {
+    "kind": "tag",
+    "tag": "v2.2.3-beta",
+    "title": "v2.2.3-beta",
+    "published_at": "",
+    "url": "https://github.com/bozbez/win-capture-audio/tags",
+    "prerelease": false
+  },
+  "assets": [],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

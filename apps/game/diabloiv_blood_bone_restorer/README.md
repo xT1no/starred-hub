@@ -2,6 +2,8 @@
 
 # DiabloIV_Blood_Bone_Restorer
 
+<img src="icon.png" width="72" align="right" alt="DiabloIV_Blood_Bone_Restorer icon">
+
 暗黑4血骨还原器(BBR反和谐工具)
 
 | 项目 | 信息 |

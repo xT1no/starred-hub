@@ -2,6 +2,8 @@
 
 # Game-Cheats-Manager
 
+<img src="icon.png" width="72" align="right" alt="Game-Cheats-Manager icon">
+
 > 单机游戏修改器下载与管理
 
 Easily download and manage single-player game cheats for your convenience

@@ -2,6 +2,8 @@
 
 # alltv
 
+<img src="icon.png" width="72" align="right" alt="alltv icon">
+
 > 聚合斗鱼 / 虎牙 / B站 直播源
 
 一个app看全网直播--获取 斗鱼、虎牙、bilibili等平台直播源、直播弹幕

@@ -2,6 +2,8 @@
 
 # dlss-swapper
 
+<img src="icon.png" width="72" align="right" alt="dlss-swapper icon">
+
 > 一键替换游戏内的 DLSS 动态库
 
 | 项目 | 信息 |

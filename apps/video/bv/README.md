@@ -2,6 +2,8 @@
 
 # bv
 
+<img src="icon.png" width="72" align="right" alt="bv icon">
+
 哔哩哔哩第三方 Android 应用的自用修改版。A modified version of Bilibili’s third-party Android app.
 
 | 项目 | 信息 |

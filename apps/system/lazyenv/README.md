@@ -2,6 +2,8 @@
 
 # LazyEnv
 
+<img src="icon.png" width="72" align="right" alt="LazyEnv icon">
+
 > Windows 环境变量管理
 
 | 项目 | 信息 |

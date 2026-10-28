@@ -1,0 +1,42 @@
+{
+  "name": "ReWindsys",
+  "full_name": "FirTech/ReWindsys",
+  "url": "https://github.com/FirTech/ReWindsys",
+  "description": "Rebirth of Windsys Project",
+  "note": "Windows 精简系统镜像项目",
+  "function": {
+    "name": "系统增强 / 优化",
+    "slug": "system",
+    "dir": "apps/system"
+  },
+  "platforms": [
+    "Windows"
+  ],
+  "language": "PowerShell",
+  "stars": 21,
+  "forks": 2,
+  "license": "",
+  "archived": false,
+  "homepage": "",
+  "topics": [],
+  "starred_at": "2026-08-10T00:39:40Z",
+  "pushed_at": "2026-05-28T23:57:56Z",
+  "latest": {
+    "kind": "release",
+    "tag": "V1.0.0",
+    "title": "V1.0.0",
+    "published_at": "2026-05-28T23:57:56Z",
+    "url": "https://github.com/FirTech/ReWindsys/releases/tag/V1.0.0",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "ReWindsys.zip",
+      "size": 870114922,
+      "downloads": 109,
+      "url": "https://github.com/FirTech/ReWindsys/releases/download/V1.0.0/ReWindsys.zip",
+      "platform": "🌐 Web"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

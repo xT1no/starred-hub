@@ -1,0 +1,34 @@
+{
+  "name": "wool_scripts",
+  "full_name": "fmz200/wool_scripts",
+  "url": "https://github.com/fmz200/wool_scripts",
+  "description": "收集一些Loon、Surge、QuantumultX、ShadowRocket、Egern的配置与去广告规则。",
+  "note": "Loon / Surge / QuantumultX 去广告规则",
+  "function": {
+    "name": "广告过滤 / 隐私",
+    "slug": "privacy",
+    "dir": "apps/privacy"
+  },
+  "platforms": [
+    "iOS"
+  ],
+  "language": "Vim Snippet",
+  "stars": 5860,
+  "forks": 323,
+  "license": "GPL-3.0",
+  "archived": false,
+  "homepage": "",
+  "topics": [],
+  "starred_at": "2025-11-03T12:34:14Z",
+  "pushed_at": "2026-10-25T14:44:37Z",
+  "latest": {
+    "kind": "none",
+    "tag": "",
+    "title": "",
+    "published_at": "",
+    "url": "",
+    "prerelease": false
+  },
+  "assets": [],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

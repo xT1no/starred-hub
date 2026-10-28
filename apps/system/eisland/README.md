@@ -2,6 +2,8 @@
 
 # eIsland
 
+<img src="icon.png" width="72" align="right" alt="eIsland icon">
+
 > Windows 上的灵动岛悬浮窗
 
 eIsland - A sleek, Apple Dynamic Island inspired floating widget for Windows, built with Electron.
@@ -55,7 +57,7 @@ eIsland - A sleek, Apple Dynamic Island inspired floating widget for Windows, bu
 |:---|:---:|:---|---:|
 | [eIsland-27.0.0-Setup.exe](https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.0/eIsland-27.0.0-Setup.exe) | 🪟 Windows | 373.9 MB | 260 |
 | [eIsland-27.0.0-Setup.exe.blockmap](https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.0/eIsland-27.0.0-Setup.exe.blockmap) | 🪟 Windows | 377 KB | 67 |
-| [latest.yml](https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.0/latest.yml) | 📦 其他 | 346 B | 897 |
+| [latest.yml](https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.0/latest.yml) | 📦 其他 | 346 B | 895 |
 
 ## 🔗 快速链接
 

@@ -2,6 +2,8 @@
 
 # mactype
 
+<img src="icon.png" width="72" align="right" alt="mactype icon">
+
 Better font rendering for Windows.
 
 | 项目 | 信息 |

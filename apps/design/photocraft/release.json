@@ -1,0 +1,239 @@
+{
+  "name": "photocraft",
+  "full_name": "storytold/photocraft",
+  "url": "https://github.com/storytold/photocraft",
+  "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
+  "note": "纯 Rust 从零写的开源修图工具",
+  "function": {
+    "name": "图像 / 设计",
+    "slug": "design",
+    "dir": "apps/design"
+  },
+  "platforms": [
+    "跨平台桌面"
+  ],
+  "language": "Rust",
+  "stars": 74086,
+  "forks": 13082,
+  "license": "Apache-2.0",
+  "archived": false,
+  "homepage": "https://getartcraft.com/apps/photocraft",
+  "topics": [
+    "art",
+    "image-editing",
+    "image-editing-software",
+    "image-editor",
+    "images",
+    "photo-editing",
+    "rust"
+  ],
+  "starred_at": "2026-10-09T17:47:49Z",
+  "pushed_at": "2026-10-28T05:01:25Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v0.16.0",
+    "title": "PhotoCraft v0.16.0",
+    "published_at": "2026-10-25T14:17:53Z",
+    "url": "https://github.com/storytold/photocraft/releases/tag/v0.16.0",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "photocraft-0.16.0-freebsd-x86_64.tar.gz",
+      "size": 87249731,
+      "downloads": 1341,
+      "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-freebsd-x86_64.tar.gz",
+      "platform": "⌨️ CLI"
+    },
+    {
+      "name": "photocraft-0.16.0-linux-aarch64.AppImage",
+      "size": 79026696,
+      "downloads": 1071,
+      "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-aarch64.AppImage",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "photocraft-0.16.0-linux-aarch64.AppImage.zsync",
+      "size": 270367,
+      "downloads": 445,
+      "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-aarch64.AppImage.zsync",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "photocraft-0.16.0-linux-aarch64.deb",
+      "size": 85605616,
+      "downloads": 880,
+      "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-aarch64.deb",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "photocraft-0.16.0-linux-aarch64.flatpak",
+      "size": 60477040,
+      "downloads": 687,
+      "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-aarch64.flatpak",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "photocraft-0.16.0-linux-aarch64.pkg.tar.zst",
+      "size": 66483716,
+      "downloads": 409,
+      "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-aarch64.pkg.tar.zst",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "photocraft-0.16.0-linux-aarch64.rpm",
+      "size": 84836460,
+      "downloads": 522,
+      "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-aarch64.rpm",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "photocraft-0.16.0-linux-aarch64.tar.gz",
+      "size": 83104781,
+      "downloads": 664,
+      "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-aarch64.tar.gz",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "photocraft-0.16.0-linux-riscv64.deb",
+      "size": 86461568,
+      "downloads": 519,
+      "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-riscv64.deb",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "photocraft-0.16.0-linux-riscv64.rpm",
+      "size": 86097695,
+      "downloads": 429,
+      "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-riscv64.rpm",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "photocraft-0.16.0-linux-riscv64.tar.gz",
+      "size": 85257010,
+      "downloads": 419,
+      "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-riscv64.tar.gz",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "photocraft-0.16.0-linux-x86_64.AppImage",
+      "size": 83327480,
+      "downloads": 14847,
+      "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-x86_64.AppImage",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "photocraft-0.16.0-linux-x86_64.AppImage.zsync",
+      "size": 285065,
+      "downloads": 5600,
+      "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-x86_64.AppImage.zsync",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "photocraft-0.16.0-linux-x86_64.deb",
+      "size": 89232816,
+      "downloads": 10560,
+      "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-x86_64.deb",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "photocraft-0.16.0-linux-x86_64.flatpak",
+      "size": 65494256,
+      "downloads": 9892,
+      "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-x86_64.flatpak",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "photocraft-0.16.0-linux-x86_64.pkg.tar.zst",
+      "size": 69442409,
+      "downloads": 1290,
+      "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-x86_64.pkg.tar.zst",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "photocraft-0.16.0-linux-x86_64.rpm",
+      "size": 88627222,
+      "downloads": 2728,
+      "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-x86_64.rpm",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "photocraft-0.16.0-linux-x86_64.tar.gz",
+      "size": 87847296,
+      "downloads": 4818,
+      "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-x86_64.tar.gz",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "photocraft-0.16.0-macos-universal.dmg",
+      "size": 98985128,
+      "downloads": 46984,
+      "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-macos-universal.dmg",
+      "platform": "🍎 macOS"
+    },
+    {
+      "name": "photocraft-0.16.0-windows-arm64-portable.zip",
+      "size": 84925185,
+      "downloads": 1108,
+      "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-windows-arm64-portable.zip",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "photocraft-0.16.0-windows-arm64.msi",
+      "size": 69341184,
+      "downloads": 1400,
+      "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-windows-arm64.msi",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "photocraft-0.16.0-windows-x64-portable.zip",
+      "size": 90025164,
+      "downloads": 11695,
+      "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-windows-x64-portable.zip",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "photocraft-0.16.0-windows-x64.msi",
+      "size": 74760192,
+      "downloads": 112596,
+      "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-windows-x64.msi",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "photocraft-0.16.0-windows-x86-portable.zip",
+      "size": 85114531,
+      "downloads": 1511,
+      "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-windows-x86-portable.zip",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "photocraft-0.16.0-windows-x86.msi",
+      "size": 71917568,
+      "downloads": 1377,
+      "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-windows-x86.msi",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "photocraft-cli-0.16.0-macos-universal.zip",
+      "size": 71995874,
+      "downloads": 2561,
+      "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-cli-0.16.0-macos-universal.zip",
+      "platform": "🍎 macOS"
+    },
+    {
+      "name": "photocraft-web-0.16.0.zip",
+      "size": 12192545,
+      "downloads": 2520,
+      "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-web-0.16.0.zip",
+      "platform": "🌐 Web"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "size": 2833,
+      "downloads": 7121,
+      "url": "https://github.com/storytold/photocraft/releases/download/v0.16.0/SHA256SUMS.txt",
+      "platform": "🔐 校验文件"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

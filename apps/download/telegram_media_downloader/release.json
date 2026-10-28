@@ -1,0 +1,50 @@
+{
+  "name": "telegram_media_downloader",
+  "full_name": "tangyoha/telegram_media_downloader",
+  "url": "https://github.com/tangyoha/telegram_media_downloader",
+  "description": "基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file",
+  "note": "",
+  "function": {
+    "name": "下载 / 网盘",
+    "slug": "download",
+    "dir": "apps/download"
+  },
+  "platforms": [
+    "Web",
+    "跨平台桌面"
+  ],
+  "language": "JavaScript",
+  "stars": 5627,
+  "forks": 652,
+  "license": "MIT",
+  "archived": false,
+  "homepage": "",
+  "topics": [
+    "cosplatfrom",
+    "cross-platform",
+    "downloader",
+    "flask",
+    "media-downloader",
+    "telegram-bot"
+  ],
+  "starred_at": "2025-11-13T18:05:38Z",
+  "pushed_at": "2026-03-04T03:01:52Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v2.2.5",
+    "title": "v2.2.5, 2025-01-07",
+    "published_at": "2025-01-06T15:59:05Z",
+    "url": "https://github.com/tangyoha/telegram_media_downloader/releases/tag/v2.2.5",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "tdl-v2.2.5-win64.zip",
+      "size": 23021830,
+      "downloads": 11904,
+      "url": "https://github.com/tangyoha/telegram_media_downloader/releases/download/v2.2.5/tdl-v2.2.5-win64.zip",
+      "platform": "🪟 Windows"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

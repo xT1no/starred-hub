@@ -1,0 +1,42 @@
+{
+  "name": "LazyEnv",
+  "full_name": "ListerOvO1211/LazyEnv",
+  "url": "https://github.com/ListerOvO1211/LazyEnv",
+  "description": "",
+  "note": "Windows 环境变量管理",
+  "function": {
+    "name": "系统增强 / 优化",
+    "slug": "system",
+    "dir": "apps/system"
+  },
+  "platforms": [
+    "Windows"
+  ],
+  "language": "C++",
+  "stars": 503,
+  "forks": 34,
+  "license": "GPL-3.0",
+  "archived": false,
+  "homepage": "",
+  "topics": [],
+  "starred_at": "2026-04-12T12:53:53Z",
+  "pushed_at": "2026-08-13T18:44:12Z",
+  "latest": {
+    "kind": "release",
+    "tag": "0.2.1",
+    "title": "LazyEnv 0.2.1",
+    "published_at": "2026-08-13T18:44:13Z",
+    "url": "https://github.com/ListerOvO1211/LazyEnv/releases/tag/0.2.1",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "Release.zip",
+      "size": 46654563,
+      "downloads": 204,
+      "url": "https://github.com/ListerOvO1211/LazyEnv/releases/download/0.2.1/Release.zip",
+      "platform": "🌐 Web"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

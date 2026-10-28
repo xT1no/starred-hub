@@ -2,6 +2,8 @@
 
 # SteamTools
 
+<img src="icon.png" width="72" align="right" alt="SteamTools icon">
+
 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 
 | 项目 | 信息 |

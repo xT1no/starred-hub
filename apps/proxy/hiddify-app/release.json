@@ -1,0 +1,138 @@
+{
+  "name": "hiddify-app",
+  "full_name": "hiddify/hiddify-app",
+  "url": "https://github.com/hiddify/hiddify-app",
+  "description": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",
+  "note": "",
+  "function": {
+    "name": "网络代理 / 节点",
+    "slug": "proxy",
+    "dir": "apps/proxy"
+  },
+  "platforms": [
+    "跨平台桌面"
+  ],
+  "language": "Dart",
+  "stars": 33486,
+  "forks": 3137,
+  "license": "NOASSERTION",
+  "archived": false,
+  "homepage": "https://hiddify.com",
+  "topics": [
+    "clash",
+    "clashmeta",
+    "ech",
+    "hysteria",
+    "hysteria2",
+    "proxy",
+    "reality",
+    "shadowsocks",
+    "shadowtls",
+    "sing-box",
+    "singbox",
+    "ssh",
+    "tuic",
+    "v2ray",
+    "vless",
+    "vmess",
+    "wireguard",
+    "xray"
+  ],
+  "starred_at": "2024-06-18T15:56:24Z",
+  "pushed_at": "2026-10-27T18:24:43Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v4.1.1",
+    "title": "v4.1.1",
+    "published_at": "2026-03-05T17:22:57Z",
+    "url": "https://github.com/hiddify/hiddify-app/releases/tag/v4.1.1",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "Hiddify-Android-arm64.apk",
+      "size": 119028082,
+      "downloads": 326105,
+      "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Android-arm64.apk",
+      "platform": "📲 Android"
+    },
+    {
+      "name": "Hiddify-Android-arm7.apk",
+      "size": 107000812,
+      "downloads": 89529,
+      "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Android-arm7.apk",
+      "platform": "📲 Android"
+    },
+    {
+      "name": "Hiddify-Android-universal.apk",
+      "size": 339558475,
+      "downloads": 527670,
+      "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Android-universal.apk",
+      "platform": "📲 Android"
+    },
+    {
+      "name": "Hiddify-Android-x86_64.apk",
+      "size": 128596321,
+      "downloads": 111047,
+      "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Android-x86_64.apk",
+      "platform": "📲 Android"
+    },
+    {
+      "name": "Hiddify-Debian-x64.deb",
+      "size": 42466870,
+      "downloads": 129128,
+      "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Debian-x64.deb",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "Hiddify-Linux-x64-AppImage.AppImage",
+      "size": 55220728,
+      "downloads": 64734,
+      "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Linux-x64-AppImage.AppImage",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "Hiddify-Linux-x64-AppImage.tar.gz",
+      "size": 54685914,
+      "downloads": 21827,
+      "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Linux-x64-AppImage.tar.gz",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "Hiddify-MacOS-Installer.pkg",
+      "size": 83767757,
+      "downloads": 92509,
+      "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-MacOS-Installer.pkg",
+      "platform": "🍎 macOS"
+    },
+    {
+      "name": "Hiddify-MacOS.dmg",
+      "size": 83485931,
+      "downloads": 369306,
+      "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-MacOS.dmg",
+      "platform": "🍎 macOS"
+    },
+    {
+      "name": "Hiddify-Windows-Portable-x64.zip",
+      "size": 117708800,
+      "downloads": 384724,
+      "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Windows-Portable-x64.zip",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "Hiddify-Windows-Setup-x64.exe",
+      "size": 36486310,
+      "downloads": 1398818,
+      "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Windows-Setup-x64.exe",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "Hiddify-Windows-x64.msix",
+      "size": 49848179,
+      "downloads": 21059,
+      "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Windows-x64.msix",
+      "platform": "🪟 Windows"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

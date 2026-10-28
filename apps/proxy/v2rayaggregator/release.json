@@ -1,0 +1,70 @@
+{
+  "name": "V2RayAggregator",
+  "full_name": "mahdibland/V2RayAggregator",
+  "url": "https://github.com/mahdibland/V2RayAggregator",
+  "description": "Collect Lots of Shadowsocks, ShadowsocksR, Trojan, Vmess from Public Sources & Filter Best Nodes By Speed",
+  "note": "",
+  "function": {
+    "name": "网络代理 / 节点",
+    "slug": "proxy",
+    "dir": "apps/proxy"
+  },
+  "platforms": [
+    "通用 / 未指定"
+  ],
+  "language": "Python",
+  "stars": 4024,
+  "forks": 662,
+  "license": "GPL-3.0",
+  "archived": false,
+  "homepage": "",
+  "topics": [
+    "airport",
+    "best-nodes",
+    "china-censorship",
+    "clash",
+    "clash-config",
+    "free-proxies",
+    "freeairport",
+    "freenodes",
+    "gfw",
+    "node",
+    "nodes",
+    "proxies",
+    "scientific-internet-access",
+    "shadowsocks",
+    "shadowsocksr",
+    "ss",
+    "ssr",
+    "trojan",
+    "v2ray",
+    "vmess"
+  ],
+  "starred_at": "2024-07-08T06:16:40Z",
+  "pushed_at": "2026-10-28T05:55:03Z",
+  "latest": {
+    "kind": "release",
+    "tag": "1.0.0",
+    "title": "1.0.0",
+    "published_at": "2022-10-18T07:37:01Z",
+    "url": "https://github.com/mahdibland/V2RayAggregator/releases/tag/1.0.0",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "lite-linux-amd64-12",
+      "size": 20869120,
+      "downloads": 2256,
+      "url": "https://github.com/mahdibland/V2RayAggregator/releases/download/1.0.0/lite-linux-amd64-12",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "lite-linux-amd64-old",
+      "size": 16035840,
+      "downloads": 416,
+      "url": "https://github.com/mahdibland/V2RayAggregator/releases/download/1.0.0/lite-linux-amd64-old",
+      "platform": "🐧 Linux"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "ddgksf2013",
+  "full_name": "ddgksf2013/ddgksf2013",
+  "url": "https://github.com/ddgksf2013/ddgksf2013",
+  "description": "墨鱼去广告计划 | QuantumultX 去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | 圈 X 配置 | Shadowrocket配置 | 墨鱼规则 | Clash配置 | 小火箭去广告 | 资源库 | AdBlock | 网页广告 | 不完全指北",
+  "note": "",
+  "function": {
+    "name": "广告过滤 / 隐私",
+    "slug": "privacy",
+    "dir": "apps/privacy"
+  },
+  "platforms": [
+    "Android",
+    "Web"
+  ],
+  "language": "",
+  "stars": 13791,
+  "forks": 588,
+  "license": "",
+  "archived": false,
+  "homepage": "https://t.me/ddgksf2021",
+  "topics": [
+    "adblock",
+    "adguard",
+    "android",
+    "clash",
+    "config",
+    "crack",
+    "css",
+    "ddgksf2013",
+    "javascript",
+    "quantumult",
+    "quantumultx",
+    "qx",
+    "scripts",
+    "shadowrocket",
+    "surge"
+  ],
+  "starred_at": "2025-07-19T03:57:00Z",
+  "pushed_at": "2026-05-08T05:56:44Z",
+  "latest": {
+    "kind": "none",
+    "tag": "",
+    "title": "",
+    "published_at": "",
+    "url": "",
+    "prerelease": false
+  },
+  "assets": [],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

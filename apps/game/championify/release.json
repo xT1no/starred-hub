@@ -1,0 +1,40 @@
+{
+  "name": "Championify",
+  "full_name": "dustinblackman/Championify",
+  "url": "https://github.com/dustinblackman/Championify",
+  "description": "Import recent item sets from popular aggregators like Champion.gg in to League of Legends to use within game! No hassle.",
+  "note": "",
+  "function": {
+    "name": "游戏 / 辅助脚本",
+    "slug": "game",
+    "dir": "apps/game"
+  },
+  "platforms": [
+    "跨平台桌面"
+  ],
+  "language": "HTML",
+  "stars": 870,
+  "forks": 144,
+  "license": "MIT",
+  "archived": true,
+  "homepage": "",
+  "topics": [
+    "electron",
+    "javascript",
+    "league",
+    "leagueoflegends",
+    "node"
+  ],
+  "starred_at": "2020-08-15T05:55:28Z",
+  "pushed_at": "2023-11-07T01:19:33Z",
+  "latest": {
+    "kind": "tag",
+    "tag": "2.1.5",
+    "title": "2.1.5",
+    "published_at": "",
+    "url": "https://github.com/dustinblackman/Championify/tags",
+    "prerelease": false
+  },
+  "assets": [],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

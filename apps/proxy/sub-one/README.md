@@ -2,6 +2,8 @@
 
 # Sub-One
 
+<img src="icon.png" width="72" align="right" alt="Sub-One icon">
+
 节点订阅管理
 
 | 项目 | 信息 |

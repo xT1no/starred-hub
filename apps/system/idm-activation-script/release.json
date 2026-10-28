@@ -1,0 +1,41 @@
+{
+  "name": "IDM-Activation-Script",
+  "full_name": "WindowsAddict/IDM-Activation-Script",
+  "url": "https://github.com/WindowsAddict/IDM-Activation-Script",
+  "description": "An open source tool to activate and reset trial of Internet Download Manager",
+  "note": "IDM 激活与试用重置",
+  "function": {
+    "name": "系统增强 / 优化",
+    "slug": "system",
+    "dir": "apps/system"
+  },
+  "platforms": [
+    "Windows"
+  ],
+  "language": "Batchfile",
+  "stars": 7667,
+  "forks": 963,
+  "license": "",
+  "archived": true,
+  "homepage": "",
+  "topics": [
+    "ias",
+    "idm",
+    "idm-activation-script",
+    "idm-crack",
+    "idm-trial-reset",
+    "internet-download-manager"
+  ],
+  "starred_at": "2024-04-10T08:15:00Z",
+  "pushed_at": "2024-04-09T23:32:47Z",
+  "latest": {
+    "kind": "release",
+    "tag": "1.2",
+    "title": "v1.2 Added back activation with few changes for tests",
+    "published_at": "2024-02-12T06:50:29Z",
+    "url": "https://github.com/WindowsAddict/IDM-Activation-Script/releases/tag/1.2",
+    "prerelease": false
+  },
+  "assets": [],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

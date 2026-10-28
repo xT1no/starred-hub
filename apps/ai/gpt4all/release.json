@@ -1,0 +1,66 @@
+{
+  "name": "gpt4all",
+  "full_name": "nomic-ai/gpt4all",
+  "url": "https://github.com/nomic-ai/gpt4all",
+  "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+  "note": "",
+  "function": {
+    "name": "AI / 大模型",
+    "slug": "ai",
+    "dir": "apps/ai"
+  },
+  "platforms": [
+    "跨平台桌面"
+  ],
+  "language": "C++",
+  "stars": 77353,
+  "forks": 8256,
+  "license": "MIT",
+  "archived": false,
+  "homepage": "https://nomic.ai/gpt4all",
+  "topics": [
+    "ai-chat",
+    "llm-inference"
+  ],
+  "starred_at": "2024-05-13T17:24:18Z",
+  "pushed_at": "2025-05-27T20:05:19Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v3.10.0",
+    "title": "v3.10.0",
+    "published_at": "2025-02-25T00:41:39Z",
+    "url": "https://github.com/nomic-ai/gpt4all/releases/tag/v3.10.0",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "gpt4all-installer-linux-v3.10.0.run",
+      "size": 732745048,
+      "downloads": 9645,
+      "url": "https://github.com/nomic-ai/gpt4all/releases/download/v3.10.0/gpt4all-installer-linux-v3.10.0.run",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "gpt4all-installer-macos-v3.10.0.dmg",
+      "size": 319600812,
+      "downloads": 16768,
+      "url": "https://github.com/nomic-ai/gpt4all/releases/download/v3.10.0/gpt4all-installer-macos-v3.10.0.dmg",
+      "platform": "🍎 macOS"
+    },
+    {
+      "name": "gpt4all-installer-win64-arm-v3.10.0.exe",
+      "size": 318116056,
+      "downloads": 6172,
+      "url": "https://github.com/nomic-ai/gpt4all/releases/download/v3.10.0/gpt4all-installer-win64-arm-v3.10.0.exe",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "gpt4all-installer-win64-v3.10.0.exe",
+      "size": 744456856,
+      "downloads": 79198,
+      "url": "https://github.com/nomic-ai/gpt4all/releases/download/v3.10.0/gpt4all-installer-win64-v3.10.0.exe",
+      "platform": "🪟 Windows"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

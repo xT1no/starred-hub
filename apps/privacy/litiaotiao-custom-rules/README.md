@@ -2,6 +2,8 @@
 
 # LiTiaotiao-Custom-Rules
 
+<img src="icon.png" width="72" align="right" alt="LiTiaotiao-Custom-Rules icon">
+
 > 李跳跳自定义跳过广告规则
 
 > 🗄️ **该仓库已归档，作者不再维护。**

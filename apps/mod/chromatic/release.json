@@ -1,0 +1,40 @@
+{
+  "name": "chromatic",
+  "full_name": "std-microblock/chromatic",
+  "url": "https://github.com/std-microblock/chromatic",
+  "description": "Universal modifier for Chromium/V8 | 广谱注入 Chromium/V8 的通用修改器",
+  "note": "Chromium/V8 通用注入修改器",
+  "function": {
+    "name": "应用增强 / 模块",
+    "slug": "mod",
+    "dir": "apps/mod"
+  },
+  "platforms": [
+    "Windows"
+  ],
+  "language": "C++",
+  "stars": 8503,
+  "forks": 396,
+  "license": "",
+  "archived": false,
+  "homepage": "",
+  "topics": [
+    "cef",
+    "chromium",
+    "inject",
+    "plugin",
+    "v8"
+  ],
+  "starred_at": "2022-08-20T14:07:56Z",
+  "pushed_at": "2026-03-31T12:05:08Z",
+  "latest": {
+    "kind": "release",
+    "tag": "2.0.0",
+    "title": "chromatic v2.0.0-pre",
+    "published_at": "2025-06-21T10:31:13Z",
+    "url": "https://github.com/std-microblock/chromatic/releases/tag/2.0.0",
+    "prerelease": false
+  },
+  "assets": [],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

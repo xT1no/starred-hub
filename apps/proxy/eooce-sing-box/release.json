@@ -1,0 +1,66 @@
+{
+  "name": "Sing-box",
+  "full_name": "eooce/Sing-box",
+  "url": "https://github.com/eooce/Sing-box",
+  "description": "既然来了，就留下你的Star吧！Serv00 | CT8 | Hostuno | VPS | 游戏机 | sing-box(reality + hy2 + vmess-argo +tuic5)四合一无交互一键安装脚本(已适配Alpine)，支持纯V6 vps，丰富的分流服务, 可添加anytls,socks5,ss-2022等协议",
+  "note": "",
+  "function": {
+    "name": "网络代理 / 节点",
+    "slug": "proxy",
+    "dir": "apps/proxy"
+  },
+  "platforms": [
+    "服务端 / 云端"
+  ],
+  "language": "Shell",
+  "stars": 5223,
+  "forks": 1849,
+  "license": "MIT",
+  "archived": false,
+  "homepage": "https://serv00.eooce.com",
+  "topics": [
+    "argo",
+    "hysteria2",
+    "oneclick",
+    "reality",
+    "serv00",
+    "sing-box",
+    "tuic",
+    "tunnel",
+    "vmess-ws-tls"
+  ],
+  "starred_at": "2024-10-18T18:25:52Z",
+  "pushed_at": "2026-10-01T08:03:36Z",
+  "latest": {
+    "kind": "release",
+    "tag": "other",
+    "title": "IDX",
+    "published_at": "2025-05-05T18:07:42Z",
+    "url": "https://github.com/eooce/Sing-box/releases/tag/other",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "idx-empty-workspace.zip",
+      "size": 1431,
+      "downloads": 462,
+      "url": "https://github.com/eooce/Sing-box/releases/download/other/idx-empty-workspace.zip",
+      "platform": "🌐 Web"
+    },
+    {
+      "name": "idx-nodejs.zip",
+      "size": 2775,
+      "downloads": 113,
+      "url": "https://github.com/eooce/Sing-box/releases/download/other/idx-nodejs.zip",
+      "platform": "🌐 Web"
+    },
+    {
+      "name": "idx-python.zip",
+      "size": 3804,
+      "downloads": 67,
+      "url": "https://github.com/eooce/Sing-box/releases/download/other/idx-python.zip",
+      "platform": "🌐 Web"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

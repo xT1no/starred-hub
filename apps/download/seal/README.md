@@ -2,6 +2,8 @@
 
 # Seal
 
+<img src="icon.png" width="72" align="right" alt="Seal icon">
+
 🦭 Video/Audio Downloader for Android, based on yt-dlp
 
 | 项目 | 信息 |

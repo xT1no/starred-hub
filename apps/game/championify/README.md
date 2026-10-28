@@ -2,6 +2,8 @@
 
 # Championify
 
+<img src="icon.png" width="72" align="right" alt="Championify icon">
+
 Import recent item sets from popular aggregators like Champion.gg in to League of Legends to use within game! No hassle.
 
 > 🗄️ **该仓库已归档，作者不再维护。**

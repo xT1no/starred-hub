@@ -2,6 +2,8 @@
 
 # Replit-Xray
 
+<img src="icon.png" width="72" align="right" alt="Replit-Xray icon">
+
 Replit容器部署xray代理，支持argo固定隧道与临时隧道，自定义伪装网页，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks5
 
 | 项目 | 信息 |

@@ -2,6 +2,8 @@
 
 # BBLL
 
+<img src="icon.png" width="72" align="right" alt="BBLL icon">
+
 一个第三方哔哩哔哩客户端，A third-party bilibili client。
 
 | 项目 | 信息 |

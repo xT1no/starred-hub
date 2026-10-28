@@ -2,6 +2,8 @@
 
 # v2ray-worker
 
+<img src="icon.png" width="72" align="right" alt="v2ray-worker icon">
+
 Total solution for V2Ray over Cloudflare's worker
 
 | 项目 | 信息 |

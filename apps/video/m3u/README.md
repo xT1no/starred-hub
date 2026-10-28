@@ -2,6 +2,8 @@
 
 # m3u
 
+<img src="icon.png" width="72" align="right" alt="m3u icon">
+
 直播源
 
 | 项目 | 信息 |

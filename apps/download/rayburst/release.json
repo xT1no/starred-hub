@@ -1,0 +1,189 @@
+{
+  "name": "rayburst",
+  "full_name": "AnInsomniacy/rayburst",
+  "url": "https://github.com/AnInsomniacy/rayburst",
+  "description": "Redefining the open-source download manager",
+  "note": "",
+  "function": {
+    "name": "下载 / 网盘",
+    "slug": "download",
+    "dir": "apps/download"
+  },
+  "platforms": [
+    "跨平台桌面"
+  ],
+  "language": "TypeScript",
+  "stars": 11263,
+  "forks": 344,
+  "license": "MIT",
+  "archived": false,
+  "homepage": "https://rayburst.pages.dev",
+  "topics": [],
+  "starred_at": "2026-06-10T05:38:47Z",
+  "pushed_at": "2026-10-25T01:49:48Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v4.1.1",
+    "title": "v4.1.1 — Aria2 Next 3.0.9 and Windows Fixes",
+    "published_at": "2026-10-25T01:49:59Z",
+    "url": "https://github.com/AnInsomniacy/rayburst/releases/tag/v4.1.1",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "Rayburst-4.1.1-1.aarch64.rpm",
+      "size": 29350436,
+      "downloads": 200,
+      "url": "https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst-4.1.1-1.aarch64.rpm",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "Rayburst-4.1.1-1.aarch64.rpm.sig",
+      "size": 436,
+      "downloads": 38,
+      "url": "https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst-4.1.1-1.aarch64.rpm.sig",
+      "platform": "🔐 校验文件"
+    },
+    {
+      "name": "Rayburst-4.1.1-1.x86_64.rpm",
+      "size": 28501491,
+      "downloads": 452,
+      "url": "https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst-4.1.1-1.x86_64.rpm",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "Rayburst-4.1.1-1.x86_64.rpm.sig",
+      "size": 436,
+      "downloads": 45,
+      "url": "https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst-4.1.1-1.x86_64.rpm.sig",
+      "platform": "🔐 校验文件"
+    },
+    {
+      "name": "Rayburst_4.1.1_aarch64.AppImage",
+      "size": 102783496,
+      "downloads": 96,
+      "url": "https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_aarch64.AppImage",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "Rayburst_4.1.1_aarch64.AppImage.sig",
+      "size": 440,
+      "downloads": 31,
+      "url": "https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_aarch64.AppImage.sig",
+      "platform": "🔐 校验文件"
+    },
+    {
+      "name": "Rayburst_4.1.1_aarch64.dmg",
+      "size": 26939610,
+      "downloads": 2295,
+      "url": "https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_aarch64.dmg",
+      "platform": "🍎 macOS"
+    },
+    {
+      "name": "Rayburst_4.1.1_amd64.AppImage",
+      "size": 104061432,
+      "downloads": 247,
+      "url": "https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_amd64.AppImage",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "Rayburst_4.1.1_amd64.AppImage.sig",
+      "size": 440,
+      "downloads": 28,
+      "url": "https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_amd64.AppImage.sig",
+      "platform": "🔐 校验文件"
+    },
+    {
+      "name": "Rayburst_4.1.1_amd64.deb",
+      "size": 28503120,
+      "downloads": 540,
+      "url": "https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_amd64.deb",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "Rayburst_4.1.1_amd64.deb.sig",
+      "size": 432,
+      "downloads": 25,
+      "url": "https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_amd64.deb.sig",
+      "platform": "🔐 校验文件"
+    },
+    {
+      "name": "Rayburst_4.1.1_arm64-setup.exe",
+      "size": 22847213,
+      "downloads": 508,
+      "url": "https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_arm64-setup.exe",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "Rayburst_4.1.1_arm64-setup.exe.sig",
+      "size": 440,
+      "downloads": 26,
+      "url": "https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_arm64-setup.exe.sig",
+      "platform": "🔐 校验文件"
+    },
+    {
+      "name": "Rayburst_4.1.1_arm64.deb",
+      "size": 29349974,
+      "downloads": 94,
+      "url": "https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_arm64.deb",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "Rayburst_4.1.1_arm64.deb.sig",
+      "size": 432,
+      "downloads": 25,
+      "url": "https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_arm64.deb.sig",
+      "platform": "🔐 校验文件"
+    },
+    {
+      "name": "Rayburst_4.1.1_x64-setup.exe",
+      "size": 25761517,
+      "downloads": 10539,
+      "url": "https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_x64-setup.exe",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "Rayburst_4.1.1_x64-setup.exe.sig",
+      "size": 436,
+      "downloads": 49,
+      "url": "https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_x64-setup.exe.sig",
+      "platform": "🔐 校验文件"
+    },
+    {
+      "name": "Rayburst_4.1.1_x64.dmg",
+      "size": 28032392,
+      "downloads": 152,
+      "url": "https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_x64.dmg",
+      "platform": "🍎 macOS"
+    },
+    {
+      "name": "Rayburst_aarch64.app.tar.gz",
+      "size": 26966915,
+      "downloads": 921,
+      "url": "https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_aarch64.app.tar.gz",
+      "platform": "📦 其他"
+    },
+    {
+      "name": "Rayburst_aarch64.app.tar.gz.sig",
+      "size": 424,
+      "downloads": 21,
+      "url": "https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_aarch64.app.tar.gz.sig",
+      "platform": "🔐 校验文件"
+    },
+    {
+      "name": "Rayburst_x64.app.tar.gz",
+      "size": 27884925,
+      "downloads": 181,
+      "url": "https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_x64.app.tar.gz",
+      "platform": "📦 其他"
+    },
+    {
+      "name": "Rayburst_x64.app.tar.gz.sig",
+      "size": 424,
+      "downloads": 26,
+      "url": "https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_x64.app.tar.gz.sig",
+      "platform": "🔐 校验文件"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

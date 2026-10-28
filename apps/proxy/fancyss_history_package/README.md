@@ -2,6 +2,8 @@
 
 # fancyss_history_package
 
+<img src="icon.png" width="72" align="right" alt="fancyss_history_package icon">
+
 科学上网插件的离线安装包储存在这里
 
 | 项目 | 信息 |

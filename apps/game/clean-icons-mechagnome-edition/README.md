@@ -2,6 +2,8 @@
 
 # Clean-Icons-Mechagnome-Edition
 
+<img src="icon.png" width="72" align="right" alt="Clean-Icons-Mechagnome-Edition icon">
+
 > 魔兽世界图标包
 
 Upscaled icon pack for World of Warcraft.

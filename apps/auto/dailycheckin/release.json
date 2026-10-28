@@ -1,0 +1,56 @@
+{
+  "name": "dailycheckin",
+  "full_name": "Sitoi/dailycheckin",
+  "url": "https://github.com/Sitoi/dailycheckin",
+  "description": "基于「Docker」/「青龙面板」/「群晖」的每日签到脚本（支持多账号）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜什么值得买｜阿里云盘｜i茅台申购｜小米运动｜百度搜索资源平台｜恩山论坛｜奥拉星｜",
+  "note": "",
+  "function": {
+    "name": "自动化 / 部署",
+    "slug": "auto",
+    "dir": "apps/auto"
+  },
+  "platforms": [
+    "服务端 / 云端",
+    "Linux"
+  ],
+  "language": "Python",
+  "stars": 8742,
+  "forks": 1339,
+  "license": "MIT",
+  "archived": false,
+  "homepage": "https://sitoi.github.io/dailycheckin/",
+  "topics": [
+    "acfun",
+    "aliyundrive",
+    "baidu",
+    "bilibili",
+    "chatgpt",
+    "checkin",
+    "dailycheckin",
+    "docker",
+    "imaotai",
+    "iqiyi",
+    "kgqq",
+    "mimotion",
+    "pypi",
+    "python",
+    "qinglong",
+    "signin",
+    "smzdm",
+    "tieba",
+    "v2ex",
+    "youdaonote"
+  ],
+  "starred_at": "2022-07-27T11:30:55Z",
+  "pushed_at": "2026-07-09T08:56:15Z",
+  "latest": {
+    "kind": "release",
+    "tag": "25.12.9",
+    "title": "2025-12-09",
+    "published_at": "2025-12-24T15:02:51Z",
+    "url": "https://github.com/Sitoi/dailycheckin/releases/tag/25.12.9",
+    "prerelease": false
+  },
+  "assets": [],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

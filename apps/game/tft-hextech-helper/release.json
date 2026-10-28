@@ -1,0 +1,92 @@
+{
+  "name": "TFT-Hextech-Helper",
+  "full_name": "WJZ-P/TFT-Hextech-Helper",
+  "url": "https://github.com/WJZ-P/TFT-Hextech-Helper",
+  "description": "一款神奇的云顶之弈自动挂机海克斯科技助手(σ｀・д・)σ。挂机脚本，纯视觉识别，不读取内存。tft，hextech。云顶挂机脚本，云顶脚本，下棋脚本，云顶挂机，支持S17星神最新赛季 (等十月份适配S18新架构云顶)",
+  "note": "",
+  "function": {
+    "name": "游戏 / 辅助脚本",
+    "slug": "game",
+    "dir": "apps/game"
+  },
+  "platforms": [
+    "Web",
+    "跨平台桌面"
+  ],
+  "language": "TypeScript",
+  "stars": 742,
+  "forks": 127,
+  "license": "NOASSERTION",
+  "archived": false,
+  "homepage": "",
+  "topics": [
+    "afk",
+    "afk-bot",
+    "afkfarming",
+    "electron",
+    "helper",
+    "hextech",
+    "react",
+    "tft",
+    "tft-tools",
+    "tool",
+    "typescript",
+    "yunding",
+    "yundingzhiyi"
+  ],
+  "starred_at": "2026-01-29T12:21:36Z",
+  "pushed_at": "2026-10-01T14:24:24Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v1.6.1",
+    "title": "v1.6.1",
+    "published_at": "2026-10-01T14:29:15Z",
+    "url": "https://github.com/WJZ-P/TFT-Hextech-Helper/releases/tag/v1.6.1",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "tft-hextech-helper-1.6.1-arm64.dmg",
+      "size": 194678750,
+      "downloads": 61,
+      "url": "https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.6.1/tft-hextech-helper-1.6.1-arm64.dmg",
+      "platform": "🍎 macOS"
+    },
+    {
+      "name": "tft-hextech-helper-1.6.1-setup.exe",
+      "size": 168966175,
+      "downloads": 348,
+      "url": "https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.6.1/tft-hextech-helper-1.6.1-setup.exe",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "TFT-Hextech-Helper-1.6.1-win.zip",
+      "size": 206254349,
+      "downloads": 380,
+      "url": "https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.6.1/TFT-Hextech-Helper-1.6.1-win.zip",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "tft-hextech-helper-1.6.1-x64.dmg",
+      "size": 199111626,
+      "downloads": 16,
+      "url": "https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.6.1/tft-hextech-helper-1.6.1-x64.dmg",
+      "platform": "🍎 macOS"
+    },
+    {
+      "name": "tft-hextech-helper-1.6.1.AppImage",
+      "size": 213585654,
+      "downloads": 8,
+      "url": "https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.6.1/tft-hextech-helper-1.6.1.AppImage",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "tft-hextech-helper-1.6.1.deb",
+      "size": 158731110,
+      "downloads": 16,
+      "url": "https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.6.1/tft-hextech-helper-1.6.1.deb",
+      "platform": "🐧 Linux"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

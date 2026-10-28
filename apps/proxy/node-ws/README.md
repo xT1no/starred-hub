@@ -2,6 +2,8 @@
 
 # node-ws
 
+<img src="icon.png" width="72" align="right" alt="node-ws icon">
+
 基于serverless实现的vless+trojan+shadowsocks+vmess四协议 + Telegram webproxy，无内核，node环境通用项目
 
 | 项目 | 信息 |

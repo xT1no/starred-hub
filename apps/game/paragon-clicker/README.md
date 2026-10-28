@@ -2,6 +2,8 @@
 
 # paragon-clicker
 
+<img src="icon.png" width="72" align="right" alt="paragon-clicker icon">
+
 Windows D2Core Diablo IV paragon auto clicker
 
 | 项目 | 信息 |

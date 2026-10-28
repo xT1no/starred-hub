@@ -2,6 +2,8 @@
 
 # WeakAurasPatched
 
+<img src="icon.png" width="72" align="right" alt="WeakAurasPatched icon">
+
 > WeakAuras 修改版
 
 ✨ A patched version of WeakAuras (WoW Addon)

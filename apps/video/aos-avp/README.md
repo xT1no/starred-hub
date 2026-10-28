@@ -2,6 +2,8 @@
 
 # aos-AVP
 
+<img src="icon.png" width="72" align="right" alt="aos-AVP icon">
+
 NOVA opeN sOurce Video plAyer: main repository to build them all
 
 | 项目 | 信息 |
@@ -43,12 +45,12 @@ NOVA opeN sOurce Video plAyer: main repository to build them all
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [org.courville.nova-2673649-6.6.2-20261027.1847-arm64-v8a-re…](https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.2/org.courville.nova-2673649-6.6.2-20261027.1847-arm64-v8a-release.apk) | 📲 Android | 33.4 MB | 338 |
-| [org.courville.nova-2673649-6.6.2-20261027.1847-universal-re…](https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.2/org.courville.nova-2673649-6.6.2-20261027.1847-universal-release.apk) | 📲 Android | 88.9 MB | 188 |
-| [org.courville.nova-2673649-6.6.2-20261027.1847-armeabi-v7a-…](https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.2/org.courville.nova-2673649-6.6.2-20261027.1847-armeabi-v7a-release.apk) | 📲 Android | 30.5 MB | 179 |
+| [org.courville.nova-2673649-6.6.2-20261027.1847-arm64-v8a-re…](https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.2/org.courville.nova-2673649-6.6.2-20261027.1847-arm64-v8a-release.apk) | 📲 Android | 33.4 MB | 337 |
+| [org.courville.nova-2673649-6.6.2-20261027.1847-universal-re…](https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.2/org.courville.nova-2673649-6.6.2-20261027.1847-universal-release.apk) | 📲 Android | 88.9 MB | 177 |
+| [org.courville.nova-2673649-6.6.2-20261027.1847-armeabi-v7a-…](https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.2/org.courville.nova-2673649-6.6.2-20261027.1847-armeabi-v7a-release.apk) | 📲 Android | 30.5 MB | 174 |
 | [org.courville.nova-2673649-6.6.2-20261027.1847-x86_64-relea…](https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.2/org.courville.nova-2673649-6.6.2-20261027.1847-x86_64-release.apk) | 📲 Android | 34.1 MB | 12 |
 | [org.courville.nova-2673649-6.6.2-20261027.1847-x86-release.…](https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.2/org.courville.nova-2673649-6.6.2-20261027.1847-x86-release.apk) | 📲 Android | 33.0 MB | 4 |
-| [manifest.xml](https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.2/manifest.xml) | 📦 其他 | 6 KB | 15 |
+| [manifest.xml](https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.2/manifest.xml) | 📦 其他 | 6 KB | 14 |
 
 ## 🔗 快速链接
 

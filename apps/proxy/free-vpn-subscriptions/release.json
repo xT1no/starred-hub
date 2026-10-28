@@ -1,0 +1,82 @@
+{
+  "name": "free-vpn-subscriptions",
+  "full_name": "Au1rxx/free-vpn-subscriptions",
+  "url": "https://github.com/Au1rxx/free-vpn-subscriptions",
+  "description": "Free Clash, sing-box, and V2Ray subscription feed with live node status and setup guides",
+  "note": "",
+  "function": {
+    "name": "网络代理 / 节点",
+    "slug": "proxy",
+    "dir": "apps/proxy"
+  },
+  "platforms": [
+    "通用 / 未指定"
+  ],
+  "language": "",
+  "stars": 1050,
+  "forks": 94,
+  "license": "MIT",
+  "archived": false,
+  "homepage": "https://au1rxx.github.io/free-vpn-subscriptions/",
+  "topics": [
+    "clash",
+    "clash-meta",
+    "free-nodes",
+    "free-proxy",
+    "free-vpn",
+    "hysteria2",
+    "proxy",
+    "proxy-list",
+    "reality",
+    "shadowsocks",
+    "sing-box",
+    "subscription",
+    "trojan",
+    "v2ray",
+    "v2rayng",
+    "vless",
+    "vpn",
+    "xray"
+  ],
+  "starred_at": "2026-09-20T02:45:40Z",
+  "pushed_at": "2026-10-28T08:24:01Z",
+  "latest": {
+    "kind": "release",
+    "tag": "feed-20260419-023716",
+    "title": "Feed Snapshot 2026-04-19 02:37:16 UTC",
+    "published_at": "2026-04-19T02:37:18Z",
+    "url": "https://github.com/Au1rxx/free-vpn-subscriptions/releases/tag/feed-20260419-023716",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "clash.yaml",
+      "size": 2260,
+      "downloads": 4181,
+      "url": "https://github.com/Au1rxx/free-vpn-subscriptions/releases/download/feed-20260419-023716/clash.yaml",
+      "platform": "📦 其他"
+    },
+    {
+      "name": "singbox.json",
+      "size": 3364,
+      "downloads": 732,
+      "url": "https://github.com/Au1rxx/free-vpn-subscriptions/releases/download/feed-20260419-023716/singbox.json",
+      "platform": "📦 其他"
+    },
+    {
+      "name": "status.json",
+      "size": 1185,
+      "downloads": 144,
+      "url": "https://github.com/Au1rxx/free-vpn-subscriptions/releases/download/feed-20260419-023716/status.json",
+      "platform": "📦 其他"
+    },
+    {
+      "name": "v2ray-base64.txt",
+      "size": 1156,
+      "downloads": 4028,
+      "url": "https://github.com/Au1rxx/free-vpn-subscriptions/releases/download/feed-20260419-023716/v2ray-base64.txt",
+      "platform": "📦 其他"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

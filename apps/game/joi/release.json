@@ -1,0 +1,42 @@
+{
+  "name": "Joi",
+  "full_name": "watchingfun/Joi",
+  "url": "https://github.com/watchingfun/Joi",
+  "description": "一个英雄联盟助手工具",
+  "note": "英雄联盟助手",
+  "function": {
+    "name": "游戏 / 辅助脚本",
+    "slug": "game",
+    "dir": "apps/game"
+  },
+  "platforms": [
+    "Windows"
+  ],
+  "language": "TypeScript",
+  "stars": 343,
+  "forks": 34,
+  "license": "GPL-3.0",
+  "archived": false,
+  "homepage": "",
+  "topics": [],
+  "starred_at": "2024-03-20T08:17:39Z",
+  "pushed_at": "2024-07-06T14:13:13Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v0.6.5",
+    "title": "v0.6.5",
+    "published_at": "2024-07-06T14:04:27Z",
+    "url": "https://github.com/watchingfun/Joi/releases/tag/v0.6.5",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "Joi-Windows-0.6.5-Setup.exe",
+      "size": 90268875,
+      "downloads": 3021,
+      "url": "https://github.com/watchingfun/Joi/releases/download/v0.6.5/Joi-Windows-0.6.5-Setup.exe",
+      "platform": "🪟 Windows"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

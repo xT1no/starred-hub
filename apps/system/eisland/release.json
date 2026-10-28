@@ -1,0 +1,66 @@
+{
+  "name": "eIsland",
+  "full_name": "JNTMTMTM/eIsland",
+  "url": "https://github.com/JNTMTMTM/eIsland",
+  "description": "eIsland - A sleek, Apple Dynamic Island inspired floating widget for Windows, built with Electron.",
+  "note": "Windows 上的灵动岛悬浮窗",
+  "function": {
+    "name": "系统增强 / 优化",
+    "slug": "system",
+    "dir": "apps/system"
+  },
+  "platforms": [
+    "Windows"
+  ],
+  "language": "TypeScript",
+  "stars": 322,
+  "forks": 17,
+  "license": "GPL-3.0",
+  "archived": false,
+  "homepage": "https://dev.electronisland.com/",
+  "topics": [
+    "cicd",
+    "claude",
+    "claude-code",
+    "codex",
+    "electron",
+    "react",
+    "taliwindcss",
+    "typescript",
+    "vite"
+  ],
+  "starred_at": "2026-06-20T07:30:41Z",
+  "pushed_at": "2026-10-28T04:00:20Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v27.0.0",
+    "title": "v27.0.0",
+    "published_at": "2026-10-09T06:18:15Z",
+    "url": "https://github.com/JNTMTMTM/eIsland/releases/tag/v27.0.0",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "eIsland-27.0.0-Setup.exe",
+      "size": 392077159,
+      "downloads": 260,
+      "url": "https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.0/eIsland-27.0.0-Setup.exe",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "eIsland-27.0.0-Setup.exe.blockmap",
+      "size": 386091,
+      "downloads": 67,
+      "url": "https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.0/eIsland-27.0.0-Setup.exe.blockmap",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "latest.yml",
+      "size": 346,
+      "downloads": 895,
+      "url": "https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.0/latest.yml",
+      "platform": "📦 其他"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

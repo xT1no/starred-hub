@@ -1,0 +1,35 @@
+{
+  "name": "global-testflight-link",
+  "full_name": "fmz200/global-testflight-link",
+  "url": "https://github.com/fmz200/global-testflight-link",
+  "description": "收集苹果公开的iOS/iPadOS/MacOS Testflight链接。Collect Apple's public iOS/iPadOS/MacOS Testflight links.",
+  "note": "公开 TestFlight 测试链接合集",
+  "function": {
+    "name": "学习 / 资源合集",
+    "slug": "learn",
+    "dir": "apps/learn"
+  },
+  "platforms": [
+    "iOS",
+    "macOS"
+  ],
+  "language": "",
+  "stars": 842,
+  "forks": 35,
+  "license": "GPL-3.0",
+  "archived": false,
+  "homepage": "",
+  "topics": [],
+  "starred_at": "2025-11-03T12:34:01Z",
+  "pushed_at": "2026-09-07T14:30:47Z",
+  "latest": {
+    "kind": "none",
+    "tag": "",
+    "title": "",
+    "published_at": "",
+    "url": "",
+    "prerelease": false
+  },
+  "assets": [],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

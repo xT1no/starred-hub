@@ -2,6 +2,8 @@
 
 # FlClash
 
+<img src="icon.png" width="72" align="right" alt="FlClash icon">
+
 A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 
 | 项目 | 信息 |
@@ -54,18 +56,18 @@ A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so
 |:---|:---:|:---|---:|
 | [FlClash-0.9.2-macos-arm64.dmg](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-macos-arm64.dmg) | 🍎 macOS | 56.5 MB | 20k |
 | [FlClash-0.9.2-macos-amd64.dmg](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-macos-amd64.dmg) | 🍎 macOS | 60.2 MB | 6k |
-| [FlClash-0.9.2-android-arm64-v8a.apk](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-android-arm64-v8a.apk) | 📲 Android | 58.3 MB | 137k |
+| [FlClash-0.9.2-android-arm64-v8a.apk](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-android-arm64-v8a.apk) | 📲 Android | 58.3 MB | 136k |
 | [FlClash-0.9.2-android-x86_64.apk](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-android-x86_64.apk) | 📲 Android | 60.7 MB | 20k |
 | [FlClash-0.9.2-android-armeabi-v7a.apk](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-android-armeabi-v7a.apk) | 📲 Android | 58.3 MB | 14k |
 | [FlClash-0.9.2-windows-amd64-setup.exe](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-windows-amd64-setup.exe) | 🪟 Windows | 41.3 MB | 100k |
 | [FlClash-0.9.2-windows-amd64.zip](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-windows-amd64.zip) | 🪟 Windows | 65.7 MB | 21k |
 | [FlClash-0.9.2-windows-arm64-setup.exe](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-windows-arm64-setup.exe) | 🪟 Windows | 38.4 MB | 5.6k |
 | [FlClash-0.9.2-windows-arm64.zip](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-windows-arm64.zip) | 🪟 Windows | 61.7 MB | 1.7k |
-| [FlClash-0.9.2-linux-amd64.deb](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-amd64.deb) | 🐧 Linux | 38.7 MB | 5.4k |
+| [FlClash-0.9.2-linux-amd64.deb](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-amd64.deb) | 🐧 Linux | 38.7 MB | 5.3k |
 | [FlClash-0.9.2-linux-arm64.deb](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-arm64.deb) | 🐧 Linux | 35.2 MB | 1.6k |
-| [FlClash-0.9.2-linux-amd64.AppImage](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-amd64.AppImage) | 🐧 Linux | 66.6 MB | 1.6k |
-| [FlClash-0.9.2-linux-amd64.rpm](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-amd64.rpm) | 🐧 Linux | 57.1 MB | 856 |
-| [FlClash-0.9.2-linux-arm64.AppImage](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-arm64.AppImage) | 🐧 Linux | 63.8 MB | 433 |
+| [FlClash-0.9.2-linux-amd64.AppImage](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-amd64.AppImage) | 🐧 Linux | 66.6 MB | 1.5k |
+| [FlClash-0.9.2-linux-amd64.rpm](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-amd64.rpm) | 🐧 Linux | 57.1 MB | 852 |
+| [FlClash-0.9.2-linux-arm64.AppImage](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-arm64.AppImage) | 🐧 Linux | 63.8 MB | 430 |
 | [FlClash-0.9.2-linux-arm64.rpm](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-arm64.rpm) | 🐧 Linux | 54.5 MB | 291 |
 | [SHA256SUMS](https://github.com/chen08209/FlClash/releases/download/v0.9.2/SHA256SUMS) | 🔐 校验文件 | 1 KB | 1.9k |
 

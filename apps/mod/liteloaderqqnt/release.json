@@ -1,0 +1,42 @@
+{
+  "name": "LiteLoaderQQNT",
+  "full_name": "LiteLoaderQQNT/LiteLoaderQQNT",
+  "url": "https://github.com/LiteLoaderQQNT/LiteLoaderQQNT",
+  "description": "QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞",
+  "note": "QQNT 插件加载器",
+  "function": {
+    "name": "应用增强 / 模块",
+    "slug": "mod",
+    "dir": "apps/mod"
+  },
+  "platforms": [
+    "Windows"
+  ],
+  "language": "JavaScript",
+  "stars": 7050,
+  "forks": 274,
+  "license": "MIT",
+  "archived": true,
+  "homepage": "https://liteloaderqqnt.github.io/",
+  "topics": [],
+  "starred_at": "2024-05-21T06:47:24Z",
+  "pushed_at": "2026-05-09T00:34:47Z",
+  "latest": {
+    "kind": "release",
+    "tag": "1.4.1",
+    "title": "LiteLoaderQQNT 1.4.1",
+    "published_at": "2025-12-02T15:45:40Z",
+    "url": "https://github.com/LiteLoaderQQNT/LiteLoaderQQNT/releases/tag/1.4.1",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "LiteLoaderQQNT.zip",
+      "size": 32911,
+      "downloads": 30615,
+      "url": "https://github.com/LiteLoaderQQNT/LiteLoaderQQNT/releases/download/1.4.1/LiteLoaderQQNT.zip",
+      "platform": "🌐 Web"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

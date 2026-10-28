@@ -2,6 +2,8 @@
 
 # Kazumi
 
+<img src="icon.png" width="72" align="right" alt="Kazumi icon">
+
 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
 
 | 项目 | 信息 |
@@ -43,9 +45,9 @@
 | [Kazumi_windows_2.4.2.msix](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_windows_2.4.2.msix) | 🪟 Windows | 45.5 MB | 34k |
 | [Kazumi_linux_2.4.2_amd64.deb](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_linux_2.4.2_amd64.deb) | 🐧 Linux | 33.7 MB | 1.7k |
 | [Kazumi_linux_2.4.2_amd64.tar.gz](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_linux_2.4.2_amd64.tar.gz) | 🐧 Linux | 41.2 MB | 836 |
-| [Kazumi_linux_2.4.2_arm64.deb](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_linux_2.4.2_arm64.deb) | 🐧 Linux | 32.2 MB | 441 |
+| [Kazumi_linux_2.4.2_arm64.deb](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_linux_2.4.2_arm64.deb) | 🐧 Linux | 32.2 MB | 440 |
 | [Kazumi_linux_2.4.2_arm64.tar.gz](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_linux_2.4.2_arm64.tar.gz) | 🐧 Linux | 39.4 MB | 395 |
-| [Kazumi_ios_2.4.2_no_sign.ipa](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_ios_2.4.2_no_sign.ipa) | 📦 其他 | 29.1 MB | 9.9k |
+| [Kazumi_ios_2.4.2_no_sign.ipa](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_ios_2.4.2_no_sign.ipa) | 📦 其他 | 29.1 MB | 9.8k |
 
 ## 🔗 快速链接
 

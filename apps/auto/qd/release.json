@@ -1,0 +1,40 @@
+{
+  "name": "qd",
+  "full_name": "qd-today/qd",
+  "url": "https://github.com/qd-today/qd",
+  "description": "QD [v20240210] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server",
+  "note": "",
+  "function": {
+    "name": "自动化 / 部署",
+    "slug": "auto",
+    "dir": "apps/auto"
+  },
+  "platforms": [
+    "通用 / 未指定"
+  ],
+  "language": "Python",
+  "stars": 5581,
+  "forks": 650,
+  "license": "MIT",
+  "archived": false,
+  "homepage": "https://qd-today.github.io/qd/",
+  "topics": [
+    "checkin",
+    "docker",
+    "har",
+    "qd",
+    "qiandao"
+  ],
+  "starred_at": "2022-08-11T17:08:42Z",
+  "pushed_at": "2026-10-26T16:13:36Z",
+  "latest": {
+    "kind": "release",
+    "tag": "20250803",
+    "title": "20250803",
+    "published_at": "2025-08-03T14:14:30Z",
+    "url": "https://github.com/qd-today/qd/releases/tag/20250803",
+    "prerelease": false
+  },
+  "assets": [],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

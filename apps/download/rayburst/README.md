@@ -2,6 +2,8 @@
 
 # rayburst
 
+<img src="icon.png" width="72" align="right" alt="rayburst icon">
+
 Redefining the open-source download manager
 
 | 项目 | 信息 |
@@ -49,9 +51,9 @@ This release bundles Aria2 Next 3.0.9 for all platforms. Downloads finish withou
 | [Rayburst_4.1.1_x64.dmg](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_x64.dmg) | 🍎 macOS | 26.7 MB | 152 |
 | [Rayburst_4.1.1_x64-setup.exe](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_x64-setup.exe) | 🪟 Windows | 24.6 MB | 11k |
 | [Rayburst_4.1.1_arm64-setup.exe](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_arm64-setup.exe) | 🪟 Windows | 21.8 MB | 508 |
-| [Rayburst_4.1.1_amd64.deb](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_amd64.deb) | 🐧 Linux | 27.2 MB | 544 |
-| [Rayburst-4.1.1-1.x86_64.rpm](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst-4.1.1-1.x86_64.rpm) | 🐧 Linux | 27.2 MB | 453 |
-| [Rayburst_4.1.1_amd64.AppImage](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_amd64.AppImage) | 🐧 Linux | 99.2 MB | 248 |
+| [Rayburst_4.1.1_amd64.deb](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_amd64.deb) | 🐧 Linux | 27.2 MB | 540 |
+| [Rayburst-4.1.1-1.x86_64.rpm](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst-4.1.1-1.x86_64.rpm) | 🐧 Linux | 27.2 MB | 452 |
+| [Rayburst_4.1.1_amd64.AppImage](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_amd64.AppImage) | 🐧 Linux | 99.2 MB | 247 |
 | [Rayburst-4.1.1-1.aarch64.rpm](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst-4.1.1-1.aarch64.rpm) | 🐧 Linux | 28.0 MB | 200 |
 | [Rayburst_4.1.1_aarch64.AppImage](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_aarch64.AppImage) | 🐧 Linux | 98.0 MB | 96 |
 | [Rayburst_4.1.1_arm64.deb](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_arm64.deb) | 🐧 Linux | 28.0 MB | 94 |
@@ -65,8 +67,8 @@ This release bundles Aria2 Next 3.0.9 for all platforms. Downloads finish withou
 | [Rayburst_4.1.1_amd64.deb.sig](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_amd64.deb.sig) | 🔐 校验文件 | 432 B | 25 |
 | [Rayburst_4.1.1_arm64.deb.sig](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_arm64.deb.sig) | 🔐 校验文件 | 432 B | 25 |
 | [Rayburst_aarch64.app.tar.gz.sig](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_aarch64.app.tar.gz.sig) | 🔐 校验文件 | 424 B | 21 |
-| [Rayburst_aarch64.app.tar.gz](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_aarch64.app.tar.gz) | 📦 其他 | 25.7 MB | 924 |
-| [Rayburst_x64.app.tar.gz](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_x64.app.tar.gz) | 📦 其他 | 26.6 MB | 183 |
+| [Rayburst_aarch64.app.tar.gz](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_aarch64.app.tar.gz) | 📦 其他 | 25.7 MB | 921 |
+| [Rayburst_x64.app.tar.gz](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_x64.app.tar.gz) | 📦 其他 | 26.6 MB | 181 |
 
 ## 🔗 快速链接
 

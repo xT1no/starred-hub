@@ -1,0 +1,34 @@
+{
+  "name": "uzVideo",
+  "full_name": "YYDS678/uzVideo",
+  "url": "https://github.com/YYDS678/uzVideo",
+  "description": "uz影视",
+  "note": "uz 影视客户端",
+  "function": {
+    "name": "影视 / 直播 / 番剧",
+    "slug": "video",
+    "dir": "apps/video"
+  },
+  "platforms": [
+    "Android"
+  ],
+  "language": "HTML",
+  "stars": 1538,
+  "forks": 174,
+  "license": "",
+  "archived": false,
+  "homepage": "https://uz-video-five.vercel.app",
+  "topics": [],
+  "starred_at": "2025-05-28T07:20:00Z",
+  "pushed_at": "2025-11-04T01:30:09Z",
+  "latest": {
+    "kind": "none",
+    "tag": "",
+    "title": "",
+    "published_at": "",
+    "url": "",
+    "prerelease": false
+  },
+  "assets": [],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

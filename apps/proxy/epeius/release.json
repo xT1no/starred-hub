@@ -1,0 +1,38 @@
+{
+  "name": "epeius",
+  "full_name": "cmliu/epeius",
+  "url": "https://github.com/cmliu/epeius",
+  "description": "在原版的基础上修改了显示 Trojan 配置信息转换为订阅内容。使用该脚本，你可以方便地将 Trojan 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。",
+  "note": "",
+  "function": {
+    "name": "网络代理 / 节点",
+    "slug": "proxy",
+    "dir": "apps/proxy"
+  },
+  "platforms": [
+    "服务端 / 云端",
+    "Web"
+  ],
+  "language": "JavaScript",
+  "stars": 3224,
+  "forks": 5270,
+  "license": "GPL-2.0",
+  "archived": false,
+  "homepage": "",
+  "topics": [
+    "trojan",
+    "trojan-worker"
+  ],
+  "starred_at": "2024-05-22T06:51:08Z",
+  "pushed_at": "2026-07-10T20:26:05Z",
+  "latest": {
+    "kind": "none",
+    "tag": "",
+    "title": "",
+    "published_at": "",
+    "url": "",
+    "prerelease": false
+  },
+  "assets": [],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

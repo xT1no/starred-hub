@@ -1,0 +1,53 @@
+{
+  "name": "GoGoGo",
+  "full_name": "ZCShou/GoGoGo",
+  "url": "https://github.com/ZCShou/GoGoGo",
+  "description": "一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆",
+  "note": "安卓虚拟定位 + 摇杆行走",
+  "function": {
+    "name": "应用增强 / 模块",
+    "slug": "mod",
+    "dir": "apps/mod"
+  },
+  "platforms": [
+    "Android"
+  ],
+  "language": "Java",
+  "stars": 11653,
+  "forks": 1329,
+  "license": "GPL-3.0",
+  "archived": false,
+  "homepage": "https://itexp.blog.csdn.net/",
+  "topics": [
+    "android",
+    "fake-gps",
+    "fake-locations",
+    "java",
+    "joystick",
+    "map",
+    "mock-location",
+    "mock-locations",
+    "mockgps",
+    "virtual-location"
+  ],
+  "starred_at": "2024-06-18T03:24:06Z",
+  "pushed_at": "2026-10-25T04:11:05Z",
+  "latest": {
+    "kind": "release",
+    "tag": "ReleaseV1.12.3",
+    "title": "v2.1.0",
+    "published_at": "2025-08-09T05:47:11Z",
+    "url": "https://github.com/ZCShou/GoGoGo/releases/tag/ReleaseV1.12.3",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "VirtGO-2.1.0-android-arm64-v8a.apk",
+      "size": 23320401,
+      "downloads": 1236228,
+      "url": "https://github.com/ZCShou/GoGoGo/releases/download/ReleaseV1.12.3/VirtGO-2.1.0-android-arm64-v8a.apk",
+      "platform": "📲 Android"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

@@ -1,0 +1,216 @@
+{
+  "name": "lx-music-desktop",
+  "full_name": "lyswhut/lx-music-desktop",
+  "url": "https://github.com/lyswhut/lx-music-desktop",
+  "description": "一个基于 Electron 的音乐软件",
+  "note": "",
+  "function": {
+    "name": "音乐 / 音频",
+    "slug": "music",
+    "dir": "apps/music"
+  },
+  "platforms": [
+    "Web",
+    "跨平台桌面"
+  ],
+  "language": "TypeScript",
+  "stars": 54832,
+  "forks": 7084,
+  "license": "Apache-2.0",
+  "archived": false,
+  "homepage": "https://lyswhut.github.io/lx-music-doc/",
+  "topics": [
+    "electron",
+    "javascript",
+    "music-player",
+    "vue"
+  ],
+  "starred_at": "2024-06-18T08:05:15Z",
+  "pushed_at": "2026-10-26T04:57:55Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v2.12.6",
+    "title": "2.12.6",
+    "published_at": "2026-09-19T02:23:52Z",
+    "url": "https://github.com/lyswhut/lx-music-desktop/releases/tag/v2.12.6",
+    "prerelease": false
+  },
+  "assets": [
+    {
+      "name": "latest-linux-arm.yml",
+      "size": 366,
+      "downloads": 2698,
+      "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/latest-linux-arm.yml",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "latest-linux-arm64.yml",
+      "size": 364,
+      "downloads": 3711,
+      "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/latest-linux-arm64.yml",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "latest-linux.yml",
+      "size": 365,
+      "downloads": 12798,
+      "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/latest-linux.yml",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "latest-mac.yml",
+      "size": 364,
+      "downloads": 244231,
+      "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/latest-mac.yml",
+      "platform": "🍎 macOS"
+    },
+    {
+      "name": "latest.yml",
+      "size": 374,
+      "downloads": 507249,
+      "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/latest.yml",
+      "platform": "📦 其他"
+    },
+    {
+      "name": "lx-music-desktop-2.12.6-arm64.dmg",
+      "size": 131211755,
+      "downloads": 27543,
+      "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-2.12.6-arm64.dmg",
+      "platform": "🍎 macOS"
+    },
+    {
+      "name": "lx-music-desktop-2.12.6-arm64.dmg.blockmap",
+      "size": 139566,
+      "downloads": 2137,
+      "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-2.12.6-arm64.dmg.blockmap",
+      "platform": "🍎 macOS"
+    },
+    {
+      "name": "lx-music-desktop-2.12.6-x64.dmg",
+      "size": 135174066,
+      "downloads": 11736,
+      "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-2.12.6-x64.dmg",
+      "platform": "🍎 macOS"
+    },
+    {
+      "name": "lx-music-desktop-2.12.6-x64.dmg.blockmap",
+      "size": 143577,
+      "downloads": 2073,
+      "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-2.12.6-x64.dmg.blockmap",
+      "platform": "🍎 macOS"
+    },
+    {
+      "name": "lx-music-desktop-2.12.6.x64.rpm",
+      "size": 96373361,
+      "downloads": 2562,
+      "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-2.12.6.x64.rpm",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "lx-music-desktop-v2.12.6-arm64-Setup.exe",
+      "size": 116718507,
+      "downloads": 4150,
+      "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-arm64-Setup.exe",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "lx-music-desktop-v2.12.6-arm64-Setup.exe.blockmap",
+      "size": 122489,
+      "downloads": 1757,
+      "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-arm64-Setup.exe.blockmap",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "lx-music-desktop-v2.12.6-win7_x64-green.7z",
+      "size": 70704809,
+      "downloads": 5413,
+      "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-win7_x64-green.7z",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "lx-music-desktop-v2.12.6-win7_x64-Setup.exe",
+      "size": 84765841,
+      "downloads": 4774,
+      "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-win7_x64-Setup.exe",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "lx-music-desktop-v2.12.6-win7_x64-Setup.exe.blockmap",
+      "size": 89507,
+      "downloads": 1790,
+      "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-win7_x64-Setup.exe.blockmap",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "lx-music-desktop-v2.12.6-win7_x86-green.7z",
+      "size": 67207656,
+      "downloads": 3059,
+      "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-win7_x86-green.7z",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "lx-music-desktop-v2.12.6-win_arm64-green.7z",
+      "size": 94906959,
+      "downloads": 2676,
+      "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-win_arm64-green.7z",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "lx-music-desktop-v2.12.6-win_x64-green.7z",
+      "size": 100735625,
+      "downloads": 18207,
+      "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-win_x64-green.7z",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "lx-music-desktop-v2.12.6-x64-Setup.exe",
+      "size": 121443536,
+      "downloads": 331387,
+      "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-x64-Setup.exe",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "lx-music-desktop-v2.12.6-x64-Setup.exe.blockmap",
+      "size": 128067,
+      "downloads": 165917,
+      "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-x64-Setup.exe.blockmap",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "lx-music-desktop_2.12.6_amd64.deb",
+      "size": 109385212,
+      "downloads": 11633,
+      "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop_2.12.6_amd64.deb",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "lx-music-desktop_2.12.6_arm64.deb",
+      "size": 104494816,
+      "downloads": 3207,
+      "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop_2.12.6_arm64.deb",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "lx-music-desktop_2.12.6_armv7l.deb",
+      "size": 107365276,
+      "downloads": 2388,
+      "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop_2.12.6_armv7l.deb",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "lx-music-desktop_2.12.6_x64.AppImage",
+      "size": 139640225,
+      "downloads": 2421,
+      "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop_2.12.6_x64.AppImage",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "lx-music-desktop_2.12.6_x64.pacman",
+      "size": 98962532,
+      "downloads": 2513,
+      "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop_2.12.6_x64.pacman",
+      "platform": "📦 其他"
+    }
+  ],
+  "generated_at": "2026-10-28T16:26:01+08:00"
+}

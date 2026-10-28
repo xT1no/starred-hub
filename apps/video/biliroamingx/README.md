@@ -2,6 +2,8 @@
 
 # BiliRoamingX
 
+<img src="icon.png" width="72" align="right" alt="BiliRoamingX icon">
+
 BiliRoamingX integrations and patches powered by ReVanced.
 
 | 项目 | 信息 |

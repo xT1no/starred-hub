@@ -2,6 +2,8 @@
 
 # tvhelper-docker
 
+<img src="icon.png" width="72" align="right" alt="tvhelper-docker icon">
+
 让你使用电脑、NAS等一切能运行docker的设备变成盒子的ADB安装助手
 
 | 项目 | 信息 |
