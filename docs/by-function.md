@@ -4,7 +4,7 @@
 
 [总览](../README.md) · [应用目录](../apps/README.md) · **[按功能](by-function.md)** · [按平台](by-platform.md) · [时间线](timeline.md) · [更新动态](updates.md)
 
-共 **145** 个仓库 · **15** 个分类 · 同步于 2026-10-28 16:08
+共 **145** 个仓库 · **15** 个分类 · 同步于 2026-10-28 16:10
 
 ## 目录
 
@@ -80,7 +80,7 @@
 | [6Kmfi6HP/EDtunnel](https://github.com/6Kmfi6HP/EDtunnel) | EDtunnel 是一个基于 Cloudflare Workers 和 Pages 的代理工具，支持多种协议和配置选项。 EDtunnel i… | ☁️ 🌐 | JavaScript | 3.1k | 2024-09-11 |
 | [ymyuuu/IPDB](https://github.com/ymyuuu/IPDB) | Cloudflare反代优选IP库 | 🌐 | — | 2.6k | 2024-06-20 |
 | [vfarid/v2ray-worker](https://github.com/vfarid/v2ray-worker) | Total solution for V2Ray over Cloudflare's worker | ☁️ | TypeScript | 1.4k | 2024-07-28 |
-| [Au1rxx/free-vpn-subscriptions](https://github.com/Au1rxx/free-vpn-subscriptions) | Free Clash, sing-box, and V2Ray subscription feed with live node status and setup guides | ❓ | — | 1k | 2026-09-20 |
+| [Au1rxx/free-vpn-subscriptions](https://github.com/Au1rxx/free-vpn-subscriptions) | Free Clash, sing-box, and V2Ray subscription feed with live node status and setup guides | ❓ | — | 1.1k | 2026-09-20 |
 | [faceair/clash-speedtest](https://github.com/faceair/clash-speedtest) | clash speedtest | ⌨️ | Go | 976 | 2024-02-29 |
 | [yonggekkk/Replit-Xray](https://github.com/yonggekkk/Replit-Xray) | Replit容器部署xray代理，支持argo固定隧道与临时隧道，自定义伪装网页，一键五协议共存，支持搭建vle… | 🌐 | — | 886 | 2024-06-25 |
 | [tom-snow/Sidestore-ClashMi](https://github.com/tom-snow/Sidestore-ClashMi) | 使用 ClashMi 替代 LocalDevVPN / StosVPN 。解决部分运营商对 gsa.apple.com 不友好的问题。 | 📱 | JavaScript | 260 | 2026-02-20 |

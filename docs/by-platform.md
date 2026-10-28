@@ -4,7 +4,7 @@
 
 [总览](../README.md) · [应用目录](../apps/README.md) · [按功能](by-function.md) · **[按平台](by-platform.md)** · [时间线](timeline.md) · [更新动态](updates.md)
 
-共 **145** 个仓库 · **14** 个平台 · 同步于 2026-10-28 16:08
+共 **145** 个仓库 · **14** 个平台 · 同步于 2026-10-28 16:10
 
 > 一个仓库支持多个平台时会同时出现在多个分类里，所以各分类数量之和会大于总数。
 
@@ -343,7 +343,7 @@
 | [QiuChenlyOpenSource/MusicDownload](https://github.com/QiuChenlyOpenSource/MusicDownload) | 🗄️ 已归档 · 歌曲下载 | 📥 🎵 | — | 2.4k | 2023-04-10 |
 | [zbefine/iptv](https://github.com/zbefine/iptv) | IPTV 频道 影视 电视 直播 源 | 🎬 | — | 2k | 2023-06-01 |
 | [DustinWin/dustinwin.github.io](https://github.com/DustinWin/dustinwin.github.io) | mihomo 和 sing-box 教程合集——安装、配置、自定义规则、DNS 分流 | 🛡️ 🌐 🛠️ +1 | Shell | 1.6k | 2024-06-05 |
-| [Au1rxx/free-vpn-subscriptions](https://github.com/Au1rxx/free-vpn-subscriptions) | Free Clash, sing-box, and V2Ray subscription feed with live node status and setup guides | 🌐 📚 | — | 1k | 2026-09-20 |
+| [Au1rxx/free-vpn-subscriptions](https://github.com/Au1rxx/free-vpn-subscriptions) | Free Clash, sing-box, and V2Ray subscription feed with live node status and setup guides | 🌐 📚 | — | 1.1k | 2026-09-20 |
 | [binbankm/Sub-One](https://github.com/binbankm/Sub-One) | 节点订阅管理 | 🌐 | TypeScript | 197 | 2025-12-05 |
 | [ItosEO/OriginPlan](https://github.com/ItosEO/OriginPlan) | — | 📦 | Kotlin | 55 | 2024-01-21 |
 

@@ -31,7 +31,7 @@
 | [clash-speedtest](clash-speedtest/README.md) | clash speedtest | ⌨️ | `v1.8.8` | 5 个月前 | 976 |
 | [CloudflareSpeedTest](cloudflarespeedtest/README.md) | 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 I… | ⌨️ | `v2.3.5` | 6 个月前 | 30k |
 | [EDtunnel](edtunnel/README.md) | EDtunnel 是一个基于 Cloudflare Workers 和 Pages 的代理工具，支持多种协议和配置选项。 ED… | ☁️ 🌐 | `—` | 6 个月前 | 3.1k |
-| [free-vpn-subscriptions](free-vpn-subscriptions/README.md) | Free Clash, sing-box, and V2Ray subscription feed with live nod… | ❓ | `feed-20260419-023716` | 6 个月前 | 1k |
+| [free-vpn-subscriptions](free-vpn-subscriptions/README.md) | Free Clash, sing-box, and V2Ray subscription feed with live nod… | ❓ | `feed-20260419-023716` | 6 个月前 | 1.1k |
 | [hiddify-app](hiddify-app/README.md) | Multi-platform auto-proxy client, supporting Sing-box, X-ray, T… | 🖥️ | `v4.1.1` | 7 个月前 | 33k |
 | [ShellCrash](shellcrash/README.md) | Run sing-box/mihomo as client in shell | 🛰️ | `1.9.4` | 8 个月前 | 14k |
 | [Sidestore-ClashMi](sidestore-clashmi/README.md) | 使用 ClashMi 替代 LocalDevVPN / StosVPN 。解决部分运营商对 gsa.apple.com 不友好… | 📱 | `—` | 8 个月前 | 260 |

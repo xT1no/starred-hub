@@ -45,7 +45,7 @@
 | [Kazumi_linux_2.4.2_amd64.tar.gz](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_linux_2.4.2_amd64.tar.gz) | 🐧 Linux | 41.2 MB | 836 |
 | [Kazumi_linux_2.4.2_arm64.deb](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_linux_2.4.2_arm64.deb) | 🐧 Linux | 32.2 MB | 440 |
 | [Kazumi_linux_2.4.2_arm64.tar.gz](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_linux_2.4.2_arm64.tar.gz) | 🐧 Linux | 39.4 MB | 395 |
-| [Kazumi_ios_2.4.2_no_sign.ipa](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_ios_2.4.2_no_sign.ipa) | 📦 其他 | 29.1 MB | 9.8k |
+| [Kazumi_ios_2.4.2_no_sign.ipa](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_ios_2.4.2_no_sign.ipa) | 📦 其他 | 29.1 MB | 9.9k |
 
 ## 🔗 快速链接
 

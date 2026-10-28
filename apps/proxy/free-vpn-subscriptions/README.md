@@ -10,7 +10,7 @@ Free Clash, sing-box, and V2Ray subscription feed with live node status and setu
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | ❓ |
 | 语言 | — |
-| Star | 1k · Fork 94 |
+| Star | 1.1k · Fork 94 |
 | License | MIT |
 | 最新版本 | `feed-20260419-023716` |
 | 最近更新 | 2026-04-19（6 个月前） |

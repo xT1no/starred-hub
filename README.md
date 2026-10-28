@@ -6,7 +6,7 @@
 
 `145` 个仓库 · `15` 个功能分类 · `14` 个平台分类
 
-最近同步：2026-10-28 16:08 (UTC+8)
+最近同步：2026-10-28 16:10 (UTC+8)
 
 [📱 应用目录](apps/README.md) · [按功能浏览](docs/by-function.md) · [按平台浏览](docs/by-platform.md) · [更新动态](docs/updates.md) · [时间线](docs/timeline.md)
 
@@ -44,7 +44,7 @@
 | 仓库 | 简介 | 平台 | 功能 | ⭐ | 标星日期 |
 |:---|:---|:---:|:---:|---|---:|
 | [storytold/photocraft](https://github.com/storytold/photocraft) | 纯 Rust 从零写的开源修图工具｜PhotoCraft: An open-source, photo editor written by scratch in pu… | 🖥️ | 🎨 | 74k | 2026-10-09 |
-| [Au1rxx/free-vpn-subscriptions](https://github.com/Au1rxx/free-vpn-subscriptions) | Free Clash, sing-box, and V2Ray subscription feed with live node status and setup guides | ❓ | 🌐 📚 | 1k | 2026-09-20 |
+| [Au1rxx/free-vpn-subscriptions](https://github.com/Au1rxx/free-vpn-subscriptions) | Free Clash, sing-box, and V2Ray subscription feed with live node status and setup guides | ❓ | 🌐 📚 | 1.1k | 2026-09-20 |
 | [kejichangqing/QingMusic](https://github.com/kejichangqing/QingMusic) | 本地音乐播放器｜青听音乐-一款免费无广告的本地音乐播放器。 | 🪟 | 🎵 | 1.9k | 2026-09-15 |
 | [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper) | 一键替换游戏内的 DLSS 动态库 | 🪟 | 🎮 | 8k | 2026-09-15 |
 | [FirTech/ReWindsys](https://github.com/FirTech/ReWindsys) | Windows 精简系统镜像项目｜Rebirth of Windsys Project | 🪟 | ⚙️ | 21 | 2026-08-10 |

@@ -61,9 +61,9 @@ A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so
 | [FlClash-0.9.2-windows-amd64.zip](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-windows-amd64.zip) | 🪟 Windows | 65.7 MB | 21k |
 | [FlClash-0.9.2-windows-arm64-setup.exe](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-windows-arm64-setup.exe) | 🪟 Windows | 38.4 MB | 5.6k |
 | [FlClash-0.9.2-windows-arm64.zip](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-windows-arm64.zip) | 🪟 Windows | 61.7 MB | 1.7k |
-| [FlClash-0.9.2-linux-amd64.deb](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-amd64.deb) | 🐧 Linux | 38.7 MB | 5.3k |
+| [FlClash-0.9.2-linux-amd64.deb](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-amd64.deb) | 🐧 Linux | 38.7 MB | 5.4k |
 | [FlClash-0.9.2-linux-arm64.deb](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-arm64.deb) | 🐧 Linux | 35.2 MB | 1.6k |
-| [FlClash-0.9.2-linux-amd64.AppImage](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-amd64.AppImage) | 🐧 Linux | 66.6 MB | 1.5k |
+| [FlClash-0.9.2-linux-amd64.AppImage](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-amd64.AppImage) | 🐧 Linux | 66.6 MB | 1.6k |
 | [FlClash-0.9.2-linux-amd64.rpm](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-amd64.rpm) | 🐧 Linux | 57.1 MB | 853 |
 | [FlClash-0.9.2-linux-arm64.AppImage](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-arm64.AppImage) | 🐧 Linux | 63.8 MB | 433 |
 | [FlClash-0.9.2-linux-arm64.rpm](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-arm64.rpm) | 🐧 Linux | 54.5 MB | 291 |

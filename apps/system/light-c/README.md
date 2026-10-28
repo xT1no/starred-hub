@@ -48,7 +48,7 @@ LightC v2.17.0 发布说明
 | [LightC_webview2_offline_exe.sig](https://github.com/Chunyu33/light-c/releases/download/v2.17.0/LightC_webview2_offline_exe.sig) | 🔐 校验文件 | 396 B | 82 |
 | [LightC_portable_exe.sig](https://github.com/Chunyu33/light-c/releases/download/v2.17.0/LightC_portable_exe.sig) | 🔐 校验文件 | 396 B | 29 |
 | [LightC_2.17.0_x64-setup.exe.sig](https://github.com/Chunyu33/light-c/releases/download/v2.17.0/LightC_2.17.0_x64-setup.exe.sig) | 🔐 校验文件 | 416 B | 5 |
-| [latest.json](https://github.com/Chunyu33/light-c/releases/download/v2.17.0/latest.json) | 📦 其他 | 2 KB | 12k |
+| [latest.json](https://github.com/Chunyu33/light-c/releases/download/v2.17.0/latest.json) | 📦 其他 | 2 KB | 13k |
 | [download.json](https://github.com/Chunyu33/light-c/releases/download/v2.17.0/download.json) | 📦 其他 | 290 B | 35 |
 
 ## 🔗 快速链接
