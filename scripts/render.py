@@ -92,6 +92,17 @@ def new_badge(repo: dict, new_days: int) -> str:
     return " 🆕" if delta <= new_days else ""
 
 
+def _within(iso: str, ref: datetime, days: int) -> bool:
+    """iso 时间是否在 ref 之前 days 天以内。"""
+    if not iso:
+        return False
+    try:
+        dt = datetime.fromisoformat(iso.replace("Z", "+00:00"))
+    except ValueError:
+        return False
+    return 0 <= (ref - dt).days <= days
+
+
 # ---------------------------------------------------------------- 分组
 
 
@@ -122,9 +133,11 @@ def group_by(repos: list[dict], dim: str, order: list[str], primary: bool = Fals
 def nav_bar(current: str) -> str:
     items = [
         ("readme", "[总览](../README.md)"),
+        ("apps", "[应用目录](../apps/README.md)"),
         ("function", "[按功能](by-function.md)"),
         ("platform", "[按平台](by-platform.md)"),
         ("timeline", "[时间线](timeline.md)"),
+        ("updates", "[更新动态](updates.md)"),
     ]
     return " · ".join((f"**{label}**" if key == current else label) for key, label in items)
 
@@ -168,12 +181,32 @@ def render_readme(ctx: dict) -> str:
     A("")
     A(f"最近同步：{synced.strftime('%Y-%m-%d %H:%M')} (UTC+8)")
     A("")
-    A("[按功能浏览](docs/by-function.md) · [按平台浏览](docs/by-platform.md) · [按时间线](docs/timeline.md)")
+    A("[📱 应用目录](apps/README.md) · [按功能浏览](docs/by-function.md) · [按平台浏览](docs/by-platform.md) · [更新动态](docs/updates.md) · [时间线](docs/timeline.md)")
     A("")
     A("</div>")
     A("")
     A("---")
     A("")
+
+    # ---------- 最近更新
+    upd = [r for r in repos if (r.get("rel") or {}).get("tag") and (r.get("rel") or {}).get("published_at")]
+    upd.sort(key=lambda r: r["rel"]["published_at"], reverse=True)
+    fresh_upd = [r for r in upd if _within(r["rel"]["published_at"], synced, 30)]
+    if upd:
+        A(f"## 🔥 最近更新（30 天内 {len(fresh_upd)} 个应用发布新版）")
+        A("")
+        A("| 应用 | 最新版本 | 发布 | 分类 | ⭐ |")
+        A("|:---|:---|:---:|:---:|---:|")
+        for r in (fresh_upd or upd)[:18]:
+            cat = r["cls"]["functions"][0]
+            A(
+                f"| [{r['name']}](apps/{cat['slug']}/{r.get('dir') or r['name']}/README.md) | "
+                f"`{r['rel']['tag']}` | {r['rel']['published_at'][:10]} | {cat.get('emoji','')} | "
+                f"{fmt_stars(r.get('stars'))} |"
+            )
+        A("")
+        A(f"完整清单见 [更新动态](docs/updates.md)，全部应用见 [应用目录](apps/README.md)。")
+        A("")
 
     # ---------- 最近标星
     if fresh:
@@ -259,7 +292,7 @@ def render_readme(ctx: dict) -> str:
     A("| 某个仓库归错类了 | [`config/overrides.toml`](config/overrides.toml) |")
     A("| 同步时间、是否自动提交 | [`.github/workflows/sync-stars.yml`](.github/workflows/sync-stars.yml) |")
     A("")
-    A("> 本仓库所有 `README.md` 和 `docs/*.md` 都是**生成产物**，直接改会在下次同步时被覆盖。")
+    A("> 本仓库所有 `README.md`、`docs/*.md`、`apps/**` 都是**生成产物**，直接改会在下次同步时被覆盖。")
     A("> 要留自己的备注请写进 `config/overrides.toml`。")
     A("")
     return "\n".join(L)

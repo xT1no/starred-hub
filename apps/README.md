@@ -1,0 +1,78 @@
+<!-- 本文件由 starred-hub 自动生成，手动修改会在下次同步时被覆盖 -->
+
+# 📱 应用目录
+
+共 **145** 个应用，按功能分成 **15** 个文件夹；其中 **112** 个记录了最新版本。
+
+[← 星标总览](../README.md) · [按功能](../docs/by-function.md) · [按平台](../docs/by-platform.md) · [更新动态](../docs/updates.md)
+
+## 📁 文件夹
+
+| 分类 | 应用数 | 有版本号 | 最近更新 |
+|:---|:---:|:---:|:---:|
+| 🛡️ [广告过滤 / 隐私](privacy/README.md) | 8 | 3 | 2 天前 |
+| 🌐 [网络代理 / 节点](proxy/README.md) | 35 | 23 | 今天 |
+| 🎮 [游戏 / 辅助脚本](game/README.md) | 17 | 17 | 今天 |
+| ⚡ [自动化 / 部署](auto/README.md) | 8 | 8 | 昨天 |
+| 📥 [下载 / 网盘](download/README.md) | 10 | 7 | 今天 |
+| 🎵 [音乐 / 音频](music/README.md) | 5 | 4 | 11 天前 |
+| 🎬 [影视 / 直播 / 番剧](video/README.md) | 21 | 14 | 今天 |
+| 🤖 [AI / 大模型](ai/README.md) | 1 | 1 | 1 年前 |
+| 🧩 [应用增强 / 模块](mod/README.md) | 12 | 9 | 今天 |
+| ⚙️ [系统增强 / 优化](system/README.md) | 20 | 20 | 4 天前 |
+| 🛠️ [开发工具](dev/README.md) | 1 | 1 | 12 天前 |
+| 📄 [办公 / 阅读 / 笔记](office/README.md) | 4 | 3 | 6 天前 |
+| 🎨 [图像 / 设计](design/README.md) | 1 | 1 | 2 天前 |
+| 📚 [学习 / 资源合集](learn/README.md) | 1 | 0 | 1 个月前 |
+| 📦 [其他](other/README.md) | 1 | 1 | 1 年前 |
+
+## 🔥 最近 30 天有更新
+
+| 应用 | 版本 | 发布 | 分类 |
+|:---|:---|:---:|:---:|
+| [IPDB](proxy/ipdb/README.md) | `—` | 2026-10-28 | 🌐 |
+| [Motrix](download/motrix/README.md) | `v2.1.0` | 2026-10-28 | 📥 |
+| [AutoMergePublicNodes](proxy/automergepublicnodes/README.md) | `—` | 2026-10-28 | 🌐 |
+| [ok-wuthering-waves](game/ok-wuthering-waves/README.md) | `v3.7.12` | 2026-10-28 | 🎮 |
+| [TVAPP](download/tvapp/README.md) | `—` | 2026-10-28 | 📥 |
+| [GKD_subscription](mod/gkd_subscription/README.md) | `v620` | 2026-10-27 | 🧩 |
+| [aos-AVP](video/aos-avp/README.md) | `v6.6.2` | 2026-10-27 | 🎬 |
+| [xmir-patcher](mod/xmir-patcher/README.md) | `—` | 2026-10-27 | 🧩 |
+| [xiaoya-alist](download/xiaoya-alist/README.md) | `—` | 2026-10-27 | 📥 |
+| [CloudRunFilesBuilder](auto/cloudrunfilesbuilder/README.md) | `2026-10-27` | 2026-10-27 | ⚡ |
+| [ImmortalWrt-ImageBuilder](auto/immortalwrt-imagebuilder/README.md) | `Autobuild-x86-64` | 2026-10-27 | ⚡ |
+| [tvbox](video/tvbox/README.md) | `—` | 2026-10-26 | 🎬 |
+| [NDui](game/ndui/README.md) | `Classic-0.0.6` | 2026-10-25 | 🎮 |
+| [wool_scripts](privacy/wool_scripts/README.md) | `—` | 2026-10-25 | 🛡️ |
+| [photocraft](design/photocraft/README.md) | `v0.16.0` | 2026-10-25 | 🎨 |
+| [ACL4SSR](privacy/acl4ssr/README.md) | `—` | 2026-10-25 | 🛡️ |
+| [rayburst](download/rayburst/README.md) | `v4.1.1` | 2026-10-25 | 📥 |
+| [FlClash](proxy/flclash/README.md) | `v0.9.2` | 2026-10-24 | 🌐 |
+| [light-c](system/light-c/README.md) | `v2.17.0` | 2026-10-24 | ⚙️ |
+| [sing-box](proxy/sing-box/README.md) | `v1.14.4` | 2026-10-24 | 🌐 |
+| [Kazumi](video/kazumi/README.md) | `2.4.2` | 2026-10-23 | 🎬 |
+| [iloader](mod/iloader/README.md) | `v2.4.0` | 2026-10-22 | 🧩 |
+| [Sub-One](proxy/sub-one/README.md) | `—` | 2026-10-22 | 🌐 |
+| [BT](video/bt/README.md) | `v0.9.41` | 2026-10-21 | 🎬 |
+| [Ehviewer_CN_SXJ](office/ehviewer_cn_sxj/README.md) | `2.0.2.6` | 2026-10-21 | 📄 |
+| [marktext](office/marktext/README.md) | `v0.23.0` | 2026-10-21 | 📄 |
+| [dart_simple_live](video/june6699-dart_simple_live/README.md) | `v1.13.2` | 2026-10-20 | 🎬 |
+| [Office-Tool](office/office-tool/README.md) | `v11.8.50.0` | 2026-10-18 | 📄 |
+| [dlss-swapper](game/dlss-swapper/README.md) | `v1.2.7.0` | 2026-10-18 | 🎮 |
+| [cfnew](proxy/cfnew/README.md) | `v2026.10.17.2` | 2026-10-18 | 🌐 |
+| [cloud-fs.github.io](download/cloud-fs.github.io/README.md) | `v1.1.3` | 2026-10-17 | 📥 |
+| [QingMusic](music/qingmusic/README.md) | `v1.4.0` | 2026-10-16 | 🎵 |
+| [EdgeCopilotFix](mod/edgecopilotfix/README.md) | `1.2` | 2026-10-16 | 🧩 |
+| [UniGetUI](dev/unigetui/README.md) | `v2026.3.2` | 2026-10-15 | 🛠️ |
+| [Clean-Icons-Mechagnome-Edition](game/clean-icons-mechagnome-edition/README.md) | `12.1.5.70391-V5-1` | 2026-10-15 | 🎮 |
+| [whatcable](system/whatcable/README.md) | `v1.5.0` | 2026-10-13 | ⚙️ |
+| [iptv-api](auto/iptv-api/README.md) | `3.1.0` | 2026-10-12 | ⚡ |
+| [Game-Cheats-Manager](game/game-cheats-manager/README.md) | `v2.5.4` | 2026-10-11 | 🎮 |
+| [v2rayN](proxy/v2rayn/README.md) | `7.25.6` | 2026-10-11 | 🌐 |
+| [DriverStoreExplorer](system/driverstoreexplorer/README.md) | `v1.0.36` | 2026-10-10 | ⚙️ |
+
+还有 10 个，见 [更新动态](../docs/updates.md)。
+
+---
+
+> 每个文件夹里的 `README.md` 是自动生成的应用详情，包含最新版本、更新说明和官方安装包直链。

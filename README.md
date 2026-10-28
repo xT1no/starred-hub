@@ -6,13 +6,38 @@
 
 `145` 个仓库 · `15` 个功能分类 · `14` 个平台分类
 
-最近同步：2026-10-28 15:38 (UTC+8)
+最近同步：2026-10-28 15:57 (UTC+8)
 
-[按功能浏览](docs/by-function.md) · [按平台浏览](docs/by-platform.md) · [按时间线](docs/timeline.md)
+[📱 应用目录](apps/README.md) · [按功能浏览](docs/by-function.md) · [按平台浏览](docs/by-platform.md) · [更新动态](docs/updates.md) · [时间线](docs/timeline.md)
 
 </div>
 
 ---
+
+## 🔥 最近更新（30 天内 40 个应用发布新版）
+
+| 应用 | 最新版本 | 发布 | 分类 | ⭐ |
+|:---|:---|:---:|:---:|---:|
+| [Motrix](apps/download/motrix/README.md) | `v2.1.0` | 2026-10-28 | 📥 | 58k |
+| [ok-wuthering-waves](apps/game/ok-wuthering-waves/README.md) | `v3.7.12` | 2026-10-28 | 🎮 | 8.3k |
+| [GKD_subscription](apps/mod/gkd_subscription/README.md) | `v620` | 2026-10-27 | 🧩 | 6.4k |
+| [aos-AVP](apps/video/aos-avp/README.md) | `v6.6.2` | 2026-10-27 | 🎬 | 4.8k |
+| [CloudRunFilesBuilder](apps/auto/cloudrunfilesbuilder/README.md) | `2026-10-27` | 2026-10-27 | ⚡ | 638 |
+| [ImmortalWrt-ImageBuilder](apps/auto/immortalwrt-imagebuilder/README.md) | `Autobuild-x86-64` | 2026-10-27 | ⚡ | 2.7k |
+| [NDui](apps/game/ndui/README.md) | `Classic-0.0.6` | 2026-10-25 | 🎮 | 380 |
+| [photocraft](apps/design/photocraft/README.md) | `v0.16.0` | 2026-10-25 | 🎨 | 74k |
+| [rayburst](apps/download/rayburst/README.md) | `v4.1.1` | 2026-10-25 | 📥 | 11k |
+| [FlClash](apps/proxy/flclash/README.md) | `v0.9.2` | 2026-10-24 | 🌐 | 59k |
+| [light-c](apps/system/light-c/README.md) | `v2.17.0` | 2026-10-24 | ⚙️ | 3.2k |
+| [sing-box](apps/proxy/sing-box/README.md) | `v1.14.4` | 2026-10-24 | 🌐 | 39k |
+| [Kazumi](apps/video/kazumi/README.md) | `2.4.2` | 2026-10-23 | 🎬 | 40k |
+| [iloader](apps/mod/iloader/README.md) | `v2.4.0` | 2026-10-22 | 🧩 | 4.4k |
+| [BT](apps/video/bt/README.md) | `v0.9.41` | 2026-10-21 | 🎬 | 2.4k |
+| [Ehviewer_CN_SXJ](apps/office/ehviewer_cn_sxj/README.md) | `2.0.2.6` | 2026-10-21 | 📄 | 28k |
+| [marktext](apps/office/marktext/README.md) | `v0.23.0` | 2026-10-21 | 📄 | 63k |
+| [dart_simple_live](apps/video/june6699-dart_simple_live/README.md) | `v1.13.2` | 2026-10-20 | 🎬 | 1.3k |
+
+完整清单见 [更新动态](docs/updates.md)，全部应用见 [应用目录](apps/README.md)。
 
 ## 🕘 最近标星（14 天内新增 0 个，最近一次是 2026-10-09）
 
@@ -98,5 +123,5 @@
 | 某个仓库归错类了 | [`config/overrides.toml`](config/overrides.toml) |
 | 同步时间、是否自动提交 | [`.github/workflows/sync-stars.yml`](.github/workflows/sync-stars.yml) |
 
-> 本仓库所有 `README.md` 和 `docs/*.md` 都是**生成产物**，直接改会在下次同步时被覆盖。
+> 本仓库所有 `README.md`、`docs/*.md`、`apps/**` 都是**生成产物**，直接改会在下次同步时被覆盖。
 > 要留自己的备注请写进 `config/overrides.toml`。

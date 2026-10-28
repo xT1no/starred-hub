@@ -2,9 +2,9 @@
 
 # 🕒 标星时间线
 
-[总览](../README.md) · [按功能](by-function.md) · [按平台](by-platform.md) · **[时间线](timeline.md)**
+[总览](../README.md) · [应用目录](../apps/README.md) · [按功能](by-function.md) · [按平台](by-platform.md) · **[时间线](timeline.md)** · [更新动态](updates.md)
 
-共 **145** 个仓库 · 按标星时间倒序 · 同步于 2026-10-28 15:38
+共 **145** 个仓库 · 按标星时间倒序 · 同步于 2026-10-28 15:57
 
 ---
 
