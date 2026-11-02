@@ -40,14 +40,14 @@
     {
       "name": "TVBox_q215613905_20260914-1520-java.apk",
       "size": 33299951,
-      "downloads": 22711,
+      "downloads": 22717,
       "url": "https://github.com/j4Uq/TVBoxOSC/releases/download/20260914-1520/TVBox_q215613905_20260914-1520-java.apk",
       "platform": "📲 Android"
     },
     {
       "name": "TVBox_q215613905_20260914-1520-java32.apk",
       "size": 19801000,
-      "downloads": 14310,
+      "downloads": 14312,
       "url": "https://github.com/j4Uq/TVBoxOSC/releases/download/20260914-1520/TVBox_q215613905_20260914-1520-java32.apk",
       "platform": "📲 Android"
     },
@@ -80,5 +80,5 @@
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-11-02T18:50:34+08:00"
+  "generated_at": "2026-11-02T18:56:50+08:00"
 }

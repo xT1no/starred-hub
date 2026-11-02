@@ -19,7 +19,7 @@
     "跨平台桌面"
   ],
   "language": "Dart",
-  "stars": 40688,
+  "stars": 40690,
   "forks": 1343,
   "license": "GPL-3.0",
   "archived": false,
@@ -62,14 +62,14 @@
     {
       "name": "Kazumi_linux_2.4.2_amd64.deb",
       "size": 35357156,
-      "downloads": 2785,
+      "downloads": 2786,
       "url": "https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_linux_2.4.2_amd64.deb",
       "platform": "🐧 Linux"
     },
     {
       "name": "Kazumi_linux_2.4.2_amd64.tar.gz",
       "size": 43176991,
-      "downloads": 1354,
+      "downloads": 1355,
       "url": "https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_linux_2.4.2_amd64.tar.gz",
       "platform": "🐧 Linux"
     },
@@ -90,7 +90,7 @@
     {
       "name": "Kazumi_macos_2.4.2.dmg",
       "size": 55854628,
-      "downloads": 6582,
+      "downloads": 6586,
       "url": "https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_macos_2.4.2.dmg",
       "platform": "🍎 macOS"
     },
@@ -109,5 +109,5 @@
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-11-02T18:50:34+08:00"
+  "generated_at": "2026-11-02T18:56:50+08:00"
 }

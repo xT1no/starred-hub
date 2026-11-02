@@ -15,8 +15,8 @@
     "Linux"
   ],
   "language": "C#",
-  "stars": 119781,
-  "forks": 16246,
+  "stars": 119783,
+  "forks": 16247,
   "license": "GPL-3.0",
   "archived": false,
   "homepage": "https://v2rayn.2dust.link",
@@ -54,14 +54,14 @@
     {
       "name": "v2rayN-linux-64.deb.sig",
       "size": 297,
-      "downloads": 2549,
+      "downloads": 2551,
       "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-64.deb.sig",
       "platform": "🔐 校验文件"
     },
     {
       "name": "v2rayN-linux-64.zip",
       "size": 142814357,
-      "downloads": 30377,
+      "downloads": 30385,
       "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-64.zip",
       "platform": "🐧 Linux"
     },
@@ -75,7 +75,7 @@
     {
       "name": "v2rayN-linux-arm64.deb",
       "size": 78251484,
-      "downloads": 4417,
+      "downloads": 4419,
       "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-arm64.deb",
       "platform": "🐧 Linux"
     },
@@ -187,7 +187,7 @@
     {
       "name": "v2rayN-macos-64.dmg",
       "size": 142743437,
-      "downloads": 36918,
+      "downloads": 36934,
       "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-macos-64.dmg",
       "platform": "🍎 macOS"
     },
@@ -201,7 +201,7 @@
     {
       "name": "v2rayN-macos-64.zip",
       "size": 144964687,
-      "downloads": 7604,
+      "downloads": 7608,
       "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-macos-64.zip",
       "platform": "🍎 macOS"
     },
@@ -278,7 +278,7 @@
     {
       "name": "v2rayN-windows-86-desktop.zip",
       "size": 145408272,
-      "downloads": 8293,
+      "downloads": 8298,
       "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-86-desktop.zip",
       "platform": "🪟 Windows"
     },
@@ -292,7 +292,7 @@
     {
       "name": "v2rayN-windows-86.zip",
       "size": 141128830,
-      "downloads": 7849,
+      "downloads": 7852,
       "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-86.zip",
       "platform": "🪟 Windows"
     },
@@ -306,7 +306,7 @@
     {
       "name": "v2rayN-windows-arm64-desktop.zip",
       "size": 134940538,
-      "downloads": 7336,
+      "downloads": 7340,
       "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-arm64-desktop.zip",
       "platform": "🪟 Windows"
     },
@@ -325,5 +325,5 @@
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-11-02T18:50:34+08:00"
+  "generated_at": "2026-11-02T18:56:50+08:00"
 }

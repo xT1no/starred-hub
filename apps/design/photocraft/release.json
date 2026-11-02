@@ -13,7 +13,7 @@
     "跨平台桌面"
   ],
   "language": "Rust",
-  "stars": 76028,
+  "stars": 76030,
   "forks": 13470,
   "license": "Apache-2.0",
   "archived": false,
@@ -41,21 +41,21 @@
     {
       "name": "photocraft-0.19.0-freebsd-aarch64.tar.gz",
       "size": 117897641,
-      "downloads": 369,
+      "downloads": 374,
       "url": "https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-freebsd-aarch64.tar.gz",
       "platform": "📦 其他"
     },
     {
       "name": "photocraft-0.19.0-freebsd-x86_64.tar.gz",
       "size": 124250198,
-      "downloads": 265,
+      "downloads": 270,
       "url": "https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-freebsd-x86_64.tar.gz",
       "platform": "⌨️ CLI"
     },
     {
       "name": "photocraft-0.19.0-linux-aarch64.AppImage",
       "size": 114244104,
-      "downloads": 321,
+      "downloads": 325,
       "url": "https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-linux-aarch64.AppImage",
       "platform": "🐧 Linux"
     },
@@ -69,14 +69,14 @@
     {
       "name": "photocraft-0.19.0-linux-aarch64.deb",
       "size": 122904002,
-      "downloads": 373,
+      "downloads": 374,
       "url": "https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-linux-aarch64.deb",
       "platform": "🐧 Linux"
     },
     {
       "name": "photocraft-0.19.0-linux-aarch64.flatpak",
       "size": 89055728,
-      "downloads": 227,
+      "downloads": 229,
       "url": "https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-linux-aarch64.flatpak",
       "platform": "🐧 Linux"
     },
@@ -132,7 +132,7 @@
     {
       "name": "photocraft-0.19.0-linux-x86_64.AppImage.zsync",
       "size": 203586,
-      "downloads": 1314,
+      "downloads": 1329,
       "url": "https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-linux-x86_64.AppImage.zsync",
       "platform": "🐧 Linux"
     },
@@ -160,14 +160,14 @@
     {
       "name": "photocraft-0.19.0-linux-x86_64.rpm",
       "size": 125936833,
-      "downloads": 1261,
+      "downloads": 1266,
       "url": "https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-linux-x86_64.rpm",
       "platform": "🐧 Linux"
     },
     {
       "name": "photocraft-0.19.0-linux-x86_64.tar.gz",
       "size": 124973036,
-      "downloads": 2202,
+      "downloads": 2223,
       "url": "https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-linux-x86_64.tar.gz",
       "platform": "🐧 Linux"
     },
@@ -181,21 +181,21 @@
     {
       "name": "photocraft-0.19.0-windows-arm64-portable.zip",
       "size": 122098562,
-      "downloads": 377,
+      "downloads": 380,
       "url": "https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-windows-arm64-portable.zip",
       "platform": "🪟 Windows"
     },
     {
       "name": "photocraft-0.19.0-windows-arm64-symbols.zip",
       "size": 5832801,
-      "downloads": 189,
+      "downloads": 190,
       "url": "https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-windows-arm64-symbols.zip",
       "platform": "🪟 Windows"
     },
     {
       "name": "photocraft-0.19.0-windows-arm64.msi",
       "size": 101318656,
-      "downloads": 452,
+      "downloads": 455,
       "url": "https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-windows-arm64.msi",
       "platform": "🪟 Windows"
     },
@@ -209,7 +209,7 @@
     {
       "name": "photocraft-0.19.0-windows-x64-symbols.zip",
       "size": 6240706,
-      "downloads": 338,
+      "downloads": 343,
       "url": "https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-windows-x64-symbols.zip",
       "platform": "🪟 Windows"
     },
@@ -223,35 +223,35 @@
     {
       "name": "photocraft-0.19.0-windows-x86-portable.zip",
       "size": 122236182,
-      "downloads": 425,
+      "downloads": 429,
       "url": "https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-windows-x86-portable.zip",
       "platform": "🪟 Windows"
     },
     {
       "name": "photocraft-0.19.0-windows-x86-symbols.zip",
       "size": 6001770,
-      "downloads": 201,
+      "downloads": 203,
       "url": "https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-windows-x86-symbols.zip",
       "platform": "🪟 Windows"
     },
     {
       "name": "photocraft-0.19.0-windows-x86.msi",
       "size": 103636992,
-      "downloads": 401,
+      "downloads": 407,
       "url": "https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-windows-x86.msi",
       "platform": "🪟 Windows"
     },
     {
       "name": "photocraft-cli-0.19.0-macos-universal.zip",
       "size": 106990587,
-      "downloads": 580,
+      "downloads": 583,
       "url": "https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-cli-0.19.0-macos-universal.zip",
       "platform": "🍎 macOS"
     },
     {
       "name": "photocraft-web-0.19.0.zip",
       "size": 13433636,
-      "downloads": 947,
+      "downloads": 950,
       "url": "https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-web-0.19.0.zip",
       "platform": "🌐 Web"
     },
@@ -263,5 +263,5 @@
       "platform": "🔐 校验文件"
     }
   ],
-  "generated_at": "2026-11-02T18:50:34+08:00"
+  "generated_at": "2026-11-02T18:56:50+08:00"
 }

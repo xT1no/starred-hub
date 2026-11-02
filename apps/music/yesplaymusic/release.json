@@ -64,7 +64,7 @@
     {
       "name": "latest-mac.yml",
       "size": 690,
-      "downloads": 11003,
+      "downloads": 11009,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/latest-mac.yml",
       "platform": "🍎 macOS"
     },
@@ -120,7 +120,7 @@
     {
       "name": "YesPlayMusic-mac-0.4.11-arm64.dmg",
       "size": 93117485,
-      "downloads": 1023,
+      "downloads": 1024,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-arm64.dmg",
       "platform": "🍎 macOS"
     },
@@ -195,5 +195,5 @@
       "platform": "🐧 Linux"
     }
   ],
-  "generated_at": "2026-11-02T18:50:34+08:00"
+  "generated_at": "2026-11-02T18:56:50+08:00"
 }

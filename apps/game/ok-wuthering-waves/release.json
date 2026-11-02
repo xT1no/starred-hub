@@ -48,31 +48,31 @@
     {
       "name": "ok-ww-win32-Global-setup.exe",
       "size": 535290182,
-      "downloads": 921,
+      "downloads": 923,
       "url": "https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.13/ok-ww-win32-Global-setup.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "ok-ww-win32-online-setup.exe",
       "size": 4023104,
-      "downloads": 1151,
+      "downloads": 1154,
       "url": "https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.13/ok-ww-win32-online-setup.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "ok-ww-win32.zip",
       "size": 4976102,
-      "downloads": 832,
+      "downloads": 834,
       "url": "https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.13/ok-ww-win32.zip",
       "platform": "🪟 Windows"
     },
     {
       "name": "win32_sha256.txt",
       "size": 64,
-      "downloads": 1936,
+      "downloads": 1941,
       "url": "https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.13/win32_sha256.txt",
       "platform": "🔐 校验文件"
     }
   ],
-  "generated_at": "2026-11-02T18:50:34+08:00"
+  "generated_at": "2026-11-02T18:56:50+08:00"
 }

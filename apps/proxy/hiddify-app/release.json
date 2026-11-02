@@ -13,7 +13,7 @@
     "跨平台桌面"
   ],
   "language": "Dart",
-  "stars": 33590,
+  "stars": 33591,
   "forks": 3156,
   "license": "NOASSERTION",
   "archived": false,
@@ -52,7 +52,7 @@
     {
       "name": "Hiddify-Android-arm64.apk",
       "size": 119028082,
-      "downloads": 331259,
+      "downloads": 331261,
       "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Android-arm64.apk",
       "platform": "📲 Android"
     },
@@ -66,28 +66,28 @@
     {
       "name": "Hiddify-Android-universal.apk",
       "size": 339558475,
-      "downloads": 534588,
+      "downloads": 534592,
       "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Android-universal.apk",
       "platform": "📲 Android"
     },
     {
       "name": "Hiddify-Android-x86_64.apk",
       "size": 128596321,
-      "downloads": 112390,
+      "downloads": 112393,
       "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Android-x86_64.apk",
       "platform": "📲 Android"
     },
     {
       "name": "Hiddify-Debian-x64.deb",
       "size": 42466870,
-      "downloads": 131145,
+      "downloads": 131149,
       "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Debian-x64.deb",
       "platform": "🐧 Linux"
     },
     {
       "name": "Hiddify-Linux-x64-AppImage.AppImage",
       "size": 55220728,
-      "downloads": 66603,
+      "downloads": 66606,
       "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Linux-x64-AppImage.AppImage",
       "platform": "🐧 Linux"
     },
@@ -115,14 +115,14 @@
     {
       "name": "Hiddify-Windows-Portable-x64.zip",
       "size": 117708800,
-      "downloads": 388794,
+      "downloads": 388802,
       "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Windows-Portable-x64.zip",
       "platform": "🪟 Windows"
     },
     {
       "name": "Hiddify-Windows-Setup-x64.exe",
       "size": 36486310,
-      "downloads": 1425325,
+      "downloads": 1425366,
       "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Windows-Setup-x64.exe",
       "platform": "🪟 Windows"
     },
@@ -134,5 +134,5 @@
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-11-02T18:50:34+08:00"
+  "generated_at": "2026-11-02T18:56:50+08:00"
 }

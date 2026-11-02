@@ -56,7 +56,7 @@
     {
       "name": "Steam++_v3.1.0_linux_x64.tgz",
       "size": 85626421,
-      "downloads": 80661,
+      "downloads": 80664,
       "url": "https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_linux_x64.tgz",
       "platform": "🐧 Linux"
     },
@@ -70,17 +70,17 @@
     {
       "name": "Steam++_v3.1.0_win_x64.7z",
       "size": 94651502,
-      "downloads": 74010,
+      "downloads": 74014,
       "url": "https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_win_x64.7z",
       "platform": "📦 其他"
     },
     {
       "name": "Steam++_v3.1.0_win_x64.exe",
       "size": 96754104,
-      "downloads": 217114,
+      "downloads": 217145,
       "url": "https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_win_x64.exe",
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-11-02T18:50:34+08:00"
+  "generated_at": "2026-11-02T18:56:50+08:00"
 }

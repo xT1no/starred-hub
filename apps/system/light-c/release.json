@@ -75,7 +75,7 @@
     {
       "name": "LightC_portable_x64_v2.18.1.zip",
       "size": 8225152,
-      "downloads": 36,
+      "downloads": 38,
       "url": "https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_portable_x64_v2.18.1.zip",
       "platform": "🌐 Web"
     },
@@ -101,5 +101,5 @@
       "platform": "🔐 校验文件"
     }
   ],
-  "generated_at": "2026-11-02T18:50:34+08:00"
+  "generated_at": "2026-11-02T18:56:50+08:00"
 }

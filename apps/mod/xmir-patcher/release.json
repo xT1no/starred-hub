@@ -13,7 +13,7 @@
     "路由器 / 固件"
   ],
   "language": "Python",
-  "stars": 3757,
+  "stars": 3758,
   "forks": 432,
   "license": "",
   "archived": false,
@@ -38,5 +38,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-11-02T18:50:34+08:00"
+  "generated_at": "2026-11-02T18:56:50+08:00"
 }

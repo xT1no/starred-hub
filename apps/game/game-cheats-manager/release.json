@@ -13,7 +13,7 @@
     "Windows"
   ],
   "language": "C++",
-  "stars": 15904,
+  "stars": 15905,
   "forks": 578,
   "license": "GPL-3.0",
   "archived": false,
@@ -40,10 +40,10 @@
     {
       "name": "Game.Cheats.Manager.Setup.2.5.4.exe",
       "size": 39474900,
-      "downloads": 38038,
+      "downloads": 38043,
       "url": "https://github.com/dyang886/Game-Cheats-Manager/releases/download/v2.5.4/Game.Cheats.Manager.Setup.2.5.4.exe",
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-11-02T18:50:34+08:00"
+  "generated_at": "2026-11-02T18:56:50+08:00"
 }

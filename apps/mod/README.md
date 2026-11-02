@@ -10,7 +10,7 @@
 
 | 应用 | 简介 | 平台 | 最新版本 | 更新 | ⭐ | 下载 |
 |:---|:---|:---:|:---:|:---:|---:|:---:|
-| [xmir-patcher](xmir-patcher/README.md) 🆕 | Firmware patcher for Xiaomi routers | 🛰️ | `—` | 今天 | 3.8k | — |
+| [xmir-patcher](xmir-patcher/README.md) 🆕 | Firmware patcher for Xiaomi routers | 🛰️ | `—` | 昨天 | 3.8k | — |
 | [GKD_subscription](gkd_subscription/README.md) 🆕 | 用于安卓 GKD 的第三方订阅规则 (👻Fork版) | 📲 | `v623` | 昨天 | 6.6k | — |
 | [iloader](iloader/README.md) 🆕 | User friendly sideloader | 📱 | `v2.4.1` | 4 天前 | 4.5k | [⬇️](https://github.com/nab138/iloader/releases/download/v2.4.1/iloader-windows-x64.exe) |
 | [EdgeCopilotFix](edgecopilotfix/README.md) | 解决某些地区Edge浏览器copilot消失的问题 | 🪟 | `1.2` | 16 天前 | 111 | [⬇️](https://github.com/emmm1245/EdgeCopilotFix/releases/download/1.2/EdgeCopilotFixTool-windows-amd64.exe) |

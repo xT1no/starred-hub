@@ -18,7 +18,7 @@
 | 🎵 [音乐 / 音频](music/README.md) | 5 | 4 | 16 天前 |
 | 🎬 [影视 / 直播 / 番剧](video/README.md) | 21 | 14 | 今天 |
 | 🤖 [AI / 大模型](ai/README.md) | 1 | 1 | 1 年前 |
-| 🧩 [应用增强 / 模块](mod/README.md) | 12 | 9 | 今天 |
+| 🧩 [应用增强 / 模块](mod/README.md) | 12 | 9 | 昨天 |
 | ⚙️ [系统增强 / 优化](system/README.md) | 20 | 20 | 今天 |
 | 🛠️ [开发工具](dev/README.md) | 1 | 1 | 3 天前 |
 | 📄 [办公 / 阅读 / 笔记](office/README.md) | 4 | 3 | 11 天前 |

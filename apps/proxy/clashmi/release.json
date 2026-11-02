@@ -55,7 +55,7 @@
     {
       "name": "clashmi_1.0.31.1703_android_armeabi-v7a.apk",
       "size": 52934191,
-      "downloads": 6910,
+      "downloads": 6912,
       "url": "https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_android_armeabi-v7a.apk",
       "platform": "📲 Android"
     },
@@ -83,7 +83,7 @@
     {
       "name": "clashmi_1.0.31.1703_macos_universal.dmg",
       "size": 97900300,
-      "downloads": 28855,
+      "downloads": 28862,
       "url": "https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_macos_universal.dmg",
       "platform": "🍎 macOS"
     },
@@ -97,7 +97,7 @@
     {
       "name": "clashmi_1.0.31.1703_windows_x64.exe",
       "size": 45517373,
-      "downloads": 179734,
+      "downloads": 179774,
       "url": "https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_windows_x64.exe",
       "platform": "🪟 Windows"
     },
@@ -109,5 +109,5 @@
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-11-02T18:50:34+08:00"
+  "generated_at": "2026-11-02T18:56:50+08:00"
 }

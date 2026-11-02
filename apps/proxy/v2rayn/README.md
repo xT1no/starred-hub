@@ -69,7 +69,7 @@ A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 | [v2rayN-windows-64-desktop.zip](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-64-desktop.zip) | 🪟 Windows | 138.0 MB | 208k |
 | [v2rayN-windows-arm64.zip](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-arm64.zip) | 🪟 Windows | 148.6 MB | 8.8k |
 | [v2rayN-windows-86-desktop.zip](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-86-desktop.zip) | 🪟 Windows | 138.7 MB | 8.3k |
-| [v2rayN-windows-86.zip](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-86.zip) | 🪟 Windows | 134.6 MB | 7.8k |
+| [v2rayN-windows-86.zip](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-86.zip) | 🪟 Windows | 134.6 MB | 7.9k |
 | [v2rayN-windows-arm64-desktop.zip](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-arm64-desktop.zip) | 🪟 Windows | 128.7 MB | 7.3k |
 | [v2rayN-linux-64.deb](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-64.deb) | 🐧 Linux | 82.6 MB | 33k |
 | [v2rayN-linux-64.zip](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-64.zip) | 🐧 Linux | 136.2 MB | 30k |
@@ -83,7 +83,7 @@ A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 | [v2rayN-linux-rhel-riscv64.rpm](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-rhel-riscv64.rpm) | 🐧 Linux | 84.6 MB | 875 |
 | [v2rayN-windows-64.zip.sig](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-64.zip.sig) | 🔐 校验文件 | 297 B | 3.5k |
 | [v2rayN-windows-64-desktop.zip.sig](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-64-desktop.zip.sig) | 🔐 校验文件 | 297 B | 3.5k |
-| [v2rayN-linux-64.deb.sig](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-64.deb.sig) | 🔐 校验文件 | 297 B | 2.5k |
+| [v2rayN-linux-64.deb.sig](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-64.deb.sig) | 🔐 校验文件 | 297 B | 2.6k |
 | [v2rayN-linux-64.zip.sig](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-64.zip.sig) | 🔐 校验文件 | 297 B | 1.5k |
 
 还有 16 个文件，见 [Release 页面](https://github.com/2dust/v2rayN/releases/tag/7.25.6)。

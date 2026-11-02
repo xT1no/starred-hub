@@ -13,7 +13,7 @@
     "跨平台桌面"
   ],
   "language": "Dart",
-  "stars": 60443,
+  "stars": 60445,
   "forks": 3968,
   "license": "GPL-3.0",
   "archived": false,
@@ -50,7 +50,7 @@
     {
       "name": "FlClash-0.9.2-android-armeabi-v7a.apk",
       "size": 61087115,
-      "downloads": 25727,
+      "downloads": 25742,
       "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-android-armeabi-v7a.apk",
       "platform": "📲 Android"
     },
@@ -71,7 +71,7 @@
     {
       "name": "FlClash-0.9.2-linux-amd64.deb",
       "size": 40536736,
-      "downloads": 10835,
+      "downloads": 10842,
       "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-amd64.deb",
       "platform": "🐧 Linux"
     },
@@ -92,7 +92,7 @@
     {
       "name": "FlClash-0.9.2-linux-arm64.deb",
       "size": 36902216,
-      "downloads": 2902,
+      "downloads": 2903,
       "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-arm64.deb",
       "platform": "🐧 Linux"
     },
@@ -113,7 +113,7 @@
     {
       "name": "FlClash-0.9.2-macos-arm64.dmg",
       "size": 59274695,
-      "downloads": 37302,
+      "downloads": 37332,
       "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-macos-arm64.dmg",
       "platform": "🍎 macOS"
     },
@@ -127,7 +127,7 @@
     {
       "name": "FlClash-0.9.2-windows-amd64.zip",
       "size": 68849327,
-      "downloads": 39134,
+      "downloads": 39158,
       "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-windows-amd64.zip",
       "platform": "🪟 Windows"
     },
@@ -141,7 +141,7 @@
     {
       "name": "FlClash-0.9.2-windows-arm64.zip",
       "size": 64720466,
-      "downloads": 3217,
+      "downloads": 3219,
       "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-windows-arm64.zip",
       "platform": "🪟 Windows"
     },
@@ -153,5 +153,5 @@
       "platform": "🔐 校验文件"
     }
   ],
-  "generated_at": "2026-11-02T18:50:34+08:00"
+  "generated_at": "2026-11-02T18:56:50+08:00"
 }

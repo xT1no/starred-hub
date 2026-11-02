@@ -81,7 +81,7 @@
     {
       "name": "cfst_linux_arm64.tar.gz",
       "size": 2892627,
-      "downloads": 4852,
+      "downloads": 4853,
       "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_linux_arm64.tar.gz",
       "platform": "🐧 Linux"
     },
@@ -151,7 +151,7 @@
     {
       "name": "cfst_windows_amd64.zip",
       "size": 3324747,
-      "downloads": 76467,
+      "downloads": 76470,
       "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_windows_amd64.zip",
       "platform": "🪟 Windows"
     },
@@ -170,5 +170,5 @@
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-11-02T18:50:34+08:00"
+  "generated_at": "2026-11-02T18:56:50+08:00"
 }

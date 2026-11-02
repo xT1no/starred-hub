@@ -36,7 +36,7 @@
     {
       "name": "gpt4all-installer-linux-v3.10.0.run",
       "size": 732745048,
-      "downloads": 10941,
+      "downloads": 10943,
       "url": "https://github.com/nomic-ai/gpt4all/releases/download/v3.10.0/gpt4all-installer-linux-v3.10.0.run",
       "platform": "🐧 Linux"
     },
@@ -62,5 +62,5 @@
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-11-02T18:50:34+08:00"
+  "generated_at": "2026-11-02T18:56:50+08:00"
 }

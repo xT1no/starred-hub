@@ -47,21 +47,21 @@
     {
       "name": "karing_1.2.25.2802_android_armeabi-v7a.apk",
       "size": 55608414,
-      "downloads": 69654,
+      "downloads": 69655,
       "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_android_armeabi-v7a.apk",
       "platform": "📲 Android"
     },
     {
       "name": "karing_1.2.25.2802_linux_amd64.AppImage",
       "size": 67418616,
-      "downloads": 3017,
+      "downloads": 3019,
       "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_linux_amd64.AppImage",
       "platform": "🐧 Linux"
     },
     {
       "name": "karing_1.2.25.2802_linux_amd64.deb",
       "size": 45185872,
-      "downloads": 20378,
+      "downloads": 20379,
       "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_linux_amd64.deb",
       "platform": "🐧 Linux"
     },
@@ -96,10 +96,10 @@
     {
       "name": "karing_1.2.25.2802_windows_x64.zip",
       "size": 67456455,
-      "downloads": 27567,
+      "downloads": 27569,
       "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_windows_x64.zip",
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-11-02T18:50:34+08:00"
+  "generated_at": "2026-11-02T18:56:50+08:00"
 }

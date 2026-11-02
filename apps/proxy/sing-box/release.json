@@ -33,14 +33,14 @@
     {
       "name": "SFA-1.14.4-arm64-v8a.apk",
       "size": 36665679,
-      "downloads": 13418,
+      "downloads": 13424,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-arm64-v8a.apk",
       "platform": "📲 Android"
     },
     {
       "name": "SFA-1.14.4-armeabi-v7a.apk",
       "size": 36545037,
-      "downloads": 862,
+      "downloads": 863,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-armeabi-v7a.apk",
       "platform": "📲 Android"
     },
@@ -187,7 +187,7 @@
     {
       "name": "SFM-1.14.4-Apple.pkg",
       "size": 48262186,
-      "downloads": 2315,
+      "downloads": 2317,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFM-1.14.4-Apple.pkg",
       "platform": "📦 其他"
     },
@@ -201,7 +201,7 @@
     {
       "name": "SFM-1.14.4-Universal.pkg",
       "size": 103541311,
-      "downloads": 3315,
+      "downloads": 3316,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFM-1.14.4-Universal.pkg",
       "platform": "📦 其他"
     },
@@ -222,7 +222,7 @@
     {
       "name": "SFW-1.14.4-x64.exe",
       "size": 115346760,
-      "downloads": 5463,
+      "downloads": 5466,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFW-1.14.4-x64.exe",
       "platform": "🪟 Windows"
     },
@@ -264,21 +264,21 @@
     {
       "name": "sing-box-1.14.4-darwin-amd64-legacy-macos-10.13.tar.gz",
       "size": 26154953,
-      "downloads": 317,
+      "downloads": 319,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-darwin-amd64-legacy-macos-10.13.tar.gz",
       "platform": "🍎 macOS"
     },
     {
       "name": "sing-box-1.14.4-darwin-amd64.tar.gz",
       "size": 31503132,
-      "downloads": 4120,
+      "downloads": 4121,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-darwin-amd64.tar.gz",
       "platform": "🍎 macOS"
     },
     {
       "name": "sing-box-1.14.4-darwin-arm64.tar.gz",
       "size": 29186204,
-      "downloads": 16100,
+      "downloads": 16107,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-darwin-arm64.tar.gz",
       "platform": "🍎 macOS"
     },
@@ -311,5 +311,5 @@
       "platform": "🐧 Linux"
     }
   ],
-  "generated_at": "2026-11-02T18:50:34+08:00"
+  "generated_at": "2026-11-02T18:56:50+08:00"
 }

@@ -33,7 +33,7 @@
     {
       "name": "Pages.zip",
       "size": 15220,
-      "downloads": 17146,
+      "downloads": 17147,
       "url": "https://github.com/byJoey/cfnew/releases/download/v2026.10.17.2/Pages.zip",
       "platform": "🌐 Web"
     },
@@ -47,10 +47,10 @@
     {
       "name": "_worker.js",
       "size": 37806,
-      "downloads": 1553,
+      "downloads": 1555,
       "url": "https://github.com/byJoey/cfnew/releases/download/v2026.10.17.2/_worker.js",
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-11-02T18:50:34+08:00"
+  "generated_at": "2026-11-02T18:56:50+08:00"
 }

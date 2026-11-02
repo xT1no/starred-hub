@@ -53,11 +53,11 @@ The universal proxy platform
 |:---|:---:|:---|---:|
 | [sing-box-1.14.4-darwin-arm64.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-darwin-arm64.tar.gz) | 🍎 macOS | 27.8 MB | 16k |
 | [sing-box-1.14.4-darwin-amd64.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-darwin-amd64.tar.gz) | 🍎 macOS | 30.0 MB | 4.1k |
-| [sing-box-1.14.4-darwin-amd64-legacy-macos-10.13.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-darwin-amd64-legacy-macos-10.13.tar.gz) | 🍎 macOS | 24.9 MB | 317 |
+| [sing-box-1.14.4-darwin-amd64-legacy-macos-10.13.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-darwin-amd64-legacy-macos-10.13.tar.gz) | 🍎 macOS | 24.9 MB | 319 |
 | [SFA-1.14.4-arm64-v8a.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-arm64-v8a.apk) | 📲 Android | 35.0 MB | 13k |
 | [SFA-1.14.4-universal.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-universal.apk) | 📲 Android | 121.4 MB | 2.1k |
 | [sing-box-1.14.4-android-arm64.tar.gz](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-android-arm64.tar.gz) | 📲 Android | 24.4 MB | 1.8k |
-| [SFA-1.14.4-armeabi-v7a.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-armeabi-v7a.apk) | 📲 Android | 34.9 MB | 862 |
+| [SFA-1.14.4-armeabi-v7a.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-armeabi-v7a.apk) | 📲 Android | 34.9 MB | 863 |
 | [SFA-1.14.4-legacy-android-5-arm64-v8a.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-legacy-android-5-arm64-v8a.apk) | 📲 Android | 29.8 MB | 796 |
 | [SFA-1.14.4-x86_64.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-x86_64.apk) | 📲 Android | 36.8 MB | 615 |
 | [SFA-1.14.4-legacy-android-5-universal.apk](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-legacy-android-5-universal.apk) | 📲 Android | 101.9 MB | 570 |

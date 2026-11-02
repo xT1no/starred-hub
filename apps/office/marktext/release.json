@@ -77,21 +77,21 @@
     {
       "name": "latest.yml",
       "size": 518,
-      "downloads": 2880,
+      "downloads": 2881,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/latest.yml",
       "platform": "📦 其他"
     },
     {
       "name": "marktext-linux-0.23.0.AppImage",
       "size": 165020655,
-      "downloads": 1511,
+      "downloads": 1514,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-0.23.0.AppImage",
       "platform": "🐧 Linux"
     },
     {
       "name": "marktext-linux-0.23.0.deb",
       "size": 126657272,
-      "downloads": 2497,
+      "downloads": 2500,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-0.23.0.deb",
       "platform": "🐧 Linux"
     },
@@ -175,7 +175,7 @@
     {
       "name": "marktext-mac-x64-0.23.0.dmg",
       "size": 164727278,
-      "downloads": 1477,
+      "downloads": 1479,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-x64-0.23.0.dmg",
       "platform": "🍎 macOS"
     },
@@ -238,17 +238,17 @@
     {
       "name": "marktext-win-x64-0.23.0.zip",
       "size": 181482586,
-      "downloads": 8035,
+      "downloads": 8037,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-x64-0.23.0.zip",
       "platform": "🪟 Windows"
     },
     {
       "name": "SHA256SUMS.txt",
       "size": 2691,
-      "downloads": 2285,
+      "downloads": 2286,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/SHA256SUMS.txt",
       "platform": "🔐 校验文件"
     }
   ],
-  "generated_at": "2026-11-02T18:50:34+08:00"
+  "generated_at": "2026-11-02T18:56:50+08:00"
 }

@@ -14,7 +14,7 @@
   ],
   "language": "Kotlin",
   "stars": 30271,
-  "forks": 1531,
+  "forks": 1532,
   "license": "GPL-3.0",
   "archived": false,
   "homepage": "",
@@ -56,7 +56,7 @@
     {
       "name": "Seal-1.13.1-universal-release.apk",
       "size": 144991600,
-      "downloads": 322826,
+      "downloads": 322830,
       "url": "https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-universal-release.apk",
       "platform": "📲 Android"
     },
@@ -75,5 +75,5 @@
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-11-02T18:50:34+08:00"
+  "generated_at": "2026-11-02T18:56:50+08:00"
 }

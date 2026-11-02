@@ -33,7 +33,7 @@
     {
       "name": "BT-v0.9.41-universal-api19-22.apk",
       "size": 3422342,
-      "downloads": 10227,
+      "downloads": 10234,
       "url": "https://github.com/chinasoul/BT/releases/download/v0.9.41/BT-v0.9.41-universal-api19-22.apk",
       "platform": "📲 Android"
     },
@@ -54,10 +54,10 @@
     {
       "name": "universal.apk",
       "size": 3296332,
-      "downloads": 4415,
+      "downloads": 4422,
       "url": "https://github.com/chinasoul/BT/releases/download/v0.9.41/universal.apk",
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-11-02T18:50:34+08:00"
+  "generated_at": "2026-11-02T18:56:50+08:00"
 }

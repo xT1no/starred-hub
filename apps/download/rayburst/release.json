@@ -173,7 +173,7 @@
     {
       "name": "Rayburst_x64.app.tar.gz",
       "size": 27884925,
-      "downloads": 333,
+      "downloads": 334,
       "url": "https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_x64.app.tar.gz",
       "platform": "📦 其他"
     },
@@ -185,5 +185,5 @@
       "platform": "🔐 校验文件"
     }
   ],
-  "generated_at": "2026-11-02T18:50:34+08:00"
+  "generated_at": "2026-11-02T18:56:50+08:00"
 }

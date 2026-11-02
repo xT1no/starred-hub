@@ -42,7 +42,7 @@
     {
       "name": "app-arm64-v8a-release.apk",
       "size": 18228172,
-      "downloads": 37678,
+      "downloads": 37679,
       "url": "https://github.com/maotoumao/MusicFree/releases/download/v0.6.2/app-arm64-v8a-release.apk",
       "platform": "📲 Android"
     },
@@ -56,7 +56,7 @@
     {
       "name": "app-universal-release.apk",
       "size": 31675833,
-      "downloads": 9259,
+      "downloads": 9260,
       "url": "https://github.com/maotoumao/MusicFree/releases/download/v0.6.2/app-universal-release.apk",
       "platform": "📲 Android"
     },
@@ -75,5 +75,5 @@
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-11-02T18:50:34+08:00"
+  "generated_at": "2026-11-02T18:56:50+08:00"
 }
