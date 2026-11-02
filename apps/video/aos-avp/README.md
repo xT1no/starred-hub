@@ -57,9 +57,9 @@ Thanks to @pratikpatel8982 for his contributions to this release.
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [org.courville.nova-2674070-6.6.3-20261101.1547-arm64-v8a-re…](https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.3/org.courville.nova-2674070-6.6.3-20261101.1547-arm64-v8a-release.apk) | 📲 Android | 33.3 MB | 278 |
+| [org.courville.nova-2674070-6.6.3-20261101.1547-arm64-v8a-re…](https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.3/org.courville.nova-2674070-6.6.3-20261101.1547-arm64-v8a-release.apk) | 📲 Android | 33.3 MB | 280 |
 | [org.courville.nova-2674070-6.6.3-20261101.1547-armeabi-v7a-…](https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.3/org.courville.nova-2674070-6.6.3-20261101.1547-armeabi-v7a-release.apk) | 📲 Android | 30.5 MB | 207 |
-| [org.courville.nova-2674070-6.6.3-20261101.1547-universal-re…](https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.3/org.courville.nova-2674070-6.6.3-20261101.1547-universal-release.apk) | 📲 Android | 88.8 MB | 133 |
+| [org.courville.nova-2674070-6.6.3-20261101.1547-universal-re…](https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.3/org.courville.nova-2674070-6.6.3-20261101.1547-universal-release.apk) | 📲 Android | 88.8 MB | 137 |
 | [org.courville.nova-2674070-6.6.3-20261101.1547-x86_64-relea…](https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.3/org.courville.nova-2674070-6.6.3-20261101.1547-x86_64-release.apk) | 📲 Android | 34.1 MB | 26 |
 | [org.courville.nova-2674070-6.6.3-20261101.1547-x86-release.…](https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.3/org.courville.nova-2674070-6.6.3-20261101.1547-x86-release.apk) | 📲 Android | 33.0 MB | 11 |
 | [manifest.xml](https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.3/manifest.xml) | 📦 其他 | 6 KB | 3 |

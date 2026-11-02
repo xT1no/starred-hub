@@ -70,7 +70,7 @@
     {
       "name": "latest-mac.yml",
       "size": 806,
-      "downloads": 19313,
+      "downloads": 19327,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/latest-mac.yml",
       "platform": "🍎 macOS"
     },
@@ -161,7 +161,7 @@
     {
       "name": "marktext-mac-arm64-0.23.0.zip",
       "size": 157696460,
-      "downloads": 1213,
+      "downloads": 1214,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-arm64-0.23.0.zip",
       "platform": "🍎 macOS"
     },

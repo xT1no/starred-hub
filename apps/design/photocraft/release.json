@@ -125,56 +125,56 @@
     {
       "name": "photocraft-0.19.0-linux-x86_64.AppImage",
       "size": 118979064,
-      "downloads": 5804,
+      "downloads": 5846,
       "url": "https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-linux-x86_64.AppImage",
       "platform": "🐧 Linux"
     },
     {
       "name": "photocraft-0.19.0-linux-x86_64.AppImage.zsync",
       "size": 203586,
-      "downloads": 1329,
+      "downloads": 1341,
       "url": "https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-linux-x86_64.AppImage.zsync",
       "platform": "🐧 Linux"
     },
     {
       "name": "photocraft-0.19.0-linux-x86_64.deb",
       "size": 126761222,
-      "downloads": 4115,
+      "downloads": 4164,
       "url": "https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-linux-x86_64.deb",
       "platform": "🐧 Linux"
     },
     {
       "name": "photocraft-0.19.0-linux-x86_64.flatpak",
       "size": 95027536,
-      "downloads": 3576,
+      "downloads": 3611,
       "url": "https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-linux-x86_64.flatpak",
       "platform": "🐧 Linux"
     },
     {
       "name": "photocraft-0.19.0-linux-x86_64.pkg.tar.zst",
       "size": 100736199,
-      "downloads": 740,
+      "downloads": 747,
       "url": "https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-linux-x86_64.pkg.tar.zst",
       "platform": "🐧 Linux"
     },
     {
       "name": "photocraft-0.19.0-linux-x86_64.rpm",
       "size": 125936833,
-      "downloads": 1266,
+      "downloads": 1274,
       "url": "https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-linux-x86_64.rpm",
       "platform": "🐧 Linux"
     },
     {
       "name": "photocraft-0.19.0-linux-x86_64.tar.gz",
       "size": 124973036,
-      "downloads": 2223,
+      "downloads": 2242,
       "url": "https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-linux-x86_64.tar.gz",
       "platform": "🐧 Linux"
     },
     {
       "name": "photocraft-0.19.0-macos-universal.dmg",
       "size": 245646104,
-      "downloads": 16569,
+      "downloads": 16762,
       "url": "https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-macos-universal.dmg",
       "platform": "🍎 macOS"
     },
@@ -195,35 +195,35 @@
     {
       "name": "photocraft-0.19.0-windows-arm64.msi",
       "size": 101318656,
-      "downloads": 455,
+      "downloads": 458,
       "url": "https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-windows-arm64.msi",
       "platform": "🪟 Windows"
     },
     {
       "name": "photocraft-0.19.0-windows-x64-portable.zip",
       "size": 128204896,
-      "downloads": 6740,
+      "downloads": 6823,
       "url": "https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-windows-x64-portable.zip",
       "platform": "🪟 Windows"
     },
     {
       "name": "photocraft-0.19.0-windows-x64-symbols.zip",
       "size": 6240706,
-      "downloads": 343,
+      "downloads": 348,
       "url": "https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-windows-x64-symbols.zip",
       "platform": "🪟 Windows"
     },
     {
       "name": "photocraft-0.19.0-windows-x64.msi",
       "size": 107081728,
-      "downloads": 32283,
+      "downloads": 32632,
       "url": "https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-windows-x64.msi",
       "platform": "🪟 Windows"
     },
     {
       "name": "photocraft-0.19.0-windows-x86-portable.zip",
       "size": 122236182,
-      "downloads": 429,
+      "downloads": 435,
       "url": "https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-windows-x86-portable.zip",
       "platform": "🪟 Windows"
     },
@@ -258,7 +258,7 @@
     {
       "name": "SHA256SUMS.txt",
       "size": 3266,
-      "downloads": 2155,
+      "downloads": 2174,
       "url": "https://github.com/storytold/photocraft/releases/download/v0.19.0/SHA256SUMS.txt",
       "platform": "🔐 校验文件"
     }

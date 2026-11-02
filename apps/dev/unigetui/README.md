@@ -63,9 +63,9 @@ This release lets you add your own installers to the Software Catalog, adds Exte
 | [sizes.macos-x64.json](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/sizes.macos-x64.json) | 🍎 macOS | 342 B | 65 |
 | [UniGetUI.Installer.exe](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.Installer.exe) | 🪟 Windows | 34.2 MB | 246k |
 | [UniGetUI.Installer.x64.exe](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.Installer.x64.exe) | 🪟 Windows | 34.2 MB | 4.1k |
-| [UniGetUI.Installer.arm64.exe](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.Installer.arm64.exe) | 🪟 Windows | 32.6 MB | 352 |
+| [UniGetUI.Installer.arm64.exe](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.Installer.arm64.exe) | 🪟 Windows | 32.6 MB | 354 |
 | [UniGetUI.linux-x64.deb](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.linux-x64.deb) | 🐧 Linux | 38.1 MB | 273 |
-| [UniGetUI.arm64.zip](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.arm64.zip) | 🐧 Linux | 48.9 MB | 256 |
+| [UniGetUI.arm64.zip](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.arm64.zip) | 🐧 Linux | 48.9 MB | 259 |
 | [UniGetUI.linux-x64.tar.gz](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.linux-x64.tar.gz) | 🐧 Linux | 38.0 MB | 180 |
 | [UniGetUI.linux-x64.rpm](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.linux-x64.rpm) | 🐧 Linux | 37.9 MB | 174 |
 | [UniGetUI.linux-arm64.deb](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.linux-arm64.deb) | 🐧 Linux | 36.1 MB | 162 |

@@ -13,7 +13,7 @@
     "CLI"
   ],
   "language": "Go",
-  "stars": 39534,
+  "stars": 39535,
   "forks": 4863,
   "license": "NOASSERTION",
   "archived": false,
@@ -96,7 +96,7 @@
     {
       "name": "SFA-1.14.4-x86_64.apk",
       "size": 38579478,
-      "downloads": 615,
+      "downloads": 617,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-x86_64.apk",
       "platform": "📲 Android"
     },
@@ -229,7 +229,7 @@
     {
       "name": "SFW-1.14.4-x86.exe",
       "size": 99327896,
-      "downloads": 314,
+      "downloads": 316,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFW-1.14.4-x86.exe",
       "platform": "🪟 Windows"
     },
@@ -278,14 +278,14 @@
     {
       "name": "sing-box-1.14.4-darwin-arm64.tar.gz",
       "size": 29186204,
-      "downloads": 16107,
+      "downloads": 16127,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-darwin-arm64.tar.gz",
       "platform": "🍎 macOS"
     },
     {
       "name": "sing-box-1.14.4-linux-386-glibc.tar.gz",
       "size": 31175934,
-      "downloads": 1032,
+      "downloads": 1033,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-linux-386-glibc.tar.gz",
       "platform": "🐧 Linux"
     },

@@ -32,7 +32,7 @@
     "windows"
   ],
   "starred_at": "2024-05-14T18:33:35Z",
-  "pushed_at": "2026-11-02T10:58:40Z",
+  "pushed_at": "2026-11-02T11:01:30Z",
   "latest": {
     "kind": "release",
     "tag": "v2.5.9",
@@ -108,7 +108,7 @@
     {
       "name": "Clash.Verge_2.5.9_arm64-setup.exe",
       "size": 53757496,
-      "downloads": 119,
+      "downloads": 136,
       "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_arm64-setup.exe",
       "platform": "🪟 Windows"
     },

@@ -59,7 +59,7 @@ ios appstore: https://apps.apple.com/us/app/clash-mi/id6744321968
 | [clashmi_1.0.31.1703_windows_x64.exe](https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_windows_x64.exe) | 🪟 Windows | 43.4 MB | 180k |
 | [clashmi_1.0.31.1703_windows_x64.zip](https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_windows_x64.zip) | 🪟 Windows | 63.7 MB | 17k |
 | [clashmi_1.0.31.1703_linux_amd64.deb](https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_linux_amd64.deb) | 🐧 Linux | 43.5 MB | 2.9k |
-| [clashmi_1.0.31.1703_linux_amd64.AppImage](https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_linux_amd64.AppImage) | 🐧 Linux | 59.0 MB | 857 |
+| [clashmi_1.0.31.1703_linux_amd64.AppImage](https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_linux_amd64.AppImage) | 🐧 Linux | 59.0 MB | 860 |
 | [clashmi_1.0.31.1703_linux_amd64.rpm](https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_linux_amd64.rpm) | 🐧 Linux | 53.5 MB | 819 |
 
 ## 🔗 快速链接

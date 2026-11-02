@@ -15,7 +15,7 @@
     "Linux"
   ],
   "language": "C#",
-  "stars": 119783,
+  "stars": 119784,
   "forks": 16247,
   "license": "GPL-3.0",
   "archived": false,
@@ -103,7 +103,7 @@
     {
       "name": "v2rayN-linux-loong64.deb",
       "size": 74266148,
-      "downloads": 3016,
+      "downloads": 3017,
       "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-loong64.deb",
       "platform": "🐧 Linux"
     },
@@ -187,7 +187,7 @@
     {
       "name": "v2rayN-macos-64.dmg",
       "size": 142743437,
-      "downloads": 36934,
+      "downloads": 36952,
       "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-macos-64.dmg",
       "platform": "🍎 macOS"
     },
@@ -320,7 +320,7 @@
     {
       "name": "v2rayN-windows-arm64.zip",
       "size": 155862162,
-      "downloads": 8773,
+      "downloads": 8776,
       "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-arm64.zip",
       "platform": "🪟 Windows"
     }

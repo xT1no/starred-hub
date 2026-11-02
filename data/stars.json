@@ -1,6 +1,6 @@
 {
   "user": "xT1no",
-  "synced_at": "2026-11-02T18:59:54+08:00",
+  "synced_at": "2026-11-02T19:01:40+08:00",
   "count": 145,
   "repos": {
     "storytold/photocraft": {
@@ -206,7 +206,7 @@
       "name": "rayburst",
       "description": "Redefining the open-source download manager",
       "language": "TypeScript",
-      "stars": 11331,
+      "stars": 11330,
       "topics": [],
       "archived": false,
       "starred_at": "2026-06-10T05:38:47Z",
@@ -251,7 +251,7 @@
       "name": "OptiScaler",
       "description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
       "language": "C++",
-      "stars": 12313,
+      "stars": 12314,
       "topics": [
         "amd",
         "dlss",
@@ -419,7 +419,7 @@
       "name": "clashmi",
       "description": "Clash Mihomo for iOS/MacOS/Android/Windows/Linux",
       "language": "Dart",
-      "stars": 10230,
+      "stars": 10231,
       "topics": [
         "clash",
         "clashmi",
@@ -1506,7 +1506,7 @@
       "name": "sing-box",
       "description": "The universal proxy platform",
       "language": "Go",
-      "stars": 39534,
+      "stars": 39535,
       "topics": [],
       "archived": false,
       "starred_at": "2024-05-12T18:27:19Z",
@@ -1517,7 +1517,7 @@
       "name": "v2rayN",
       "description": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others",
       "language": "C#",
-      "stars": 119783,
+      "stars": 119784,
       "topics": [
         "proxy",
         "shadowsocks",
@@ -1593,7 +1593,7 @@
       "name": "Ehviewer_CN_SXJ",
       "description": "ehviewer，用爱发电，快乐前行",
       "language": "C",
-      "stars": 28554,
+      "stars": 28555,
       "topics": [
         "android",
         "apk",

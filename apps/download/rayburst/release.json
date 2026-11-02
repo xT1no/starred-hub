@@ -13,7 +13,7 @@
     "跨平台桌面"
   ],
   "language": "TypeScript",
-  "stars": 11331,
+  "stars": 11330,
   "forks": 347,
   "license": "MIT",
   "archived": false,
@@ -96,7 +96,7 @@
     {
       "name": "Rayburst_4.1.1_amd64.deb",
       "size": 28503120,
-      "downloads": 986,
+      "downloads": 987,
       "url": "https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_amd64.deb",
       "platform": "🐧 Linux"
     },
@@ -138,7 +138,7 @@
     {
       "name": "Rayburst_4.1.1_x64-setup.exe",
       "size": 25761517,
-      "downloads": 19929,
+      "downloads": 19944,
       "url": "https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_x64-setup.exe",
       "platform": "🪟 Windows"
     },

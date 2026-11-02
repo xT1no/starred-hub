@@ -17,7 +17,7 @@
     "Android"
   ],
   "language": "Dart",
-  "stars": 10230,
+  "stars": 10231,
   "forks": 639,
   "license": "GPL-3.0",
   "archived": false,
@@ -48,7 +48,7 @@
     {
       "name": "clashmi_1.0.31.1703_android_arm64-v8a.apk",
       "size": 52749835,
-      "downloads": 157381,
+      "downloads": 157413,
       "url": "https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_android_arm64-v8a.apk",
       "platform": "📲 Android"
     },
@@ -62,7 +62,7 @@
     {
       "name": "clashmi_1.0.31.1703_linux_amd64.AppImage",
       "size": 61893112,
-      "downloads": 857,
+      "downloads": 860,
       "url": "https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_linux_amd64.AppImage",
       "platform": "🐧 Linux"
     },
@@ -83,7 +83,7 @@
     {
       "name": "clashmi_1.0.31.1703_macos_universal.dmg",
       "size": 97900300,
-      "downloads": 28862,
+      "downloads": 28870,
       "url": "https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_macos_universal.dmg",
       "platform": "🍎 macOS"
     },

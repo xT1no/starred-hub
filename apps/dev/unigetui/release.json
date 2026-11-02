@@ -103,14 +103,14 @@
     {
       "name": "UniGetUI.arm64.zip",
       "size": 51232369,
-      "downloads": 256,
+      "downloads": 259,
       "url": "https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.arm64.zip",
       "platform": "🐧 Linux"
     },
     {
       "name": "UniGetUI.Installer.arm64.exe",
       "size": 34204320,
-      "downloads": 352,
+      "downloads": 354,
       "url": "https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.Installer.arm64.exe",
       "platform": "🪟 Windows"
     },
@@ -201,7 +201,7 @@
     {
       "name": "UniGetUI.x64.zip",
       "size": 53913709,
-      "downloads": 2637,
+      "downloads": 2642,
       "url": "https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.x64.zip",
       "platform": "🌐 Web"
     }

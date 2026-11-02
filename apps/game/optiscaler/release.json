@@ -13,7 +13,7 @@
     "Windows"
   ],
   "language": "C++",
-  "stars": 12313,
+  "stars": 12314,
   "forks": 589,
   "license": "GPL-3.0",
   "archived": false,
@@ -51,7 +51,7 @@
     {
       "name": "Optiscaler_0.9.4-final.20260718._MM.7z",
       "size": 55016448,
-      "downloads": 824545,
+      "downloads": 824584,
       "url": "https://github.com/optiscaler/OptiScaler/releases/download/v0.9.4/Optiscaler_0.9.4-final.20260718._MM.7z",
       "platform": "📦 其他"
     }

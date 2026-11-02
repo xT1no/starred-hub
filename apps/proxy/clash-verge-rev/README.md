@@ -65,7 +65,7 @@ A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux 
 | [Clash.Verge_2.5.9_x64.dmg](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_x64.dmg) | 🍎 macOS | 82.5 MB | 231 |
 | [Clash.Verge_2.5.9_x64-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_x64-setup.exe) | 🪟 Windows | 57.3 MB | 4.7k |
 | [Clash.Verge_2.5.9_x64_fixed_webview2-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_x64_fixed_webview2-setup.exe) | 🪟 Windows | 238.6 MB | 544 |
-| [Clash.Verge_2.5.9_arm64-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_arm64-setup.exe) | 🪟 Windows | 51.3 MB | 119 |
+| [Clash.Verge_2.5.9_arm64-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_arm64-setup.exe) | 🪟 Windows | 51.3 MB | 136 |
 | [Clash.Verge_2.5.9_arm64_fixed_webview2-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_arm64_fixed_webview2-setup.exe) | 🪟 Windows | 221.6 MB | 36 |
 | [Clash.Verge_2.5.9_amd64.deb](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_amd64.deb) | 🐧 Linux | 98.6 MB | 1.1k |
 | [Clash.Verge_2.5.9_arm64.deb](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_arm64.deb) | 🐧 Linux | 94.9 MB | 264 |

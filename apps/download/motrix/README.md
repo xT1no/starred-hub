@@ -73,7 +73,7 @@ browser-profile connections, cookie handoff, speed modes, and Paragon NTFS compl
 | [Motrix-Setup-2.2.0-arm64.exe](https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-Setup-2.2.0-arm64.exe) | 🪟 Windows | 121.6 MB | 69 |
 | [Motrix-Setup-2.2.0.exe.blockmap](https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-Setup-2.2.0.exe.blockmap) | 🪟 Windows | 136 KB | 10 |
 | [Motrix-Setup-2.2.0-arm64.exe.blockmap](https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-Setup-2.2.0-arm64.exe.blockmap) | 🪟 Windows | 131 KB | 9 |
-| [Motrix_2.2.0_amd64.deb](https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix_2.2.0_amd64.deb) | 🐧 Linux | 106.7 MB | 409 |
+| [Motrix_2.2.0_amd64.deb](https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix_2.2.0_amd64.deb) | 🐧 Linux | 106.7 MB | 413 |
 | [Motrix-2.2.0-x86_64.AppImage](https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-x86_64.AppImage) | 🐧 Linux | 125.4 MB | 127 |
 | [Motrix-2.2.0-x86_64.AppImage.zsync](https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-x86_64.AppImage.zsync) | 🐧 Linux | 220 KB | 95 |
 | [Motrix-2.2.0-arm64.zip](https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-arm64.zip) | 🐧 Linux | 125.6 MB | 89 |

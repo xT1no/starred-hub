@@ -55,14 +55,14 @@
     {
       "name": "Kazumi_ios_2.4.2_no_sign.ipa",
       "size": 30521004,
-      "downloads": 17615,
+      "downloads": 17629,
       "url": "https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_ios_2.4.2_no_sign.ipa",
       "platform": "📦 其他"
     },
     {
       "name": "Kazumi_linux_2.4.2_amd64.deb",
       "size": 35357156,
-      "downloads": 2786,
+      "downloads": 2788,
       "url": "https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_linux_2.4.2_amd64.deb",
       "platform": "🐧 Linux"
     },
@@ -97,14 +97,14 @@
     {
       "name": "Kazumi_windows_2.4.2.msix",
       "size": 47741138,
-      "downloads": 61179,
+      "downloads": 61235,
       "url": "https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_windows_2.4.2.msix",
       "platform": "🪟 Windows"
     },
     {
       "name": "Kazumi_windows_2.4.2.zip",
       "size": 42907280,
-      "downloads": 64731,
+      "downloads": 64781,
       "url": "https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_windows_2.4.2.zip",
       "platform": "🪟 Windows"
     }

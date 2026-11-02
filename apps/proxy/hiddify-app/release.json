@@ -52,7 +52,7 @@
     {
       "name": "Hiddify-Android-arm64.apk",
       "size": 119028082,
-      "downloads": 331261,
+      "downloads": 331275,
       "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Android-arm64.apk",
       "platform": "📲 Android"
     },
@@ -101,7 +101,7 @@
     {
       "name": "Hiddify-MacOS-Installer.pkg",
       "size": 83767757,
-      "downloads": 94123,
+      "downloads": 94124,
       "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-MacOS-Installer.pkg",
       "platform": "🍎 macOS"
     },

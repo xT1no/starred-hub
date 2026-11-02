@@ -45,7 +45,7 @@
     {
       "name": "LocalSend-1.18.2-android-arm64v8.apk",
       "size": 46558706,
-      "downloads": 205647,
+      "downloads": 205671,
       "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-arm64v8.apk",
       "platform": "📲 Android"
     },
@@ -87,7 +87,7 @@
     {
       "name": "LocalSend-1.18.2-linux-x86-64.deb",
       "size": 24665458,
-      "downloads": 105076,
+      "downloads": 105092,
       "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-linux-x86-64.deb",
       "platform": "🐧 Linux"
     },
@@ -101,7 +101,7 @@
     {
       "name": "LocalSend-1.18.2-windows-arm-64.zip",
       "size": 24414965,
-      "downloads": 7958,
+      "downloads": 7959,
       "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-arm-64.zip",
       "platform": "🪟 Windows"
     },
@@ -122,7 +122,7 @@
     {
       "name": "LocalSend-1.18.2-windows-x86-64.zip",
       "size": 26113764,
-      "downloads": 159146,
+      "downloads": 159174,
       "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-x86-64.zip",
       "platform": "🪟 Windows"
     },
