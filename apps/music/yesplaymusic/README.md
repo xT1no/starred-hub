@@ -79,7 +79,7 @@
 | [yesplaymusic_0.4.11_arm64.deb](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic_0.4.11_arm64.deb) | 🐧 Linux | 63.3 MB | 186 |
 | [yesplaymusic_0.4.11_armv7l.deb](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic_0.4.11_armv7l.deb) | 🐧 Linux | 58.6 MB | 90 |
 | [latest.yml](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/latest.yml) | 📦 其他 | 387 B | 11k |
-| [yesplaymusic-0.4.11.pacman](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic-0.4.11.pacman) | 📦 其他 | 63.3 MB | 706 |
+| [yesplaymusic-0.4.11.pacman](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic-0.4.11.pacman) | 📦 其他 | 63.3 MB | 707 |
 | [yesplaymusic-0.4.11.tar.gz](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic-0.4.11.tar.gz) | 📦 其他 | 85.8 MB | 187 |
 
 ## 🔗 快速链接

@@ -60,14 +60,14 @@
     {
       "name": "latest-mac.yml",
       "size": 364,
-      "downloads": 277146,
+      "downloads": 277187,
       "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/latest-mac.yml",
       "platform": "🍎 macOS"
     },
     {
       "name": "latest.yml",
       "size": 374,
-      "downloads": 574279,
+      "downloads": 574404,
       "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/latest.yml",
       "platform": "📦 其他"
     },
@@ -88,7 +88,7 @@
     {
       "name": "lx-music-desktop-2.12.6-x64.dmg",
       "size": 135174066,
-      "downloads": 13085,
+      "downloads": 13086,
       "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-2.12.6-x64.dmg",
       "platform": "🍎 macOS"
     },
@@ -165,14 +165,14 @@
     {
       "name": "lx-music-desktop-v2.12.6-x64-Setup.exe",
       "size": 121443536,
-      "downloads": 366550,
+      "downloads": 366600,
       "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-x64-Setup.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "lx-music-desktop-v2.12.6-x64-Setup.exe.blockmap",
       "size": 128067,
-      "downloads": 180366,
+      "downloads": 180401,
       "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-x64-Setup.exe.blockmap",
       "platform": "🪟 Windows"
     },
@@ -212,5 +212,5 @@
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-11-02T18:56:50+08:00"
+  "generated_at": "2026-11-02"
 }

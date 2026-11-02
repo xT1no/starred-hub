@@ -167,7 +167,7 @@
     {
       "name": "Motrix-2.2.0-win.zip",
       "size": 167476784,
-      "downloads": 1093,
+      "downloads": 1103,
       "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-win.zip",
       "platform": "🪟 Windows"
     },
@@ -298,5 +298,5 @@
       "platform": "🐧 Linux"
     }
   ],
-  "generated_at": "2026-11-02T18:56:50+08:00"
+  "generated_at": "2026-11-02"
 }

@@ -1,6 +1,6 @@
 {
   "user": "xT1no",
-  "synced_at": "2026-11-02T18:56:50+08:00",
+  "synced_at": "2026-11-02T18:59:54+08:00",
   "count": 145,
   "repos": {
     "storytold/photocraft": {
@@ -8,7 +8,7 @@
       "name": "photocraft",
       "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
       "language": "Rust",
-      "stars": 76030,
+      "stars": 76031,
       "topics": [
         "art",
         "image-editing",
@@ -524,7 +524,7 @@
       "name": "Win11Debloat",
       "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
       "language": "PowerShell",
-      "stars": 61518,
+      "stars": 61519,
       "topics": [
         "automated",
         "bloatware",
@@ -719,7 +719,7 @@
       "name": "localsend",
       "description": "An open-source cross-platform alternative to AirDrop",
       "language": "Dart",
-      "stars": 97018,
+      "stars": 97021,
       "topics": [
         "dart",
         "file-sharing",
@@ -848,7 +848,7 @@
       "name": "xmir-patcher",
       "description": "Firmware patcher for Xiaomi routers",
       "language": "Python",
-      "stars": 3758,
+      "stars": 3759,
       "topics": [
         "exploit",
         "firmware",
@@ -891,7 +891,7 @@
       "name": "ok-wuthering-waves",
       "description": "鸣潮 后台自动战斗 自动刷声骸 一键日常  Automation for Wuthering Waves",
       "language": "Python",
-      "stars": 8456,
+      "stars": 8457,
       "topics": [
         "ok-ww",
         "okww",
@@ -1037,7 +1037,7 @@
       "name": "Kazumi",
       "description": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。",
       "language": "Dart",
-      "stars": 40690,
+      "stars": 40691,
       "topics": [
         "android",
         "cross-platform",
@@ -1909,7 +1909,7 @@
       "name": "LinkSwift",
       "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
       "language": "JavaScript",
-      "stars": 37344,
+      "stars": 37345,
       "topics": [
         "123pan",
         "aliyun-drive",

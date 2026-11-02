@@ -33,21 +33,21 @@
     {
       "name": "karing_1.2.25.2802_android_arm.apk",
       "size": 94359984,
-      "downloads": 214805,
+      "downloads": 214829,
       "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_android_arm.apk",
       "platform": "📲 Android"
     },
     {
       "name": "karing_1.2.25.2802_android_arm64-v8a.apk",
       "size": 55451158,
-      "downloads": 536505,
+      "downloads": 536565,
       "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_android_arm64-v8a.apk",
       "platform": "📲 Android"
     },
     {
       "name": "karing_1.2.25.2802_android_armeabi-v7a.apk",
       "size": 55608414,
-      "downloads": 69655,
+      "downloads": 69659,
       "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_android_armeabi-v7a.apk",
       "platform": "📲 Android"
     },
@@ -75,7 +75,7 @@
     {
       "name": "karing_1.2.25.2802_macos_universal.dmg",
       "size": 103163875,
-      "downloads": 189896,
+      "downloads": 189918,
       "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_macos_universal.dmg",
       "platform": "🍎 macOS"
     },
@@ -89,7 +89,7 @@
     {
       "name": "karing_1.2.25.2802_windows_x64.exe",
       "size": 46800210,
-      "downloads": 554623,
+      "downloads": 554677,
       "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_windows_x64.exe",
       "platform": "🪟 Windows"
     },
@@ -101,5 +101,5 @@
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-11-02T18:56:50+08:00"
+  "generated_at": "2026-11-02"
 }

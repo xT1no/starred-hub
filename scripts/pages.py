@@ -323,7 +323,8 @@ def render_meta(repo: dict, cat: dict, ctx: dict) -> str:
             }
             for a in (rel.get("assets") or [])
         ],
-        "generated_at": ctx["synced_at"].isoformat(timespec="seconds"),
+        # 只记日期：精确到秒会让每个 release.json 每天必变，产生无意义提交
+        "generated_at": ctx["synced_at"].strftime("%Y-%m-%d"),
     }
     return json.dumps(payload, ensure_ascii=False, indent=2)
 

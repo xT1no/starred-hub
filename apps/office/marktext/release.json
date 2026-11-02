@@ -112,7 +112,7 @@
     {
       "name": "marktext-linux-0.23.0.tar.gz",
       "size": 156197559,
-      "downloads": 3171,
+      "downloads": 3172,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-0.23.0.tar.gz",
       "platform": "🐧 Linux"
     },
@@ -147,7 +147,7 @@
     {
       "name": "marktext-mac-arm64-0.23.0.dmg",
       "size": 157789853,
-      "downloads": 6592,
+      "downloads": 6596,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-arm64-0.23.0.dmg",
       "platform": "🍎 macOS"
     },
@@ -161,7 +161,7 @@
     {
       "name": "marktext-mac-arm64-0.23.0.zip",
       "size": 157696460,
-      "downloads": 1211,
+      "downloads": 1213,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-arm64-0.23.0.zip",
       "platform": "🍎 macOS"
     },
@@ -224,7 +224,7 @@
     {
       "name": "marktext-win-x64-0.23.0-setup.exe",
       "size": 132435617,
-      "downloads": 42409,
+      "downloads": 42447,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-x64-0.23.0-setup.exe",
       "platform": "🪟 Windows"
     },
@@ -250,5 +250,5 @@
       "platform": "🔐 校验文件"
     }
   ],
-  "generated_at": "2026-11-02T18:56:50+08:00"
+  "generated_at": "2026-11-02"
 }

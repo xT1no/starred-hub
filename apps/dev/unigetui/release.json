@@ -117,7 +117,7 @@
     {
       "name": "UniGetUI.Installer.exe",
       "size": 35897696,
-      "downloads": 245439,
+      "downloads": 245938,
       "url": "https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.Installer.exe",
       "platform": "🪟 Windows"
     },
@@ -206,5 +206,5 @@
       "platform": "🌐 Web"
     }
   ],
-  "generated_at": "2026-11-02T18:56:50+08:00"
+  "generated_at": "2026-11-02"
 }

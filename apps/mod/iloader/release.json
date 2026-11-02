@@ -52,7 +52,7 @@
     {
       "name": "iloader-darwin-universal.dmg",
       "size": 18758860,
-      "downloads": 21685,
+      "downloads": 21718,
       "url": "https://github.com/nab138/iloader/releases/download/v2.4.1/iloader-darwin-universal.dmg",
       "platform": "🍎 macOS"
     },
@@ -171,10 +171,10 @@
     {
       "name": "latest.json",
       "size": 8986,
-      "downloads": 90787,
+      "downloads": 90910,
       "url": "https://github.com/nab138/iloader/releases/download/v2.4.1/latest.json",
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-11-02T18:56:50+08:00"
+  "generated_at": "2026-11-02"
 }

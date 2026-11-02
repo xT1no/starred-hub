@@ -13,7 +13,7 @@
     "跨平台桌面"
   ],
   "language": "Dart",
-  "stars": 97018,
+  "stars": 97021,
   "forks": 5510,
   "license": "Apache-2.0",
   "archived": false,
@@ -66,7 +66,7 @@
     {
       "name": "LocalSend-1.18.2-linux-arm-64.deb",
       "size": 24662482,
-      "downloads": 7515,
+      "downloads": 7517,
       "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-linux-arm-64.deb",
       "platform": "🐧 Linux"
     },
@@ -115,7 +115,7 @@
     {
       "name": "LocalSend-1.18.2-windows-x86-64.exe",
       "size": 19901144,
-      "downloads": 850654,
+      "downloads": 850825,
       "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-x86-64.exe",
       "platform": "🪟 Windows"
     },
@@ -129,7 +129,7 @@
     {
       "name": "LocalSend-1.18.2.dmg",
       "size": 52700247,
-      "downloads": 682907,
+      "downloads": 682973,
       "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2.dmg",
       "platform": "🍎 macOS"
     },
@@ -176,5 +176,5 @@
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-11-02T18:56:50+08:00"
+  "generated_at": "2026-11-02"
 }

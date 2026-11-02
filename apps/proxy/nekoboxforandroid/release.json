@@ -42,7 +42,7 @@
     {
       "name": "NekoBox-1.4.2-arm64-v8a.apk",
       "size": 15252519,
-      "downloads": 708289,
+      "downloads": 708308,
       "url": "https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.4.2/NekoBox-1.4.2-arm64-v8a.apk",
       "platform": "📲 Android"
     },
@@ -68,5 +68,5 @@
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-11-02T18:56:50+08:00"
+  "generated_at": "2026-11-02"
 }

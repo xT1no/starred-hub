@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-02T18:57:04+08:00",
+  "fetched_at": "2026-11-02T19:01:22+08:00",
   "items": {
     "storytold/photocraft": {
       "kind": "release",
@@ -439,7 +439,7 @@
         {
           "name": "LightC_webview2_offline_x64_v2.18.1.exe",
           "size": 224034622,
-          "downloads": 9,
+          "downloads": 10,
           "url": "https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_webview2_offline_x64_v2.18.1.exe"
         },
         {
@@ -562,7 +562,7 @@
         {
           "name": "25-openclash-aarch64_cortex-a53-v0.48.002.run",
           "size": 24083956,
-          "downloads": 15,
+          "downloads": 16,
           "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-openclash-aarch64_cortex-a53-v0.48.002.run"
         },
         {
@@ -610,7 +610,7 @@
         {
           "name": "25-sing-box_v1.14.4_aarch64_cortex-a53.run",
           "size": 29470866,
-          "downloads": 6,
+          "downloads": 7,
           "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-sing-box_v1.14.4_aarch64_cortex-a53.run"
         },
         {
@@ -664,7 +664,7 @@
         {
           "name": "25_quickfile_1.0.16_aarch64_a53.run",
           "size": 3957762,
-          "downloads": 5,
+          "downloads": 6,
           "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25_quickfile_1.0.16_aarch64_a53.run"
         },
         {
@@ -876,7 +876,7 @@
         {
           "name": "Rayburst_4.1.1_amd64.deb",
           "size": 28503120,
-          "downloads": 985,
+          "downloads": 986,
           "url": "https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_amd64.deb"
         },
         {
@@ -1175,7 +1175,7 @@
         {
           "name": "UniGetUI.Installer.exe",
           "size": 35897696,
-          "downloads": 245439,
+          "downloads": 245938,
           "url": "https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.Installer.exe"
         },
         {
@@ -1305,7 +1305,7 @@
         {
           "name": "anich-ios-no_sign-1.5.27.ipa",
           "size": 41226765,
-          "downloads": 6453,
+          "downloads": 6454,
           "url": "https://github.com/Sle2p/AniCh/releases/download/1.5.27/anich-ios-no_sign-1.5.27.ipa"
         },
         {
@@ -1457,7 +1457,7 @@
         {
           "name": "clashmi_1.0.31.1703_android_arm.apk",
           "size": 89169517,
-          "downloads": 62268,
+          "downloads": 62304,
           "url": "https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_android_arm.apk"
         },
         {
@@ -1505,13 +1505,13 @@
         {
           "name": "clashmi_1.0.31.1703_windows_x64.exe",
           "size": 45517373,
-          "downloads": 179774,
+          "downloads": 179815,
           "url": "https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_windows_x64.exe"
         },
         {
           "name": "clashmi_1.0.31.1703_windows_x64.zip",
           "size": 66766538,
-          "downloads": 16880,
+          "downloads": 16885,
           "url": "https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_windows_x64.zip"
         }
       ]
@@ -1540,7 +1540,7 @@
         {
           "name": "iloader-darwin-universal.dmg",
           "size": 18758860,
-          "downloads": 21685,
+          "downloads": 21718,
           "url": "https://github.com/nab138/iloader/releases/download/v2.4.1/iloader-darwin-universal.dmg"
         },
         {
@@ -1642,7 +1642,7 @@
         {
           "name": "latest.json",
           "size": 8986,
-          "downloads": 90787,
+          "downloads": 90910,
           "url": "https://github.com/nab138/iloader/releases/download/v2.4.1/latest.json"
         }
       ]
@@ -1778,13 +1778,13 @@
         {
           "name": "Get.ps1",
           "size": 12163,
-          "downloads": 20784,
+          "downloads": 20841,
           "url": "https://github.com/Raphire/Win11Debloat/releases/download/2026.10.30/Get.ps1"
         },
         {
           "name": "SHA256SUMS",
           "size": 83,
-          "downloads": 18255,
+          "downloads": 18307,
           "url": "https://github.com/Raphire/Win11Debloat/releases/download/2026.10.30/SHA256SUMS"
         },
         {
@@ -1988,7 +1988,7 @@
         {
           "name": "TVBox_q215613905_20260914-1520-java.apk",
           "size": 33299951,
-          "downloads": 22717,
+          "downloads": 22727,
           "url": "https://github.com/j4Uq/TVBoxOSC/releases/download/20260914-1520/TVBox_q215613905_20260914-1520-java.apk"
         },
         {
@@ -2018,7 +2018,7 @@
         {
           "name": "TVBox_q215613905_20260914-1520-python64.apk",
           "size": 33053520,
-          "downloads": 5631,
+          "downloads": 5632,
           "url": "https://github.com/j4Uq/TVBoxOSC/releases/download/20260914-1520/TVBox_q215613905_20260914-1520-python64.apk"
         }
       ]
@@ -2108,7 +2108,7 @@
         {
           "name": "LocalSend-1.18.2-linux-arm-64.deb",
           "size": 24662482,
-          "downloads": 7515,
+          "downloads": 7517,
           "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-linux-arm-64.deb"
         },
         {
@@ -2150,7 +2150,7 @@
         {
           "name": "LocalSend-1.18.2-windows-x86-64.exe",
           "size": 19901144,
-          "downloads": 850654,
+          "downloads": 850825,
           "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-x86-64.exe"
         },
         {
@@ -2162,7 +2162,7 @@
         {
           "name": "LocalSend-1.18.2.dmg",
           "size": 52700247,
-          "downloads": 682907,
+          "downloads": 682973,
           "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2.dmg"
         },
         {
@@ -2367,7 +2367,7 @@
         {
           "name": "ok-ww-win32-China-setup.exe",
           "size": 391554480,
-          "downloads": 13624,
+          "downloads": 13640,
           "url": "https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.13/ok-ww-win32-China-setup.exe"
         },
         {
@@ -2454,7 +2454,7 @@
         {
           "name": "Seal-1.13.1-armeabi-v7a-release.apk",
           "size": 40611853,
-          "downloads": 121977,
+          "downloads": 121979,
           "url": "https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-armeabi-v7a-release.apk"
         },
         {
@@ -2466,13 +2466,13 @@
         {
           "name": "Seal-1.13.1-x86-release.apk",
           "size": 44364789,
-          "downloads": 31266,
+          "downloads": 31267,
           "url": "https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-x86-release.apk"
         },
         {
           "name": "Seal-1.13.1-x86_64-release.apk",
           "size": 45218592,
-          "downloads": 50833,
+          "downloads": 50834,
           "url": "https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-x86_64-release.apk"
         }
       ]
@@ -2518,7 +2518,7 @@
         {
           "name": "release.json",
           "size": 393,
-          "downloads": 16398,
+          "downloads": 16399,
           "url": "https://github.com/wind-addons/WeakAurasPatched/releases/download/5.21.1/release.json"
         },
         {
@@ -2561,19 +2561,19 @@
         {
           "name": "karing_1.2.25.2802_android_arm.apk",
           "size": 94359984,
-          "downloads": 214805,
+          "downloads": 214829,
           "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_android_arm.apk"
         },
         {
           "name": "karing_1.2.25.2802_android_arm64-v8a.apk",
           "size": 55451158,
-          "downloads": 536505,
+          "downloads": 536565,
           "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_android_arm64-v8a.apk"
         },
         {
           "name": "karing_1.2.25.2802_android_armeabi-v7a.apk",
           "size": 55608414,
-          "downloads": 69655,
+          "downloads": 69659,
           "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_android_armeabi-v7a.apk"
         },
         {
@@ -2597,7 +2597,7 @@
         {
           "name": "karing_1.2.25.2802_macos_universal.dmg",
           "size": 103163875,
-          "downloads": 189896,
+          "downloads": 189918,
           "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_macos_universal.dmg"
         },
         {
@@ -2609,7 +2609,7 @@
         {
           "name": "karing_1.2.25.2802_windows_x64.exe",
           "size": 46800210,
-          "downloads": 554623,
+          "downloads": 554677,
           "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_windows_x64.exe"
         },
         {
@@ -2632,7 +2632,7 @@
         {
           "name": "Kazumi_android_2.4.2.apk",
           "size": 33444136,
-          "downloads": 98701,
+          "downloads": 98772,
           "url": "https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_android_2.4.2.apk"
         },
         {
@@ -2839,7 +2839,7 @@
         {
           "name": "FlClash-0.9.2-android-arm64-v8a.apk",
           "size": 61083319,
-          "downloads": 235621,
+          "downloads": 235726,
           "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-android-arm64-v8a.apk"
         },
         {
@@ -2851,13 +2851,13 @@
         {
           "name": "FlClash-0.9.2-android-x86_64.apk",
           "size": 63599561,
-          "downloads": 38631,
+          "downloads": 38654,
           "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-android-x86_64.apk"
         },
         {
           "name": "FlClash-0.9.2-linux-amd64.AppImage",
           "size": 69833920,
-          "downloads": 3150,
+          "downloads": 3153,
           "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-amd64.AppImage"
         },
         {
@@ -2869,13 +2869,13 @@
         {
           "name": "FlClash-0.9.2-linux-amd64.rpm",
           "size": 59909376,
-          "downloads": 1615,
+          "downloads": 1620,
           "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-amd64.rpm"
         },
         {
           "name": "FlClash-0.9.2-linux-arm64.AppImage",
           "size": 66900352,
-          "downloads": 663,
+          "downloads": 664,
           "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-arm64.AppImage"
         },
         {
@@ -2899,13 +2899,13 @@
         {
           "name": "FlClash-0.9.2-macos-arm64.dmg",
           "size": 59274695,
-          "downloads": 37332,
+          "downloads": 37354,
           "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-macos-arm64.dmg"
         },
         {
           "name": "FlClash-0.9.2-windows-amd64-setup.exe",
           "size": 43335463,
-          "downloads": 178265,
+          "downloads": 178384,
           "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-windows-amd64-setup.exe"
         },
         {
@@ -2917,7 +2917,7 @@
         {
           "name": "FlClash-0.9.2-windows-arm64-setup.exe",
           "size": 40261402,
-          "downloads": 10372,
+          "downloads": 10384,
           "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-windows-arm64-setup.exe"
         },
         {
@@ -2929,7 +2929,7 @@
         {
           "name": "SHA256SUMS",
           "size": 1517,
-          "downloads": 3813,
+          "downloads": 3814,
           "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/SHA256SUMS"
         }
       ]
@@ -2989,7 +2989,7 @@
         {
           "name": "worker.js",
           "size": 404293,
-          "downloads": 244446,
+          "downloads": 244457,
           "url": "https://github.com/bia-pain-bache/BPB-Worker-Panel/releases/download/v5.1.1/worker.js"
         }
       ]
@@ -3006,7 +3006,7 @@
         {
           "name": "MahsaNG_18_arm64-v8a.apk",
           "size": 64789460,
-          "downloads": 16409,
+          "downloads": 16410,
           "url": "https://github.com/GFW-knocker/MahsaNG/releases/download/v18-%281405-7-10%29/MahsaNG_18_arm64-v8a.apk"
         },
         {
@@ -3047,7 +3047,7 @@
         {
           "name": "Gopeed-v1.9.3-android-arm64-v8a.apk",
           "size": 25240830,
-          "downloads": 210181,
+          "downloads": 210184,
           "url": "https://github.com/GopeedLab/gopeed/releases/download/v1.9.3/Gopeed-v1.9.3-android-arm64-v8a.apk"
         },
         {
@@ -3270,7 +3270,7 @@
         {
           "name": "Hiddify-Android-universal.apk",
           "size": 339558475,
-          "downloads": 534592,
+          "downloads": 534611,
           "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Android-universal.apk"
         },
         {
@@ -3282,13 +3282,13 @@
         {
           "name": "Hiddify-Debian-x64.deb",
           "size": 42466870,
-          "downloads": 131149,
+          "downloads": 131156,
           "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Debian-x64.deb"
         },
         {
           "name": "Hiddify-Linux-x64-AppImage.AppImage",
           "size": 55220728,
-          "downloads": 66606,
+          "downloads": 66610,
           "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Linux-x64-AppImage.AppImage"
         },
         {
@@ -3300,13 +3300,13 @@
         {
           "name": "Hiddify-MacOS-Installer.pkg",
           "size": 83767757,
-          "downloads": 94121,
+          "downloads": 94123,
           "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-MacOS-Installer.pkg"
         },
         {
           "name": "Hiddify-MacOS.dmg",
           "size": 83485931,
-          "downloads": 384305,
+          "downloads": 384331,
           "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-MacOS.dmg"
         },
         {
@@ -3318,7 +3318,7 @@
         {
           "name": "Hiddify-Windows-Setup-x64.exe",
           "size": 36486310,
-          "downloads": 1425366,
+          "downloads": 1425427,
           "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Windows-Setup-x64.exe"
         },
         {
@@ -3359,13 +3359,13 @@
         {
           "name": "latest-mac.yml",
           "size": 364,
-          "downloads": 277146,
+          "downloads": 277187,
           "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/latest-mac.yml"
         },
         {
           "name": "latest.yml",
           "size": 374,
-          "downloads": 574279,
+          "downloads": 574404,
           "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/latest.yml"
         },
         {
@@ -3383,7 +3383,7 @@
         {
           "name": "lx-music-desktop-2.12.6-x64.dmg",
           "size": 135174066,
-          "downloads": 13085,
+          "downloads": 13086,
           "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-2.12.6-x64.dmg"
         },
         {
@@ -3449,13 +3449,13 @@
         {
           "name": "lx-music-desktop-v2.12.6-x64-Setup.exe",
           "size": 121443536,
-          "downloads": 366550,
+          "downloads": 366600,
           "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-x64-Setup.exe"
         },
         {
           "name": "lx-music-desktop-v2.12.6-x64-Setup.exe.blockmap",
           "size": 128067,
-          "downloads": 180366,
+          "downloads": 180401,
           "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-x64-Setup.exe.blockmap"
         },
         {
@@ -3502,7 +3502,7 @@
         {
           "name": "VirtGO-2.1.0-android-arm64-v8a.apk",
           "size": 23320401,
-          "downloads": 1262511,
+          "downloads": 1262575,
           "url": "https://github.com/ZCShou/GoGoGo/releases/download/ReleaseV1.12.3/VirtGO-2.1.0-android-arm64-v8a.apk"
         }
       ]
@@ -3712,7 +3712,7 @@
         {
           "name": "NekoBox-1.4.2-arm64-v8a.apk",
           "size": 15252519,
-          "downloads": 708289,
+          "downloads": 708308,
           "url": "https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.4.2/NekoBox-1.4.2-arm64-v8a.apk"
         },
         {
@@ -3759,7 +3759,7 @@
         {
           "name": "Clash.Verge-2.5.9-1.x86_64.rpm",
           "size": 103357626,
-          "downloads": 148,
+          "downloads": 176,
           "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge-2.5.9-1.x86_64.rpm"
         },
         {
@@ -3771,7 +3771,7 @@
         {
           "name": "Clash.Verge_2.5.9_aarch64.app.tar.gz",
           "size": 82588064,
-          "downloads": 808,
+          "downloads": 1025,
           "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_aarch64.app.tar.gz"
         },
         {
@@ -3783,13 +3783,13 @@
         {
           "name": "Clash.Verge_2.5.9_aarch64.dmg",
           "size": 80746554,
-          "downloads": 1716,
+          "downloads": 2127,
           "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_aarch64.dmg"
         },
         {
           "name": "Clash.Verge_2.5.9_amd64.deb",
           "size": 103358910,
-          "downloads": 884,
+          "downloads": 1094,
           "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_amd64.deb"
         },
         {
@@ -3813,7 +3813,7 @@
         {
           "name": "Clash.Verge_2.5.9_arm64.deb",
           "size": 99537056,
-          "downloads": 223,
+          "downloads": 264,
           "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_arm64.deb"
         },
         {
@@ -3837,7 +3837,7 @@
         {
           "name": "Clash.Verge_2.5.9_x64-setup.exe",
           "size": 60044648,
-          "downloads": 3733,
+          "downloads": 4653,
           "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_x64-setup.exe"
         },
         {
@@ -3849,7 +3849,7 @@
         {
           "name": "Clash.Verge_2.5.9_x64.app.tar.gz",
           "size": 88052826,
-          "downloads": 355,
+          "downloads": 453,
           "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_x64.app.tar.gz"
         },
         {
@@ -3861,13 +3861,13 @@
         {
           "name": "Clash.Verge_2.5.9_x64.dmg",
           "size": 86467422,
-          "downloads": 197,
+          "downloads": 231,
           "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_x64.dmg"
         },
         {
           "name": "Clash.Verge_2.5.9_x64_fixed_webview2-setup.exe",
           "size": 250182052,
-          "downloads": 436,
+          "downloads": 544,
           "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_x64_fixed_webview2-setup.exe"
         },
         {
@@ -4001,7 +4001,7 @@
         {
           "name": "SFA-version-metadata.json",
           "size": 54,
-          "downloads": 33483,
+          "downloads": 33513,
           "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-version-metadata.json"
         },
         {
@@ -4103,7 +4103,7 @@
         {
           "name": "SFW-1.14.4-x64.exe",
           "size": 115346760,
-          "downloads": 5466,
+          "downloads": 5471,
           "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFW-1.14.4-x64.exe"
         },
         {
@@ -4192,7 +4192,7 @@
         {
           "name": "v2rayN-linux-64.deb",
           "size": 86619748,
-          "downloads": 33247,
+          "downloads": 33256,
           "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-64.deb"
         },
         {
@@ -4204,7 +4204,7 @@
         {
           "name": "v2rayN-linux-64.zip",
           "size": 142814357,
-          "downloads": 30385,
+          "downloads": 30395,
           "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-64.zip"
         },
         {
@@ -4228,7 +4228,7 @@
         {
           "name": "v2rayN-linux-arm64.zip",
           "size": 134147380,
-          "downloads": 6001,
+          "downloads": 6002,
           "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-arm64.zip"
         },
         {
@@ -4252,7 +4252,7 @@
         {
           "name": "v2rayN-linux-rhel-64.rpm",
           "size": 95991224,
-          "downloads": 2135,
+          "downloads": 2137,
           "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-rhel-64.rpm"
         },
         {
@@ -4300,7 +4300,7 @@
         {
           "name": "v2rayN-linux-riscv64.deb",
           "size": 147686188,
-          "downloads": 1808,
+          "downloads": 1809,
           "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-riscv64.deb"
         },
         {
@@ -4336,7 +4336,7 @@
         {
           "name": "v2rayN-macos-arm64.dmg",
           "size": 135534635,
-          "downloads": 163571,
+          "downloads": 163649,
           "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-macos-arm64.dmg"
         },
         {
@@ -4360,43 +4360,43 @@
         {
           "name": "v2rayN-public-key.asc",
           "size": 547,
-          "downloads": 1713,
+          "downloads": 1714,
           "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-public-key.asc"
         },
         {
           "name": "v2rayN-windows-64-desktop.zip",
           "size": 144735873,
-          "downloads": 207785,
+          "downloads": 207840,
           "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-64-desktop.zip"
         },
         {
           "name": "v2rayN-windows-64-desktop.zip.sig",
           "size": 297,
-          "downloads": 3451,
+          "downloads": 3452,
           "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-64-desktop.zip.sig"
         },
         {
           "name": "v2rayN-windows-64.zip",
           "size": 168730000,
-          "downloads": 273711,
+          "downloads": 273808,
           "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-64.zip"
         },
         {
           "name": "v2rayN-windows-64.zip.sig",
           "size": 297,
-          "downloads": 3485,
+          "downloads": 3487,
           "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-64.zip.sig"
         },
         {
           "name": "v2rayN-windows-86-desktop.zip",
           "size": 145408272,
-          "downloads": 8298,
+          "downloads": 8299,
           "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-86-desktop.zip"
         },
         {
           "name": "v2rayN-windows-86-desktop.zip.sig",
           "size": 297,
-          "downloads": 846,
+          "downloads": 847,
           "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-86-desktop.zip.sig"
         },
         {
@@ -4408,7 +4408,7 @@
         {
           "name": "v2rayN-windows-86.zip.sig",
           "size": 297,
-          "downloads": 748,
+          "downloads": 749,
           "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-86.zip.sig"
         },
         {
@@ -4420,13 +4420,13 @@
         {
           "name": "v2rayN-windows-arm64-desktop.zip.sig",
           "size": 297,
-          "downloads": 1011,
+          "downloads": 1012,
           "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-arm64-desktop.zip.sig"
         },
         {
           "name": "v2rayN-windows-arm64.zip",
           "size": 155862162,
-          "downloads": 8770,
+          "downloads": 8773,
           "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-arm64.zip"
         }
       ]
@@ -4482,7 +4482,7 @@
         {
           "name": "org.courville.nova-2674070-6.6.3-20261101.1547-armeabi-v7a-release.apk",
           "size": 32014724,
-          "downloads": 205,
+          "downloads": 207,
           "url": "https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.3/org.courville.nova-2674070-6.6.3-20261101.1547-armeabi-v7a-release.apk"
         },
         {
@@ -4517,7 +4517,7 @@
         {
           "name": "EhViewer-2.0.2.6.apk",
           "size": 28229547,
-          "downloads": 354519,
+          "downloads": 354592,
           "url": "https://github.com/xiaojieonly/Ehviewer_CN_SXJ/releases/download/2.0.2.6/EhViewer-2.0.2.6.apk"
         }
       ]
@@ -4598,7 +4598,7 @@
         {
           "name": "my-tv-v2.1.8.apk",
           "size": 13970381,
-          "downloads": 440872,
+          "downloads": 440875,
           "url": "https://github.com/lizongying/my-tv/releases/download/v2.1.8/my-tv-v2.1.8.apk"
         }
       ]
@@ -4650,7 +4650,7 @@
         {
           "name": "Office_Tool_with_runtime_v11.8.50.0_arm64.zip",
           "size": 76378899,
-          "downloads": 935,
+          "downloads": 936,
           "url": "https://github.com/YerongAI/Office-Tool/releases/download/v11.8.50.0/Office_Tool_with_runtime_v11.8.50.0_arm64.zip"
         },
         {
@@ -4662,7 +4662,7 @@
         {
           "name": "Office_Tool_with_runtime_v11.8.50.0_x64.zip",
           "size": 81494977,
-          "downloads": 41969,
+          "downloads": 41997,
           "url": "https://github.com/YerongAI/Office-Tool/releases/download/v11.8.50.0/Office_Tool_with_runtime_v11.8.50.0_x64.zip"
         }
       ]
@@ -4882,7 +4882,7 @@
         {
           "name": "v1.1.3.user.js",
           "size": 584293,
-          "downloads": 343853,
+          "downloads": 343890,
           "url": "https://github.com/hmjz100/LinkSwift/releases/download/v1.1.3/v1.1.3.user.js"
         }
       ]
@@ -5001,7 +5001,7 @@
         {
           "name": "Motrix-2.2.0-win.zip",
           "size": 167476784,
-          "downloads": 1093,
+          "downloads": 1103,
           "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-win.zip"
         },
         {
@@ -5162,7 +5162,7 @@
         {
           "name": "clouddrive-2-linux-x86_64-1.1.3.tgz",
           "size": 16054981,
-          "downloads": 1235,
+          "downloads": 1241,
           "url": "https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive-2-linux-x86_64-1.1.3.tgz"
         },
         {
@@ -5186,7 +5186,7 @@
         {
           "name": "CloudDrive2Setup-X64-1.1.3.exe",
           "size": 14617640,
-          "downloads": 3892,
+          "downloads": 3893,
           "url": "https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/CloudDrive2Setup-X64-1.1.3.exe"
         },
         {
@@ -5215,13 +5215,13 @@
         {
           "name": "ep_setup.exe",
           "size": 12336128,
-          "downloads": 178072,
+          "downloads": 178716,
           "url": "https://github.com/valinet/ExplorerPatcher/releases/download/26100.9711.71.1/ep_setup.exe"
         },
         {
           "name": "ep_setup_arm64.exe",
           "size": 12013056,
-          "downloads": 2726,
+          "downloads": 2735,
           "url": "https://github.com/valinet/ExplorerPatcher/releases/download/26100.9711.71.1/ep_setup_arm64.exe"
         }
       ]
@@ -5306,7 +5306,7 @@
         {
           "name": "Steam++_v3.1.0_macos.dmg",
           "size": 230704640,
-          "downloads": 136496,
+          "downloads": 136508,
           "url": "https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_macos.dmg"
         },
         {
@@ -5318,7 +5318,7 @@
         {
           "name": "Steam++_v3.1.0_win_x64.exe",
           "size": 96754104,
-          "downloads": 217145,
+          "downloads": 217173,
           "url": "https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_win_x64.exe"
         }
       ]
@@ -5574,7 +5574,7 @@
         {
           "name": "marktext-linux-0.23.0.tar.gz",
           "size": 156197559,
-          "downloads": 3171,
+          "downloads": 3172,
           "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-0.23.0.tar.gz"
         },
         {
@@ -5604,7 +5604,7 @@
         {
           "name": "marktext-mac-arm64-0.23.0.dmg",
           "size": 157789853,
-          "downloads": 6592,
+          "downloads": 6596,
           "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-arm64-0.23.0.dmg"
         },
         {
@@ -5616,7 +5616,7 @@
         {
           "name": "marktext-mac-arm64-0.23.0.zip",
           "size": 157696460,
-          "downloads": 1211,
+          "downloads": 1213,
           "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-arm64-0.23.0.zip"
         },
         {
@@ -5670,7 +5670,7 @@
         {
           "name": "marktext-win-x64-0.23.0-setup.exe",
           "size": 132435617,
-          "downloads": 42409,
+          "downloads": 42447,
           "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-x64-0.23.0-setup.exe"
         },
         {
@@ -5722,7 +5722,7 @@
         {
           "name": "Dism++10.1.1002.1B.zip",
           "size": 3767974,
-          "downloads": 1774871,
+          "downloads": 1774884,
           "url": "https://github.com/Chuyu-Team/Dism-Multi-language/releases/download/v10.1.1002.2/Dism%2B%2B10.1.1002.1B.zip"
         }
       ]
@@ -5745,13 +5745,13 @@
         {
           "name": "latest-mac.yml",
           "size": 690,
-          "downloads": 11009,
+          "downloads": 11012,
           "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/latest-mac.yml"
         },
         {
           "name": "latest.yml",
           "size": 387,
-          "downloads": 10956,
+          "downloads": 10958,
           "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/latest.yml"
         },
         {
@@ -5769,13 +5769,13 @@
         {
           "name": "YesPlayMusic-0.4.11.exe",
           "size": 58058421,
-          "downloads": 3442,
+          "downloads": 3444,
           "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-0.4.11.exe"
         },
         {
           "name": "yesplaymusic-0.4.11.pacman",
           "size": 66355904,
-          "downloads": 706,
+          "downloads": 707,
           "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic-0.4.11.pacman"
         },
         {
@@ -5829,7 +5829,7 @@
         {
           "name": "YesPlayMusic-Setup-0.4.11.exe",
           "size": 58243633,
-          "downloads": 5696,
+          "downloads": 5699,
           "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-Setup-0.4.11.exe"
         },
         {

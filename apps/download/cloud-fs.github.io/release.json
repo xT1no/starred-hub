@@ -75,7 +75,7 @@
     {
       "name": "clouddrive-2-linux-x86_64-1.1.3.tgz",
       "size": 16054981,
-      "downloads": 1235,
+      "downloads": 1241,
       "url": "https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive-2-linux-x86_64-1.1.3.tgz",
       "platform": "🐧 Linux"
     },
@@ -103,7 +103,7 @@
     {
       "name": "CloudDrive2Setup-X64-1.1.3.exe",
       "size": 14617640,
-      "downloads": 3892,
+      "downloads": 3893,
       "url": "https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/CloudDrive2Setup-X64-1.1.3.exe",
       "platform": "🪟 Windows"
     },
@@ -122,5 +122,5 @@
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-11-02T18:56:50+08:00"
+  "generated_at": "2026-11-02"
 }

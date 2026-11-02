@@ -52,7 +52,7 @@ LightC v2.18.1 发布说明
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
 | [LightC_2.18.1_x64-setup.exe](https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_2.18.1_x64-setup.exe) | 🪟 Windows | 5.9 MB | 238 |
-| [LightC_webview2_offline_x64_v2.18.1.exe](https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_webview2_offline_x64_v2.18.1.exe) | 🪟 Windows | 213.7 MB | 9 |
+| [LightC_webview2_offline_x64_v2.18.1.exe](https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_webview2_offline_x64_v2.18.1.exe) | 🪟 Windows | 213.7 MB | 10 |
 | [LightC_portable_x64_v2.18.1.zip](https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_portable_x64_v2.18.1.zip) | 🌐 Web | 7.8 MB | 38 |
 | [SHA256SUMS.txt](https://github.com/Chunyu33/light-c/releases/download/v2.18.1/SHA256SUMS.txt) | 🔐 校验文件 | 301 B | 6 |
 | [LightC_installer_exe.sig](https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_installer_exe.sig) | 🔐 校验文件 | 396 B | 4 |

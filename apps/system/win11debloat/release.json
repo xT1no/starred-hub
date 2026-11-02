@@ -14,7 +14,7 @@
     "CLI"
   ],
   "language": "PowerShell",
-  "stars": 61518,
+  "stars": 61519,
   "forks": 2726,
   "license": "MIT",
   "archived": false,
@@ -55,14 +55,14 @@
     {
       "name": "Get.ps1",
       "size": 12163,
-      "downloads": 20784,
+      "downloads": 20841,
       "url": "https://github.com/Raphire/Win11Debloat/releases/download/2026.10.30/Get.ps1",
       "platform": "📦 其他"
     },
     {
       "name": "SHA256SUMS",
       "size": 83,
-      "downloads": 18255,
+      "downloads": 18307,
       "url": "https://github.com/Raphire/Win11Debloat/releases/download/2026.10.30/SHA256SUMS",
       "platform": "🔐 校验文件"
     },
@@ -74,5 +74,5 @@
       "platform": "🌐 Web"
     }
   ],
-  "generated_at": "2026-11-02T18:56:50+08:00"
+  "generated_at": "2026-11-02"
 }

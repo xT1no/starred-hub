@@ -54,7 +54,7 @@
     {
       "name": "org.courville.nova-2674070-6.6.3-20261101.1547-armeabi-v7a-release.apk",
       "size": 32014724,
-      "downloads": 205,
+      "downloads": 207,
       "url": "https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.3/org.courville.nova-2674070-6.6.3-20261101.1547-armeabi-v7a-release.apk",
       "platform": "📲 Android"
     },
@@ -80,5 +80,5 @@
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-11-02T18:56:50+08:00"
+  "generated_at": "2026-11-02"
 }

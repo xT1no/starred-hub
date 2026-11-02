@@ -66,7 +66,7 @@
     {
       "name": "Hiddify-Android-universal.apk",
       "size": 339558475,
-      "downloads": 534592,
+      "downloads": 534611,
       "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Android-universal.apk",
       "platform": "📲 Android"
     },
@@ -80,14 +80,14 @@
     {
       "name": "Hiddify-Debian-x64.deb",
       "size": 42466870,
-      "downloads": 131149,
+      "downloads": 131156,
       "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Debian-x64.deb",
       "platform": "🐧 Linux"
     },
     {
       "name": "Hiddify-Linux-x64-AppImage.AppImage",
       "size": 55220728,
-      "downloads": 66606,
+      "downloads": 66610,
       "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Linux-x64-AppImage.AppImage",
       "platform": "🐧 Linux"
     },
@@ -101,14 +101,14 @@
     {
       "name": "Hiddify-MacOS-Installer.pkg",
       "size": 83767757,
-      "downloads": 94121,
+      "downloads": 94123,
       "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-MacOS-Installer.pkg",
       "platform": "🍎 macOS"
     },
     {
       "name": "Hiddify-MacOS.dmg",
       "size": 83485931,
-      "downloads": 384305,
+      "downloads": 384331,
       "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-MacOS.dmg",
       "platform": "🍎 macOS"
     },
@@ -122,7 +122,7 @@
     {
       "name": "Hiddify-Windows-Setup-x64.exe",
       "size": 36486310,
-      "downloads": 1425366,
+      "downloads": 1425427,
       "url": "https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Windows-Setup-x64.exe",
       "platform": "🪟 Windows"
     },
@@ -134,5 +134,5 @@
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-11-02T18:56:50+08:00"
+  "generated_at": "2026-11-02"
 }

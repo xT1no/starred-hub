@@ -54,7 +54,7 @@
     {
       "name": "Gopeed-v1.9.3-android-arm64-v8a.apk",
       "size": 25240830,
-      "downloads": 210181,
+      "downloads": 210184,
       "url": "https://github.com/GopeedLab/gopeed/releases/download/v1.9.3/Gopeed-v1.9.3-android-arm64-v8a.apk",
       "platform": "📲 Android"
     },
@@ -262,5 +262,5 @@
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-11-02T18:56:50+08:00"
+  "generated_at": "2026-11-02"
 }

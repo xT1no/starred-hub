@@ -41,7 +41,7 @@
     {
       "name": "clashmi_1.0.31.1703_android_arm.apk",
       "size": 89169517,
-      "downloads": 62268,
+      "downloads": 62304,
       "url": "https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_android_arm.apk",
       "platform": "📲 Android"
     },
@@ -97,17 +97,17 @@
     {
       "name": "clashmi_1.0.31.1703_windows_x64.exe",
       "size": 45517373,
-      "downloads": 179774,
+      "downloads": 179815,
       "url": "https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_windows_x64.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "clashmi_1.0.31.1703_windows_x64.zip",
       "size": 66766538,
-      "downloads": 16880,
+      "downloads": 16885,
       "url": "https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_windows_x64.zip",
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-11-02T18:56:50+08:00"
+  "generated_at": "2026-11-02"
 }

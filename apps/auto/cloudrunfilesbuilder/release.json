@@ -107,7 +107,7 @@
     {
       "name": "25-openclash-aarch64_cortex-a53-v0.48.002.run",
       "size": 24083956,
-      "downloads": 15,
+      "downloads": 16,
       "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-openclash-aarch64_cortex-a53-v0.48.002.run",
       "platform": "📦 其他"
     },
@@ -163,7 +163,7 @@
     {
       "name": "25-sing-box_v1.14.4_aarch64_cortex-a53.run",
       "size": 29470866,
-      "downloads": 6,
+      "downloads": 7,
       "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-sing-box_v1.14.4_aarch64_cortex-a53.run",
       "platform": "📦 其他"
     },
@@ -226,7 +226,7 @@
     {
       "name": "25_quickfile_1.0.16_aarch64_a53.run",
       "size": 3957762,
-      "downloads": 5,
+      "downloads": 6,
       "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25_quickfile_1.0.16_aarch64_a53.run",
       "platform": "📦 其他"
     },
@@ -315,5 +315,5 @@
       "platform": "⌨️ CLI"
     }
   ],
-  "generated_at": "2026-11-02T18:56:50+08:00"
+  "generated_at": "2026-11-02"
 }

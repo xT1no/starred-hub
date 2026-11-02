@@ -47,7 +47,7 @@
     {
       "name": "v2rayN-linux-64.deb",
       "size": 86619748,
-      "downloads": 33247,
+      "downloads": 33256,
       "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-64.deb",
       "platform": "🐧 Linux"
     },
@@ -61,7 +61,7 @@
     {
       "name": "v2rayN-linux-64.zip",
       "size": 142814357,
-      "downloads": 30385,
+      "downloads": 30395,
       "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-64.zip",
       "platform": "🐧 Linux"
     },
@@ -89,7 +89,7 @@
     {
       "name": "v2rayN-linux-arm64.zip",
       "size": 134147380,
-      "downloads": 6001,
+      "downloads": 6002,
       "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-arm64.zip",
       "platform": "🐧 Linux"
     },
@@ -117,7 +117,7 @@
     {
       "name": "v2rayN-linux-rhel-64.rpm",
       "size": 95991224,
-      "downloads": 2135,
+      "downloads": 2137,
       "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-rhel-64.rpm",
       "platform": "🐧 Linux"
     },
@@ -173,7 +173,7 @@
     {
       "name": "v2rayN-linux-riscv64.deb",
       "size": 147686188,
-      "downloads": 1808,
+      "downloads": 1809,
       "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-riscv64.deb",
       "platform": "🐧 Linux"
     },
@@ -215,7 +215,7 @@
     {
       "name": "v2rayN-macos-arm64.dmg",
       "size": 135534635,
-      "downloads": 163571,
+      "downloads": 163649,
       "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-macos-arm64.dmg",
       "platform": "🍎 macOS"
     },
@@ -243,49 +243,49 @@
     {
       "name": "v2rayN-public-key.asc",
       "size": 547,
-      "downloads": 1713,
+      "downloads": 1714,
       "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-public-key.asc",
       "platform": "📦 其他"
     },
     {
       "name": "v2rayN-windows-64-desktop.zip",
       "size": 144735873,
-      "downloads": 207785,
+      "downloads": 207840,
       "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-64-desktop.zip",
       "platform": "🪟 Windows"
     },
     {
       "name": "v2rayN-windows-64-desktop.zip.sig",
       "size": 297,
-      "downloads": 3451,
+      "downloads": 3452,
       "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-64-desktop.zip.sig",
       "platform": "🔐 校验文件"
     },
     {
       "name": "v2rayN-windows-64.zip",
       "size": 168730000,
-      "downloads": 273711,
+      "downloads": 273808,
       "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-64.zip",
       "platform": "🪟 Windows"
     },
     {
       "name": "v2rayN-windows-64.zip.sig",
       "size": 297,
-      "downloads": 3485,
+      "downloads": 3487,
       "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-64.zip.sig",
       "platform": "🔐 校验文件"
     },
     {
       "name": "v2rayN-windows-86-desktop.zip",
       "size": 145408272,
-      "downloads": 8298,
+      "downloads": 8299,
       "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-86-desktop.zip",
       "platform": "🪟 Windows"
     },
     {
       "name": "v2rayN-windows-86-desktop.zip.sig",
       "size": 297,
-      "downloads": 846,
+      "downloads": 847,
       "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-86-desktop.zip.sig",
       "platform": "🔐 校验文件"
     },
@@ -299,7 +299,7 @@
     {
       "name": "v2rayN-windows-86.zip.sig",
       "size": 297,
-      "downloads": 748,
+      "downloads": 749,
       "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-86.zip.sig",
       "platform": "🔐 校验文件"
     },
@@ -313,17 +313,17 @@
     {
       "name": "v2rayN-windows-arm64-desktop.zip.sig",
       "size": 297,
-      "downloads": 1011,
+      "downloads": 1012,
       "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-arm64-desktop.zip.sig",
       "platform": "🔐 校验文件"
     },
     {
       "name": "v2rayN-windows-arm64.zip",
       "size": 155862162,
-      "downloads": 8770,
+      "downloads": 8773,
       "url": "https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-arm64.zip",
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-11-02T18:56:50+08:00"
+  "generated_at": "2026-11-02"
 }

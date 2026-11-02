@@ -61,15 +61,15 @@ A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux 
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [Clash.Verge_2.5.9_aarch64.dmg](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_aarch64.dmg) | 🍎 macOS | 77.0 MB | 1.7k |
-| [Clash.Verge_2.5.9_x64.dmg](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_x64.dmg) | 🍎 macOS | 82.5 MB | 197 |
-| [Clash.Verge_2.5.9_x64-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_x64-setup.exe) | 🪟 Windows | 57.3 MB | 3.7k |
-| [Clash.Verge_2.5.9_x64_fixed_webview2-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_x64_fixed_webview2-setup.exe) | 🪟 Windows | 238.6 MB | 436 |
+| [Clash.Verge_2.5.9_aarch64.dmg](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_aarch64.dmg) | 🍎 macOS | 77.0 MB | 2.1k |
+| [Clash.Verge_2.5.9_x64.dmg](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_x64.dmg) | 🍎 macOS | 82.5 MB | 231 |
+| [Clash.Verge_2.5.9_x64-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_x64-setup.exe) | 🪟 Windows | 57.3 MB | 4.7k |
+| [Clash.Verge_2.5.9_x64_fixed_webview2-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_x64_fixed_webview2-setup.exe) | 🪟 Windows | 238.6 MB | 544 |
 | [Clash.Verge_2.5.9_arm64-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_arm64-setup.exe) | 🪟 Windows | 51.3 MB | 119 |
 | [Clash.Verge_2.5.9_arm64_fixed_webview2-setup.exe](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_arm64_fixed_webview2-setup.exe) | 🪟 Windows | 221.6 MB | 36 |
-| [Clash.Verge_2.5.9_amd64.deb](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_amd64.deb) | 🐧 Linux | 98.6 MB | 884 |
-| [Clash.Verge_2.5.9_arm64.deb](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_arm64.deb) | 🐧 Linux | 94.9 MB | 223 |
-| [Clash.Verge-2.5.9-1.x86_64.rpm](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge-2.5.9-1.x86_64.rpm) | 🐧 Linux | 98.6 MB | 148 |
+| [Clash.Verge_2.5.9_amd64.deb](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_amd64.deb) | 🐧 Linux | 98.6 MB | 1.1k |
+| [Clash.Verge_2.5.9_arm64.deb](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_arm64.deb) | 🐧 Linux | 94.9 MB | 264 |
+| [Clash.Verge-2.5.9-1.x86_64.rpm](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge-2.5.9-1.x86_64.rpm) | 🐧 Linux | 98.6 MB | 176 |
 | [Clash.Verge-2.5.9-1.aarch64.rpm](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge-2.5.9-1.aarch64.rpm) | 🐧 Linux | 94.9 MB | 34 |
 | [Clash.Verge_2.5.9_armhf.deb](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_armhf.deb) | 🐧 Linux | 98.9 MB | 30 |
 | [Clash.Verge-2.5.9-1.armhfp.rpm](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge-2.5.9-1.armhfp.rpm) | 🐧 Linux | 98.9 MB | 13 |
@@ -81,8 +81,8 @@ A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux 
 | [Clash.Verge_2.5.9_arm64_fixed_webview2-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_arm64_fixed_webview2-setup.exe.sig) | 🔐 校验文件 | 444 B | 5 |
 | [Clash.Verge_2.5.9_x64.app.tar.gz.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_x64.app.tar.gz.sig) | 🔐 校验文件 | 428 B | 5 |
 | [Clash.Verge_2.5.9_x64_fixed_webview2-setup.exe.sig](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_x64_fixed_webview2-setup.exe.sig) | 🔐 校验文件 | 440 B | 5 |
-| [Clash.Verge_2.5.9_aarch64.app.tar.gz](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_aarch64.app.tar.gz) | 📦 其他 | 78.8 MB | 808 |
-| [Clash.Verge_2.5.9_x64.app.tar.gz](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_x64.app.tar.gz) | 📦 其他 | 84.0 MB | 355 |
+| [Clash.Verge_2.5.9_aarch64.app.tar.gz](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_aarch64.app.tar.gz) | 📦 其他 | 78.8 MB | 1k |
+| [Clash.Verge_2.5.9_x64.app.tar.gz](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_x64.app.tar.gz) | 📦 其他 | 84.0 MB | 453 |
 | [latest.json](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/latest.json) | 📦 其他 | 7 KB | 6 |
 
 ## 🔗 快速链接

@@ -64,14 +64,14 @@
     {
       "name": "latest-mac.yml",
       "size": 690,
-      "downloads": 11009,
+      "downloads": 11012,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/latest-mac.yml",
       "platform": "🍎 macOS"
     },
     {
       "name": "latest.yml",
       "size": 387,
-      "downloads": 10956,
+      "downloads": 10958,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/latest.yml",
       "platform": "📦 其他"
     },
@@ -92,14 +92,14 @@
     {
       "name": "YesPlayMusic-0.4.11.exe",
       "size": 58058421,
-      "downloads": 3442,
+      "downloads": 3444,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-0.4.11.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "yesplaymusic-0.4.11.pacman",
       "size": 66355904,
-      "downloads": 706,
+      "downloads": 707,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic-0.4.11.pacman",
       "platform": "📦 其他"
     },
@@ -162,7 +162,7 @@
     {
       "name": "YesPlayMusic-Setup-0.4.11.exe",
       "size": 58243633,
-      "downloads": 5696,
+      "downloads": 5699,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-Setup-0.4.11.exe",
       "platform": "🪟 Windows"
     },
@@ -195,5 +195,5 @@
       "platform": "🐧 Linux"
     }
   ],
-  "generated_at": "2026-11-02T18:56:50+08:00"
+  "generated_at": "2026-11-02"
 }

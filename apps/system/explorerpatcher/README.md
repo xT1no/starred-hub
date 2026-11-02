@@ -59,7 +59,7 @@ This project aims to enhance the working environment on Windows
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [ep_setup.exe](https://github.com/valinet/ExplorerPatcher/releases/download/26100.9711.71.1/ep_setup.exe) | 🪟 Windows | 11.8 MB | 178k |
+| [ep_setup.exe](https://github.com/valinet/ExplorerPatcher/releases/download/26100.9711.71.1/ep_setup.exe) | 🪟 Windows | 11.8 MB | 179k |
 | [ep_setup_arm64.exe](https://github.com/valinet/ExplorerPatcher/releases/download/26100.9711.71.1/ep_setup_arm64.exe) | 🪟 Windows | 11.5 MB | 2.7k |
 
 ## 🔗 快速链接

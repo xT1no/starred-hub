@@ -61,7 +61,7 @@
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [Steam++_v3.1.0_macos.dmg](https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_macos.dmg) | 🍎 macOS | 220.0 MB | 136k |
+| [Steam++_v3.1.0_macos.dmg](https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_macos.dmg) | 🍎 macOS | 220.0 MB | 137k |
 | [Steam++_v3.1.0_win_x64.exe](https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_win_x64.exe) | 🪟 Windows | 92.3 MB | 217k |
 | [Steam++_v3.1.0_linux_x64.tgz](https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_linux_x64.tgz) | 🐧 Linux | 81.7 MB | 81k |
 | [Steam++_v3.1.0_win_x64.7z](https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_win_x64.7z) | 📦 其他 | 90.3 MB | 74k |

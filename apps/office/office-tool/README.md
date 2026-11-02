@@ -62,7 +62,7 @@ Office Tool Plus localization projects.
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [Office_Tool_with_runtime_v11.8.50.0_arm64.zip](https://github.com/YerongAI/Office-Tool/releases/download/v11.8.50.0/Office_Tool_with_runtime_v11.8.50.0_arm64.zip) | 🐧 Linux | 72.8 MB | 935 |
+| [Office_Tool_with_runtime_v11.8.50.0_arm64.zip](https://github.com/YerongAI/Office-Tool/releases/download/v11.8.50.0/Office_Tool_with_runtime_v11.8.50.0_arm64.zip) | 🐧 Linux | 72.8 MB | 936 |
 | [Office_Tool_v11.8.50.0_arm64.zip](https://github.com/YerongAI/Office-Tool/releases/download/v11.8.50.0/Office_Tool_v11.8.50.0_arm64.zip) | 🐧 Linux | 10.2 MB | 905 |
 | [Office_Tool_with_runtime_v11.8.50.0_arm64.7z](https://github.com/YerongAI/Office-Tool/releases/download/v11.8.50.0/Office_Tool_with_runtime_v11.8.50.0_arm64.7z) | 🐧 Linux | 48.4 MB | 292 |
 | [Office_Tool_with_runtime_v11.8.50.0_x64.zip](https://github.com/YerongAI/Office-Tool/releases/download/v11.8.50.0/Office_Tool_with_runtime_v11.8.50.0_x64.zip) | 🌐 Web | 77.7 MB | 42k |

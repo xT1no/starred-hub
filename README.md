@@ -6,7 +6,7 @@
 
 `145` 个仓库 · `15` 个功能分类 · `14` 个平台分类
 
-最近同步：2026-11-02 18:56 (UTC+8)
+最近同步：2026-11-02 18:59 (UTC+8)
 
 [📱 应用目录](apps/README.md) · [按功能浏览](docs/by-function.md) · [按平台浏览](docs/by-platform.md) · [更新动态](docs/updates.md) · [时间线](docs/timeline.md)
 

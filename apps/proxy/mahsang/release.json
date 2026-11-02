@@ -33,7 +33,7 @@
     {
       "name": "MahsaNG_18_arm64-v8a.apk",
       "size": 64789460,
-      "downloads": 16409,
+      "downloads": 16410,
       "url": "https://github.com/GFW-knocker/MahsaNG/releases/download/v18-%281405-7-10%29/MahsaNG_18_arm64-v8a.apk",
       "platform": "📲 Android"
     },
@@ -66,5 +66,5 @@
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-11-02T18:56:50+08:00"
+  "generated_at": "2026-11-02"
 }

@@ -49,7 +49,7 @@
     {
       "name": "Seal-1.13.1-armeabi-v7a-release.apk",
       "size": 40611853,
-      "downloads": 121977,
+      "downloads": 121979,
       "url": "https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-armeabi-v7a-release.apk",
       "platform": "📲 Android"
     },
@@ -63,17 +63,17 @@
     {
       "name": "Seal-1.13.1-x86-release.apk",
       "size": 44364789,
-      "downloads": 31266,
+      "downloads": 31267,
       "url": "https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-x86-release.apk",
       "platform": "📲 Android"
     },
     {
       "name": "Seal-1.13.1-x86_64-release.apk",
       "size": 45218592,
-      "downloads": 50833,
+      "downloads": 50834,
       "url": "https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-x86_64-release.apk",
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-11-02T18:56:50+08:00"
+  "generated_at": "2026-11-02"
 }

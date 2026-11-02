@@ -63,7 +63,7 @@
     {
       "name": "Steam++_v3.1.0_macos.dmg",
       "size": 230704640,
-      "downloads": 136496,
+      "downloads": 136508,
       "url": "https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_macos.dmg",
       "platform": "🍎 macOS"
     },
@@ -77,10 +77,10 @@
     {
       "name": "Steam++_v3.1.0_win_x64.exe",
       "size": 96754104,
-      "downloads": 217145,
+      "downloads": 217173,
       "url": "https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_win_x64.exe",
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-11-02T18:56:50+08:00"
+  "generated_at": "2026-11-02"
 }

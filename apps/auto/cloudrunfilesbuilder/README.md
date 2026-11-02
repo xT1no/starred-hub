@@ -60,7 +60,7 @@
 | [clashoo_2026.10.25_x86_64.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/clashoo_2026.10.25_x86_64.run) | ⌨️ CLI | 22.8 MB | 5 |
 | [dufs-0.46.0-r1_x86_64.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/dufs-0.46.0-r1_x86_64.run) | ⌨️ CLI | 2.5 MB | 5 |
 | [25-passwall2_aarch64_a53_26.10.29-1.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-passwall2_aarch64_a53_26.10.29-1.run) | 📦 其他 | 51.6 MB | 36 |
-| [25-openclash-aarch64_cortex-a53-v0.48.002.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-openclash-aarch64_cortex-a53-v0.48.002.run) | 📦 其他 | 23.0 MB | 15 |
+| [25-openclash-aarch64_cortex-a53-v0.48.002.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-openclash-aarch64_cortex-a53-v0.48.002.run) | 📦 其他 | 23.0 MB | 16 |
 | [25-luci-app-store-0.2.1-r1_all.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-luci-app-store-0.2.1-r1_all.run) | 📦 其他 | 217 KB | 14 |
 | [25_PassWall_26.10.29_aarch64_a53.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25_PassWall_26.10.29_aarch64_a53.run) | 📦 其他 | 28.8 MB | 11 |
 | [25-openclash-x86-64-v0.48.002.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-openclash-x86-64-v0.48.002.run) | 📦 其他 | 25.5 MB | 10 |

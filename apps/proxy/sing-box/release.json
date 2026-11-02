@@ -103,7 +103,7 @@
     {
       "name": "SFA-version-metadata.json",
       "size": 54,
-      "downloads": 33483,
+      "downloads": 33513,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-version-metadata.json",
       "platform": "📦 其他"
     },
@@ -222,7 +222,7 @@
     {
       "name": "SFW-1.14.4-x64.exe",
       "size": 115346760,
-      "downloads": 5466,
+      "downloads": 5471,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFW-1.14.4-x64.exe",
       "platform": "🪟 Windows"
     },
@@ -311,5 +311,5 @@
       "platform": "🐧 Linux"
     }
   ],
-  "generated_at": "2026-11-02T18:56:50+08:00"
+  "generated_at": "2026-11-02"
 }
