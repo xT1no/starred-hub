@@ -20,8 +20,8 @@ OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ i
 | 分类 | 🎮 [游戏 / 辅助脚本](../README.md) |
 | 平台 | 🪟 |
 | 语言 | C++ |
-| Star | 12k · Fork 0 |
-| License | — |
+| Star | 12k · Fork 589 |
+| License | GPL-3.0 |
 | 最新版本 | `v0.9.4` |
 | 最近更新 | 2026-07-18（3 个月前） |
 | 标星日期 | 2026-05-18 |
@@ -63,7 +63,7 @@ _Always check the [**Wiki**](https://github.com/optiscaler/OptiScaler/wiki) for 
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [Optiscaler_0.9.4-final.20260718._MM.7z](https://github.com/optiscaler/OptiScaler/releases/download/v0.9.4/Optiscaler_0.9.4-final.20260718._MM.7z) | 📦 其他 | 52.5 MB | 789k |
+| [Optiscaler_0.9.4-final.20260718._MM.7z](https://github.com/optiscaler/OptiScaler/releases/download/v0.9.4/Optiscaler_0.9.4-final.20260718._MM.7z) | 📦 其他 | 52.5 MB | 825k |
 
 ## 🔗 快速链接
 

@@ -14,7 +14,7 @@ Universal modifier for Chromium/V8 | 广谱注入 Chromium/V8 的通用修改器
 | 分类 | 🧩 [应用增强 / 模块](../README.md) |
 | 平台 | 🪟 |
 | 语言 | C++ |
-| Star | 8.5k · Fork 0 |
+| Star | 8.5k · Fork 397 |
 | License | — |
 | 最新版本 | `2.0.0` |
 | 最近更新 | 2025-06-21（1 年前） |

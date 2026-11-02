@@ -13,9 +13,9 @@
     "Windows"
   ],
   "language": "C#",
-  "stars": 11998,
-  "forks": 0,
-  "license": "",
+  "stars": 12062,
+  "forks": 563,
+  "license": "GPL-2.0",
   "archived": false,
   "homepage": "",
   "topics": [
@@ -24,7 +24,7 @@
     "driverstore"
   ],
   "starred_at": "2022-07-23T06:27:25Z",
-  "pushed_at": "",
+  "pushed_at": "2026-11-02T05:15:19Z",
   "latest": {
     "kind": "release",
     "tag": "v1.0.36",
@@ -37,10 +37,10 @@
     {
       "name": "DriverStoreExplorer-v1.0.36.zip",
       "size": 1091061,
-      "downloads": 34785,
+      "downloads": 42259,
       "url": "https://github.com/lostindark/DriverStoreExplorer/releases/download/v1.0.36/DriverStoreExplorer-v1.0.36.zip",
       "platform": "🌐 Web"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

@@ -20,8 +20,8 @@ Disable / Hide / Suspend / Uninstall Android apps without root.
 | 分类 | 🧩 [应用增强 / 模块](../README.md) |
 | 平台 | 📲 |
 | 语言 | Kotlin |
-| Star | 7k · Fork 0 |
-| License | — |
+| Star | 7.1k · Fork 268 |
+| License | GPL-3.0 |
 | 最新版本 | `v1.11.0` |
 | 最近更新 | 2026-08-26（2 个月前） |
 | 标星日期 | 2024-02-01 |
@@ -56,7 +56,7 @@ Disable / Hide / Suspend / Uninstall Android apps without root.
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [Hail-v1.11.0.apk](https://github.com/aistra0528/Hail/releases/download/v1.11.0/Hail-v1.11.0.apk) | 📲 Android | 5.5 MB | 63k |
+| [Hail-v1.11.0.apk](https://github.com/aistra0528/Hail/releases/download/v1.11.0/Hail-v1.11.0.apk) | 📲 Android | 5.5 MB | 67k |
 
 ## 🔗 快速链接
 

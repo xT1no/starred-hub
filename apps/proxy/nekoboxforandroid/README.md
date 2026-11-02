@@ -18,11 +18,12 @@ NekoBox for Android / sing-box / universal proxy toolchain for Android
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | 📲 |
 | 语言 | Kotlin |
-| Star | 23k · Fork 0 |
-| License | — |
+| Star | 23k · Fork 1.9k |
+| License | NOASSERTION |
 | 最新版本 | `1.4.2` |
 | 最近更新 | 2026-02-09（8 个月前） |
 | 标星日期 | 2024-05-14 |
+| 官网 | <https://matsuridayo.github.io/> |
 
 ## 📦 最新版本
 
@@ -60,16 +61,17 @@ NekoBox for Android / sing-box / universal proxy toolchain for Android
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [NekoBox-1.4.2-arm64-v8a.apk](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.4.2/NekoBox-1.4.2-arm64-v8a.apk) | 📲 Android | 14.5 MB | 693k |
-| [NekoBox-1.4.2-armeabi-v7a.apk](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.4.2/NekoBox-1.4.2-armeabi-v7a.apk) | 📲 Android | 14.8 MB | 73k |
-| [NekoBox-1.4.2-x86_64.apk](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.4.2/NekoBox-1.4.2-x86_64.apk) | 📲 Android | 15.2 MB | 56k |
-| [NekoBox-1.4.2-x86.apk](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.4.2/NekoBox-1.4.2-x86.apk) | 📲 Android | 15.5 MB | 44k |
+| [NekoBox-1.4.2-arm64-v8a.apk](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.4.2/NekoBox-1.4.2-arm64-v8a.apk) | 📲 Android | 14.5 MB | 708k |
+| [NekoBox-1.4.2-armeabi-v7a.apk](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.4.2/NekoBox-1.4.2-armeabi-v7a.apk) | 📲 Android | 14.8 MB | 74k |
+| [NekoBox-1.4.2-x86_64.apk](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.4.2/NekoBox-1.4.2-x86_64.apk) | 📲 Android | 15.2 MB | 57k |
+| [NekoBox-1.4.2-x86.apk](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.4.2/NekoBox-1.4.2-x86.apk) | 📲 Android | 15.5 MB | 45k |
 
 ## 🔗 快速链接
 
 - 仓库主页 · https://github.com/MatsuriDayo/NekoBoxForAndroid
 - Issues · https://github.com/MatsuriDayo/NekoBoxForAndroid/issues
 - Releases · https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
+- 官网 / 演示 · https://matsuridayo.github.io/
 
 `android` `gfw` `proxy` `shadowsocks` `sing-box` `trojan` `vmess` `vpn`
 

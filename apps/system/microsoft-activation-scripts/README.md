@@ -12,15 +12,16 @@ Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Onl
 | 分类 | ⚙️ [系统增强 / 优化](../README.md) |
 | 平台 | 🪟 |
 | 语言 | Batchfile |
-| Star | 197k · Fork 0 |
-| License | — |
+| Star | 197k · Fork 19k |
+| License | GPL-3.0 |
 | 最新版本 | `3.12` |
-| 最近更新 | 2026-07-04（3 个月前） |
+| 最近更新 | 2026-07-04（4 个月前） |
 | 标星日期 | 2025-12-02 |
+| 官网 | <https://massgrave.dev> |
 
 ## 📦 最新版本
 
-**`3.12`** · v3.12 8 Years of MAS　发布于 2026-07-04（3 个月前）
+**`3.12`** · v3.12 8 Years of MAS　发布于 2026-07-04（4 个月前）
 
 [查看 Release 页面](https://github.com/massgravel/Microsoft-Activation-Scripts/releases/tag/3.12)
 
@@ -52,6 +53,7 @@ Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Onl
 - 仓库主页 · https://github.com/massgravel/Microsoft-Activation-Scripts
 - Issues · https://github.com/massgravel/Microsoft-Activation-Scripts/issues
 - Releases · https://github.com/massgravel/Microsoft-Activation-Scripts/releases
+- 官网 / 演示 · https://massgrave.dev
 
 `activator` `hwid` `kms` `kms38` `massgrave` `massgravel` `microsoft` `microsoft365` `office` `office365` `ohook` `powershell`
 

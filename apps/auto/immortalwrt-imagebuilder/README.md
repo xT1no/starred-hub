@@ -12,15 +12,16 @@
 | 分类 | ⚡ [自动化 / 部署](../README.md) |
 | 平台 | 🛰️ |
 | 语言 | Shell |
-| Star | 2.7k · Fork 0 |
-| License | — |
+| Star | 2.7k · Fork 9.5k |
+| License | GPL-3.0 |
 | 最新版本 | `Autobuild-x86-64` |
-| 最近更新 | 2026-10-27（昨天） |
+| 最近更新 | 2026-10-27（6 天前） |
 | 标星日期 | 2025-10-10 |
+| 官网 | <https://t.me/imm_imagebuilder> |
 
 ## 📦 最新版本
 
-**`Autobuild-x86-64`**　发布于 2026-10-27（昨天）
+**`Autobuild-x86-64`**　发布于 2026-10-27（6 天前）
 
 [查看 Release 页面](https://github.com/wukongdaily/ImmortalWrt-ImageBuilder/releases/tag/Autobuild-x86-64)
 
@@ -49,13 +50,14 @@
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [immortalwrt-25.12.2-x86-64-generic-squashfs-combined-efi.im…](https://github.com/wukongdaily/ImmortalWrt-ImageBuilder/releases/download/Autobuild-x86-64/immortalwrt-25.12.2-x86-64-generic-squashfs-combined-efi.img.gz) | 📦 其他 | 23.6 MB | 4 |
+| [immortalwrt-25.12.2-x86-64-generic-squashfs-combined-efi.im…](https://github.com/wukongdaily/ImmortalWrt-ImageBuilder/releases/download/Autobuild-x86-64/immortalwrt-25.12.2-x86-64-generic-squashfs-combined-efi.img.gz) | 📦 其他 | 23.6 MB | 34 |
 
 ## 🔗 快速链接
 
 - 仓库主页 · https://github.com/wukongdaily/ImmortalWrt-ImageBuilder
 - Issues · https://github.com/wukongdaily/ImmortalWrt-ImageBuilder/issues
 - Releases · https://github.com/wukongdaily/ImmortalWrt-ImageBuilder/releases
+- 官网 / 演示 · https://t.me/imm_imagebuilder
 
 `docker` `imagebuilder` `immortalwrt` `luci-app-dockerman` `op-25-12` `openwrt` `rootfs` `rootsize`
 

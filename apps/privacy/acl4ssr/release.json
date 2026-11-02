@@ -13,11 +13,11 @@
     "通用 / 未指定"
   ],
   "language": "Python",
-  "stars": 6864,
-  "forks": 0,
-  "license": "",
+  "stars": 6892,
+  "forks": 2046,
+  "license": "CC-BY-SA-4.0",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://t.me/ACL4SSR",
   "topics": [
     "acl",
     "acl4ssr",
@@ -25,7 +25,7 @@
     "gfwlist"
   ],
   "starred_at": "2024-09-08T01:29:14Z",
-  "pushed_at": "",
+  "pushed_at": "2026-11-01T03:45:37Z",
   "latest": {
     "kind": "none",
     "tag": "",
@@ -35,5 +35,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

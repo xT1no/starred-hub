@@ -13,11 +13,11 @@
     "路由器 / 固件"
   ],
   "language": "Shell",
-  "stars": 2706,
-  "forks": 0,
-  "license": "",
+  "stars": 2715,
+  "forks": 9456,
+  "license": "GPL-3.0",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://t.me/imm_imagebuilder",
   "topics": [
     "docker",
     "imagebuilder",
@@ -29,7 +29,7 @@
     "rootsize"
   ],
   "starred_at": "2025-10-10T15:26:38Z",
-  "pushed_at": "",
+  "pushed_at": "2026-09-16T08:53:54Z",
   "latest": {
     "kind": "release",
     "tag": "Autobuild-x86-64",
@@ -42,10 +42,10 @@
     {
       "name": "immortalwrt-25.12.2-x86-64-generic-squashfs-combined-efi.img.gz",
       "size": 24694278,
-      "downloads": 4,
+      "downloads": 34,
       "url": "https://github.com/wukongdaily/ImmortalWrt-ImageBuilder/releases/download/Autobuild-x86-64/immortalwrt-25.12.2-x86-64-generic-squashfs-combined-efi.img.gz",
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

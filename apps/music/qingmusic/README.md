@@ -20,15 +20,15 @@
 | 分类 | 🎵 [音乐 / 音频](../README.md) |
 | 平台 | 🪟 |
 | 语言 | — |
-| Star | 1.9k · Fork 0 |
-| License | — |
+| Star | 1.9k · Fork 84 |
+| License | Apache-2.0 |
 | 最新版本 | `v1.4.0` |
-| 最近更新 | 2026-10-16（11 天前） |
+| 最近更新 | 2026-10-16（16 天前） |
 | 标星日期 | 2026-09-15 |
 
 ## 📦 最新版本
 
-**`v1.4.0`** · QingMusic v1.4.0　发布于 2026-10-16（11 天前）
+**`v1.4.0`** · QingMusic v1.4.0　发布于 2026-10-16（16 天前）
 
 [查看 Release 页面](https://github.com/kejichangqing/QingMusic/releases/tag/v1.4.0)
 
@@ -62,8 +62,8 @@
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [QingMusic_v1.4.0-arm-release.apk](https://github.com/kejichangqing/QingMusic/releases/download/v1.4.0/QingMusic_v1.4.0-arm-release.apk) | 📲 Android | 48.6 MB | 6.4k |
-| [QingMusic_v1.4.0-x86-release.apk](https://github.com/kejichangqing/QingMusic/releases/download/v1.4.0/QingMusic_v1.4.0-x86-release.apk) | 📲 Android | 54.1 MB | 1.1k |
+| [QingMusic_v1.4.0-arm-release.apk](https://github.com/kejichangqing/QingMusic/releases/download/v1.4.0/QingMusic_v1.4.0-arm-release.apk) | 📲 Android | 48.6 MB | 7.6k |
+| [QingMusic_v1.4.0-x86-release.apk](https://github.com/kejichangqing/QingMusic/releases/download/v1.4.0/QingMusic_v1.4.0-x86-release.apk) | 📲 Android | 54.1 MB | 1.4k |
 
 ## 🔗 快速链接
 

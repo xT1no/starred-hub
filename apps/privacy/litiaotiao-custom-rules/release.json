@@ -13,14 +13,14 @@
     "Android"
   ],
   "language": "",
-  "stars": 10169,
-  "forks": 0,
+  "stars": 10164,
+  "forks": 742,
   "license": "",
   "archived": true,
   "homepage": "",
   "topics": [],
   "starred_at": "2023-08-30T13:42:41Z",
-  "pushed_at": "",
+  "pushed_at": "2024-11-08T07:51:46Z",
   "latest": {
     "kind": "release",
     "tag": "20231028",
@@ -33,24 +33,24 @@
     {
       "name": "AllRules.json",
       "size": 62777,
-      "downloads": 15017,
+      "downloads": 15051,
       "url": "https://github.com/wtwang1998/LiTiaotiao-Custom-Rules/releases/download/20231028/AllRules.json",
       "platform": "📦 其他"
     },
     {
       "name": "BasicRules.json",
       "size": 62002,
-      "downloads": 2400,
+      "downloads": 2411,
       "url": "https://github.com/wtwang1998/LiTiaotiao-Custom-Rules/releases/download/20231028/BasicRules.json",
       "platform": "📦 其他"
     },
     {
       "name": "ExtendedRules.json",
       "size": 828,
-      "downloads": 1969,
+      "downloads": 1978,
       "url": "https://github.com/wtwang1998/LiTiaotiao-Custom-Rules/releases/download/20231028/ExtendedRules.json",
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

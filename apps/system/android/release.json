@@ -14,11 +14,11 @@
     "Android"
   ],
   "language": "C#",
-  "stars": 898,
-  "forks": 0,
-  "license": "",
+  "stars": 896,
+  "forks": 43,
+  "license": "GPL-3.0",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://nearshare.shortdev.de",
   "topics": [
     "airdrop",
     "android",
@@ -35,7 +35,7 @@
     "xamarin"
   ],
   "starred_at": "2024-02-28T16:32:09Z",
-  "pushed_at": "",
+  "pushed_at": "2026-10-13T20:11:33Z",
   "latest": {
     "kind": "release",
     "tag": "v1.11.1",
@@ -48,10 +48,10 @@
     {
       "name": "de.shortdev.nearby_sharing_windows.42.apk",
       "size": 85121651,
-      "downloads": 1073,
+      "downloads": 1114,
       "url": "https://github.com/nearby-sharing/android/releases/download/v1.11.1/de.shortdev.nearby_sharing_windows.42.apk",
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

@@ -13,14 +13,14 @@
     "跨平台桌面"
   ],
   "language": "Dart",
-  "stars": 16184,
-  "forks": 0,
-  "license": "",
+  "stars": 16213,
+  "forks": 3200,
+  "license": "GPL-3.0",
   "archived": false,
   "homepage": "",
   "topics": [],
   "starred_at": "2024-03-24T12:51:15Z",
-  "pushed_at": "",
+  "pushed_at": "2026-08-27T12:45:47Z",
   "latest": {
     "kind": "tag",
     "tag": "v1.8.6",
@@ -30,5 +30,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

@@ -18,11 +18,12 @@
 | 分类 | 🎵 [音乐 / 音频](../README.md) |
 | 平台 | 🌐 📱 |
 | 语言 | TypeScript |
-| Star | 28k · Fork 0 |
-| License | — |
+| Star | 28k · Fork 2k |
+| License | AGPL-3.0 |
 | 最新版本 | `v0.6.2` |
 | 最近更新 | 2025-10-11（1 年前） |
 | 标星日期 | 2025-10-15 |
+| 官网 | <https://musicfree.catcat.work> |
 
 ## 📦 最新版本
 
@@ -46,10 +47,10 @@
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [app-arm64-v8a-release.apk](https://github.com/maotoumao/MusicFree/releases/download/v0.6.2/app-arm64-v8a-release.apk) | 📲 Android | 17.4 MB | 37k |
-| [app-universal-release.apk](https://github.com/maotoumao/MusicFree/releases/download/v0.6.2/app-universal-release.apk) | 📲 Android | 30.2 MB | 9k |
-| [app-x86_64-release.apk](https://github.com/maotoumao/MusicFree/releases/download/v0.6.2/app-x86_64-release.apk) | 📲 Android | 17.5 MB | 4.2k |
-| [app-armeabi-v7a-release.apk](https://github.com/maotoumao/MusicFree/releases/download/v0.6.2/app-armeabi-v7a-release.apk) | 📲 Android | 16.8 MB | 3.9k |
+| [app-arm64-v8a-release.apk](https://github.com/maotoumao/MusicFree/releases/download/v0.6.2/app-arm64-v8a-release.apk) | 📲 Android | 17.4 MB | 38k |
+| [app-universal-release.apk](https://github.com/maotoumao/MusicFree/releases/download/v0.6.2/app-universal-release.apk) | 📲 Android | 30.2 MB | 9.3k |
+| [app-x86_64-release.apk](https://github.com/maotoumao/MusicFree/releases/download/v0.6.2/app-x86_64-release.apk) | 📲 Android | 17.5 MB | 4.3k |
+| [app-armeabi-v7a-release.apk](https://github.com/maotoumao/MusicFree/releases/download/v0.6.2/app-armeabi-v7a-release.apk) | 📲 Android | 16.8 MB | 4.1k |
 | [app-x86-release.apk](https://github.com/maotoumao/MusicFree/releases/download/v0.6.2/app-x86-release.apk) | 📲 Android | 17.8 MB | 2.4k |
 
 ## 🔗 快速链接
@@ -57,6 +58,7 @@
 - 仓库主页 · https://github.com/maotoumao/MusicFree
 - Issues · https://github.com/maotoumao/MusicFree/issues
 - Releases · https://github.com/maotoumao/MusicFree/releases
+- 官网 / 演示 · https://musicfree.catcat.work
 
 `free` `music-player` `musicfree` `plugin` `react` `react-native` `typescript`
 

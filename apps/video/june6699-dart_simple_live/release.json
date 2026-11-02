@@ -13,14 +13,14 @@
     "跨平台桌面"
   ],
   "language": "Dart",
-  "stars": 1325,
-  "forks": 0,
-  "license": "",
+  "stars": 1367,
+  "forks": 56,
+  "license": "GPL-3.0",
   "archived": false,
   "homepage": "",
   "topics": [],
   "starred_at": "2026-08-06T09:28:04Z",
-  "pushed_at": "",
+  "pushed_at": "2026-11-01T10:10:27Z",
   "latest": {
     "kind": "release",
     "tag": "v1.13.2",
@@ -33,80 +33,80 @@
     {
       "name": "ios_no_sign.ipa",
       "size": 35118814,
-      "downloads": 290,
+      "downloads": 452,
       "url": "https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/ios_no_sign.ipa",
       "platform": "📦 其他"
     },
     {
       "name": "mpv-dev-x86_64-20261021-git-e471496c56.7z",
       "size": 31622190,
-      "downloads": 31,
+      "downloads": 48,
       "url": "https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/mpv-dev-x86_64-20261021-git-e471496c56.7z",
       "platform": "⌨️ CLI"
     },
     {
       "name": "SimpleLive-v1.13.2-arm64-v8a-release.apk",
       "size": 74483526,
-      "downloads": 1073,
+      "downloads": 1624,
       "url": "https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/SimpleLive-v1.13.2-arm64-v8a-release.apk",
       "platform": "📲 Android"
     },
     {
       "name": "SimpleLive-v1.13.2-armeabi-v7a-release.apk",
       "size": 64181074,
-      "downloads": 168,
+      "downloads": 301,
       "url": "https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/SimpleLive-v1.13.2-armeabi-v7a-release.apk",
       "platform": "📲 Android"
     },
     {
       "name": "SimpleLive-v1.13.2-x86_64-release.apk",
       "size": 83316393,
-      "downloads": 65,
+      "downloads": 171,
       "url": "https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/SimpleLive-v1.13.2-x86_64-release.apk",
       "platform": "📲 Android"
     },
     {
       "name": "SimpleLive-Windows-v1.13.2-Setup.exe",
       "size": 62632115,
-      "downloads": 348,
+      "downloads": 484,
       "url": "https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/SimpleLive-Windows-v1.13.2-Setup.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "SimpleLive-Windows-v1.13.2.zip",
       "size": 85970231,
-      "downloads": 521,
+      "downloads": 642,
       "url": "https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/SimpleLive-Windows-v1.13.2.zip",
       "platform": "🪟 Windows"
     },
     {
       "name": "simple_live_app-1.13.2+11302-linux.deb",
       "size": 32477922,
-      "downloads": 13,
+      "downloads": 65,
       "url": "https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/simple_live_app-1.13.2%2B11302-linux.deb",
       "platform": "🐧 Linux"
     },
     {
       "name": "simple_live_app-1.13.2+11302-linux.zip",
       "size": 43294676,
-      "downloads": 32,
+      "downloads": 51,
       "url": "https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/simple_live_app-1.13.2%2B11302-linux.zip",
       "platform": "🐧 Linux"
     },
     {
       "name": "simple_live_app-1.13.2+11302-macos.dmg",
       "size": 68363632,
-      "downloads": 53,
+      "downloads": 155,
       "url": "https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/simple_live_app-1.13.2%2B11302-macos.dmg",
       "platform": "🍎 macOS"
     },
     {
       "name": "simple_live_app-1.13.2+11302-macos.zip",
       "size": 67051371,
-      "downloads": 13,
+      "downloads": 21,
       "url": "https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/simple_live_app-1.13.2%2B11302-macos.zip",
       "platform": "🍎 macOS"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

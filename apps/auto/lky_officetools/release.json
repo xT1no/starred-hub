@@ -13,11 +13,11 @@
     "通用 / 未指定"
   ],
   "language": "C#",
-  "stars": 12948,
-  "forks": 0,
-  "license": "",
+  "stars": 12981,
+  "forks": 1242,
+  "license": "GPL-3.0",
   "archived": false,
-  "homepage": "",
+  "homepage": "Email: OdysseusYuan@foxmail.com",
   "topics": [
     "access",
     "email",
@@ -41,7 +41,7 @@
     "word"
   ],
   "starred_at": "2024-01-11T14:12:09Z",
-  "pushed_at": "",
+  "pushed_at": "2024-02-22T20:49:45Z",
   "latest": {
     "kind": "release",
     "tag": "v1.3.0",
@@ -54,10 +54,10 @@
     {
       "name": "LKY_OfficeTools_v1.3.0.223.zip",
       "size": 12375034,
-      "downloads": 13362,
+      "downloads": 13820,
       "url": "https://github.com/OdysseusYuan/LKY_OfficeTools/releases/download/v1.3.0/LKY_OfficeTools_v1.3.0.223.zip",
       "platform": "🌐 Web"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

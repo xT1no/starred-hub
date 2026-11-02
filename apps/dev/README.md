@@ -2,7 +2,7 @@
 
 # 🛠️ 开发工具
 
-共 **1** 个应用 · 其中 **0** 个最近 7 天有更新
+共 **1** 个应用 · 其中 **1** 个最近 7 天有更新
 
 [← 全部应用](../README.md) · [⬇️ 下载索引](../../docs/downloads.md) · [星标总览](../../README.md)
 
@@ -10,7 +10,13 @@
 
 | 应用 | 简介 | 平台 | 最新版本 | 更新 | ⭐ | 下载 |
 |:---|:---|:---:|:---:|:---:|---:|:---:|
-| [UniGetUI](unigetui/README.md) | UniGetUI: The Graphical Interface for your package managers. Co… | 🪟 ⌨️ | `v2026.3.2` | 12 天前 | 27k | [⬇️](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/UniGetUI.Installer.x64.exe) |
+| [UniGetUI](unigetui/README.md) 🆕 | UniGetUI: The Graphical Interface for your package managers. Co… | 🪟 ⌨️ | `v2026.3.3` | 3 天前 | 27k | [⬇️](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.Installer.x64.exe) |
+
+## 🔥 最近更新
+
+| 应用 | 版本 | 发布日期 |
+|:---|:---|:---:|
+| [UniGetUI](unigetui/README.md) | [`v2026.3.3`](../../docs/downloads.md#dl-devolutions-unigetui) | 2026-10-29 |
 
 ---
 

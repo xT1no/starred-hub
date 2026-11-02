@@ -12,11 +12,12 @@
 | 分类 | 🛡️ [广告过滤 / 隐私](../README.md) |
 | 平台 | ❓ |
 | 语言 | — |
-| Star | 11k · Fork 0 |
-| License | — |
+| Star | 11k · Fork 790 |
+| License | MIT |
 | 最新版本 | `v4.3` |
 | 最近更新 | 2020-02-04（6 年前） |
 | 标星日期 | 2022-07-31 |
+| 官网 | <https://anti-ad.net> |
 
 ## 📦 最新版本
 
@@ -41,6 +42,7 @@
 - 仓库主页 · https://github.com/privacy-protection-tools/anti-AD
 - Issues · https://github.com/privacy-protection-tools/anti-AD/issues
 - Releases · https://github.com/privacy-protection-tools/anti-AD/releases
+- 官网 / 演示 · https://anti-ad.net
 
 `adblock` `adguardhome` `dnsmasq` `easylist` `neohosts` `php` `pi-hole` `surge`
 

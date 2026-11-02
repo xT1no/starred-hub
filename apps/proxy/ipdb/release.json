@@ -13,14 +13,14 @@
     "Web"
   ],
   "language": "",
-  "stars": 2608,
-  "forks": 0,
-  "license": "",
+  "stars": 2617,
+  "forks": 799,
+  "license": "MIT",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://ipdb.030101.xyz",
   "topics": [],
   "starred_at": "2024-06-20T02:04:17Z",
-  "pushed_at": "",
+  "pushed_at": "2026-11-02T10:08:29Z",
   "latest": {
     "kind": "none",
     "tag": "",
@@ -30,5 +30,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

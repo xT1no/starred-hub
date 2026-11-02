@@ -18,11 +18,12 @@ NGA 去广告Xposed模块 支持 Lspatch
 | 分类 | 🛡️ [广告过滤 / 隐私](../README.md) |
 | 平台 | 📲 |
 | 语言 | Kotlin |
-| Star | 1.1k · Fork 0 |
-| License | — |
+| Star | 1.1k · Fork 14 |
+| License | AGPL-3.0 |
 | 最新版本 | `3.4.0` |
 | 最近更新 | 2026-09-08（1 个月前） |
 | 标星日期 | 2023-04-04 |
+| 官网 | <https://github.com/Xposed-Modules-Repo/com.chrxw.purenga> |
 
 ## 📦 最新版本
 
@@ -60,17 +61,18 @@ NGA 去广告Xposed模块 支持 Lspatch
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [nga_9.9.68-3.4.0-lspatched.apk](https://github.com/chr233/PureNGA/releases/download/3.4.0/nga_9.9.68-3.4.0-lspatched.apk) | 📲 Android | 79.1 MB | 2.7k |
-| [nga_9.9.64-3.4.0-lspatched.apk](https://github.com/chr233/PureNGA/releases/download/3.4.0/nga_9.9.64-3.4.0-lspatched.apk) | 📲 Android | 89.3 MB | 394 |
-| [nga_9.9.65-3.4.0-lspatched.apk](https://github.com/chr233/PureNGA/releases/download/3.4.0/nga_9.9.65-3.4.0-lspatched.apk) | 📲 Android | 75.6 MB | 84 |
-| [nga_9.9.67-3.4.0-lspatched.apk](https://github.com/chr233/PureNGA/releases/download/3.4.0/nga_9.9.67-3.4.0-lspatched.apk) | 📲 Android | 79.0 MB | 75 |
-| [nga_9.9.66-3.4.0-lspatched.apk](https://github.com/chr233/PureNGA/releases/download/3.4.0/nga_9.9.66-3.4.0-lspatched.apk) | 📲 Android | 75.8 MB | 60 |
+| [nga_9.9.68-3.4.0-lspatched.apk](https://github.com/chr233/PureNGA/releases/download/3.4.0/nga_9.9.68-3.4.0-lspatched.apk) | 📲 Android | 79.1 MB | 2.9k |
+| [nga_9.9.64-3.4.0-lspatched.apk](https://github.com/chr233/PureNGA/releases/download/3.4.0/nga_9.9.64-3.4.0-lspatched.apk) | 📲 Android | 89.3 MB | 431 |
+| [nga_9.9.65-3.4.0-lspatched.apk](https://github.com/chr233/PureNGA/releases/download/3.4.0/nga_9.9.65-3.4.0-lspatched.apk) | 📲 Android | 75.6 MB | 87 |
+| [nga_9.9.67-3.4.0-lspatched.apk](https://github.com/chr233/PureNGA/releases/download/3.4.0/nga_9.9.67-3.4.0-lspatched.apk) | 📲 Android | 79.0 MB | 84 |
+| [nga_9.9.66-3.4.0-lspatched.apk](https://github.com/chr233/PureNGA/releases/download/3.4.0/nga_9.9.66-3.4.0-lspatched.apk) | 📲 Android | 75.8 MB | 62 |
 
 ## 🔗 快速链接
 
 - 仓库主页 · https://github.com/chr233/PureNGA
 - Issues · https://github.com/chr233/PureNGA/issues
 - Releases · https://github.com/chr233/PureNGA/releases
+- 官网 / 演示 · https://github.com/Xposed-Modules-Repo/com.chrxw.purenga
 
 `178` `ezxhelper` `nga` `purenga` `xposed`
 

@@ -18,11 +18,12 @@
 | 分类 | 🎬 [影视 / 直播 / 番剧](../README.md) |
 | 平台 | 📺 |
 | 语言 | C |
-| Star | 32k · Fork 0 |
+| Star | 32k · Fork 3.6k |
 | License | — |
 | 最新版本 | `v2.1.8` |
 | 最近更新 | 2024-06-20（2 年前） |
 | 标星日期 | 2024-03-14 |
+| 官网 | <https://lyrics.run/my-tv.html> |
 
 ## 📦 最新版本
 
@@ -46,13 +47,14 @@
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [my-tv-v2.1.8.apk](https://github.com/lizongying/my-tv/releases/download/v2.1.8/my-tv-v2.1.8.apk) | 📺 AndroidTV | 13.3 MB | 439k |
+| [my-tv-v2.1.8.apk](https://github.com/lizongying/my-tv/releases/download/v2.1.8/my-tv-v2.1.8.apk) | 📺 AndroidTV | 13.3 MB | 441k |
 
 ## 🔗 快速链接
 
 - 仓库主页 · https://github.com/lizongying/my-tv
 - Issues · https://github.com/lizongying/my-tv/issues
 - Releases · https://github.com/lizongying/my-tv/releases
+- 官网 / 演示 · https://lyrics.run/my-tv.html
 
 `iptv` `my-tv` `mytv` `tv`
 

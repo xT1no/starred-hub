@@ -18,15 +18,15 @@
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | 🌐 |
 | 语言 | Python |
-| Star | 17k · Fork 0 |
+| Star | 17k · Fork 8.5k |
 | License | — |
 | 最新版本 | `v2026.10.17.2` |
-| 最近更新 | 2026-10-18（10 天前） |
+| 最近更新 | 2026-10-18（15 天前） |
 | 标星日期 | 2025-11-01 |
 
 ## 📦 最新版本
 
-**`v2026.10.17.2`** · CFnew 精简内核 2026.10.17.2　发布于 2026-10-18（10 天前）
+**`v2026.10.17.2`** · CFnew 精简内核 2026.10.17.2　发布于 2026-10-18（15 天前）
 
 [查看 Release 页面](https://github.com/byJoey/cfnew/releases/tag/v2026.10.17.2)
 
@@ -60,9 +60,9 @@ Windows、macOS、Linux 都用同一份，按 Cloudflare 部署方式选择。
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [Pages.zip](https://github.com/byJoey/cfnew/releases/download/v2026.10.17.2/Pages.zip) | 🌐 Web | 15 KB | 12k |
-| [SHA256SUMS.txt](https://github.com/byJoey/cfnew/releases/download/v2026.10.17.2/SHA256SUMS.txt) | 🔐 校验文件 | 153 B | 289 |
-| [_worker.js](https://github.com/byJoey/cfnew/releases/download/v2026.10.17.2/_worker.js) | 📦 其他 | 37 KB | 1.1k |
+| [Pages.zip](https://github.com/byJoey/cfnew/releases/download/v2026.10.17.2/Pages.zip) | 🌐 Web | 15 KB | 17k |
+| [SHA256SUMS.txt](https://github.com/byJoey/cfnew/releases/download/v2026.10.17.2/SHA256SUMS.txt) | 🔐 校验文件 | 153 B | 367 |
+| [_worker.js](https://github.com/byJoey/cfnew/releases/download/v2026.10.17.2/_worker.js) | 📦 其他 | 37 KB | 1.6k |
 
 ## 🔗 快速链接
 

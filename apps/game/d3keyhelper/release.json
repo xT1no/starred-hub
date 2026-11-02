@@ -14,13 +14,13 @@
   ],
   "language": "AutoHotkey",
   "stars": 396,
-  "forks": 0,
-  "license": "",
+  "forks": 79,
+  "license": "MIT",
   "archived": false,
   "homepage": "",
   "topics": [],
   "starred_at": "2022-08-01T14:21:47Z",
-  "pushed_at": "",
+  "pushed_at": "2026-04-03T13:22:51Z",
   "latest": {
     "kind": "release",
     "tag": "v1.4.230222",
@@ -33,10 +33,10 @@
     {
       "name": "D3.AHK.v1.4.230222.7z",
       "size": 509885,
-      "downloads": 6409,
+      "downloads": 6423,
       "url": "https://github.com/WeijieH/D3keyHelper/releases/download/v1.4.230222/D3.AHK.v1.4.230222.7z",
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

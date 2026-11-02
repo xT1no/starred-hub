@@ -20,11 +20,12 @@ Share files between android and PC via the Windows 10 / 11 built-in nearby-shari
 | 分类 | ⚙️ [系统增强 / 优化](../README.md) |
 | 平台 | 🪟 📲 |
 | 语言 | C# |
-| Star | 898 · Fork 0 |
-| License | — |
+| Star | 896 · Fork 43 |
+| License | GPL-3.0 |
 | 最新版本 | `v1.11.1` |
 | 最近更新 | 2026-05-21（5 个月前） |
 | 标星日期 | 2024-02-28 |
+| 官网 | <https://nearshare.shortdev.de> |
 
 ## 📦 最新版本
 
@@ -68,6 +69,7 @@ Share files between android and PC via the Windows 10 / 11 built-in nearby-shari
 - 仓库主页 · https://github.com/nearby-sharing/android
 - Issues · https://github.com/nearby-sharing/android/issues
 - Releases · https://github.com/nearby-sharing/android/releases
+- 官网 / 演示 · https://nearshare.shortdev.de
 
 `airdrop` `android` `bluetooth` `hacktoberfest` `nearby` `nearby-sharing` `nearshare` `project-rome` `share` `wifi` `windows-10` `windows-11`
 

@@ -13,14 +13,14 @@
     "Windows"
   ],
   "language": "Go",
-  "stars": 110,
-  "forks": 0,
-  "license": "",
+  "stars": 111,
+  "forks": 5,
+  "license": "MIT",
   "archived": false,
   "homepage": "",
   "topics": [],
   "starred_at": "2026-01-10T11:57:52Z",
-  "pushed_at": "",
+  "pushed_at": "2026-10-16T11:17:35Z",
   "latest": {
     "kind": "release",
     "tag": "1.2",
@@ -33,7 +33,7 @@
     {
       "name": "EdgeCopilotFixTool-darwin-amd64",
       "size": 3350752,
-      "downloads": 3,
+      "downloads": 7,
       "url": "https://github.com/emmm1245/EdgeCopilotFix/releases/download/1.2/EdgeCopilotFixTool-darwin-amd64",
       "platform": "🍎 macOS"
     },
@@ -54,10 +54,10 @@
     {
       "name": "EdgeCopilotFixTool-windows-amd64.exe",
       "size": 3472896,
-      "downloads": 47,
+      "downloads": 64,
       "url": "https://github.com/emmm1245/EdgeCopilotFix/releases/download/1.2/EdgeCopilotFixTool-windows-amd64.exe",
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

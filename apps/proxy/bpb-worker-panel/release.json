@@ -18,11 +18,11 @@
     "跨平台桌面"
   ],
   "language": "TypeScript",
-  "stars": 13814,
-  "forks": 0,
-  "license": "",
+  "stars": 13832,
+  "forks": 31590,
+  "license": "GPL-3.0",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://bia-pain-bache.github.io/BPB-Worker-Panel/",
   "topics": [
     "amnezia",
     "android",
@@ -42,7 +42,7 @@
     "xray-core"
   ],
   "starred_at": "2024-07-06T07:43:55Z",
-  "pushed_at": "",
+  "pushed_at": "2026-07-20T13:07:08Z",
   "latest": {
     "kind": "release",
     "tag": "v5.1.1",
@@ -55,10 +55,10 @@
     {
       "name": "worker.js",
       "size": 404293,
-      "downloads": 232766,
+      "downloads": 244428,
       "url": "https://github.com/bia-pain-bache/BPB-Worker-Panel/releases/download/v5.1.1/worker.js",
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

@@ -14,11 +14,11 @@
     "Web"
   ],
   "language": "",
-  "stars": 13791,
-  "forks": 0,
+  "stars": 13835,
+  "forks": 590,
   "license": "",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://t.me/ddgksf2021",
   "topics": [
     "adblock",
     "adguard",
@@ -37,7 +37,7 @@
     "surge"
   ],
   "starred_at": "2025-07-19T03:57:00Z",
-  "pushed_at": "",
+  "pushed_at": "2026-10-31T12:21:33Z",
   "latest": {
     "kind": "none",
     "tag": "",
@@ -47,5 +47,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

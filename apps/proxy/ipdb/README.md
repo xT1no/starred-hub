@@ -12,11 +12,12 @@ Cloudflare反代优选IP库
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | 🌐 |
 | 语言 | — |
-| Star | 2.6k · Fork 0 |
-| License | — |
+| Star | 2.6k · Fork 799 |
+| License | MIT |
 | 最新版本 | 无版本标记 |
-| 最近更新 | —（—） |
+| 最近更新 | 2026-11-02（今天） |
 | 标星日期 | 2024-06-20 |
+| 官网 | <https://ipdb.030101.xyz> |
 
 ## 📦 最新版本
 
@@ -27,6 +28,7 @@ Cloudflare反代优选IP库
 - 仓库主页 · https://github.com/ymyuuu/IPDB
 - Issues · https://github.com/ymyuuu/IPDB/issues
 - Releases · https://github.com/ymyuuu/IPDB/releases
+- 官网 / 演示 · https://ipdb.030101.xyz
 
 ---
 

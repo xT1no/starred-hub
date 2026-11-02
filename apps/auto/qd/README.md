@@ -12,11 +12,12 @@ QD [v20240210] —— HTTP请求定时任务自动执行框架 base on HAR Edito
 | 分类 | ⚡ [自动化 / 部署](../README.md) |
 | 平台 | ❓ |
 | 语言 | Python |
-| Star | 5.6k · Fork 0 |
-| License | — |
+| Star | 5.6k · Fork 649 |
+| License | MIT |
 | 最新版本 | `20250803` |
 | 最近更新 | 2025-08-03（1 年前） |
 | 标星日期 | 2022-08-11 |
+| 官网 | <https://qd-today.github.io/qd/> |
 
 ## 📦 最新版本
 
@@ -45,6 +46,7 @@ QD [v20240210] —— HTTP请求定时任务自动执行框架 base on HAR Edito
 - 仓库主页 · https://github.com/qd-today/qd
 - Issues · https://github.com/qd-today/qd/issues
 - Releases · https://github.com/qd-today/qd/releases
+- 官网 / 演示 · https://qd-today.github.io/qd/
 
 `checkin` `docker` `har` `qd` `qiandao`
 

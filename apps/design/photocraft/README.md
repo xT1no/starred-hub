@@ -10,9 +10,9 @@ PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 
 ## ⬇️ 直接下载
 
-🪟 [x64 安装版 · 71.3 MB](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-windows-x64.msi) · 🍎 [通用 dmg · 94.4 MB](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-macos-universal.dmg) · 🐧 [x64 AppImage · 79.5 MB](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-x86_64.AppImage) · 📦 [x64 便携版 · 85.9 MB](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-windows-x64-portable.zip)
+🪟 [x64 安装版 · 102 MB](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-windows-x64.msi) · 🍎 [通用 dmg · 234 MB](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-macos-universal.dmg) · 🐧 [x64 AppImage · 113 MB](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-linux-x86_64.AppImage) · 📦 [x64 便携版 · 122 MB](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-windows-x64-portable.zip)
 
-全部 28 个文件见下方 [安装包](#pkgs) 表格。
+全部 32 个文件见下方 [安装包](#pkgs) 表格。
 
 | 项目 | 信息 |
 |:---|:---|
@@ -20,28 +20,30 @@ PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 | 分类 | 🎨 [图像 / 设计](../README.md) |
 | 平台 | 🖥️ |
 | 语言 | Rust |
-| Star | 74k · Fork 0 |
-| License | — |
-| 最新版本 | `v0.16.0` |
-| 最近更新 | 2026-10-25（2 天前） |
+| Star | 76k · Fork 13k |
+| License | Apache-2.0 |
+| 最新版本 | `v0.19.0` |
+| 最近更新 | 2026-11-01（今天） |
 | 标星日期 | 2026-10-09 |
+| 官网 | <https://getartcraft.com/apps/photocraft> |
 
 ## 📦 最新版本
 
-**`v0.16.0`** · PhotoCraft v0.16.0　发布于 2026-10-25（2 天前）
+**`v0.19.0`** · PhotoCraft v0.19.0　发布于 2026-11-01（今天）
 
-[查看 Release 页面](https://github.com/storytold/photocraft/releases/tag/v0.16.0)
+[查看 Release 页面](https://github.com/storytold/photocraft/releases/tag/v0.19.0)
 
 <details><summary>更新说明</summary>
 
 ```text
 ## What's Changed
-* Reuse filled-shape effect maps while moving styled groups by @kotulsky in https://github.com/storytold/photocraft/pull/8993
-* fix(ui-egui): a click on the bottom layer's Smart Filters selects them again (#8764) by @drunkeninja42 in https://github.com/storytold/photocraft/pull/8974
-* security(paint): cap spaced steps and procedural primitives by @dylanmtaylor in https://github.com/storytold/photocraft/pull/8957
-* i18n(zh-hans): translate status messages and preview labels by @IgnatAi401 in https://github.com/storytold/photocraft/pull/8872
-* perf(liquify): reuse interpolation taps and bound render buffers by @yongjip in https://github.com/storytold/photocraft/pull/8855
-* perf(mcp): move command list rows instead of cloning by @yongjip in https://github.com/storytold/photocraft/pull/8844
+* Updates: shared check-result dialog from craft-update by @aiongg in https://github.com/storytold/photocraft/pull/10421
+* docs: tidy agent, contributor and release docs by @aiongg in https://github.com/storytold/photocraft/pull/10420
+* Keep brush state intact when a preset tip fails to load by @wanikhawar in https://github.com/storytold/photocraft/pull/10288
+* Integration batch: 18 PRs on main by @davidmann4 in https://github.com/storytold/photocraft/pull/10145
+* Add Finnish interface language by @Janiz-zzz in https://github.com/storytold/photocraft/pull/5666
+* Preserve imported PSD font metadata during text edits by @jonathanwxh-cell in https://github.com/storytold/photocraft/pull/6169
+* Move tool: a huge layer isn't copied for every frame of a live drag (#6114, #6163) by @SiFuMax09 in https://github.com/storytold/photocraft/pull/6985
 …（完整内容见 Release 页面）
 ```
 
@@ -51,42 +53,43 @@ PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 
 ## ⬇️ 安装包
 
-来自最新 Release，共 28 个文件。下表是官方直链，点名字即可下载。
+来自最新 Release，共 32 个文件。下表是官方直链，点名字即可下载。
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [photocraft-0.16.0-macos-universal.dmg](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-macos-universal.dmg) | 🍎 macOS | 94.4 MB | 47k |
-| [photocraft-cli-0.16.0-macos-universal.zip](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-cli-0.16.0-macos-universal.zip) | 🍎 macOS | 68.7 MB | 2.6k |
-| [photocraft-0.16.0-windows-x64.msi](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-windows-x64.msi) | 🪟 Windows | 71.3 MB | 113k |
-| [photocraft-0.16.0-windows-x64-portable.zip](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-windows-x64-portable.zip) | 🪟 Windows | 85.9 MB | 12k |
-| [photocraft-0.16.0-windows-x86-portable.zip](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-windows-x86-portable.zip) | 🪟 Windows | 81.2 MB | 1.5k |
-| [photocraft-0.16.0-windows-arm64.msi](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-windows-arm64.msi) | 🪟 Windows | 66.1 MB | 1.4k |
-| [photocraft-0.16.0-windows-x86.msi](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-windows-x86.msi) | 🪟 Windows | 68.6 MB | 1.4k |
-| [photocraft-0.16.0-windows-arm64-portable.zip](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-windows-arm64-portable.zip) | 🪟 Windows | 81.0 MB | 1.1k |
-| [photocraft-0.16.0-linux-x86_64.AppImage](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-x86_64.AppImage) | 🐧 Linux | 79.5 MB | 15k |
-| [photocraft-0.16.0-linux-x86_64.deb](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-x86_64.deb) | 🐧 Linux | 85.1 MB | 11k |
-| [photocraft-0.16.0-linux-x86_64.flatpak](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-x86_64.flatpak) | 🐧 Linux | 62.5 MB | 9.9k |
-| [photocraft-0.16.0-linux-x86_64.AppImage.zsync](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-x86_64.AppImage.zsync) | 🐧 Linux | 278 KB | 5.6k |
-| [photocraft-0.16.0-linux-x86_64.tar.gz](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-x86_64.tar.gz) | 🐧 Linux | 83.8 MB | 4.8k |
-| [photocraft-0.16.0-linux-x86_64.rpm](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-x86_64.rpm) | 🐧 Linux | 84.5 MB | 2.7k |
-| [photocraft-0.16.0-linux-x86_64.pkg.tar.zst](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-x86_64.pkg.tar.zst) | 🐧 Linux | 66.2 MB | 1.3k |
-| [photocraft-0.16.0-linux-aarch64.AppImage](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-aarch64.AppImage) | 🐧 Linux | 75.4 MB | 1.1k |
-| [photocraft-0.16.0-linux-aarch64.deb](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-aarch64.deb) | 🐧 Linux | 81.6 MB | 880 |
-| [photocraft-0.16.0-linux-aarch64.flatpak](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-aarch64.flatpak) | 🐧 Linux | 57.7 MB | 687 |
-| [photocraft-0.16.0-linux-aarch64.tar.gz](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-aarch64.tar.gz) | 🐧 Linux | 79.3 MB | 664 |
-| [photocraft-0.16.0-linux-aarch64.rpm](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-aarch64.rpm) | 🐧 Linux | 80.9 MB | 522 |
-| [photocraft-0.16.0-linux-riscv64.deb](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-riscv64.deb) | 🐧 Linux | 82.5 MB | 519 |
-| [photocraft-0.16.0-linux-aarch64.AppImage.zsync](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-aarch64.AppImage.zsync) | 🐧 Linux | 264 KB | 445 |
-| [photocraft-0.16.0-linux-riscv64.rpm](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-riscv64.rpm) | 🐧 Linux | 82.1 MB | 429 |
-| [photocraft-0.16.0-linux-riscv64.tar.gz](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-riscv64.tar.gz) | 🐧 Linux | 81.3 MB | 419 |
+| [photocraft-0.19.0-macos-universal.dmg](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-macos-universal.dmg) | 🍎 macOS | 234.3 MB | 17k |
+| [photocraft-cli-0.19.0-macos-universal.zip](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-cli-0.19.0-macos-universal.zip) | 🍎 macOS | 102.0 MB | 580 |
+| [photocraft-0.19.0-windows-x64.msi](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-windows-x64.msi) | 🪟 Windows | 102.1 MB | 32k |
+| [photocraft-0.19.0-windows-x64-portable.zip](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-windows-x64-portable.zip) | 🪟 Windows | 122.3 MB | 6.7k |
+| [photocraft-0.19.0-windows-arm64.msi](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-windows-arm64.msi) | 🪟 Windows | 96.6 MB | 452 |
+| [photocraft-0.19.0-windows-x86-portable.zip](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-windows-x86-portable.zip) | 🪟 Windows | 116.6 MB | 425 |
+| [photocraft-0.19.0-windows-x86.msi](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-windows-x86.msi) | 🪟 Windows | 98.8 MB | 401 |
+| [photocraft-0.19.0-windows-arm64-portable.zip](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-windows-arm64-portable.zip) | 🪟 Windows | 116.4 MB | 377 |
+| [photocraft-0.19.0-windows-x64-symbols.zip](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-windows-x64-symbols.zip) | 🪟 Windows | 6.0 MB | 338 |
+| [photocraft-0.19.0-windows-x86-symbols.zip](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-windows-x86-symbols.zip) | 🪟 Windows | 5.7 MB | 201 |
+| [photocraft-0.19.0-windows-arm64-symbols.zip](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-windows-arm64-symbols.zip) | 🪟 Windows | 5.6 MB | 189 |
+| [photocraft-0.19.0-linux-x86_64.AppImage](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-linux-x86_64.AppImage) | 🐧 Linux | 113.5 MB | 5.8k |
+| [photocraft-0.19.0-linux-x86_64.deb](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-linux-x86_64.deb) | 🐧 Linux | 120.9 MB | 4.1k |
+| [photocraft-0.19.0-linux-x86_64.flatpak](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-linux-x86_64.flatpak) | 🐧 Linux | 90.6 MB | 3.6k |
+| [photocraft-0.19.0-linux-x86_64.tar.gz](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-linux-x86_64.tar.gz) | 🐧 Linux | 119.2 MB | 2.2k |
+| [photocraft-0.19.0-linux-x86_64.AppImage.zsync](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-linux-x86_64.AppImage.zsync) | 🐧 Linux | 199 KB | 1.3k |
+| [photocraft-0.19.0-linux-x86_64.rpm](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-linux-x86_64.rpm) | 🐧 Linux | 120.1 MB | 1.3k |
+| [photocraft-0.19.0-linux-x86_64.pkg.tar.zst](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-linux-x86_64.pkg.tar.zst) | 🐧 Linux | 96.1 MB | 740 |
+| [photocraft-0.19.0-linux-aarch64.deb](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-linux-aarch64.deb) | 🐧 Linux | 117.2 MB | 373 |
+| [photocraft-0.19.0-linux-aarch64.AppImage](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-linux-aarch64.AppImage) | 🐧 Linux | 109.0 MB | 321 |
+| [photocraft-0.19.0-linux-aarch64.tar.gz](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-linux-aarch64.tar.gz) | 🐧 Linux | 114.3 MB | 247 |
+| [photocraft-0.19.0-linux-aarch64.rpm](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-linux-aarch64.rpm) | 🐧 Linux | 116.2 MB | 245 |
+| [photocraft-0.19.0-linux-riscv64.deb](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-linux-riscv64.deb) | 🐧 Linux | 118.1 MB | 240 |
+| [photocraft-0.19.0-linux-aarch64.flatpak](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-linux-aarch64.flatpak) | 🐧 Linux | 84.9 MB | 227 |
 
-还有 4 个文件，见 [Release 页面](https://github.com/storytold/photocraft/releases/tag/v0.16.0)。
+还有 8 个文件，见 [Release 页面](https://github.com/storytold/photocraft/releases/tag/v0.19.0)。
 
 ## 🔗 快速链接
 
 - 仓库主页 · https://github.com/storytold/photocraft
 - Issues · https://github.com/storytold/photocraft/issues
 - Releases · https://github.com/storytold/photocraft/releases
+- 官网 / 演示 · https://getartcraft.com/apps/photocraft
 
 `art` `image-editing` `image-editing-software` `image-editor` `images` `photo-editing` `rust`
 

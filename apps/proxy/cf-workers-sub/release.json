@@ -13,14 +13,14 @@
     "服务端 / 云端"
   ],
   "language": "JavaScript",
-  "stars": 7515,
-  "forks": 0,
-  "license": "",
+  "stars": 7517,
+  "forks": 8998,
+  "license": "Apache-2.0",
   "archived": true,
-  "homepage": "",
+  "homepage": "https://youtu.be/w6rRY4FDd58",
   "topics": [],
   "starred_at": "2024-05-13T03:44:57Z",
-  "pushed_at": "",
+  "pushed_at": "2026-06-25T09:23:11Z",
   "latest": {
     "kind": "none",
     "tag": "",
@@ -30,5 +30,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

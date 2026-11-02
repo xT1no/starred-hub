@@ -13,8 +13,8 @@
     "Windows"
   ],
   "language": "",
-  "stars": 808,
-  "forks": 0,
+  "stars": 809,
+  "forks": 35,
   "license": "",
   "archived": false,
   "homepage": "",
@@ -23,7 +23,7 @@
     "world-of-warcraft"
   ],
   "starred_at": "2025-08-16T10:54:53Z",
-  "pushed_at": "",
+  "pushed_at": "2026-10-15T12:52:01Z",
   "latest": {
     "kind": "release",
     "tag": "12.1.5.70391-V5-1",
@@ -36,10 +36,10 @@
     {
       "name": "CleanIcons-MechagnomeEdition-12.1.5.70391-V5-1.zip",
       "size": 1172461298,
-      "downloads": 2739,
+      "downloads": 3334,
       "url": "https://github.com/AcidWeb/Clean-Icons-Mechagnome-Edition/releases/download/12.1.5.70391-V5-1/CleanIcons-MechagnomeEdition-12.1.5.70391-V5-1.zip",
       "platform": "🌐 Web"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

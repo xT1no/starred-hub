@@ -18,15 +18,15 @@
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | ☁️ |
 | 语言 | HTML |
-| Star | 6.2k · Fork 0 |
-| License | — |
+| Star | 6.2k · Fork 10k |
+| License | GPL-3.0 |
 | 最新版本 | `gows-latest` |
-| 最近更新 | 2026-01-04（9 个月前） |
+| 最近更新 | 2026-01-04（10 个月前） |
 | 标星日期 | 2025-11-14 |
 
 ## 📦 最新版本
 
-**`gows-latest`** · Gows Latest　发布于 2026-01-04（9 个月前）
+**`gows-latest`** · Gows Latest　发布于 2026-01-04（10 个月前）
 
 [查看 Release 页面](https://github.com/eooce/node-ws/releases/tag/gows-latest)
 

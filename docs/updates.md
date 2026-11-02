@@ -2,30 +2,40 @@
 
 # 🔄 应用更新动态
 
-跟踪 **112** 个有版本号的应用，按最新版本发布时间倒序 · 同步于 2026-10-28 16:52
+跟踪 **112** 个有版本号的应用，按最新版本发布时间倒序 · 同步于 2026-11-02 18:50
 
 [← 星标总览](../README.md) · [应用目录](../apps/README.md) · [按功能](by-function.md) · [按平台](by-platform.md)
 
 ---
 
+## 2026-11
+
+| 应用 | 版本 | 发布 | 分类 | 简介 |
+|:---|:---|:---:|:---:|:---|
+| [clash-verge-rev](../apps/proxy/clash-verge-rev/README.md) | `v2.5.9` | 2026-11-02 | 🌐 | A modern GUI client based on Tauri, designed to run in Wi… |
+| [light-c](../apps/system/light-c/README.md) | `v2.18.1` | 2026-11-02 | ⚙️ | A free, minimalist, lightweight, and high-performance C-d… |
+| [CloudRunFilesBuilder](../apps/auto/cloudrunfilesbuilder/README.md) | `2026-11-02` | 2026-11-02 | ⚡ | 这是一个工作流。同步各位大佬项目里最新编译的ipk文件 生成适用于OpenWrt用的run自解压包 |
+| [photocraft](../apps/design/photocraft/README.md) | `v0.19.0` | 2026-11-01 | 🎨 | PhotoCraft: An open-source, photo editor written by scrat… |
+| [aos-AVP](../apps/video/aos-avp/README.md) | `v6.6.3` | 2026-11-01 | 🎬 | NOVA opeN sOurce Video plAyer: main repository to build t… |
+| [Motrix](../apps/download/motrix/README.md) | `v2.2.0` | 2026-11-01 | 📥 | A full-featured download manager. |
+
 ## 2026-10
 
 | 应用 | 版本 | 发布 | 分类 | 简介 |
 |:---|:---|:---:|:---:|:---|
-| [Motrix](../apps/download/motrix/README.md) | `v2.1.0` | 2026-10-28 | 📥 | A full-featured download manager. |
-| [ok-wuthering-waves](../apps/game/ok-wuthering-waves/README.md) | `v3.7.12` | 2026-10-28 | 🎮 | 鸣潮 后台自动战斗 自动刷声骸 一键日常 Automation for Wuthering Waves |
-| [GKD_subscription](../apps/mod/gkd_subscription/README.md) | `v620` | 2026-10-27 | 🧩 | 用于安卓 GKD 的第三方订阅规则 (👻Fork版) |
-| [aos-AVP](../apps/video/aos-avp/README.md) | `v6.6.2` | 2026-10-27 | 🎬 | NOVA opeN sOurce Video plAyer: main repository to build t… |
-| [CloudRunFilesBuilder](../apps/auto/cloudrunfilesbuilder/README.md) | `2026-10-27` | 2026-10-27 | ⚡ | 这是一个工作流。同步各位大佬项目里最新编译的ipk文件 生成适用于OpenWrt用的run自解压包 |
+| [GKD_subscription](../apps/mod/gkd_subscription/README.md) | `v623` | 2026-10-31 | 🧩 | 用于安卓 GKD 的第三方订阅规则 (👻Fork版) |
+| [eIsland](../apps/system/eisland/README.md) | `v27.0.1` | 2026-10-31 | ⚙️ | eIsland - A sleek, Apple Dynamic Island inspired floating… |
+| [Win11Debloat](../apps/system/win11debloat/README.md) | `2026.10.30` | 2026-10-31 | ⚙️ | A simple, lightweight PowerShell script that allows you t… |
+| [NDui](../apps/game/ndui/README.md) | `10.2.5` | 2026-10-30 | 🎮 | NDui for World of Warcraft |
+| [UniGetUI](../apps/dev/unigetui/README.md) | `v2026.3.3` | 2026-10-29 | 🛠️ | UniGetUI: The Graphical Interface for your package manage… |
+| [ok-wuthering-waves](../apps/game/ok-wuthering-waves/README.md) | `v3.7.13` | 2026-10-29 | 🎮 | 鸣潮 后台自动战斗 自动刷声骸 一键日常 Automation for Wuthering Waves |
+| [ExplorerPatcher](../apps/system/explorerpatcher/README.md) | `26100.9711.71.1` | 2026-10-29 | ⚙️ | This project aims to enhance the working environment on W… |
+| [iloader](../apps/mod/iloader/README.md) | `v2.4.1` | 2026-10-28 | 🧩 | User friendly sideloader |
 | [ImmortalWrt-ImageBuilder](../apps/auto/immortalwrt-imagebuilder/README.md) | `Autobuild-x86-64` | 2026-10-27 | ⚡ | 它是一个工作流。可快速构建 可选docker、可选1G~4G固件大小的 immortalWrt。它相当于一个云端的… |
-| [NDui](../apps/game/ndui/README.md) | `Classic-0.0.6` | 2026-10-25 | 🎮 | NDui for World of Warcraft |
-| [photocraft](../apps/design/photocraft/README.md) | `v0.16.0` | 2026-10-25 | 🎨 | PhotoCraft: An open-source, photo editor written by scrat… |
 | [rayburst](../apps/download/rayburst/README.md) | `v4.1.1` | 2026-10-25 | 📥 | Redefining the open-source download manager |
 | [FlClash](../apps/proxy/flclash/README.md) | `v0.9.2` | 2026-10-24 | 🌐 | A multi-platform proxy client based on ClashMeta,simple a… |
-| [light-c](../apps/system/light-c/README.md) | `v2.17.0` | 2026-10-24 | ⚙️ | A free, minimalist, lightweight, and high-performance C-d… |
 | [sing-box](../apps/proxy/sing-box/README.md) | `v1.14.4` | 2026-10-24 | 🌐 | The universal proxy platform |
 | [Kazumi](../apps/video/kazumi/README.md) | `2.4.2` | 2026-10-23 | 🎬 | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 |
-| [iloader](../apps/mod/iloader/README.md) | `v2.4.0` | 2026-10-22 | 🧩 | User friendly sideloader |
 | [BT](../apps/video/bt/README.md) | `v0.9.41` | 2026-10-21 | 🎬 | bilibili TV client |
 | [Ehviewer_CN_SXJ](../apps/office/ehviewer_cn_sxj/README.md) | `2.0.2.6` | 2026-10-21 | 📄 | ehviewer，用爱发电，快乐前行 |
 | [marktext](../apps/office/marktext/README.md) | `v0.23.0` | 2026-10-21 | 📄 | 📝A simple and elegant markdown editor, available for Linu… |
@@ -36,7 +46,6 @@
 | [cloud-fs.github.io](../apps/download/cloud-fs.github.io/README.md) | `v1.1.3` | 2026-10-17 | 📥 | — |
 | [QingMusic](../apps/music/qingmusic/README.md) | `v1.4.0` | 2026-10-16 | 🎵 | 青听音乐-一款免费无广告的本地音乐播放器。 |
 | [EdgeCopilotFix](../apps/mod/edgecopilotfix/README.md) | `1.2` | 2026-10-16 | 🧩 | 解决某些地区Edge浏览器copilot消失的问题 |
-| [UniGetUI](../apps/dev/unigetui/README.md) | `v2026.3.2` | 2026-10-15 | 🛠️ | UniGetUI: The Graphical Interface for your package manage… |
 | [Clean-Icons-Mechagnome-Edition](../apps/game/clean-icons-mechagnome-edition/README.md) | `12.1.5.70391-V5-1` | 2026-10-15 | 🎮 | Upscaled icon pack for World of Warcraft. |
 | [whatcable](../apps/system/whatcable/README.md) | `v1.5.0` | 2026-10-13 | ⚙️ | macOS menu bar app that tells you, in plain English, what… |
 | [iptv-api](../apps/auto/iptv-api/README.md) | `3.1.0` | 2026-10-12 | ⚡ | ⚡️ IPTV直播源自动更新工具：自动采集、校验、测速并生成可播放结果，支持 M3U/TXT/API 输出、自定义… |
@@ -44,9 +53,7 @@
 | [v2rayN](../apps/proxy/v2rayn/README.md) | `7.25.6` | 2026-10-11 | 🌐 | A GUI client for Windows, Linux and macOS, support Xray a… |
 | [DriverStoreExplorer](../apps/system/driverstoreexplorer/README.md) | `v1.0.36` | 2026-10-10 | ⚙️ | Driver Store Explorer |
 | [YesPlayMusic](../apps/music/yesplaymusic/README.md) | `v0.4.11` | 2026-10-10 | 🎵 | 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: |
-| [eIsland](../apps/system/eisland/README.md) | `v27.0.0` | 2026-10-09 | ⚙️ | eIsland - A sleek, Apple Dynamic Island inspired floating… |
 | [clashmi](../apps/proxy/clashmi/README.md) | `v1.0.31.1703` | 2026-10-09 | 🌐 | Clash Mihomo for iOS/MacOS/Android/Windows/Linux |
-| [clash-verge-rev](../apps/proxy/clash-verge-rev/README.md) | `v2.5.8` | 2026-10-09 | 🌐 | A modern GUI client based on Tauri, designed to run in Wi… |
 | [bv](../apps/video/bv/README.md) | `0.3.0.r986.f02dfc5a.release` | 2026-10-05 | 🎬 | 哔哩哔哩第三方 Android 应用的自用修改版。A modified version of Bilibili’s… |
 | [AniCh](../apps/video/anich/README.md) | `1.5.27` | 2026-10-05 | 🎬 | 一个支持超分辨率的在线动漫弹幕APP。多平台，多番剧源，多弹幕，高清无广告。追番看番必备软件。 |
 | [MahsaNG](../apps/proxy/mahsang/README.md) | `v18-(1405-7-10)` | 2026-10-02 | 🌐 | a V2RayNG with Fragment , DoH , Rotating Configs , & free… |
@@ -68,8 +75,8 @@
 
 | 应用 | 版本 | 发布 | 分类 | 简介 |
 |:---|:---|:---:|:---:|:---|
+| [dart_simple_live](../apps/video/dart_simple_live/README.md) | `v1.8.6` | 2026-08-27 | 🎬 | 简简单单的看直播 |
 | [Hail](../apps/mod/hail/README.md) | `v1.11.0` | 2026-08-26 | 🧩 | Disable / Hide / Suspend / Uninstall Android apps without… |
-| [Win11Debloat](../apps/system/win11debloat/README.md) | `2026.08.24` | 2026-08-24 | ⚙️ | A simple, lightweight PowerShell script that allows you t… |
 | [LOLkit](../apps/game/lolkit/README.md) | `version3.4.9` | 2026-08-24 | 🎮 | One gift for all LOL gamers， League of Legends工具 |
 | [localsend](../apps/system/localsend/README.md) | `v1.18.2` | 2026-08-21 | ⚙️ | An open-source cross-platform alternative to AirDrop |
 | [FakeLocation](../apps/mod/fakelocation/README.md) | `1.5.2` | 2026-08-19 | 🧩 | Fake Location |
@@ -87,7 +94,7 @@
 
 | 应用 | 版本 | 发布 | 分类 | 简介 |
 |:---|:---|:---:|:---:|:---|
-| [ExplorerPatcher](../apps/system/explorerpatcher/README.md) | `26100.8457.70.3` | 2026-06-20 | ⚙️ | This project aims to enhance the working environment on W… |
+| [fancyss](../apps/proxy/fancyss/README.md) | `v3.1.3` | 2026-06-01 | 🌐 | fancyss is a project providing tools to across the GFW on… |
 
 ## 2026-05
 
@@ -104,6 +111,7 @@
 | 应用 | 版本 | 发布 | 分类 | 简介 |
 |:---|:---|:---:|:---:|:---|
 | [CloudflareSpeedTest](../apps/proxy/cloudflarespeedtest/README.md) | `v2.3.5` | 2026-04-29 | 🌐 | 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / … |
+| [BiliRoamingX](../apps/video/biliroamingx/README.md) | `v1.23.3` | 2026-04-29 | 🎬 | BiliRoamingX integrations and patches powered by ReVanced. |
 | [free-vpn-subscriptions](../apps/proxy/free-vpn-subscriptions/README.md) | `feed-20260419-023716` | 2026-04-19 | 🌐 | Free Clash, sing-box, and V2Ray subscription feed with li… |
 
 ## 2026-03
@@ -203,6 +211,12 @@
 |:---|:---|:---:|:---:|:---|
 | [telegram_media_downloader](../apps/download/telegram_media_downloader/README.md) | `v2.2.5` | 2025-01-06 | 📥 | 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下… |
 
+## 2024-11
+
+| 应用 | 版本 | 发布 | 分类 | 简介 |
+|:---|:---|:---:|:---:|:---|
+| [OriginPlan](../apps/other/originplan/README.md) | `12313` | 2024-11-10 | 📦 | — |
+
 ## 2024-10
 
 | 应用 | 版本 | 发布 | 分类 | 简介 |
@@ -233,6 +247,18 @@
 |:---|:---|:---:|:---:|:---|
 | [LKY_OfficeTools](../apps/auto/lky_officetools/README.md) | `v1.3.0` | 2024-02-22 | ⚡ | 一键自动化 下载、安装、激活 Office 的利器。 |
 | [IDM-Activation-Script](../apps/system/idm-activation-script/README.md) | `1.2` | 2024-02-12 | ⚙️ | An open source tool to activate and reset trial of Intern… |
+
+## 2024-01
+
+| 应用 | 版本 | 发布 | 分类 | 简介 |
+|:---|:---|:---:|:---:|:---|
+| [win-capture-audio](../apps/game/win-capture-audio/README.md) | `v2.2.3-beta` | 2024-01-30 | 🎮 | An OBS plugin that allows capture of independant applicat… |
+
+## 2023-11
+
+| 应用 | 版本 | 发布 | 分类 | 简介 |
+|:---|:---|:---:|:---:|:---|
+| [Championify](../apps/game/championify/README.md) | `2.1.5` | 2023-11-07 | 🎮 | Import recent item sets from popular aggregators like Cha… |
 
 ## 2023-10
 
@@ -288,14 +314,3 @@
 | 应用 | 版本 | 发布 | 分类 | 简介 |
 |:---|:---|:---:|:---:|:---|
 | [LTSC-Add-MicrosoftStore](../apps/system/ltsc-add-microsoftstore/README.md) | `2019` | 2018-10-05 | ⚙️ | Add Windows Store for LTSC |
-
-## 未知
-
-| 应用 | 版本 | 发布 | 分类 | 简介 |
-|:---|:---|:---:|:---:|:---|
-| [fancyss](../apps/proxy/fancyss/README.md) | `v3.1.3` | — | 🌐 | fancyss is a project providing tools to across the GFW on… |
-| [win-capture-audio](../apps/game/win-capture-audio/README.md) | `v2.2.3-beta` | — | 🎮 | An OBS plugin that allows capture of independant applicat… |
-| [Championify](../apps/game/championify/README.md) | `2.1.5` | — | 🎮 | Import recent item sets from popular aggregators like Cha… |
-| [dart_simple_live](../apps/video/dart_simple_live/README.md) | `v1.8.6` | — | 🎬 | 简简单单的看直播 |
-| [BiliRoamingX](../apps/video/biliroamingx/README.md) | `v1.23.3` | — | 🎬 | BiliRoamingX integrations and patches powered by ReVanced. |
-| [OriginPlan](../apps/other/originplan/README.md) | `12313` | — | 📦 | — |

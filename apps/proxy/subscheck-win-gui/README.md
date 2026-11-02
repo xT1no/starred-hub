@@ -20,11 +20,12 @@ SubsCheck 为 Windows 用户设计的 GUI 程序界面。
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | 🪟 |
 | 语言 | C# |
-| Star | 4.6k · Fork 0 |
-| License | — |
+| Star | 4.6k · Fork 988 |
+| License | MIT |
 | 最新版本 | `v2.0.1.7` |
 | 最近更新 | 2025-04-22（1 年前） |
 | 标星日期 | 2025-04-01 |
+| 官网 | <https://youtu.be/sS9Tuf1PCyc> |
 
 ## 📦 最新版本
 
@@ -56,6 +57,7 @@ SubsCheck 为 Windows 用户设计的 GUI 程序界面。
 - 仓库主页 · https://github.com/cmliu/SubsCheck-Win-GUI
 - Issues · https://github.com/cmliu/SubsCheck-Win-GUI/issues
 - Releases · https://github.com/cmliu/SubsCheck-Win-GUI/releases
+- 官网 / 演示 · https://youtu.be/sS9Tuf1PCyc
 
 `proxypool`
 

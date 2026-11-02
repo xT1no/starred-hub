@@ -10,7 +10,7 @@ eIsland - A sleek, Apple Dynamic Island inspired floating widget for Windows, bu
 
 ## ⬇️ 直接下载
 
-🪟 [安装版 · 374 MB](https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.0/eIsland-27.0.0-Setup.exe)
+🪟 [安装版 · 402 MB](https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.1/eIsland-27.0.1-Setup.exe)
 
 全部 3 个文件见下方 [安装包](#pkgs) 表格。
 
@@ -20,35 +20,36 @@ eIsland - A sleek, Apple Dynamic Island inspired floating widget for Windows, bu
 | 分类 | ⚙️ [系统增强 / 优化](../README.md) |
 | 平台 | 🪟 |
 | 语言 | TypeScript |
-| Star | 322 · Fork 0 |
-| License | — |
-| 最新版本 | `v27.0.0` |
-| 最近更新 | 2026-10-09（19 天前） |
+| Star | 325 · Fork 18 |
+| License | GPL-3.0 |
+| 最新版本 | `v27.0.1` |
+| 最近更新 | 2026-10-31（昨天） |
 | 标星日期 | 2026-06-20 |
+| 官网 | <https://dev.electronisland.com/> |
 
 ## 📦 最新版本
 
-**`v27.0.0`**　发布于 2026-10-09（19 天前）
+**`v27.0.1`**　发布于 2026-10-31（昨天）
 
-[查看 Release 页面](https://github.com/JNTMTMTM/eIsland/releases/tag/v27.0.0)
+[查看 Release 页面](https://github.com/JNTMTMTM/eIsland/releases/tag/v27.0.1)
 
 <details><summary>更新说明</summary>
 
 ```text
 # Incremental Release Notes
 
-- Range: **v26.7.4 -> v27.0.0**
-- Generated At: **2026-10-09T06:17:27.610Z**
+- Range: **v27.0.0 -> v27.0.1**
+- Generated At: **2026-10-31T18:41:10.026Z**
 
 ## Commits
 
-- 2026-10-09 - [075561e2] chore: update version to 27.0.0 in package.json and package-lock.json
-- 2026-10-09 - [64cc779b] docs(announcement): add V27.0.0 release notes
-- 2026-10-09 - [c8b19231] docs: auto update CHANGE_LOG.md for #228 by @JNTMTMTM [skip ci]
-- 2026-10-08 - [9e08b49c] Merge pull request #228 from JNTMTMTM/dev
-- 2026-10-09 - [10a5cfe4] fix: remove 'close' event handling from network response to prevent unnecessary cleanup
-- 2026-10-09 - [212082e9] feat: enhance network request handling with close event and additional tests
-- 2026-10-09 - [37663dac] docs: auto update CHANGE_LOG.md for #227 by @JNTMTMTM [skip ci]
+- 2026-10-31 - [bb80bd41] chore: update version to 27.0.1 in package.json and package-lock.json
+- 2026-10-31 - [dd4ef576] docs(announcement): add V27.0.1 release notes
+- 2026-10-31 - [c4fb075f] docs: auto update CHANGE_LOG.md for #302 by @JNTMTMTM [skip ci]
+- 2026-10-31 - [eaddcf24] Merge pull request #302 from JNTMTMTM/dev
+- 2026-10-30 - [b0dfcc82] feat: update main window bounds handling to maintain notification canvas state before first show
+- 2026-10-30 - [2c152583] feat: add TOKEN_BREAKDOWN_KEYS for consistent token breakdown display in ProviderCard and ProviderSkeleton
+- 2026-10-30 - [6f583dd6] feat(cli): enhance styling and structure of pagination controls in CliDetailsPage
 …（完整内容见 Release 页面）
 ```
 
@@ -62,15 +63,16 @@ eIsland - A sleek, Apple Dynamic Island inspired floating widget for Windows, bu
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [eIsland-27.0.0-Setup.exe](https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.0/eIsland-27.0.0-Setup.exe) | 🪟 Windows | 373.9 MB | 260 |
-| [eIsland-27.0.0-Setup.exe.blockmap](https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.0/eIsland-27.0.0-Setup.exe.blockmap) | 🪟 Windows | 377 KB | 67 |
-| [latest.yml](https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.0/latest.yml) | 📦 其他 | 346 B | 895 |
+| [eIsland-27.0.1-Setup.exe](https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.1/eIsland-27.0.1-Setup.exe) | 🪟 Windows | 402.3 MB | 63 |
+| [eIsland-27.0.1-Setup.exe.blockmap](https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.1/eIsland-27.0.1-Setup.exe.blockmap) | 🪟 Windows | 404 KB | 26 |
+| [latest.yml](https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.1/latest.yml) | 📦 其他 | 346 B | 134 |
 
 ## 🔗 快速链接
 
 - 仓库主页 · https://github.com/JNTMTMTM/eIsland
 - Issues · https://github.com/JNTMTMTM/eIsland/issues
 - Releases · https://github.com/JNTMTMTM/eIsland/releases
+- 官网 / 演示 · https://dev.electronisland.com/
 
 `cicd` `claude` `claude-code` `codex` `electron` `react` `taliwindcss` `typescript` `vite`
 

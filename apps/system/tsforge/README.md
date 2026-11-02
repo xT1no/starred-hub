@@ -18,8 +18,8 @@ A collection of activation/evaluation extension methods for Windows Vista throug
 | 分类 | ⚙️ [系统增强 / 优化](../README.md) |
 | 平台 | 🪟 |
 | 语言 | C# |
-| Star | 2.6k · Fork 0 |
-| License | — |
+| Star | 2.6k · Fork 348 |
+| License | GPL-3.0 |
 | 最新版本 | `1.1.1` |
 | 最近更新 | 2025-09-09（1 年前） |
 | 标星日期 | 2026-06-21 |

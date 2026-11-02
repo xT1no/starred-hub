@@ -13,37 +13,37 @@
     "Windows"
   ],
   "language": "Lua",
-  "stars": 380,
-  "forks": 0,
+  "stars": 382,
+  "forks": 93,
   "license": "",
   "archived": false,
   "homepage": "",
   "topics": [],
   "starred_at": "2025-11-29T13:12:07Z",
-  "pushed_at": "",
+  "pushed_at": "2026-10-30T17:09:46Z",
   "latest": {
     "kind": "release",
-    "tag": "Classic-0.0.6",
-    "title": "Classic-0.0.6",
-    "published_at": "2026-10-25T18:22:44Z",
-    "url": "https://github.com/siweia/NDui/releases/tag/Classic-0.0.6",
+    "tag": "10.2.5",
+    "title": "10.2.5",
+    "published_at": "2026-10-30T17:09:46Z",
+    "url": "https://github.com/siweia/NDui/releases/tag/10.2.5",
     "prerelease": false
   },
   "assets": [
     {
-      "name": "NDui-Classic-0.0.6-forever.zip",
-      "size": 911975,
-      "downloads": 1,
-      "url": "https://github.com/siweia/NDui/releases/download/Classic-0.0.6/NDui-Classic-0.0.6-forever.zip",
+      "name": "NDui-10.2.5.zip",
+      "size": 909966,
+      "downloads": 9,
+      "url": "https://github.com/siweia/NDui/releases/download/10.2.5/NDui-10.2.5.zip",
       "platform": "🌐 Web"
     },
     {
       "name": "release.json",
-      "size": 167,
+      "size": 147,
       "downloads": 2,
-      "url": "https://github.com/siweia/NDui/releases/download/Classic-0.0.6/release.json",
+      "url": "https://github.com/siweia/NDui/releases/download/10.2.5/release.json",
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

@@ -4,7 +4,7 @@
 
 # ⬇️ 下载索引
 
-**88** 个应用的最新版安装包，全部是官方直链，点一次就落到文件。
+**89** 个应用的最新版安装包，全部是官方直链，点一次就落到文件。
 
 [← 星标总览](../README.md) · [应用目录](../apps/README.md) · [更新动态](updates.md)
 
@@ -12,45 +12,101 @@
 
 ---
 
-<a id="dl-agalwood-motrix"></a>
+<a id="dl-clash-verge-rev-clash-verge-rev"></a>
 
-### 📥 Motrix
+### 🌐 clash-verge-rev
 
-`v2.1.0` · 2026-10-28 · [详情](../apps/download/motrix/README.md) · [原仓库](#)
+`v2.5.9` · 2026-11-02 · [详情](../apps/proxy/clash-verge-rev/README.md) · [原仓库](#)
 
-🪟 [安装版 · 127 MB](https://github.com/agalwood/Motrix/releases/download/v2.1.0/Motrix-Setup-2.1.0.exe) · 🍎 [arm64 dmg · 131 MB](https://github.com/agalwood/Motrix/releases/download/v2.1.0/Motrix-2.1.0-arm64.dmg) · 🐧 [x64 AppImage · 126 MB](https://github.com/agalwood/Motrix/releases/download/v2.1.0/Motrix-2.1.0-x86_64.AppImage) · 📦 [zip · 160 MB](https://github.com/agalwood/Motrix/releases/download/v2.1.0/Motrix-2.1.0-win.zip)
+🪟 [x64 安装版 · 57.3 MB](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_x64-setup.exe) · 🍎 [arm64 dmg · 77.0 MB](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_aarch64.dmg) · 🐧 [x64 deb · 98.6 MB](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_amd64.deb) · 📦 [x64 · 84.0 MB](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_x64.app.tar.gz)
 
-<a id="dl-ok-oldking-ok-wuthering-waves"></a>
+<a id="dl-chunyu33-light-c"></a>
 
-### 🎮 ok-wuthering-waves
+### ⚙️ light-c
 
-`v3.7.12` · 2026-10-28 · [详情](../apps/game/ok-wuthering-waves/README.md) · [原仓库](#)
+`v2.18.1` · 2026-11-02 · [详情](../apps/system/light-c/README.md) · [原仓库](#)
 
-🪟 [x86 安装版 · 373 MB](https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.12/ok-ww-win32-China-setup.exe) · 📦 [x86 zip · 4.7 MB](https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.12/ok-ww-win32.zip)
-
-<a id="dl-nova-video-player-aos-avp"></a>
-
-### 🎬 aos-AVP
-
-`v6.6.2` · 2026-10-27 · [详情](../apps/video/aos-avp/README.md) · [原仓库](#)
-
-📲 [arm64 apk · 33.4 MB](https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.2/org.courville.nova-2673649-6.6.2-20261027.1847-arm64-v8a-release.apk)
-
-<a id="dl-siweia-ndui"></a>
-
-### 🎮 NDui
-
-`Classic-0.0.6` · 2026-10-25 · [详情](../apps/game/ndui/README.md) · [原仓库](#)
-
-📦 [zip · 0.9 MB](https://github.com/siweia/NDui/releases/download/Classic-0.0.6/NDui-Classic-0.0.6-forever.zip)
+🪟 [x64 安装版 · 5.9 MB](https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_2.18.1_x64-setup.exe) · 📦 [x64 便携版 · 7.8 MB](https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_portable_x64_v2.18.1.zip)
 
 <a id="dl-storytold-photocraft"></a>
 
 ### 🎨 photocraft
 
-`v0.16.0` · 2026-10-25 · [详情](../apps/design/photocraft/README.md) · [原仓库](#)
+`v0.19.0` · 2026-11-01 · [详情](../apps/design/photocraft/README.md) · [原仓库](#)
 
-🪟 [x64 安装版 · 71.3 MB](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-windows-x64.msi) · 🍎 [通用 dmg · 94.4 MB](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-macos-universal.dmg) · 🐧 [x64 AppImage · 79.5 MB](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-x86_64.AppImage) · 📦 [x64 便携版 · 85.9 MB](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-windows-x64-portable.zip)
+🪟 [x64 安装版 · 102 MB](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-windows-x64.msi) · 🍎 [通用 dmg · 234 MB](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-macos-universal.dmg) · 🐧 [x64 AppImage · 113 MB](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-linux-x86_64.AppImage) · 📦 [x64 便携版 · 122 MB](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-windows-x64-portable.zip)
+
+<a id="dl-nova-video-player-aos-avp"></a>
+
+### 🎬 aos-AVP
+
+`v6.6.3` · 2026-11-01 · [详情](../apps/video/aos-avp/README.md) · [原仓库](#)
+
+📲 [arm64 apk · 33.3 MB](https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.3/org.courville.nova-2674070-6.6.3-20261101.1547-arm64-v8a-release.apk)
+
+<a id="dl-agalwood-motrix"></a>
+
+### 📥 Motrix
+
+`v2.2.0` · 2026-11-01 · [详情](../apps/download/motrix/README.md) · [原仓库](#)
+
+🪟 [安装版 · 127 MB](https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-Setup-2.2.0.exe) · 🍎 [arm64 dmg · 131 MB](https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-arm64.dmg) · 🐧 [x64 AppImage · 125 MB](https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-x86_64.AppImage) · 📦 [zip · 160 MB](https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-win.zip)
+
+<a id="dl-jntmtmtm-eisland"></a>
+
+### ⚙️ eIsland
+
+`v27.0.1` · 2026-10-31 · [详情](../apps/system/eisland/README.md) · [原仓库](#)
+
+🪟 [安装版 · 402 MB](https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.1/eIsland-27.0.1-Setup.exe)
+
+<a id="dl-raphire-win11debloat"></a>
+
+### ⚙️ Win11Debloat
+
+`2026.10.30` · 2026-10-31 · [详情](../apps/system/win11debloat/README.md) · [原仓库](#)
+
+📦 [zip · 0.7 MB](https://github.com/Raphire/Win11Debloat/releases/download/2026.10.30/Win11Debloat.zip)
+
+<a id="dl-siweia-ndui"></a>
+
+### 🎮 NDui
+
+`10.2.5` · 2026-10-30 · [详情](../apps/game/ndui/README.md) · [原仓库](#)
+
+📦 [zip · 0.9 MB](https://github.com/siweia/NDui/releases/download/10.2.5/NDui-10.2.5.zip)
+
+<a id="dl-devolutions-unigetui"></a>
+
+### 🛠️ UniGetUI
+
+`v2026.3.3` · 2026-10-29 · [详情](../apps/dev/unigetui/README.md) · [原仓库](#)
+
+🪟 [x64 安装版 · 34.2 MB](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.Installer.x64.exe) · 🍎 [arm64 dmg · 61.0 MB](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.macos-arm64.dmg) · 🐧 [x64 deb · 38.1 MB](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.linux-x64.deb) · 📦 [x64 zip · 51.4 MB](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.x64.zip)
+
+<a id="dl-ok-oldking-ok-wuthering-waves"></a>
+
+### 🎮 ok-wuthering-waves
+
+`v3.7.13` · 2026-10-29 · [详情](../apps/game/ok-wuthering-waves/README.md) · [原仓库](#)
+
+🪟 [x86 安装版 · 373 MB](https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.13/ok-ww-win32-China-setup.exe) · 📦 [x86 zip · 4.7 MB](https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.13/ok-ww-win32.zip)
+
+<a id="dl-valinet-explorerpatcher"></a>
+
+### ⚙️ ExplorerPatcher
+
+`26100.9711.71.1` · 2026-10-29 · [详情](../apps/system/explorerpatcher/README.md) · [原仓库](#)
+
+🪟 [安装版 · 11.8 MB](https://github.com/valinet/ExplorerPatcher/releases/download/26100.9711.71.1/ep_setup.exe)
+
+<a id="dl-nab138-iloader"></a>
+
+### 🧩 iloader
+
+`v2.4.1` · 2026-10-28 · [详情](../apps/mod/iloader/README.md) · [原仓库](#)
+
+🪟 [x64 安装版 · 5.7 MB](https://github.com/nab138/iloader/releases/download/v2.4.1/iloader-windows-x64.exe) · 🍎 [通用 dmg · 17.9 MB](https://github.com/nab138/iloader/releases/download/v2.4.1/iloader-darwin-universal.dmg) · 🐧 [x64 AppImage · 84.5 MB](https://github.com/nab138/iloader/releases/download/v2.4.1/iloader-linux-amd64.AppImage) · 📦 [通用 · 18.3 MB](https://github.com/nab138/iloader/releases/download/v2.4.1/iloader-darwin-universal.app.tar.gz)
 
 <a id="dl-aninsomniacy-rayburst"></a>
 
@@ -68,14 +124,6 @@
 
 🪟 [x64 安装版 · 41.3 MB](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-windows-amd64-setup.exe) · 📲 [arm64 apk · 58.3 MB](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-android-arm64-v8a.apk) · 🍎 [arm64 dmg · 56.5 MB](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-macos-arm64.dmg) · 🐧 [x64 AppImage · 66.6 MB](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-amd64.AppImage) · 📦 [x64 zip · 65.7 MB](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-windows-amd64.zip)
 
-<a id="dl-chunyu33-light-c"></a>
-
-### ⚙️ light-c
-
-`v2.17.0` · 2026-10-24 · [详情](../apps/system/light-c/README.md) · [原仓库](#)
-
-🪟 [x64 安装版 · 5.8 MB](https://github.com/Chunyu33/light-c/releases/download/v2.17.0/LightC_2.17.0_x64-setup.exe) · 📦 [x64 便携版 · 7.7 MB](https://github.com/Chunyu33/light-c/releases/download/v2.17.0/LightC_portable_x64_v2.17.0.zip)
-
 <a id="dl-sagernet-sing-box"></a>
 
 ### 🌐 sing-box
@@ -91,14 +139,6 @@
 `2.4.2` · 2026-10-23 · [详情](../apps/video/kazumi/README.md) · [原仓库](#)
 
 🪟 [安装版 · 45.5 MB](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_windows_2.4.2.msix) · 📲 [apk · 31.9 MB](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_android_2.4.2.apk) · 🍎 [dmg · 53.3 MB](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_macos_2.4.2.dmg) · 🐧 [x64 deb · 33.7 MB](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_linux_2.4.2_amd64.deb) · 📦 [zip · 40.9 MB](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_windows_2.4.2.zip)
-
-<a id="dl-nab138-iloader"></a>
-
-### 🧩 iloader
-
-`v2.4.0` · 2026-10-22 · [详情](../apps/mod/iloader/README.md) · [原仓库](#)
-
-🪟 [x64 安装版 · 5.8 MB](https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-windows-x64.exe) · 🍎 [通用 dmg · 17.9 MB](https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-darwin-universal.dmg) · 🐧 [x64 AppImage · 84.5 MB](https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-linux-amd64.AppImage) · 📦 [通用 · 18.3 MB](https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-darwin-universal.app.tar.gz)
 
 <a id="dl-chinasoul-bt"></a>
 
@@ -180,14 +220,6 @@
 
 🪟 [x64 安装版 · 3.3 MB](https://github.com/emmm1245/EdgeCopilotFix/releases/download/1.2/EdgeCopilotFixTool-windows-amd64.exe)
 
-<a id="dl-devolutions-unigetui"></a>
-
-### 🛠️ UniGetUI
-
-`v2026.3.2` · 2026-10-15 · [详情](../apps/dev/unigetui/README.md) · [原仓库](#)
-
-🪟 [x64 安装版 · 32.5 MB](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/UniGetUI.Installer.x64.exe) · 🍎 [arm64 dmg · 57.1 MB](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/UniGetUI.macos-arm64.dmg) · 🐧 [x64 deb · 35.1 MB](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/UniGetUI.linux-x64.deb) · 📦 [x64 zip · 48.4 MB](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.2/UniGetUI.x64.zip)
-
 <a id="dl-acidweb-clean-icons-mechagnome-edition"></a>
 
 ### 🎮 Clean-Icons-Mechagnome-Edition
@@ -244,14 +276,6 @@
 
 🪟 [安装版 · 55.5 MB](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-Setup-0.4.11.exe) · 🍎 [通用 dmg · 152 MB](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-universal.dmg) · 🐧 [AppImage · 90.9 MB](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-0.4.11.AppImage) · 📦 [yesplaymusic-0.4.11.tar… · 85.8 MB](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic-0.4.11.tar.gz)
 
-<a id="dl-jntmtmtm-eisland"></a>
-
-### ⚙️ eIsland
-
-`v27.0.0` · 2026-10-09 · [详情](../apps/system/eisland/README.md) · [原仓库](#)
-
-🪟 [安装版 · 374 MB](https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.0/eIsland-27.0.0-Setup.exe)
-
 <a id="dl-karingx-clashmi"></a>
 
 ### 🌐 clashmi
@@ -259,14 +283,6 @@
 `v1.0.31.1703` · 2026-10-09 · [详情](../apps/proxy/clashmi/README.md) · [原仓库](#)
 
 🪟 [x64 安装版 · 43.4 MB](https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_windows_x64.exe) · 📲 [arm64 apk · 50.3 MB](https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_android_arm64-v8a.apk) · 🍎 [通用 dmg · 93.4 MB](https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_macos_universal.dmg) · 🐧 [x64 AppImage · 59.0 MB](https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_linux_amd64.AppImage) · 📦 [x64 zip · 63.7 MB](https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_windows_x64.zip)
-
-<a id="dl-clash-verge-rev-clash-verge-rev"></a>
-
-### 🌐 clash-verge-rev
-
-`v2.5.8` · 2026-10-09 · [详情](../apps/proxy/clash-verge-rev/README.md) · [原仓库](#)
-
-🪟 [x64 安装版 · 57.4 MB](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_x64-setup.exe) · 🍎 [arm64 dmg · 78.0 MB](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_aarch64.dmg) · 🐧 [x64 deb · 99.4 MB](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_amd64.deb) · 📦 [x64 · 85.0 MB](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_x64.app.tar.gz)
 
 <a id="dl-fantasytyx-bv"></a>
 
@@ -403,14 +419,6 @@
 `v0.9.4` · 2026-07-18 · [详情](../apps/game/optiscaler/README.md) · [原仓库](#)
 
 📦 [zip · 52.5 MB](https://github.com/optiscaler/OptiScaler/releases/download/v0.9.4/Optiscaler_0.9.4-final.20260718._MM.7z)
-
-<a id="dl-valinet-explorerpatcher"></a>
-
-### ⚙️ ExplorerPatcher
-
-`26100.8457.70.3` · 2026-06-20 · [详情](../apps/system/explorerpatcher/README.md) · [原仓库](#)
-
-🪟 [安装版 · 11.7 MB](https://github.com/valinet/ExplorerPatcher/releases/download/26100.8457.70.3/ep_setup.exe)
 
 <a id="dl-firtech-rewindsys"></a>
 

@@ -18,8 +18,8 @@ Dism++ Multi-language Support & BUG Report
 | 分类 | ⚙️ [系统增强 / 优化](../README.md) |
 | 平台 | 🪟 |
 | 语言 | HTML |
-| Star | 21k · Fork 0 |
-| License | — |
+| Star | 21k · Fork 1.2k |
+| License | MIT |
 | 最新版本 | `v10.1.1002.2` |
 | 最近更新 | 2023-03-26（3 年前） |
 | 标星日期 | 2022-07-18 |
@@ -55,7 +55,7 @@ Dism++ Multi-language Support & BUG Report
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [Dism++10.1.1002.1B.zip](https://github.com/Chuyu-Team/Dism-Multi-language/releases/download/v10.1.1002.2/Dism%2B%2B10.1.1002.1B.zip) | 🌐 Web | 3.6 MB | 1767k |
+| [Dism++10.1.1002.1B.zip](https://github.com/Chuyu-Team/Dism-Multi-language/releases/download/v10.1.1002.2/Dism%2B%2B10.1.1002.1B.zip) | 🌐 Web | 3.6 MB | 1775k |
 
 ## 🔗 快速链接
 

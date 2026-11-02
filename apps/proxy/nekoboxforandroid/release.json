@@ -13,11 +13,11 @@
     "Android"
   ],
   "language": "Kotlin",
-  "stars": 23291,
-  "forks": 0,
-  "license": "",
+  "stars": 23363,
+  "forks": 1932,
+  "license": "NOASSERTION",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://matsuridayo.github.io/",
   "topics": [
     "android",
     "gfw",
@@ -29,7 +29,7 @@
     "vpn"
   ],
   "starred_at": "2024-05-14T19:16:03Z",
-  "pushed_at": "",
+  "pushed_at": "2026-02-09T03:54:59Z",
   "latest": {
     "kind": "release",
     "tag": "1.4.2",
@@ -42,31 +42,31 @@
     {
       "name": "NekoBox-1.4.2-arm64-v8a.apk",
       "size": 15252519,
-      "downloads": 692872,
+      "downloads": 708289,
       "url": "https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.4.2/NekoBox-1.4.2-arm64-v8a.apk",
       "platform": "📲 Android"
     },
     {
       "name": "NekoBox-1.4.2-armeabi-v7a.apk",
       "size": 15509280,
-      "downloads": 72880,
+      "downloads": 74487,
       "url": "https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.4.2/NekoBox-1.4.2-armeabi-v7a.apk",
       "platform": "📲 Android"
     },
     {
       "name": "NekoBox-1.4.2-x86.apk",
       "size": 16222828,
-      "downloads": 44102,
+      "downloads": 45002,
       "url": "https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.4.2/NekoBox-1.4.2-x86.apk",
       "platform": "📲 Android"
     },
     {
       "name": "NekoBox-1.4.2-x86_64.apk",
       "size": 15934699,
-      "downloads": 55699,
+      "downloads": 56710,
       "url": "https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.4.2/NekoBox-1.4.2-x86_64.apk",
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

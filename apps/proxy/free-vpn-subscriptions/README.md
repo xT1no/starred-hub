@@ -12,11 +12,12 @@ Free Clash, sing-box, and V2Ray subscription feed with live node status and setu
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | ❓ |
 | 语言 | — |
-| Star | 1.1k · Fork 0 |
-| License | — |
+| Star | 1.1k · Fork 95 |
+| License | MIT |
 | 最新版本 | `feed-20260419-023716` |
 | 最近更新 | 2026-04-19（6 个月前） |
 | 标星日期 | 2026-09-20 |
+| 官网 | <https://au1rxx.github.io/free-vpn-subscriptions/> |
 
 ## 📦 最新版本
 
@@ -55,16 +56,17 @@ Free Clash, sing-box, and V2Ray subscription feed with live node status and setu
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [clash.yaml](https://github.com/Au1rxx/free-vpn-subscriptions/releases/download/feed-20260419-023716/clash.yaml) | 📦 其他 | 2 KB | 4.2k |
-| [v2ray-base64.txt](https://github.com/Au1rxx/free-vpn-subscriptions/releases/download/feed-20260419-023716/v2ray-base64.txt) | 📦 其他 | 1 KB | 4k |
-| [singbox.json](https://github.com/Au1rxx/free-vpn-subscriptions/releases/download/feed-20260419-023716/singbox.json) | 📦 其他 | 3 KB | 732 |
-| [status.json](https://github.com/Au1rxx/free-vpn-subscriptions/releases/download/feed-20260419-023716/status.json) | 📦 其他 | 1 KB | 144 |
+| [clash.yaml](https://github.com/Au1rxx/free-vpn-subscriptions/releases/download/feed-20260419-023716/clash.yaml) | 📦 其他 | 2 KB | 4.3k |
+| [v2ray-base64.txt](https://github.com/Au1rxx/free-vpn-subscriptions/releases/download/feed-20260419-023716/v2ray-base64.txt) | 📦 其他 | 1 KB | 4.2k |
+| [singbox.json](https://github.com/Au1rxx/free-vpn-subscriptions/releases/download/feed-20260419-023716/singbox.json) | 📦 其他 | 3 KB | 754 |
+| [status.json](https://github.com/Au1rxx/free-vpn-subscriptions/releases/download/feed-20260419-023716/status.json) | 📦 其他 | 1 KB | 145 |
 
 ## 🔗 快速链接
 
 - 仓库主页 · https://github.com/Au1rxx/free-vpn-subscriptions
 - Issues · https://github.com/Au1rxx/free-vpn-subscriptions/issues
 - Releases · https://github.com/Au1rxx/free-vpn-subscriptions/releases
+- 官网 / 演示 · https://au1rxx.github.io/free-vpn-subscriptions/
 
 `clash` `clash-meta` `free-nodes` `free-proxy` `free-vpn` `hysteria2` `proxy` `proxy-list` `reality` `shadowsocks` `sing-box` `subscription`
 

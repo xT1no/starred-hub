@@ -17,18 +17,18 @@
     "Android"
   ],
   "language": "Dart",
-  "stars": 10111,
-  "forks": 0,
-  "license": "",
+  "stars": 10230,
+  "forks": 639,
+  "license": "GPL-3.0",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://clashmi.app/",
   "topics": [
     "clash",
     "clashmi",
     "mihomo"
   ],
   "starred_at": "2026-03-07T06:05:56Z",
-  "pushed_at": "",
+  "pushed_at": "2026-11-02T06:22:59Z",
   "latest": {
     "kind": "release",
     "tag": "v1.0.31.1703",
@@ -41,73 +41,73 @@
     {
       "name": "clashmi_1.0.31.1703_android_arm.apk",
       "size": 89169517,
-      "downloads": 47364,
+      "downloads": 62268,
       "url": "https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_android_arm.apk",
       "platform": "📲 Android"
     },
     {
       "name": "clashmi_1.0.31.1703_android_arm64-v8a.apk",
       "size": 52749835,
-      "downloads": 136344,
+      "downloads": 157381,
       "url": "https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_android_arm64-v8a.apk",
       "platform": "📲 Android"
     },
     {
       "name": "clashmi_1.0.31.1703_android_armeabi-v7a.apk",
       "size": 52934191,
-      "downloads": 5556,
+      "downloads": 6910,
       "url": "https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_android_armeabi-v7a.apk",
       "platform": "📲 Android"
     },
     {
       "name": "clashmi_1.0.31.1703_linux_amd64.AppImage",
       "size": 61893112,
-      "downloads": 726,
+      "downloads": 857,
       "url": "https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_linux_amd64.AppImage",
       "platform": "🐧 Linux"
     },
     {
       "name": "clashmi_1.0.31.1703_linux_amd64.deb",
       "size": 45567096,
-      "downloads": 2466,
+      "downloads": 2899,
       "url": "https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_linux_amd64.deb",
       "platform": "🐧 Linux"
     },
     {
       "name": "clashmi_1.0.31.1703_linux_amd64.rpm",
       "size": 56098573,
-      "downloads": 707,
+      "downloads": 819,
       "url": "https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_linux_amd64.rpm",
       "platform": "🐧 Linux"
     },
     {
       "name": "clashmi_1.0.31.1703_macos_universal.dmg",
       "size": 97900300,
-      "downloads": 22357,
+      "downloads": 28855,
       "url": "https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_macos_universal.dmg",
       "platform": "🍎 macOS"
     },
     {
       "name": "clashmi_1.0.31.1703_macos_universal.pkg",
       "size": 98180713,
-      "downloads": 996,
+      "downloads": 1166,
       "url": "https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_macos_universal.pkg",
       "platform": "🍎 macOS"
     },
     {
       "name": "clashmi_1.0.31.1703_windows_x64.exe",
       "size": 45517373,
-      "downloads": 150552,
+      "downloads": 179734,
       "url": "https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_windows_x64.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "clashmi_1.0.31.1703_windows_x64.zip",
       "size": 66766538,
-      "downloads": 13361,
+      "downloads": 16880,
       "url": "https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_windows_x64.zip",
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

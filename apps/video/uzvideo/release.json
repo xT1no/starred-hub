@@ -13,14 +13,14 @@
     "Android"
   ],
   "language": "HTML",
-  "stars": 1538,
-  "forks": 0,
+  "stars": 1541,
+  "forks": 175,
   "license": "",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://uz-video-five.vercel.app",
   "topics": [],
   "starred_at": "2025-05-28T07:20:00Z",
-  "pushed_at": "",
+  "pushed_at": "2025-11-04T01:30:09Z",
   "latest": {
     "kind": "none",
     "tag": "",
@@ -30,5 +30,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

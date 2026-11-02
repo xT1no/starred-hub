@@ -18,11 +18,12 @@
 | 分类 | ⚡ [自动化 / 部署](../README.md) |
 | 平台 | ❓ |
 | 语言 | C# |
-| Star | 13k · Fork 0 |
-| License | — |
+| Star | 13k · Fork 1.2k |
+| License | GPL-3.0 |
 | 最新版本 | `v1.3.0` |
 | 最近更新 | 2024-02-22（2 年前） |
 | 标星日期 | 2024-01-11 |
+| 官网 | <Email: OdysseusYuan@foxmail.com> |
 
 ## 📦 最新版本
 
@@ -60,13 +61,14 @@
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [LKY_OfficeTools_v1.3.0.223.zip](https://github.com/OdysseusYuan/LKY_OfficeTools/releases/download/v1.3.0/LKY_OfficeTools_v1.3.0.223.zip) | 🌐 Web | 11.8 MB | 13k |
+| [LKY_OfficeTools_v1.3.0.223.zip](https://github.com/OdysseusYuan/LKY_OfficeTools/releases/download/v1.3.0/LKY_OfficeTools_v1.3.0.223.zip) | 🌐 Web | 11.8 MB | 14k |
 
 ## 🔗 快速链接
 
 - 仓库主页 · https://github.com/OdysseusYuan/LKY_OfficeTools
 - Issues · https://github.com/OdysseusYuan/LKY_OfficeTools/issues
 - Releases · https://github.com/OdysseusYuan/LKY_OfficeTools/releases
+- 官网 / 演示 · Email: OdysseusYuan@foxmail.com
 
 `access` `email` `excel` `kms` `lync` `microsoft` `msoffice` `office` `office-free` `office365` `onedrive` `onenote`
 

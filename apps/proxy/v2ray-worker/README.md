@@ -12,8 +12,8 @@ Total solution for V2Ray over Cloudflare's worker
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | ☁️ |
 | 语言 | TypeScript |
-| Star | 1.4k · Fork 0 |
-| License | — |
+| Star | 1.4k · Fork 2.2k |
+| License | GPL-3.0 |
 | 最新版本 | `v2.4` |
 | 最近更新 | 2024-05-31（2 年前） |
 | 标星日期 | 2024-07-28 |

@@ -13,11 +13,11 @@
     "iOS"
   ],
   "language": "TypeScript",
-  "stars": 4368,
-  "forks": 0,
-  "license": "",
+  "stars": 4467,
+  "forks": 339,
+  "license": "MIT",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://iloader.app",
   "topics": [
     "idevice",
     "ios",
@@ -25,156 +25,156 @@
     "sidestore"
   ],
   "starred_at": "2026-02-28T08:42:57Z",
-  "pushed_at": "",
+  "pushed_at": "2026-11-01T00:12:00Z",
   "latest": {
     "kind": "release",
-    "tag": "v2.4.0",
-    "title": "v2.4.0",
-    "published_at": "2026-10-22T02:26:10Z",
-    "url": "https://github.com/nab138/iloader/releases/tag/v2.4.0",
+    "tag": "v2.4.1",
+    "title": "v2.4.1",
+    "published_at": "2026-10-28T17:01:34Z",
+    "url": "https://github.com/nab138/iloader/releases/tag/v2.4.1",
     "prerelease": false
   },
   "assets": [
     {
       "name": "iloader-darwin-universal.app.tar.gz",
-      "size": 19237469,
-      "downloads": 11384,
-      "url": "https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-darwin-universal.app.tar.gz",
+      "size": 19229909,
+      "downloads": 8365,
+      "url": "https://github.com/nab138/iloader/releases/download/v2.4.1/iloader-darwin-universal.app.tar.gz",
       "platform": "🍎 macOS"
     },
     {
       "name": "iloader-darwin-universal.app.tar.gz.sig",
       "size": 424,
-      "downloads": 156,
-      "url": "https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-darwin-universal.app.tar.gz.sig",
+      "downloads": 95,
+      "url": "https://github.com/nab138/iloader/releases/download/v2.4.1/iloader-darwin-universal.app.tar.gz.sig",
       "platform": "🔐 校验文件"
     },
     {
       "name": "iloader-darwin-universal.dmg",
-      "size": 18767296,
-      "downloads": 28501,
-      "url": "https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-darwin-universal.dmg",
+      "size": 18758860,
+      "downloads": 21685,
+      "url": "https://github.com/nab138/iloader/releases/download/v2.4.1/iloader-darwin-universal.dmg",
       "platform": "🍎 macOS"
     },
     {
       "name": "iloader-linux-aarch64.AppImage",
-      "size": 86907400,
-      "downloads": 373,
-      "url": "https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-linux-aarch64.AppImage",
+      "size": 86915592,
+      "downloads": 235,
+      "url": "https://github.com/nab138/iloader/releases/download/v2.4.1/iloader-linux-aarch64.AppImage",
       "platform": "🐧 Linux"
     },
     {
       "name": "iloader-linux-aarch64.AppImage.sig",
       "size": 440,
-      "downloads": 65,
-      "url": "https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-linux-aarch64.AppImage.sig",
+      "downloads": 29,
+      "url": "https://github.com/nab138/iloader/releases/download/v2.4.1/iloader-linux-aarch64.AppImage.sig",
       "platform": "🔐 校验文件"
     },
     {
       "name": "iloader-linux-aarch64.rpm",
-      "size": 11548729,
-      "downloads": 141,
-      "url": "https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-linux-aarch64.rpm",
+      "size": 11559920,
+      "downloads": 82,
+      "url": "https://github.com/nab138/iloader/releases/download/v2.4.1/iloader-linux-aarch64.rpm",
       "platform": "🐧 Linux"
     },
     {
       "name": "iloader-linux-aarch64.rpm.sig",
       "size": 436,
-      "downloads": 52,
-      "url": "https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-linux-aarch64.rpm.sig",
+      "downloads": 28,
+      "url": "https://github.com/nab138/iloader/releases/download/v2.4.1/iloader-linux-aarch64.rpm.sig",
       "platform": "🔐 校验文件"
     },
     {
       "name": "iloader-linux-amd64.AppImage",
-      "size": 88603128,
-      "downloads": 1541,
-      "url": "https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-linux-amd64.AppImage",
+      "size": 88611320,
+      "downloads": 1121,
+      "url": "https://github.com/nab138/iloader/releases/download/v2.4.1/iloader-linux-amd64.AppImage",
       "platform": "🐧 Linux"
     },
     {
       "name": "iloader-linux-amd64.AppImage.sig",
       "size": 436,
-      "downloads": 72,
-      "url": "https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-linux-amd64.AppImage.sig",
+      "downloads": 42,
+      "url": "https://github.com/nab138/iloader/releases/download/v2.4.1/iloader-linux-amd64.AppImage.sig",
       "platform": "🔐 校验文件"
     },
     {
       "name": "iloader-linux-amd64.deb",
-      "size": 11371104,
-      "downloads": 3013,
-      "url": "https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-linux-amd64.deb",
+      "size": 11361770,
+      "downloads": 2444,
+      "url": "https://github.com/nab138/iloader/releases/download/v2.4.1/iloader-linux-amd64.deb",
       "platform": "🐧 Linux"
     },
     {
       "name": "iloader-linux-amd64.deb.sig",
       "size": 432,
-      "downloads": 30,
-      "url": "https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-linux-amd64.deb.sig",
+      "downloads": 23,
+      "url": "https://github.com/nab138/iloader/releases/download/v2.4.1/iloader-linux-amd64.deb.sig",
       "platform": "🔐 校验文件"
     },
     {
       "name": "iloader-linux-arm64.deb",
-      "size": 11548680,
-      "downloads": 169,
-      "url": "https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-linux-arm64.deb",
+      "size": 11560586,
+      "downloads": 128,
+      "url": "https://github.com/nab138/iloader/releases/download/v2.4.1/iloader-linux-arm64.deb",
       "platform": "🐧 Linux"
     },
     {
       "name": "iloader-linux-arm64.deb.sig",
       "size": 432,
-      "downloads": 30,
-      "url": "https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-linux-arm64.deb.sig",
+      "downloads": 22,
+      "url": "https://github.com/nab138/iloader/releases/download/v2.4.1/iloader-linux-arm64.deb.sig",
       "platform": "🔐 校验文件"
     },
     {
       "name": "iloader-linux-x86_64.rpm",
-      "size": 11369479,
-      "downloads": 520,
-      "url": "https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-linux-x86_64.rpm",
+      "size": 11365971,
+      "downloads": 427,
+      "url": "https://github.com/nab138/iloader/releases/download/v2.4.1/iloader-linux-x86_64.rpm",
       "platform": "🐧 Linux"
     },
     {
       "name": "iloader-linux-x86_64.rpm.sig",
       "size": 436,
-      "downloads": 42,
-      "url": "https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-linux-x86_64.rpm.sig",
+      "downloads": 23,
+      "url": "https://github.com/nab138/iloader/releases/download/v2.4.1/iloader-linux-x86_64.rpm.sig",
       "platform": "🔐 校验文件"
     },
     {
       "name": "iloader-windows-x64.exe",
-      "size": 6035360,
-      "downloads": 34403,
-      "url": "https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-windows-x64.exe",
+      "size": 6026098,
+      "downloads": 22661,
+      "url": "https://github.com/nab138/iloader/releases/download/v2.4.1/iloader-windows-x64.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "iloader-windows-x64.exe.sig",
       "size": 436,
-      "downloads": 291,
-      "url": "https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-windows-x64.exe.sig",
+      "downloads": 147,
+      "url": "https://github.com/nab138/iloader/releases/download/v2.4.1/iloader-windows-x64.exe.sig",
       "platform": "🔐 校验文件"
     },
     {
       "name": "iloader-windows-x64.msi",
-      "size": 8892416,
-      "downloads": 37843,
-      "url": "https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-windows-x64.msi",
+      "size": 8888320,
+      "downloads": 24593,
+      "url": "https://github.com/nab138/iloader/releases/download/v2.4.1/iloader-windows-x64.msi",
       "platform": "🪟 Windows"
     },
     {
       "name": "iloader-windows-x64.msi.sig",
       "size": 436,
-      "downloads": 197,
-      "url": "https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-windows-x64.msi.sig",
+      "downloads": 114,
+      "url": "https://github.com/nab138/iloader/releases/download/v2.4.1/iloader-windows-x64.msi.sig",
       "platform": "🔐 校验文件"
     },
     {
       "name": "latest.json",
       "size": 8986,
-      "downloads": 133908,
-      "url": "https://github.com/nab138/iloader/releases/download/v2.4.0/latest.json",
+      "downloads": 90787,
+      "url": "https://github.com/nab138/iloader/releases/download/v2.4.1/latest.json",
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

@@ -13,14 +13,14 @@
     "Windows"
   ],
   "language": "C#",
-  "stars": 8477,
-  "forks": 0,
+  "stars": 8489,
+  "forks": 477,
   "license": "",
   "archived": false,
   "homepage": "",
   "topics": [],
   "starred_at": "2025-11-15T01:28:39Z",
-  "pushed_at": "",
+  "pushed_at": "2025-10-07T04:01:29Z",
   "latest": {
     "kind": "release",
     "tag": "v4.1",
@@ -33,10 +33,10 @@
     {
       "name": "ZyperWin++4.1.zip",
       "size": 1408799,
-      "downloads": 133141,
+      "downloads": 134240,
       "url": "https://github.com/ZyperWave/ZyperWinOptimize/releases/download/v4.1/ZyperWin%2B%2B4.1.zip",
       "platform": "🌐 Web"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

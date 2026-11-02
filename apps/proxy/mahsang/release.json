@@ -13,14 +13,14 @@
     "Android"
   ],
   "language": "Kotlin",
-  "stars": 3137,
-  "forks": 0,
-  "license": "",
+  "stars": 3150,
+  "forks": 314,
+  "license": "GPL-3.0",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://t.me/mahsa_net",
   "topics": [],
   "starred_at": "2024-06-26T11:26:22Z",
-  "pushed_at": "",
+  "pushed_at": "2026-10-31T20:06:08Z",
   "latest": {
     "kind": "release",
     "tag": "v18-(1405-7-10)",
@@ -33,38 +33,38 @@
     {
       "name": "MahsaNG_18_arm64-v8a.apk",
       "size": 64789460,
-      "downloads": 15515,
+      "downloads": 16409,
       "url": "https://github.com/GFW-knocker/MahsaNG/releases/download/v18-%281405-7-10%29/MahsaNG_18_arm64-v8a.apk",
       "platform": "📲 Android"
     },
     {
       "name": "MahsaNG_18_armeabi-v7a.apk",
       "size": 66052068,
-      "downloads": 2690,
+      "downloads": 2879,
       "url": "https://github.com/GFW-knocker/MahsaNG/releases/download/v18-%281405-7-10%29/MahsaNG_18_armeabi-v7a.apk",
       "platform": "📲 Android"
     },
     {
       "name": "MahsaNG_18_universal.apk",
       "size": 180048043,
-      "downloads": 4995,
+      "downloads": 5323,
       "url": "https://github.com/GFW-knocker/MahsaNG/releases/download/v18-%281405-7-10%29/MahsaNG_18_universal.apk",
       "platform": "📲 Android"
     },
     {
       "name": "MahsaNG_18_x86.apk",
       "size": 69463869,
-      "downloads": 679,
+      "downloads": 720,
       "url": "https://github.com/GFW-knocker/MahsaNG/releases/download/v18-%281405-7-10%29/MahsaNG_18_x86.apk",
       "platform": "📲 Android"
     },
     {
       "name": "MahsaNG_18_x86_64.apk",
       "size": 68078203,
-      "downloads": 1006,
+      "downloads": 1104,
       "url": "https://github.com/GFW-knocker/MahsaNG/releases/download/v18-%281405-7-10%29/MahsaNG_18_x86_64.apk",
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

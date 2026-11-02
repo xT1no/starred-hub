@@ -18,15 +18,15 @@
 | 分类 | 🎮 [游戏 / 辅助脚本](../README.md) |
 | 平台 | 🌐 🖥️ |
 | 语言 | TypeScript |
-| Star | 742 · Fork 0 |
-| License | — |
+| Star | 744 · Fork 127 |
+| License | NOASSERTION |
 | 最新版本 | `v1.6.1` |
-| 最近更新 | 2026-10-01（26 天前） |
+| 最近更新 | 2026-10-01（1 个月前） |
 | 标星日期 | 2026-01-29 |
 
 ## 📦 最新版本
 
-**`v1.6.1`**　发布于 2026-10-01（26 天前）
+**`v1.6.1`**　发布于 2026-10-01（1 个月前）
 
 [查看 Release 页面](https://github.com/WJZ-P/TFT-Hextech-Helper/releases/tag/v1.6.1)
 
@@ -47,12 +47,12 @@
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [tft-hextech-helper-1.6.1-arm64.dmg](https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.6.1/tft-hextech-helper-1.6.1-arm64.dmg) | 🍎 macOS | 185.7 MB | 61 |
-| [tft-hextech-helper-1.6.1-x64.dmg](https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.6.1/tft-hextech-helper-1.6.1-x64.dmg) | 🍎 macOS | 189.9 MB | 16 |
-| [TFT-Hextech-Helper-1.6.1-win.zip](https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.6.1/TFT-Hextech-Helper-1.6.1-win.zip) | 🪟 Windows | 196.7 MB | 380 |
-| [tft-hextech-helper-1.6.1-setup.exe](https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.6.1/tft-hextech-helper-1.6.1-setup.exe) | 🪟 Windows | 161.1 MB | 348 |
-| [tft-hextech-helper-1.6.1.deb](https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.6.1/tft-hextech-helper-1.6.1.deb) | 🐧 Linux | 151.4 MB | 16 |
-| [tft-hextech-helper-1.6.1.AppImage](https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.6.1/tft-hextech-helper-1.6.1.AppImage) | 🐧 Linux | 203.7 MB | 8 |
+| [tft-hextech-helper-1.6.1-arm64.dmg](https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.6.1/tft-hextech-helper-1.6.1-arm64.dmg) | 🍎 macOS | 185.7 MB | 67 |
+| [tft-hextech-helper-1.6.1-x64.dmg](https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.6.1/tft-hextech-helper-1.6.1-x64.dmg) | 🍎 macOS | 189.9 MB | 20 |
+| [TFT-Hextech-Helper-1.6.1-win.zip](https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.6.1/TFT-Hextech-Helper-1.6.1-win.zip) | 🪟 Windows | 196.7 MB | 413 |
+| [tft-hextech-helper-1.6.1-setup.exe](https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.6.1/tft-hextech-helper-1.6.1-setup.exe) | 🪟 Windows | 161.1 MB | 396 |
+| [tft-hextech-helper-1.6.1.deb](https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.6.1/tft-hextech-helper-1.6.1.deb) | 🐧 Linux | 151.4 MB | 20 |
+| [tft-hextech-helper-1.6.1.AppImage](https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.6.1/tft-hextech-helper-1.6.1.AppImage) | 🐧 Linux | 203.7 MB | 9 |
 
 ## 🔗 快速链接
 

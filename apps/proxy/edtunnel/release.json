@@ -14,11 +14,11 @@
     "Web"
   ],
   "language": "JavaScript",
-  "stars": 3063,
-  "forks": 0,
-  "license": "",
+  "stars": 3067,
+  "forks": 5342,
+  "license": "MIT",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://cfworker.edtunnel.best/",
   "topics": [
     "cloudflare",
     "cloudflare-pages",
@@ -30,7 +30,7 @@
     "xray"
   ],
   "starred_at": "2024-09-11T11:48:38Z",
-  "pushed_at": "",
+  "pushed_at": "2026-04-25T19:21:52Z",
   "latest": {
     "kind": "none",
     "tag": "",
@@ -40,5 +40,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

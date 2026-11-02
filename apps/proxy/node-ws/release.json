@@ -13,9 +13,9 @@
     "服务端 / 云端"
   ],
   "language": "HTML",
-  "stars": 6248,
-  "forks": 0,
-  "license": "",
+  "stars": 6250,
+  "forks": 10150,
+  "license": "GPL-3.0",
   "archived": false,
   "homepage": "",
   "topics": [
@@ -27,7 +27,7 @@
     "vmess"
   ],
   "starred_at": "2025-11-14T03:10:32Z",
-  "pushed_at": "",
+  "pushed_at": "2026-10-11T10:51:37Z",
   "latest": {
     "kind": "release",
     "tag": "gows-latest",
@@ -108,5 +108,5 @@
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

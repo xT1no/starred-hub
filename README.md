@@ -6,7 +6,7 @@
 
 `145` 个仓库 · `15` 个功能分类 · `14` 个平台分类
 
-最近同步：2026-10-28 16:52 (UTC+8)
+最近同步：2026-11-02 18:50 (UTC+8)
 
 [📱 应用目录](apps/README.md) · [按功能浏览](docs/by-function.md) · [按平台浏览](docs/by-platform.md) · [更新动态](docs/updates.md) · [时间线](docs/timeline.md)
 
@@ -14,30 +14,27 @@
 
 ---
 
-## 🔥 最近更新（7 天内 18 个应用发布新版）
+## 🔥 最近更新（7 天内 15 个应用发布新版）
 
 > 点版本号可以直接跳到下面同页的安装包直链，不用再进应用页。
 
 | 应用 | 最新版本 | 发布 | 分类 | ⭐ |
 |:---|:---|:---:|:---:|---:|
-| [Motrix](apps/download/motrix/README.md) | [`v2.1.0`](#dl-agalwood-motrix) | 2026-10-28 | 📥 | 58k |
-| [ok-wuthering-waves](apps/game/ok-wuthering-waves/README.md) | [`v3.7.12`](#dl-ok-oldking-ok-wuthering-waves) | 2026-10-28 | 🎮 | 8.3k |
-| [GKD_subscription](apps/mod/gkd_subscription/README.md) | `v620` | 2026-10-27 | 🧩 | 6.4k |
-| [aos-AVP](apps/video/aos-avp/README.md) | [`v6.6.2`](#dl-nova-video-player-aos-avp) | 2026-10-27 | 🎬 | 4.8k |
-| [CloudRunFilesBuilder](apps/auto/cloudrunfilesbuilder/README.md) | `2026-10-27` | 2026-10-27 | ⚡ | 638 |
+| [clash-verge-rev](apps/proxy/clash-verge-rev/README.md) | [`v2.5.9`](#dl-clash-verge-rev-clash-verge-rev) | 2026-11-02 | 🌐 | 156k |
+| [light-c](apps/system/light-c/README.md) | [`v2.18.1`](#dl-chunyu33-light-c) | 2026-11-02 | ⚙️ | 3.3k |
+| [CloudRunFilesBuilder](apps/auto/cloudrunfilesbuilder/README.md) | `2026-11-02` | 2026-11-02 | ⚡ | 642 |
+| [photocraft](apps/design/photocraft/README.md) | [`v0.19.0`](#dl-storytold-photocraft) | 2026-11-01 | 🎨 | 76k |
+| [aos-AVP](apps/video/aos-avp/README.md) | [`v6.6.3`](#dl-nova-video-player-aos-avp) | 2026-11-01 | 🎬 | 4.8k |
+| [Motrix](apps/download/motrix/README.md) | [`v2.2.0`](#dl-agalwood-motrix) | 2026-11-01 | 📥 | 58k |
+| [GKD_subscription](apps/mod/gkd_subscription/README.md) | `v623` | 2026-10-31 | 🧩 | 6.6k |
+| [eIsland](apps/system/eisland/README.md) | [`v27.0.1`](#dl-jntmtmtm-eisland) | 2026-10-31 | ⚙️ | 325 |
+| [Win11Debloat](apps/system/win11debloat/README.md) | [`2026.10.30`](#dl-raphire-win11debloat) | 2026-10-31 | ⚙️ | 62k |
+| [NDui](apps/game/ndui/README.md) | [`10.2.5`](#dl-siweia-ndui) | 2026-10-30 | 🎮 | 382 |
+| [UniGetUI](apps/dev/unigetui/README.md) | [`v2026.3.3`](#dl-devolutions-unigetui) | 2026-10-29 | 🛠️ | 27k |
+| [ok-wuthering-waves](apps/game/ok-wuthering-waves/README.md) | [`v3.7.13`](#dl-ok-oldking-ok-wuthering-waves) | 2026-10-29 | 🎮 | 8.5k |
+| [ExplorerPatcher](apps/system/explorerpatcher/README.md) | [`26100.9711.71.1`](#dl-valinet-explorerpatcher) | 2026-10-29 | ⚙️ | 34k |
+| [iloader](apps/mod/iloader/README.md) | [`v2.4.1`](#dl-nab138-iloader) | 2026-10-28 | 🧩 | 4.5k |
 | [ImmortalWrt-ImageBuilder](apps/auto/immortalwrt-imagebuilder/README.md) | `Autobuild-x86-64` | 2026-10-27 | ⚡ | 2.7k |
-| [NDui](apps/game/ndui/README.md) | [`Classic-0.0.6`](#dl-siweia-ndui) | 2026-10-25 | 🎮 | 380 |
-| [photocraft](apps/design/photocraft/README.md) | [`v0.16.0`](#dl-storytold-photocraft) | 2026-10-25 | 🎨 | 74k |
-| [rayburst](apps/download/rayburst/README.md) | [`v4.1.1`](#dl-aninsomniacy-rayburst) | 2026-10-25 | 📥 | 11k |
-| [FlClash](apps/proxy/flclash/README.md) | [`v0.9.2`](#dl-chen08209-flclash) | 2026-10-24 | 🌐 | 59k |
-| [light-c](apps/system/light-c/README.md) | [`v2.17.0`](#dl-chunyu33-light-c) | 2026-10-24 | ⚙️ | 3.2k |
-| [sing-box](apps/proxy/sing-box/README.md) | [`v1.14.4`](#dl-sagernet-sing-box) | 2026-10-24 | 🌐 | 39k |
-| [Kazumi](apps/video/kazumi/README.md) | [`2.4.2`](#dl-predidit-kazumi) | 2026-10-23 | 🎬 | 40k |
-| [iloader](apps/mod/iloader/README.md) | [`v2.4.0`](#dl-nab138-iloader) | 2026-10-22 | 🧩 | 4.4k |
-| [BT](apps/video/bt/README.md) | [`v0.9.41`](#dl-chinasoul-bt) | 2026-10-21 | 🎬 | 2.4k |
-| [Ehviewer_CN_SXJ](apps/office/ehviewer_cn_sxj/README.md) | [`2.0.2.6`](#dl-xiaojieonly-ehviewer-cn-sxj) | 2026-10-21 | 📄 | 28k |
-| [marktext](apps/office/marktext/README.md) | [`v0.23.0`](#dl-marktext-marktext) | 2026-10-21 | 📄 | 63k |
-| [dart_simple_live](apps/video/june6699-dart_simple_live/README.md) | [`v1.13.2`](#dl-june6699-dart-simple-live) | 2026-10-20 | 🎬 | 1.3k |
 
 全部 **106** 个有版本的应用：见 [⬇️ 下载索引](docs/downloads.md)。
 
@@ -47,95 +44,77 @@
 
 每个应用只列「每个平台最该装的那一个」，点一次直接落到官方文件。
 
-<a id="dl-agalwood-motrix"></a>
+<a id="dl-clash-verge-rev-clash-verge-rev"></a>
 
-**📥 Motrix** · `v2.1.0` · 2026-10-28 · [详情](apps/download/motrix/README.md)
+**🌐 clash-verge-rev** · `v2.5.9` · 2026-11-02 · [详情](apps/proxy/clash-verge-rev/README.md)
 
-🪟 [安装版 · 127 MB](https://github.com/agalwood/Motrix/releases/download/v2.1.0/Motrix-Setup-2.1.0.exe) · 🍎 [arm64 dmg · 131 MB](https://github.com/agalwood/Motrix/releases/download/v2.1.0/Motrix-2.1.0-arm64.dmg) · 🐧 [x64 AppImage · 126 MB](https://github.com/agalwood/Motrix/releases/download/v2.1.0/Motrix-2.1.0-x86_64.AppImage) · 📦 [zip · 160 MB](https://github.com/agalwood/Motrix/releases/download/v2.1.0/Motrix-2.1.0-win.zip)
-
-<a id="dl-ok-oldking-ok-wuthering-waves"></a>
-
-**🎮 ok-wuthering-waves** · `v3.7.12` · 2026-10-28 · [详情](apps/game/ok-wuthering-waves/README.md)
-
-🪟 [x86 安装版 · 373 MB](https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.12/ok-ww-win32-China-setup.exe) · 📦 [x86 zip · 4.7 MB](https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.12/ok-ww-win32.zip)
-
-<a id="dl-nova-video-player-aos-avp"></a>
-
-**🎬 aos-AVP** · `v6.6.2` · 2026-10-27 · [详情](apps/video/aos-avp/README.md)
-
-📲 [arm64 apk · 33.4 MB](https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.2/org.courville.nova-2673649-6.6.2-20261027.1847-arm64-v8a-release.apk)
-
-<a id="dl-siweia-ndui"></a>
-
-**🎮 NDui** · `Classic-0.0.6` · 2026-10-25 · [详情](apps/game/ndui/README.md)
-
-📦 [zip · 0.9 MB](https://github.com/siweia/NDui/releases/download/Classic-0.0.6/NDui-Classic-0.0.6-forever.zip)
-
-<a id="dl-storytold-photocraft"></a>
-
-**🎨 photocraft** · `v0.16.0` · 2026-10-25 · [详情](apps/design/photocraft/README.md)
-
-🪟 [x64 安装版 · 71.3 MB](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-windows-x64.msi) · 🍎 [通用 dmg · 94.4 MB](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-macos-universal.dmg) · 🐧 [x64 AppImage · 79.5 MB](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-linux-x86_64.AppImage) · 📦 [x64 便携版 · 85.9 MB](https://github.com/storytold/photocraft/releases/download/v0.16.0/photocraft-0.16.0-windows-x64-portable.zip)
-
-<a id="dl-aninsomniacy-rayburst"></a>
-
-**📥 rayburst** · `v4.1.1` · 2026-10-25 · [详情](apps/download/rayburst/README.md)
-
-🪟 [x64 安装版 · 24.6 MB](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_x64-setup.exe) · 🍎 [arm64 dmg · 25.7 MB](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_aarch64.dmg) · 🐧 [x64 AppImage · 99.2 MB](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_4.1.1_amd64.AppImage) · 📦 [x64 · 26.6 MB](https://github.com/AnInsomniacy/rayburst/releases/download/v4.1.1/Rayburst_x64.app.tar.gz)
-
-<a id="dl-chen08209-flclash"></a>
-
-**🌐 FlClash** · `v0.9.2` · 2026-10-24 · [详情](apps/proxy/flclash/README.md)
-
-🪟 [x64 安装版 · 41.3 MB](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-windows-amd64-setup.exe) · 📲 [arm64 apk · 58.3 MB](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-android-arm64-v8a.apk) · 🍎 [arm64 dmg · 56.5 MB](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-macos-arm64.dmg) · 🐧 [x64 AppImage · 66.6 MB](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-amd64.AppImage) · 📦 [x64 zip · 65.7 MB](https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-windows-amd64.zip)
+🪟 [x64 安装版 · 57.3 MB](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_x64-setup.exe) · 🍎 [arm64 dmg · 77.0 MB](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_aarch64.dmg) · 🐧 [x64 deb · 98.6 MB](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_amd64.deb) · 📦 [x64 · 84.0 MB](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_x64.app.tar.gz)
 
 <a id="dl-chunyu33-light-c"></a>
 
-**⚙️ light-c** · `v2.17.0` · 2026-10-24 · [详情](apps/system/light-c/README.md)
+**⚙️ light-c** · `v2.18.1` · 2026-11-02 · [详情](apps/system/light-c/README.md)
 
-🪟 [x64 安装版 · 5.8 MB](https://github.com/Chunyu33/light-c/releases/download/v2.17.0/LightC_2.17.0_x64-setup.exe) · 📦 [x64 便携版 · 7.7 MB](https://github.com/Chunyu33/light-c/releases/download/v2.17.0/LightC_portable_x64_v2.17.0.zip)
+🪟 [x64 安装版 · 5.9 MB](https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_2.18.1_x64-setup.exe) · 📦 [x64 便携版 · 7.8 MB](https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_portable_x64_v2.18.1.zip)
 
-<a id="dl-sagernet-sing-box"></a>
+<a id="dl-storytold-photocraft"></a>
 
-**🌐 sing-box** · `v1.14.4` · 2026-10-24 · [详情](apps/proxy/sing-box/README.md)
+**🎨 photocraft** · `v0.19.0` · 2026-11-01 · [详情](apps/design/photocraft/README.md)
 
-🪟 [x64 安装版 · 110 MB](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFW-1.14.4-x64.exe) · 📲 [arm64 apk · 35.0 MB](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-arm64-v8a.apk) · 🍎 [通用 pkg · 98.7 MB](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFM-1.14.4-Universal.pkg) · 🐧 [x64 deb · 108 MB](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFL-1.14.4-amd64.deb) · 📦 [x64 · 30.0 MB](https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-darwin-amd64.tar.gz)
+🪟 [x64 安装版 · 102 MB](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-windows-x64.msi) · 🍎 [通用 dmg · 234 MB](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-macos-universal.dmg) · 🐧 [x64 AppImage · 113 MB](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-linux-x86_64.AppImage) · 📦 [x64 便携版 · 122 MB](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-windows-x64-portable.zip)
 
-<a id="dl-predidit-kazumi"></a>
+<a id="dl-nova-video-player-aos-avp"></a>
 
-**🎬 Kazumi** · `2.4.2` · 2026-10-23 · [详情](apps/video/kazumi/README.md)
+**🎬 aos-AVP** · `v6.6.3` · 2026-11-01 · [详情](apps/video/aos-avp/README.md)
 
-🪟 [安装版 · 45.5 MB](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_windows_2.4.2.msix) · 📲 [apk · 31.9 MB](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_android_2.4.2.apk) · 🍎 [dmg · 53.3 MB](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_macos_2.4.2.dmg) · 🐧 [x64 deb · 33.7 MB](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_linux_2.4.2_amd64.deb) · 📦 [zip · 40.9 MB](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_windows_2.4.2.zip)
+📲 [arm64 apk · 33.3 MB](https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.3/org.courville.nova-2674070-6.6.3-20261101.1547-arm64-v8a-release.apk)
+
+<a id="dl-agalwood-motrix"></a>
+
+**📥 Motrix** · `v2.2.0` · 2026-11-01 · [详情](apps/download/motrix/README.md)
+
+🪟 [安装版 · 127 MB](https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-Setup-2.2.0.exe) · 🍎 [arm64 dmg · 131 MB](https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-arm64.dmg) · 🐧 [x64 AppImage · 125 MB](https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-x86_64.AppImage) · 📦 [zip · 160 MB](https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-win.zip)
+
+<a id="dl-jntmtmtm-eisland"></a>
+
+**⚙️ eIsland** · `v27.0.1` · 2026-10-31 · [详情](apps/system/eisland/README.md)
+
+🪟 [安装版 · 402 MB](https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.1/eIsland-27.0.1-Setup.exe)
+
+<a id="dl-raphire-win11debloat"></a>
+
+**⚙️ Win11Debloat** · `2026.10.30` · 2026-10-31 · [详情](apps/system/win11debloat/README.md)
+
+📦 [zip · 0.7 MB](https://github.com/Raphire/Win11Debloat/releases/download/2026.10.30/Win11Debloat.zip)
+
+<a id="dl-siweia-ndui"></a>
+
+**🎮 NDui** · `10.2.5` · 2026-10-30 · [详情](apps/game/ndui/README.md)
+
+📦 [zip · 0.9 MB](https://github.com/siweia/NDui/releases/download/10.2.5/NDui-10.2.5.zip)
+
+<a id="dl-devolutions-unigetui"></a>
+
+**🛠️ UniGetUI** · `v2026.3.3` · 2026-10-29 · [详情](apps/dev/unigetui/README.md)
+
+🪟 [x64 安装版 · 34.2 MB](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.Installer.x64.exe) · 🍎 [arm64 dmg · 61.0 MB](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.macos-arm64.dmg) · 🐧 [x64 deb · 38.1 MB](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.linux-x64.deb) · 📦 [x64 zip · 51.4 MB](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.x64.zip)
+
+<a id="dl-ok-oldking-ok-wuthering-waves"></a>
+
+**🎮 ok-wuthering-waves** · `v3.7.13` · 2026-10-29 · [详情](apps/game/ok-wuthering-waves/README.md)
+
+🪟 [x86 安装版 · 373 MB](https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.13/ok-ww-win32-China-setup.exe) · 📦 [x86 zip · 4.7 MB](https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.13/ok-ww-win32.zip)
+
+<a id="dl-valinet-explorerpatcher"></a>
+
+**⚙️ ExplorerPatcher** · `26100.9711.71.1` · 2026-10-29 · [详情](apps/system/explorerpatcher/README.md)
+
+🪟 [安装版 · 11.8 MB](https://github.com/valinet/ExplorerPatcher/releases/download/26100.9711.71.1/ep_setup.exe)
 
 <a id="dl-nab138-iloader"></a>
 
-**🧩 iloader** · `v2.4.0` · 2026-10-22 · [详情](apps/mod/iloader/README.md)
+**🧩 iloader** · `v2.4.1` · 2026-10-28 · [详情](apps/mod/iloader/README.md)
 
-🪟 [x64 安装版 · 5.8 MB](https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-windows-x64.exe) · 🍎 [通用 dmg · 17.9 MB](https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-darwin-universal.dmg) · 🐧 [x64 AppImage · 84.5 MB](https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-linux-amd64.AppImage) · 📦 [通用 · 18.3 MB](https://github.com/nab138/iloader/releases/download/v2.4.0/iloader-darwin-universal.app.tar.gz)
-
-<a id="dl-chinasoul-bt"></a>
-
-**🎬 BT** · `v0.9.41` · 2026-10-21 · [详情](apps/video/bt/README.md)
-
-📲 [通用 apk · 3.1 MB](https://github.com/chinasoul/BT/releases/download/v0.9.41/universal.apk)
-
-<a id="dl-xiaojieonly-ehviewer-cn-sxj"></a>
-
-**📄 Ehviewer_CN_SXJ** · `2.0.2.6` · 2026-10-21 · [详情](apps/office/ehviewer_cn_sxj/README.md)
-
-📲 [apk · 26.9 MB](https://github.com/xiaojieonly/Ehviewer_CN_SXJ/releases/download/2.0.2.6/EhViewer-2.0.2.6.apk)
-
-<a id="dl-marktext-marktext"></a>
-
-**📄 marktext** · `v0.23.0` · 2026-10-21 · [详情](apps/office/marktext/README.md)
-
-🪟 [x64 安装版 · 126 MB](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-x64-0.23.0-setup.exe) · 🍎 [arm64 dmg · 150 MB](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-arm64-0.23.0.dmg) · 🐧 [AppImage · 157 MB](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-0.23.0.AppImage) · 📦 [x64 zip · 173 MB](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-x64-0.23.0.zip)
-
-<a id="dl-june6699-dart-simple-live"></a>
-
-**🎬 dart_simple_live** · `v1.13.2` · 2026-10-20 · [详情](apps/video/june6699-dart_simple_live/README.md)
-
-🪟 [安装版 · 59.7 MB](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/SimpleLive-Windows-v1.13.2-Setup.exe) · 📲 [arm64 apk · 71.0 MB](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/SimpleLive-v1.13.2-arm64-v8a-release.apk) · 🍎 [dmg · 65.2 MB](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/simple_live_app-1.13.2%2B11302-macos.dmg) · 🐧 [deb · 31.0 MB](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/simple_live_app-1.13.2%2B11302-linux.deb) · 📦 [zip · 82.0 MB](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/SimpleLive-Windows-v1.13.2.zip)
+🪟 [x64 安装版 · 5.7 MB](https://github.com/nab138/iloader/releases/download/v2.4.1/iloader-windows-x64.exe) · 🍎 [通用 dmg · 17.9 MB](https://github.com/nab138/iloader/releases/download/v2.4.1/iloader-darwin-universal.dmg) · 🐧 [x64 AppImage · 84.5 MB](https://github.com/nab138/iloader/releases/download/v2.4.1/iloader-linux-amd64.AppImage) · 📦 [通用 · 18.3 MB](https://github.com/nab138/iloader/releases/download/v2.4.1/iloader-darwin-universal.app.tar.gz)
 
 ---
 
@@ -143,18 +122,18 @@
 
 | 仓库 | 简介 | 平台 | 功能 | ⭐ | 标星日期 |
 |:---|:---|:---:|:---:|---|---:|
-| [storytold/photocraft](https://github.com/storytold/photocraft) | 纯 Rust 从零写的开源修图工具｜PhotoCraft: An open-source, photo editor written by scratch in pu… | 🖥️ | 🎨 | 74k | 2026-10-09 |
+| [storytold/photocraft](https://github.com/storytold/photocraft) | 纯 Rust 从零写的开源修图工具｜PhotoCraft: An open-source, photo editor written by scratch in pu… | 🖥️ | 🎨 | 76k | 2026-10-09 |
 | [Au1rxx/free-vpn-subscriptions](https://github.com/Au1rxx/free-vpn-subscriptions) | Free Clash, sing-box, and V2Ray subscription feed with live node status and setup guides | ❓ | 🌐 📚 | 1.1k | 2026-09-20 |
 | [kejichangqing/QingMusic](https://github.com/kejichangqing/QingMusic) | 本地音乐播放器｜青听音乐-一款免费无广告的本地音乐播放器。 | 🪟 | 🎵 | 1.9k | 2026-09-15 |
 | [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper) | 一键替换游戏内的 DLSS 动态库 | 🪟 | 🎮 | 8k | 2026-09-15 |
 | [FirTech/ReWindsys](https://github.com/FirTech/ReWindsys) | Windows 精简系统镜像项目｜Rebirth of Windsys Project | 🪟 | ⚙️ | 21 | 2026-08-10 |
-| [June6699/dart_simple_live](https://github.com/June6699/dart_simple_live) | 简简单单的看直播（SimpleLive续） | 🖥️ | 🎬 | 1.3k | 2026-08-06 |
-| [Chunyu33/light-c](https://github.com/Chunyu33/light-c) | A free, minimalist, lightweight, and high-performance C-drive cleanup tool. | 🪟 | ⚙️ | 3.2k | 2026-08-06 |
+| [June6699/dart_simple_live](https://github.com/June6699/dart_simple_live) | 简简单单的看直播（SimpleLive续） | 🖥️ | 🎬 | 1.4k | 2026-08-06 |
+| [Chunyu33/light-c](https://github.com/Chunyu33/light-c) | A free, minimalist, lightweight, and high-performance C-drive cleanup tool. | 🪟 | ⚙️ | 3.3k | 2026-08-06 |
 | [zfxsquare/paragon-clicker](https://github.com/zfxsquare/paragon-clicker) | Windows D2Core Diablo IV paragon auto clicker | 🪟 | 🎮 | 32 | 2026-08-05 |
 | [control0forver/NetWorkList-Clear](https://github.com/control0forver/NetWorkList-Clear) | 清理网络连接列表残留 | 🪟 | ⚙️ | 11 | 2026-07-24 |
-| [wkccd/CloudRunFilesBuilder](https://github.com/wkccd/CloudRunFilesBuilder) | 这是一个工作流。同步各位大佬项目里最新编译的ipk文件 生成适用于OpenWrt用的run自解压包 | 🛰️ | ⚡ | 638 | 2026-07-02 |
+| [wkccd/CloudRunFilesBuilder](https://github.com/wkccd/CloudRunFilesBuilder) | 这是一个工作流。同步各位大佬项目里最新编译的ipk文件 生成适用于OpenWrt用的run自解压包 | 🛰️ | ⚡ | 642 | 2026-07-02 |
 | [massgravel/TSforge](https://github.com/massgravel/TSforge) | A collection of activation/evaluation extension methods for Windows Vista through 11. | 🪟 | ⚙️ 📚 | 2.6k | 2026-06-21 |
-| [JNTMTMTM/eIsland](https://github.com/JNTMTMTM/eIsland) | Windows 上的灵动岛悬浮窗｜eIsland - A sleek, Apple Dynamic Island inspired floating widget for… | 🪟 | ⚙️ | 322 | 2026-06-20 |
+| [JNTMTMTM/eIsland](https://github.com/JNTMTMTM/eIsland) | Windows 上的灵动岛悬浮窗｜eIsland - A sleek, Apple Dynamic Island inspired floating widget for… | 🪟 | ⚙️ | 325 | 2026-06-20 |
 
 ## 📂 按功能
 

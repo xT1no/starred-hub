@@ -10,7 +10,7 @@
 
 | 应用 | 简介 | 平台 | 最新版本 | 更新 | ⭐ | 下载 |
 |:---|:---|:---:|:---:|:---:|---:|:---:|
-| [global-testflight-link](global-testflight-link/README.md) | 收集苹果公开的iOS/iPadOS/MacOS Testflight链接。Collect Apple's public iOS… | 📱 🍎 | `—` | — | 842 | — |
+| [global-testflight-link](global-testflight-link/README.md) | 收集苹果公开的iOS/iPadOS/MacOS Testflight链接。Collect Apple's public iOS… | 📱 🍎 | `—` | 1 个月前 | 849 | — |
 
 ---
 

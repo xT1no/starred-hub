@@ -20,8 +20,8 @@
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | ⌨️ |
 | 语言 | Go |
-| Star | 30k · Fork 0 |
-| License | — |
+| Star | 30k · Fork 5.5k |
+| License | GPL-3.0 |
 | 最新版本 | `v2.3.5` |
 | 最近更新 | 2026-04-29（6 个月前） |
 | 标星日期 | 2024-07-27 |
@@ -63,24 +63,24 @@
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
 | [cfst_darwin_arm64.zip](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_darwin_arm64.zip) | 🍎 macOS | 2.9 MB | 11k |
-| [cfst_darwin_amd64.zip](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_darwin_amd64.zip) | 🍎 macOS | 3.1 MB | 4.9k |
-| [cfst_darwin_amd64_old.zip](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_darwin_amd64_old.zip) | 🍎 macOS | 2.7 MB | 785 |
-| [cfst_darwin_arm64_old.zip](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_darwin_arm64_old.zip) | 🍎 macOS | 2.6 MB | 705 |
-| [cfst_windows_amd64.zip](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_windows_amd64.zip) | 🪟 Windows | 3.2 MB | 73k |
-| [cfst_windows_386.zip](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_windows_386.zip) | 🪟 Windows | 3.1 MB | 6.1k |
-| [cfst_windows_amd64_old.zip](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_windows_amd64_old.zip) | 🪟 Windows | 2.7 MB | 2.9k |
-| [cfst_windows_arm64.zip](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_windows_arm64.zip) | 🪟 Windows | 2.9 MB | 2.2k |
-| [cfst_windows_386_old.zip](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_windows_386_old.zip) | 🪟 Windows | 2.6 MB | 895 |
-| [cfst_linux_amd64.tar.gz](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_linux_amd64.tar.gz) | 🐧 Linux | 3.0 MB | 65k |
-| [cfst_linux_arm64.tar.gz](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_linux_arm64.tar.gz) | 🐧 Linux | 2.8 MB | 4.6k |
-| [cfst_linux_386.tar.gz](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_linux_386.tar.gz) | 🐧 Linux | 2.9 MB | 598 |
-| [cfst_linux_armv7.tar.gz](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_linux_armv7.tar.gz) | 🐧 Linux | 2.9 MB | 381 |
-| [cfst_linux_mipsle.tar.gz](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_linux_mipsle.tar.gz) | 🐧 Linux | 2.7 MB | 216 |
-| [cfst_linux_armv5.tar.gz](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_linux_armv5.tar.gz) | 🐧 Linux | 2.9 MB | 211 |
-| [cfst_linux_mips.tar.gz](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_linux_mips.tar.gz) | 🐧 Linux | 2.8 MB | 207 |
-| [cfst_linux_armv6.tar.gz](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_linux_armv6.tar.gz) | 🐧 Linux | 2.9 MB | 206 |
-| [cfst_linux_mips64le.tar.gz](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_linux_mips64le.tar.gz) | 🐧 Linux | 2.7 MB | 197 |
-| [cfst_linux_mips64.tar.gz](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_linux_mips64.tar.gz) | 🐧 Linux | 2.7 MB | 177 |
+| [cfst_darwin_amd64.zip](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_darwin_amd64.zip) | 🍎 macOS | 3.1 MB | 5.1k |
+| [cfst_darwin_amd64_old.zip](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_darwin_amd64_old.zip) | 🍎 macOS | 2.7 MB | 812 |
+| [cfst_darwin_arm64_old.zip](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_darwin_arm64_old.zip) | 🍎 macOS | 2.6 MB | 730 |
+| [cfst_windows_amd64.zip](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_windows_amd64.zip) | 🪟 Windows | 3.2 MB | 76k |
+| [cfst_windows_386.zip](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_windows_386.zip) | 🪟 Windows | 3.1 MB | 6.3k |
+| [cfst_windows_amd64_old.zip](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_windows_amd64_old.zip) | 🪟 Windows | 2.7 MB | 3k |
+| [cfst_windows_arm64.zip](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_windows_arm64.zip) | 🪟 Windows | 2.9 MB | 2.3k |
+| [cfst_windows_386_old.zip](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_windows_386_old.zip) | 🪟 Windows | 2.6 MB | 921 |
+| [cfst_linux_amd64.tar.gz](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_linux_amd64.tar.gz) | 🐧 Linux | 3.0 MB | 70k |
+| [cfst_linux_arm64.tar.gz](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_linux_arm64.tar.gz) | 🐧 Linux | 2.8 MB | 4.9k |
+| [cfst_linux_386.tar.gz](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_linux_386.tar.gz) | 🐧 Linux | 2.9 MB | 655 |
+| [cfst_linux_armv7.tar.gz](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_linux_armv7.tar.gz) | 🐧 Linux | 2.9 MB | 412 |
+| [cfst_linux_mipsle.tar.gz](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_linux_mipsle.tar.gz) | 🐧 Linux | 2.7 MB | 230 |
+| [cfst_linux_armv5.tar.gz](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_linux_armv5.tar.gz) | 🐧 Linux | 2.9 MB | 226 |
+| [cfst_linux_mips.tar.gz](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_linux_mips.tar.gz) | 🐧 Linux | 2.8 MB | 224 |
+| [cfst_linux_armv6.tar.gz](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_linux_armv6.tar.gz) | 🐧 Linux | 2.9 MB | 221 |
+| [cfst_linux_mips64le.tar.gz](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_linux_mips64le.tar.gz) | 🐧 Linux | 2.7 MB | 209 |
+| [cfst_linux_mips64.tar.gz](https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_linux_mips64.tar.gz) | 🐧 Linux | 2.7 MB | 191 |
 
 ## 🔗 快速链接
 

@@ -18,15 +18,16 @@
 | 分类 | ⚡ [自动化 / 部署](../README.md) |
 | 平台 | 📺 ⌨️ |
 | 语言 | Python |
-| Star | 26k · Fork 0 |
-| License | — |
+| Star | 26k · Fork 7.7k |
+| License | NOASSERTION |
 | 最新版本 | `3.1.0` |
-| 最近更新 | 2026-10-12（16 天前） |
+| 最近更新 | 2026-10-12（21 天前） |
 | 标星日期 | 2026-04-16 |
+| 官网 | <https://guovin.github.io/iptv-api/> |
 
 ## 📦 最新版本
 
-**`3.1.0`** · v3.1.0　发布于 2026-10-12（16 天前）
+**`3.1.0`** · v3.1.0　发布于 2026-10-12（21 天前）
 
 [查看 Release 页面](https://github.com/Guovin/iptv-api/releases/tag/3.1.0)
 
@@ -60,15 +61,16 @@
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [IPTV-API-GUI-macOS-ARM64-v3.1.0.zip](https://github.com/Guovin/iptv-api/releases/download/3.1.0/IPTV-API-GUI-macOS-ARM64-v3.1.0.zip) | 🍎 macOS | 67.8 MB | 271 |
-| [IPTV-API-GUI-Windows-X64-v3.1.0.zip](https://github.com/Guovin/iptv-api/releases/download/3.1.0/IPTV-API-GUI-Windows-X64-v3.1.0.zip) | 🪟 Windows | 82.5 MB | 1.4k |
-| [SHA256SUMS.txt](https://github.com/Guovin/iptv-api/releases/download/3.1.0/SHA256SUMS.txt) | 🔐 校验文件 | 204 B | 158 |
+| [IPTV-API-GUI-macOS-ARM64-v3.1.0.zip](https://github.com/Guovin/iptv-api/releases/download/3.1.0/IPTV-API-GUI-macOS-ARM64-v3.1.0.zip) | 🍎 macOS | 67.8 MB | 347 |
+| [IPTV-API-GUI-Windows-X64-v3.1.0.zip](https://github.com/Guovin/iptv-api/releases/download/3.1.0/IPTV-API-GUI-Windows-X64-v3.1.0.zip) | 🪟 Windows | 82.5 MB | 1.9k |
+| [SHA256SUMS.txt](https://github.com/Guovin/iptv-api/releases/download/3.1.0/SHA256SUMS.txt) | 🔐 校验文件 | 204 B | 204 |
 
 ## 🔗 快速链接
 
 - 仓库主页 · https://github.com/Guovin/iptv-api
 - Issues · https://github.com/Guovin/iptv-api/issues
 - Releases · https://github.com/Guovin/iptv-api/releases
+- 官网 / 演示 · https://guovin.github.io/iptv-api/
 
 `auto-update` `awesome` `epg` `iptv` `iptv-api` `iptv-channels` `iptv-free` `iptv-m3u` `iptv-m3u8` `iptv-playlist` `ipv4` `ipv6`
 

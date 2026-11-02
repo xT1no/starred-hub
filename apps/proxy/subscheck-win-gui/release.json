@@ -13,16 +13,16 @@
     "Windows"
   ],
   "language": "C#",
-  "stars": 4553,
-  "forks": 0,
-  "license": "",
+  "stars": 4563,
+  "forks": 988,
+  "license": "MIT",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://youtu.be/sS9Tuf1PCyc",
   "topics": [
     "proxypool"
   ],
   "starred_at": "2025-04-01T19:13:02Z",
-  "pushed_at": "",
+  "pushed_at": "2025-04-24T07:38:17Z",
   "latest": {
     "kind": "release",
     "tag": "v2.0.1.7",
@@ -35,10 +35,10 @@
     {
       "name": "SubsCheck_Win_GUI.zip",
       "size": 635736,
-      "downloads": 78264,
+      "downloads": 78412,
       "url": "https://github.com/cmliu/SubsCheck-Win-GUI/releases/download/v2.0.1.7/SubsCheck_Win_GUI.zip",
       "platform": "🌐 Web"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

@@ -18,7 +18,7 @@
 | 分类 | 🎬 [影视 / 直播 / 番剧](../README.md) |
 | 平台 | 📲 |
 | 语言 | — |
-| Star | 18k · Fork 0 |
+| Star | 18k · Fork 530 |
 | License | — |
 | 最新版本 | `v1.5.2` |
 | 最近更新 | 2025-02-28（1 年前） |
@@ -46,7 +46,7 @@
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [BBLL1.5.2.apk](https://github.com/xiaye13579/BBLL/releases/download/v1.5.2/BBLL1.5.2.apk) | 📲 Android | 6.6 MB | 113k |
+| [BBLL1.5.2.apk](https://github.com/xiaye13579/BBLL/releases/download/v1.5.2/BBLL1.5.2.apk) | 📲 Android | 6.6 MB | 114k |
 
 ## 🔗 快速链接
 

@@ -12,11 +12,12 @@ BiliRoamingX integrations and patches powered by ReVanced.
 | 分类 | 🎬 [影视 / 直播 / 番剧](../README.md) |
 | 平台 | 📲 |
 | 语言 | Kotlin |
-| Star | 3.9k · Fork 0 |
-| License | — |
+| Star | 3.9k · Fork 300 |
+| License | GPL-3.0 |
 | 最新版本 | `v1.23.3` |
-| 最近更新 | —（—） |
+| 最近更新 | 2026-04-29（6 个月前） |
 | 标星日期 | 2024-02-10 |
+| 官网 | <https://t.me/bb_show> |
 
 ## 📦 最新版本
 
@@ -29,6 +30,7 @@ BiliRoamingX integrations and patches powered by ReVanced.
 - 仓库主页 · https://github.com/BiliRoamingX/BiliRoamingX
 - Issues · https://github.com/BiliRoamingX/BiliRoamingX/issues
 - Releases · https://github.com/BiliRoamingX/BiliRoamingX/releases
+- 官网 / 演示 · https://t.me/bb_show
 
 `android` `bilibili` `revanced`
 

@@ -18,15 +18,15 @@
 | 分类 | 🎬 [影视 / 直播 / 番剧](../README.md) |
 | 平台 | 📲 |
 | 语言 | Kotlin |
-| Star | 762 · Fork 0 |
-| License | — |
+| Star | 765 · Fork 22 |
+| License | MIT |
 | 最新版本 | `0.3.0.r986.f02dfc5a.release` |
-| 最近更新 | 2026-10-05（22 天前） |
+| 最近更新 | 2026-10-05（27 天前） |
 | 标星日期 | 2026-03-25 |
 
 ## 📦 最新版本
 
-**`0.3.0.r986.f02dfc5a.release`**　发布于 2026-10-05（22 天前）
+**`0.3.0.r986.f02dfc5a.release`**　发布于 2026-10-05（27 天前）
 
 [查看 Release 页面](https://github.com/fantasytyx/bv/releases/tag/0.3.0.r986.f02dfc5a.release)
 
@@ -54,7 +54,7 @@
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [BV_986_0.3.0.r986.f02dfc5a.release_default_universal.apk](https://github.com/fantasytyx/bv/releases/download/0.3.0.r986.f02dfc5a.release/BV_986_0.3.0.r986.f02dfc5a.release_default_universal.apk) | 📲 Android | 13.4 MB | 1.6k |
+| [BV_986_0.3.0.r986.f02dfc5a.release_default_universal.apk](https://github.com/fantasytyx/bv/releases/download/0.3.0.r986.f02dfc5a.release/BV_986_0.3.0.r986.f02dfc5a.release_default_universal.apk) | 📲 Android | 13.4 MB | 1.9k |
 
 ## 🔗 快速链接
 

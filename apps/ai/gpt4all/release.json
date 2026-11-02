@@ -13,17 +13,17 @@
     "跨平台桌面"
   ],
   "language": "C++",
-  "stars": 77353,
-  "forks": 0,
-  "license": "",
+  "stars": 77347,
+  "forks": 8257,
+  "license": "MIT",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://nomic.ai/gpt4all",
   "topics": [
     "ai-chat",
     "llm-inference"
   ],
   "starred_at": "2024-05-13T17:24:18Z",
-  "pushed_at": "",
+  "pushed_at": "2025-05-27T20:05:19Z",
   "latest": {
     "kind": "release",
     "tag": "v3.10.0",
@@ -36,31 +36,31 @@
     {
       "name": "gpt4all-installer-linux-v3.10.0.run",
       "size": 732745048,
-      "downloads": 9645,
+      "downloads": 10941,
       "url": "https://github.com/nomic-ai/gpt4all/releases/download/v3.10.0/gpt4all-installer-linux-v3.10.0.run",
       "platform": "🐧 Linux"
     },
     {
       "name": "gpt4all-installer-macos-v3.10.0.dmg",
       "size": 319600812,
-      "downloads": 16768,
+      "downloads": 17333,
       "url": "https://github.com/nomic-ai/gpt4all/releases/download/v3.10.0/gpt4all-installer-macos-v3.10.0.dmg",
       "platform": "🍎 macOS"
     },
     {
       "name": "gpt4all-installer-win64-arm-v3.10.0.exe",
       "size": 318116056,
-      "downloads": 6172,
+      "downloads": 6265,
       "url": "https://github.com/nomic-ai/gpt4all/releases/download/v3.10.0/gpt4all-installer-win64-arm-v3.10.0.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "gpt4all-installer-win64-v3.10.0.exe",
       "size": 744456856,
-      "downloads": 79198,
+      "downloads": 79838,
       "url": "https://github.com/nomic-ai/gpt4all/releases/download/v3.10.0/gpt4all-installer-win64-v3.10.0.exe",
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

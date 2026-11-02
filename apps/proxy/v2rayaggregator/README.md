@@ -12,8 +12,8 @@ Collect Lots of Shadowsocks, ShadowsocksR, Trojan, Vmess from Public Sources & F
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | ❓ |
 | 语言 | Python |
-| Star | 4k · Fork 0 |
-| License | — |
+| Star | 4k · Fork 662 |
+| License | GPL-3.0 |
 | 最新版本 | `1.0.0` |
 | 最近更新 | 2022-10-18（4 年前） |
 | 标星日期 | 2024-07-08 |
@@ -41,7 +41,7 @@ Lite Speed Test
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
 | [lite-linux-amd64-12](https://github.com/mahdibland/V2RayAggregator/releases/download/1.0.0/lite-linux-amd64-12) | 🐧 Linux | 19.9 MB | 2.3k |
-| [lite-linux-amd64-old](https://github.com/mahdibland/V2RayAggregator/releases/download/1.0.0/lite-linux-amd64-old) | 🐧 Linux | 15.3 MB | 416 |
+| [lite-linux-amd64-old](https://github.com/mahdibland/V2RayAggregator/releases/download/1.0.0/lite-linux-amd64-old) | 🐧 Linux | 15.3 MB | 418 |
 
 ## 🔗 快速链接
 

@@ -14,13 +14,13 @@
   ],
   "language": "Shell",
   "stars": 38,
-  "forks": 0,
-  "license": "",
+  "forks": 3,
+  "license": "GPL-2.0",
   "archived": true,
   "homepage": "",
   "topics": [],
   "starred_at": "2024-09-17T03:30:43Z",
-  "pushed_at": "",
+  "pushed_at": "2026-01-18T20:50:23Z",
   "latest": {
     "kind": "release",
     "tag": "5.21.1",
@@ -33,17 +33,17 @@
     {
       "name": "release.json",
       "size": 393,
-      "downloads": 16223,
+      "downloads": 16398,
       "url": "https://github.com/wind-addons/WeakAurasPatched/releases/download/5.21.1/release.json",
       "platform": "📦 其他"
     },
     {
       "name": "WeakAurasPatched-5.21.1.zip",
       "size": 10540278,
-      "downloads": 447,
+      "downloads": 449,
       "url": "https://github.com/wind-addons/WeakAurasPatched/releases/download/5.21.1/WeakAurasPatched-5.21.1.zip",
       "platform": "🌐 Web"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

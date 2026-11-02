@@ -14,8 +14,8 @@
   ],
   "language": "HTML",
   "stars": 870,
-  "forks": 0,
-  "license": "",
+  "forks": 144,
+  "license": "MIT",
   "archived": true,
   "homepage": "",
   "topics": [
@@ -26,7 +26,7 @@
     "node"
   ],
   "starred_at": "2020-08-15T05:55:28Z",
-  "pushed_at": "",
+  "pushed_at": "2023-11-07T01:19:33Z",
   "latest": {
     "kind": "tag",
     "tag": "2.1.5",
@@ -36,5 +36,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

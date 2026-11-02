@@ -18,15 +18,16 @@ Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Re
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | 🖥️ |
 | 语言 | Dart |
-| Star | 33k · Fork 0 |
-| License | — |
+| Star | 34k · Fork 3.2k |
+| License | NOASSERTION |
 | 最新版本 | `v4.1.1` |
-| 最近更新 | 2026-03-05（7 个月前） |
+| 最近更新 | 2026-03-05（8 个月前） |
 | 标星日期 | 2024-06-18 |
+| 官网 | <https://hiddify.com> |
 
 ## 📦 最新版本
 
-**`v4.1.1`**　发布于 2026-03-05（7 个月前）
+**`v4.1.1`**　发布于 2026-03-05（8 个月前）
 
 [查看 Release 页面](https://github.com/hiddify/hiddify-app/releases/tag/v4.1.1)
 
@@ -60,17 +61,17 @@ Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Re
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [Hiddify-MacOS.dmg](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-MacOS.dmg) | 🍎 macOS | 79.6 MB | 369k |
-| [Hiddify-MacOS-Installer.pkg](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-MacOS-Installer.pkg) | 🍎 macOS | 79.9 MB | 93k |
-| [Hiddify-Android-universal.apk](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Android-universal.apk) | 📲 Android | 323.8 MB | 528k |
-| [Hiddify-Android-arm64.apk](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Android-arm64.apk) | 📲 Android | 113.5 MB | 326k |
-| [Hiddify-Android-x86_64.apk](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Android-x86_64.apk) | 📲 Android | 122.6 MB | 111k |
-| [Hiddify-Android-arm7.apk](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Android-arm7.apk) | 📲 Android | 102.0 MB | 90k |
-| [Hiddify-Windows-Setup-x64.exe](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Windows-Setup-x64.exe) | 🪟 Windows | 34.8 MB | 1399k |
-| [Hiddify-Windows-Portable-x64.zip](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Windows-Portable-x64.zip) | 🪟 Windows | 112.3 MB | 385k |
+| [Hiddify-MacOS.dmg](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-MacOS.dmg) | 🍎 macOS | 79.6 MB | 384k |
+| [Hiddify-MacOS-Installer.pkg](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-MacOS-Installer.pkg) | 🍎 macOS | 79.9 MB | 94k |
+| [Hiddify-Android-universal.apk](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Android-universal.apk) | 📲 Android | 323.8 MB | 535k |
+| [Hiddify-Android-arm64.apk](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Android-arm64.apk) | 📲 Android | 113.5 MB | 331k |
+| [Hiddify-Android-x86_64.apk](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Android-x86_64.apk) | 📲 Android | 122.6 MB | 112k |
+| [Hiddify-Android-arm7.apk](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Android-arm7.apk) | 📲 Android | 102.0 MB | 91k |
+| [Hiddify-Windows-Setup-x64.exe](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Windows-Setup-x64.exe) | 🪟 Windows | 34.8 MB | 1425k |
+| [Hiddify-Windows-Portable-x64.zip](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Windows-Portable-x64.zip) | 🪟 Windows | 112.3 MB | 389k |
 | [Hiddify-Windows-x64.msix](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Windows-x64.msix) | 🪟 Windows | 47.5 MB | 21k |
-| [Hiddify-Debian-x64.deb](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Debian-x64.deb) | 🐧 Linux | 40.5 MB | 129k |
-| [Hiddify-Linux-x64-AppImage.AppImage](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Linux-x64-AppImage.AppImage) | 🐧 Linux | 52.7 MB | 65k |
+| [Hiddify-Debian-x64.deb](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Debian-x64.deb) | 🐧 Linux | 40.5 MB | 131k |
+| [Hiddify-Linux-x64-AppImage.AppImage](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Linux-x64-AppImage.AppImage) | 🐧 Linux | 52.7 MB | 67k |
 | [Hiddify-Linux-x64-AppImage.tar.gz](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Linux-x64-AppImage.tar.gz) | 🐧 Linux | 52.2 MB | 22k |
 
 ## 🔗 快速链接
@@ -78,6 +79,7 @@ Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Re
 - 仓库主页 · https://github.com/hiddify/hiddify-app
 - Issues · https://github.com/hiddify/hiddify-app/issues
 - Releases · https://github.com/hiddify/hiddify-app/releases
+- 官网 / 演示 · https://hiddify.com
 
 `clash` `clashmeta` `ech` `hysteria` `hysteria2` `proxy` `reality` `shadowsocks` `shadowtls` `sing-box` `singbox` `ssh`
 

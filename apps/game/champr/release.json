@@ -14,8 +14,8 @@
   ],
   "language": "Rust",
   "stars": 1687,
-  "forks": 0,
-  "license": "",
+  "forks": 129,
+  "license": "LGPL-2.1",
   "archived": false,
   "homepage": "",
   "topics": [
@@ -24,7 +24,7 @@
     "windows-11"
   ],
   "starred_at": "2021-01-10T03:28:16Z",
-  "pushed_at": "",
+  "pushed_at": "2026-04-17T12:51:41Z",
   "latest": {
     "kind": "release",
     "tag": "v2.0.2-b7",
@@ -37,17 +37,17 @@
     {
       "name": "champr-riot-server.zip",
       "size": 3658517,
-      "downloads": 4024,
+      "downloads": 4027,
       "url": "https://github.com/cangzhang/ChampR/releases/download/v2.0.2-b7/champr-riot-server.zip",
       "platform": "🌐 Web"
     },
     {
       "name": "champr-v2.0.2-b7.zip",
       "size": 3574657,
-      "downloads": 12584,
+      "downloads": 12587,
       "url": "https://github.com/cangzhang/ChampR/releases/download/v2.0.2-b7/champr-v2.0.2-b7.zip",
       "platform": "🌐 Web"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

@@ -22,15 +22,16 @@ QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福�
 | 分类 | 🧩 [应用增强 / 模块](../README.md) |
 | 平台 | 🪟 |
 | 语言 | JavaScript |
-| Star | 7k · Fork 0 |
-| License | — |
+| Star | 7k · Fork 278 |
+| License | MIT |
 | 最新版本 | `1.4.1` |
-| 最近更新 | 2025-12-02（10 个月前） |
+| 最近更新 | 2025-12-02（11 个月前） |
 | 标星日期 | 2024-05-21 |
+| 官网 | <https://liteloaderqqnt.github.io/> |
 
 ## 📦 最新版本
 
-**`1.4.1`** · LiteLoaderQQNT 1.4.1　发布于 2025-12-02（10 个月前）
+**`1.4.1`** · LiteLoaderQQNT 1.4.1　发布于 2025-12-02（11 个月前）
 
 [查看 Release 页面](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT/releases/tag/1.4.1)
 
@@ -52,13 +53,14 @@ QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福�
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [LiteLoaderQQNT.zip](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT/releases/download/1.4.1/LiteLoaderQQNT.zip) | 🌐 Web | 32 KB | 31k |
+| [LiteLoaderQQNT.zip](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT/releases/download/1.4.1/LiteLoaderQQNT.zip) | 🌐 Web | 32 KB | 33k |
 
 ## 🔗 快速链接
 
 - 仓库主页 · https://github.com/LiteLoaderQQNT/LiteLoaderQQNT
 - Issues · https://github.com/LiteLoaderQQNT/LiteLoaderQQNT/issues
 - Releases · https://github.com/LiteLoaderQQNT/LiteLoaderQQNT/releases
+- 官网 / 演示 · https://liteloaderqqnt.github.io/
 
 ---
 

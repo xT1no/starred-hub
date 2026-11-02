@@ -15,12 +15,12 @@
   "language": "Python",
   "stars": 17,
   "forks": 0,
-  "license": "",
+  "license": "GPL-3.0",
   "archived": false,
   "homepage": "",
   "topics": [],
   "starred_at": "2026-05-08T08:06:18Z",
-  "pushed_at": "",
+  "pushed_at": "2025-12-11T10:38:33Z",
   "latest": {
     "kind": "release",
     "tag": "v1.0.0",
@@ -33,10 +33,10 @@
     {
       "name": "DiabloIV_BBR.exe",
       "size": 11457557,
-      "downloads": 3092,
+      "downloads": 3098,
       "url": "https://github.com/hongge-ai/DiabloIV_Blood_Bone_Restorer/releases/download/v1.0.0/DiabloIV_BBR.exe",
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

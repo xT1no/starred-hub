@@ -14,10 +14,10 @@ Solve the problem of disappearance of the Copilot icon in the upper right cornor
 | 分类 | 🧩 [应用增强 / 模块](../README.md) |
 | 平台 | 🪟 |
 | 语言 | Python |
-| Star | 190 · Fork 0 |
+| Star | 191 · Fork 20 |
 | License | — |
 | 最新版本 | 无版本标记 |
-| 最近更新 | —（—） |
+| 最近更新 | 2025-10-24（1 年前） |
 | 标星日期 | 2026-01-10 |
 
 ## 📦 最新版本

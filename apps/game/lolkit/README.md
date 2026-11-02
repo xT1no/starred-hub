@@ -18,11 +18,12 @@ One gift for all LOL gamers， League of Legends工具
 | 分类 | 🎮 [游戏 / 辅助脚本](../README.md) |
 | 平台 | 🪟 |
 | 语言 | Shell |
-| Star | 770 · Fork 0 |
+| Star | 770 · Fork 39 |
 | License | — |
 | 最新版本 | `version3.4.9` |
 | 最近更新 | 2026-08-24（2 个月前） |
 | 标星日期 | 2024-03-08 |
+| 官网 | <https://ping11700.github.io/lolkitweb> |
 
 ## 📦 最新版本
 
@@ -50,13 +51,14 @@ One gift for all LOL gamers， League of Legends工具
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [LOLkit3.4.9.zip](https://github.com/ping11700/LOLkit/releases/download/version3.4.9/LOLkit3.4.9.zip) | 🌐 Web | 22.2 MB | 816 |
+| [LOLkit3.4.9.zip](https://github.com/ping11700/LOLkit/releases/download/version3.4.9/LOLkit3.4.9.zip) | 🌐 Web | 22.2 MB | 904 |
 
 ## 🔗 快速链接
 
 - 仓库主页 · https://github.com/ping11700/LOLkit
 - Issues · https://github.com/ping11700/LOLkit/issues
 - Releases · https://github.com/ping11700/LOLkit/releases
+- 官网 / 演示 · https://ping11700.github.io/lolkitweb
 
 `league-of-legends` `lol`
 

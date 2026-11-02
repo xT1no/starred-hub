@@ -13,14 +13,14 @@
     "Windows"
   ],
   "language": "C++",
-  "stars": 15748,
-  "forks": 0,
-  "license": "",
+  "stars": 15904,
+  "forks": 578,
+  "license": "GPL-3.0",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://gamezonelabs.com",
   "topics": [],
   "starred_at": "2025-03-01T08:11:57Z",
-  "pushed_at": "",
+  "pushed_at": "2026-10-25T07:28:38Z",
   "latest": {
     "kind": "release",
     "tag": "v2.5.4",
@@ -33,17 +33,17 @@
     {
       "name": "Game.Cheats.Manager.Portable.2.5.4.zip",
       "size": 53835710,
-      "downloads": 30626,
+      "downloads": 41238,
       "url": "https://github.com/dyang886/Game-Cheats-Manager/releases/download/v2.5.4/Game.Cheats.Manager.Portable.2.5.4.zip",
       "platform": "🌐 Web"
     },
     {
       "name": "Game.Cheats.Manager.Setup.2.5.4.exe",
       "size": 39474900,
-      "downloads": 27405,
+      "downloads": 38038,
       "url": "https://github.com/dyang886/Game-Cheats-Manager/releases/download/v2.5.4/Game.Cheats.Manager.Setup.2.5.4.exe",
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

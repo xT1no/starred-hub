@@ -13,9 +13,9 @@
     "Android"
   ],
   "language": "Kotlin",
-  "stars": 7028,
-  "forks": 0,
-  "license": "",
+  "stars": 7081,
+  "forks": 268,
+  "license": "GPL-3.0",
   "archived": false,
   "homepage": "",
   "topics": [
@@ -28,7 +28,7 @@
     "shizuku"
   ],
   "starred_at": "2024-02-01T18:45:32Z",
-  "pushed_at": "",
+  "pushed_at": "2026-10-27T23:44:25Z",
   "latest": {
     "kind": "release",
     "tag": "v1.11.0",
@@ -41,10 +41,10 @@
     {
       "name": "Hail-v1.11.0.apk",
       "size": 5760575,
-      "downloads": 62630,
+      "downloads": 66995,
       "url": "https://github.com/aistra0528/Hail/releases/download/v1.11.0/Hail-v1.11.0.apk",
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

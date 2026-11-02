@@ -18,8 +18,8 @@ Lightweight real-time memory management application to monitor and clean system 
 | 分类 | ⚙️ [系统增强 / 优化](../README.md) |
 | 平台 | 🪟 |
 | 语言 | C |
-| Star | 11k · Fork 0 |
-| License | — |
+| Star | 11k · Fork 630 |
+| License | GPL-3.0 |
 | 最新版本 | `v.3.5.2` |
 | 最近更新 | 2025-04-01（1 年前） |
 | 标星日期 | 2026-03-19 |
@@ -52,10 +52,10 @@ Lightweight real-time memory management application to monitor and clean system 
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [memreduct-3.5.2-setup.exe](https://github.com/henrypp/memreduct/releases/download/v.3.5.2/memreduct-3.5.2-setup.exe) | 🪟 Windows | 373 KB | 1580k |
+| [memreduct-3.5.2-setup.exe](https://github.com/henrypp/memreduct/releases/download/v.3.5.2/memreduct-3.5.2-setup.exe) | 🪟 Windows | 373 KB | 1594k |
 | [memreduct-3.5.2.sha256](https://github.com/henrypp/memreduct/releases/download/v.3.5.2/memreduct-3.5.2.sha256) | 🔐 校验文件 | 533 B | 42k |
 | [memreduct-3.5.2-setup.exe.sig](https://github.com/henrypp/memreduct/releases/download/v.3.5.2/memreduct-3.5.2-setup.exe.sig) | 🔐 校验文件 | 566 B | 11k |
-| [memreduct-3.5.2-bin.7z](https://github.com/henrypp/memreduct/releases/download/v.3.5.2/memreduct-3.5.2-bin.7z) | 📦 其他 | 386 KB | 158k |
+| [memreduct-3.5.2-bin.7z](https://github.com/henrypp/memreduct/releases/download/v.3.5.2/memreduct-3.5.2-bin.7z) | 📦 其他 | 386 KB | 161k |
 | [memreduct-3.5.2-pdb.7z](https://github.com/henrypp/memreduct/releases/download/v.3.5.2/memreduct-3.5.2-pdb.7z) | 📦 其他 | 1.8 MB | 23k |
 
 ## 🔗 快速链接

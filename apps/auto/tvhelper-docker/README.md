@@ -12,11 +12,12 @@
 | 分类 | ⚡ [自动化 / 部署](../README.md) |
 | 平台 | 🐧 📲 📺 |
 | 语言 | Shell |
-| Star | 1.1k · Fork 0 |
-| License | — |
+| Star | 1.1k · Fork 225 |
+| License | GPL-3.0 |
 | 最新版本 | `fpk` |
 | 最近更新 | 2026-03-26（7 个月前） |
 | 标星日期 | 2024-04-17 |
+| 官网 | <https://hub.docker.com/r/wukongdaily/box/tags> |
 
 ## 📦 最新版本
 
@@ -53,13 +54,14 @@
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [tvhelper-1.1.5.fpk](https://github.com/wukongdaily/tvhelper-docker/releases/download/fpk/tvhelper-1.1.5.fpk) | 📦 其他 | 136 KB | 623 |
+| [tvhelper-1.1.5.fpk](https://github.com/wukongdaily/tvhelper-docker/releases/download/fpk/tvhelper-1.1.5.fpk) | 📦 其他 | 136 KB | 639 |
 
 ## 🔗 快速链接
 
 - 仓库主页 · https://github.com/wukongdaily/tvhelper-docker
 - Issues · https://github.com/wukongdaily/tvhelper-docker/issues
 - Releases · https://github.com/wukongdaily/tvhelper-docker/releases
+- 官网 / 演示 · https://hub.docker.com/r/wukongdaily/box/tags
 
 `apkm` `apkmirror` `apkpure` `box` `disney-apk` `hbo` `netflix-apk` `sony` `tvbox` `tvhelper` `wukongdaily` `xapk`
 

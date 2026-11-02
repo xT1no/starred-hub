@@ -12,35 +12,35 @@
 | 分类 | 🧩 [应用增强 / 模块](../README.md) |
 | 平台 | 📲 |
 | 语言 | TypeScript |
-| Star | 6.4k · Fork 0 |
+| Star | 6.6k · Fork 211 |
 | License | — |
-| 最新版本 | `v620` |
-| 最近更新 | 2026-10-27（今天） |
+| 最新版本 | `v623` |
+| 最近更新 | 2026-10-31（昨天） |
 | 标星日期 | 2026-02-19 |
 
 ## 📦 最新版本
 
-**`v620`**　发布于 2026-10-27（今天）
+**`v623`**　发布于 2026-10-31（昨天）
 
-[查看 Release 页面](https://github.com/Lin-arm/GKD_subscription/releases/tag/v620)
+[查看 Release 页面](https://github.com/Lin-arm/GKD_subscription/releases/tag/v623)
 
 <details><summary>更新说明</summary>
 
 ```text
 # 变更记录
 
-v619 -> v620
+v622 -> v623
 
 ||||||
 |-|:-:|:-:|:-:|:-:|
-|应用|+4|~3||988 -> 992|
-|应用规则|+4|~3||2473 -> 2477|
+|应用|+2|~5||997 -> 999|
+|应用规则|+4|~5||2490 -> 2494|
 
 ## 规则类别
 
 ||||||
 |-|:-:|:-:|:-:|:-:|
-|全屏广告|+1|~1||641 -> 642|
+|开屏广告||~1||180 -> 180|
 …（完整内容见 Release 页面）
 ```
 
@@ -54,7 +54,7 @@ v619 -> v620
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [gkd-subscription-offline-id667-v620.json5](https://github.com/Lin-arm/GKD_subscription/releases/download/v620/gkd-subscription-offline-id667-v620.json5) | 📦 其他 | 1.3 MB | 22 |
+| [gkd-subscription-offline-id667-v623.json5](https://github.com/Lin-arm/GKD_subscription/releases/download/v623/gkd-subscription-offline-id667-v623.json5) | 📦 其他 | 1.3 MB | 78 |
 
 ## 🔗 快速链接
 

@@ -18,11 +18,11 @@
     "跨平台桌面"
   ],
   "language": "Vue",
-  "stars": 33478,
-  "forks": 0,
-  "license": "",
+  "stars": 33516,
+  "forks": 4668,
+  "license": "MIT",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://music.qier222.com",
   "topics": [
     "electron",
     "javascript",
@@ -44,7 +44,7 @@
     "windows"
   ],
   "starred_at": "2021-12-23T17:20:05Z",
-  "pushed_at": "",
+  "pushed_at": "2026-10-10T11:05:47Z",
   "latest": {
     "kind": "release",
     "tag": "v0.4.11",
@@ -57,143 +57,143 @@
     {
       "name": "latest-linux.yml",
       "size": 378,
-      "downloads": 556,
+      "downloads": 714,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/latest-linux.yml",
       "platform": "🐧 Linux"
     },
     {
       "name": "latest-mac.yml",
       "size": 690,
-      "downloads": 8604,
+      "downloads": 11003,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/latest-mac.yml",
       "platform": "🍎 macOS"
     },
     {
       "name": "latest.yml",
       "size": 387,
-      "downloads": 8328,
+      "downloads": 10956,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/latest.yml",
       "platform": "📦 其他"
     },
     {
       "name": "yesplaymusic-0.4.11-arm64.tar.gz",
       "size": 95412138,
-      "downloads": 235,
+      "downloads": 304,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic-0.4.11-arm64.tar.gz",
       "platform": "🐧 Linux"
     },
     {
       "name": "YesPlayMusic-0.4.11.AppImage",
       "size": 95327961,
-      "downloads": 514,
+      "downloads": 631,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-0.4.11.AppImage",
       "platform": "🐧 Linux"
     },
     {
       "name": "YesPlayMusic-0.4.11.exe",
       "size": 58058421,
-      "downloads": 2741,
+      "downloads": 3442,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-0.4.11.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "yesplaymusic-0.4.11.pacman",
       "size": 66355904,
-      "downloads": 614,
+      "downloads": 706,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic-0.4.11.pacman",
       "platform": "📦 其他"
     },
     {
       "name": "yesplaymusic-0.4.11.tar.gz",
       "size": 89992318,
-      "downloads": 145,
+      "downloads": 187,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic-0.4.11.tar.gz",
       "platform": "📦 其他"
     },
     {
       "name": "yesplaymusic-0.4.11.x86_64.rpm",
       "size": 66333065,
-      "downloads": 322,
+      "downloads": 358,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic-0.4.11.x86_64.rpm",
       "platform": "🐧 Linux"
     },
     {
       "name": "YesPlayMusic-mac-0.4.11-arm64.dmg",
       "size": 93117485,
-      "downloads": 822,
+      "downloads": 1023,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-arm64.dmg",
       "platform": "🍎 macOS"
     },
     {
       "name": "YesPlayMusic-mac-0.4.11-arm64.dmg.blockmap",
       "size": 98118,
-      "downloads": 31,
+      "downloads": 38,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-arm64.dmg.blockmap",
       "platform": "🍎 macOS"
     },
     {
       "name": "YesPlayMusic-mac-0.4.11-universal.dmg",
       "size": 159376941,
-      "downloads": 133,
+      "downloads": 213,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-universal.dmg",
       "platform": "🍎 macOS"
     },
     {
       "name": "YesPlayMusic-mac-0.4.11-universal.dmg.blockmap",
       "size": 166467,
-      "downloads": 28,
+      "downloads": 33,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-universal.dmg.blockmap",
       "platform": "🍎 macOS"
     },
     {
       "name": "YesPlayMusic-mac-0.4.11-x64.dmg",
       "size": 89127329,
-      "downloads": 174,
+      "downloads": 233,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-x64.dmg",
       "platform": "🍎 macOS"
     },
     {
       "name": "YesPlayMusic-mac-0.4.11-x64.dmg.blockmap",
       "size": 93258,
-      "downloads": 29,
+      "downloads": 35,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-x64.dmg.blockmap",
       "platform": "🍎 macOS"
     },
     {
       "name": "YesPlayMusic-Setup-0.4.11.exe",
       "size": 58243633,
-      "downloads": 4681,
+      "downloads": 5696,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-Setup-0.4.11.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "YesPlayMusic-Setup-0.4.11.exe.blockmap",
       "size": 60736,
-      "downloads": 2860,
+      "downloads": 3411,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-Setup-0.4.11.exe.blockmap",
       "platform": "🪟 Windows"
     },
     {
       "name": "yesplaymusic_0.4.11_amd64.deb",
       "size": 66364214,
-      "downloads": 486,
+      "downloads": 621,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic_0.4.11_amd64.deb",
       "platform": "🐧 Linux"
     },
     {
       "name": "yesplaymusic_0.4.11_arm64.deb",
       "size": 66331878,
-      "downloads": 130,
+      "downloads": 186,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic_0.4.11_arm64.deb",
       "platform": "🐧 Linux"
     },
     {
       "name": "yesplaymusic_0.4.11_armv7l.deb",
       "size": 61452902,
-      "downloads": 73,
+      "downloads": 90,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic_0.4.11_armv7l.deb",
       "platform": "🐧 Linux"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

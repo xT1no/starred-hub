@@ -12,10 +12,10 @@ Firmware patcher for Xiaomi routers
 | 分类 | 🧩 [应用增强 / 模块](../README.md) |
 | 平台 | 🛰️ |
 | 语言 | Python |
-| Star | 3.7k · Fork 0 |
+| Star | 3.8k · Fork 432 |
 | License | — |
 | 最新版本 | 无版本标记 |
-| 最近更新 | —（—） |
+| 最近更新 | 2026-11-01（今天） |
 | 标星日期 | 2025-06-09 |
 
 ## 📦 最新版本

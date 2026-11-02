@@ -14,13 +14,13 @@
   ],
   "language": "PowerShell",
   "stars": 21,
-  "forks": 0,
+  "forks": 2,
   "license": "",
   "archived": false,
   "homepage": "",
   "topics": [],
   "starred_at": "2026-08-10T00:39:40Z",
-  "pushed_at": "",
+  "pushed_at": "2026-05-28T23:57:56Z",
   "latest": {
     "kind": "release",
     "tag": "V1.0.0",
@@ -33,10 +33,10 @@
     {
       "name": "ReWindsys.zip",
       "size": 870114922,
-      "downloads": 109,
+      "downloads": 111,
       "url": "https://github.com/FirTech/ReWindsys/releases/download/V1.0.0/ReWindsys.zip",
       "platform": "🌐 Web"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

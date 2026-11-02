@@ -18,11 +18,12 @@
 | 分类 | 🎮 [游戏 / 辅助脚本](../README.md) |
 | 平台 | 🪟 🍎 🐧 📱 📲 🖥️ |
 | 语言 | C# |
-| Star | 27k · Fork 0 |
-| License | — |
+| Star | 27k · Fork 1.7k |
+| License | GPL-3.0 |
 | 最新版本 | `3.1.0` |
 | 最近更新 | 2026-03-11（7 个月前） |
 | 标星日期 | 2023-07-06 |
+| 官网 | <https://steampp.net> |
 
 ## 📦 最新版本
 
@@ -60,16 +61,17 @@
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [Steam++_v3.1.0_macos.dmg](https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_macos.dmg) | 🍎 macOS | 220.0 MB | 126k |
-| [Steam++_v3.1.0_win_x64.exe](https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_win_x64.exe) | 🪟 Windows | 92.3 MB | 206k |
-| [Steam++_v3.1.0_linux_x64.tgz](https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_linux_x64.tgz) | 🐧 Linux | 81.7 MB | 78k |
-| [Steam++_v3.1.0_win_x64.7z](https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_win_x64.7z) | 📦 其他 | 90.3 MB | 71k |
+| [Steam++_v3.1.0_macos.dmg](https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_macos.dmg) | 🍎 macOS | 220.0 MB | 136k |
+| [Steam++_v3.1.0_win_x64.exe](https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_win_x64.exe) | 🪟 Windows | 92.3 MB | 217k |
+| [Steam++_v3.1.0_linux_x64.tgz](https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_linux_x64.tgz) | 🐧 Linux | 81.7 MB | 81k |
+| [Steam++_v3.1.0_win_x64.7z](https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_win_x64.7z) | 📦 其他 | 90.3 MB | 74k |
 
 ## 🔗 快速链接
 
 - 仓库主页 · https://github.com/BeyondDimension/SteamTools
 - Issues · https://github.com/BeyondDimension/SteamTools/issues
 - Releases · https://github.com/BeyondDimension/SteamTools/releases
+- 官网 / 演示 · https://steampp.net
 
 `android-app` `avalonia` `avaloniaui` `cross-platform` `crossplatform` `csharp` `dotnet` `dotnetcore` `ios-app` `linux-app` `macos-app` `mvvm`
 

@@ -20,15 +20,15 @@ bilibili TV client
 | 分类 | 🎬 [影视 / 直播 / 番剧](../README.md) |
 | 平台 | 📺 |
 | 语言 | — |
-| Star | 2.4k · Fork 0 |
+| Star | 2.5k · Fork 91 |
 | License | — |
 | 最新版本 | `v0.9.41` |
-| 最近更新 | 2026-10-21（6 天前） |
+| 最近更新 | 2026-10-21（11 天前） |
 | 标星日期 | 2026-03-25 |
 
 ## 📦 最新版本
 
-**`v0.9.41`**　发布于 2026-10-21（6 天前）
+**`v0.9.41`**　发布于 2026-10-21（11 天前）
 
 [查看 Release 页面](https://github.com/chinasoul/BT/releases/tag/v0.9.41)
 
@@ -54,10 +54,10 @@ bilibili TV client
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [BT-v0.9.41-universal.apk](https://github.com/chinasoul/BT/releases/download/v0.9.41/BT-v0.9.41-universal.apk) | 📲 Android | 3.1 MB | 15k |
-| [BT-v0.9.41-universal-api19-22.apk](https://github.com/chinasoul/BT/releases/download/v0.9.41/BT-v0.9.41-universal-api19-22.apk) | 📲 Android | 3.3 MB | 6.7k |
-| [universal.apk](https://github.com/chinasoul/BT/releases/download/v0.9.41/universal.apk) | 📲 Android | 3.1 MB | 2.6k |
-| [universal-api19-22.apk](https://github.com/chinasoul/BT/releases/download/v0.9.41/universal-api19-22.apk) | 📲 Android | 3.3 MB | 237 |
+| [BT-v0.9.41-universal.apk](https://github.com/chinasoul/BT/releases/download/v0.9.41/BT-v0.9.41-universal.apk) | 📲 Android | 3.1 MB | 21k |
+| [BT-v0.9.41-universal-api19-22.apk](https://github.com/chinasoul/BT/releases/download/v0.9.41/BT-v0.9.41-universal-api19-22.apk) | 📲 Android | 3.3 MB | 10k |
+| [universal.apk](https://github.com/chinasoul/BT/releases/download/v0.9.41/universal.apk) | 📲 Android | 3.1 MB | 4.4k |
+| [universal-api19-22.apk](https://github.com/chinasoul/BT/releases/download/v0.9.41/universal-api19-22.apk) | 📲 Android | 3.3 MB | 413 |
 
 ## 🔗 快速链接
 

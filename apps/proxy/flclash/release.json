@@ -13,11 +13,11 @@
     "跨平台桌面"
   ],
   "language": "Dart",
-  "stars": 58925,
-  "forks": 0,
-  "license": "",
+  "stars": 60443,
+  "forks": 3968,
+  "license": "GPL-3.0",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://chen08209.github.io/FlClash",
   "topics": [
     "clash",
     "clash-meta",
@@ -30,7 +30,7 @@
     "vpn"
   ],
   "starred_at": "2024-07-12T00:49:23Z",
-  "pushed_at": "",
+  "pushed_at": "2026-11-01T16:33:10Z",
   "latest": {
     "kind": "release",
     "tag": "v0.9.2",
@@ -43,115 +43,115 @@
     {
       "name": "FlClash-0.9.2-android-arm64-v8a.apk",
       "size": 61083319,
-      "downloads": 136394,
+      "downloads": 235621,
       "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-android-arm64-v8a.apk",
       "platform": "📲 Android"
     },
     {
       "name": "FlClash-0.9.2-android-armeabi-v7a.apk",
       "size": 61087115,
-      "downloads": 13915,
+      "downloads": 25727,
       "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-android-armeabi-v7a.apk",
       "platform": "📲 Android"
     },
     {
       "name": "FlClash-0.9.2-android-x86_64.apk",
       "size": 63599561,
-      "downloads": 19622,
+      "downloads": 38631,
       "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-android-x86_64.apk",
       "platform": "📲 Android"
     },
     {
       "name": "FlClash-0.9.2-linux-amd64.AppImage",
       "size": 69833920,
-      "downloads": 1541,
+      "downloads": 3150,
       "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-amd64.AppImage",
       "platform": "🐧 Linux"
     },
     {
       "name": "FlClash-0.9.2-linux-amd64.deb",
       "size": 40536736,
-      "downloads": 5314,
+      "downloads": 10835,
       "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-amd64.deb",
       "platform": "🐧 Linux"
     },
     {
       "name": "FlClash-0.9.2-linux-amd64.rpm",
       "size": 59909376,
-      "downloads": 852,
+      "downloads": 1615,
       "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-amd64.rpm",
       "platform": "🐧 Linux"
     },
     {
       "name": "FlClash-0.9.2-linux-arm64.AppImage",
       "size": 66900352,
-      "downloads": 430,
+      "downloads": 663,
       "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-arm64.AppImage",
       "platform": "🐧 Linux"
     },
     {
       "name": "FlClash-0.9.2-linux-arm64.deb",
       "size": 36902216,
-      "downloads": 1582,
+      "downloads": 2902,
       "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-arm64.deb",
       "platform": "🐧 Linux"
     },
     {
       "name": "FlClash-0.9.2-linux-arm64.rpm",
       "size": 57134088,
-      "downloads": 291,
+      "downloads": 451,
       "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-arm64.rpm",
       "platform": "🐧 Linux"
     },
     {
       "name": "FlClash-0.9.2-macos-amd64.dmg",
       "size": 63130721,
-      "downloads": 6001,
+      "downloads": 11852,
       "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-macos-amd64.dmg",
       "platform": "🍎 macOS"
     },
     {
       "name": "FlClash-0.9.2-macos-arm64.dmg",
       "size": 59274695,
-      "downloads": 19528,
+      "downloads": 37302,
       "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-macos-arm64.dmg",
       "platform": "🍎 macOS"
     },
     {
       "name": "FlClash-0.9.2-windows-amd64-setup.exe",
       "size": 43335463,
-      "downloads": 99785,
+      "downloads": 178265,
       "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-windows-amd64-setup.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "FlClash-0.9.2-windows-amd64.zip",
       "size": 68849327,
-      "downloads": 21031,
+      "downloads": 39134,
       "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-windows-amd64.zip",
       "platform": "🪟 Windows"
     },
     {
       "name": "FlClash-0.9.2-windows-arm64-setup.exe",
       "size": 40261402,
-      "downloads": 5613,
+      "downloads": 10372,
       "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-windows-arm64-setup.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "FlClash-0.9.2-windows-arm64.zip",
       "size": 64720466,
-      "downloads": 1740,
+      "downloads": 3217,
       "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-windows-arm64.zip",
       "platform": "🪟 Windows"
     },
     {
       "name": "SHA256SUMS",
       "size": 1517,
-      "downloads": 1853,
+      "downloads": 3813,
       "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/SHA256SUMS",
       "platform": "🔐 校验文件"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

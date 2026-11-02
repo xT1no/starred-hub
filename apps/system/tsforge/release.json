@@ -13,14 +13,14 @@
     "Windows"
   ],
   "language": "C#",
-  "stars": 2637,
-  "forks": 0,
-  "license": "",
+  "stars": 2645,
+  "forks": 348,
+  "license": "GPL-3.0",
   "archived": false,
   "homepage": "",
   "topics": [],
   "starred_at": "2026-06-21T23:27:24Z",
-  "pushed_at": "",
+  "pushed_at": "2026-09-03T16:41:40Z",
   "latest": {
     "kind": "release",
     "tag": "1.1.1",
@@ -33,10 +33,10 @@
     {
       "name": "TSforge-1.1.1.zip",
       "size": 52011,
-      "downloads": 11849,
+      "downloads": 11951,
       "url": "https://github.com/massgravel/TSforge/releases/download/1.1.1/TSforge-1.1.1.zip",
       "platform": "🌐 Web"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

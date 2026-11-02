@@ -22,7 +22,7 @@ Fake Location
 | 分类 | 🧩 [应用增强 / 模块](../README.md) |
 | 平台 | 📲 |
 | 语言 | HTML |
-| Star | 7.3k · Fork 0 |
+| Star | 7.3k · Fork 487 |
 | License | — |
 | 最新版本 | `1.5.2` |
 | 最近更新 | 2026-08-19（2 个月前） |
@@ -64,7 +64,7 @@ Fake Location
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [FakeLocation_CN_v1.5.2_1702.apk](https://github.com/Lerist/FakeLocation/releases/download/1.5.2/FakeLocation_CN_v1.5.2_1702.apk) | 📲 Android | 32.7 MB | 185k |
+| [FakeLocation_CN_v1.5.2_1702.apk](https://github.com/Lerist/FakeLocation/releases/download/1.5.2/FakeLocation_CN_v1.5.2_1702.apk) | 📲 Android | 32.7 MB | 198k |
 
 ## 🔗 快速链接
 

@@ -18,11 +18,11 @@
     "跨平台桌面"
   ],
   "language": "C#",
-  "stars": 27315,
-  "forks": 0,
-  "license": "",
+  "stars": 27385,
+  "forks": 1746,
+  "license": "GPL-3.0",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://steampp.net",
   "topics": [
     "android-app",
     "avalonia",
@@ -43,7 +43,7 @@
     "xaml"
   ],
   "starred_at": "2023-07-06T02:28:43Z",
-  "pushed_at": "",
+  "pushed_at": "2026-11-01T13:30:55Z",
   "latest": {
     "kind": "release",
     "tag": "3.1.0",
@@ -56,31 +56,31 @@
     {
       "name": "Steam++_v3.1.0_linux_x64.tgz",
       "size": 85626421,
-      "downloads": 78359,
+      "downloads": 80661,
       "url": "https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_linux_x64.tgz",
       "platform": "🐧 Linux"
     },
     {
       "name": "Steam++_v3.1.0_macos.dmg",
       "size": 230704640,
-      "downloads": 126257,
+      "downloads": 136496,
       "url": "https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_macos.dmg",
       "platform": "🍎 macOS"
     },
     {
       "name": "Steam++_v3.1.0_win_x64.7z",
       "size": 94651502,
-      "downloads": 71067,
+      "downloads": 74010,
       "url": "https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_win_x64.7z",
       "platform": "📦 其他"
     },
     {
       "name": "Steam++_v3.1.0_win_x64.exe",
       "size": 96754104,
-      "downloads": 206305,
+      "downloads": 217114,
       "url": "https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_win_x64.exe",
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

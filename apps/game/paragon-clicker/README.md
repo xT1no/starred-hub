@@ -18,7 +18,7 @@ Windows D2Core Diablo IV paragon auto clicker
 | 分类 | 🎮 [游戏 / 辅助脚本](../README.md) |
 | 平台 | 🪟 |
 | 语言 | Python |
-| Star | 32 · Fork 0 |
+| Star | 32 · Fork 3 |
 | License | — |
 | 最新版本 | `v0.1.8` |
 | 最近更新 | 2026-05-11（5 个月前） |
@@ -46,7 +46,7 @@ Windows D2Core Diablo IV paragon auto clicker
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [paragon-clicker-windows-x64.zip](https://github.com/zfxsquare/paragon-clicker/releases/download/v0.1.8/paragon-clicker-windows-x64.zip) | 🪟 Windows | 39.0 MB | 933 |
+| [paragon-clicker-windows-x64.zip](https://github.com/zfxsquare/paragon-clicker/releases/download/v0.1.8/paragon-clicker-windows-x64.zip) | 🪟 Windows | 39.0 MB | 938 |
 
 ## 🔗 快速链接
 

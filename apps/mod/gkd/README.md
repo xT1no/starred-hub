@@ -18,11 +18,12 @@
 | 分类 | 🧩 [应用增强 / 模块](../README.md) |
 | 平台 | 📲 🌐 🖥️ |
 | 语言 | Kotlin |
-| Star | 44k · Fork 0 |
-| License | — |
+| Star | 44k · Fork 2.1k |
+| License | GPL-3.0 |
 | 最新版本 | `v1.12.1` |
 | 最近更新 | 2026-05-20（5 个月前） |
 | 标星日期 | 2023-10-30 |
+| 官网 | <https://gkd.li> |
 
 ## 📦 最新版本
 
@@ -57,14 +58,15 @@
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [gkd-v1.12.1.apk](https://github.com/gkd-kit/gkd/releases/download/v1.12.1/gkd-v1.12.1.apk) | 📲 Android | 3.1 MB | 79k |
-| [outputs-v1.12.1.zip](https://github.com/gkd-kit/gkd/releases/download/v1.12.1/outputs-v1.12.1.zip) | 🌐 Web | 38.6 MB | 2.8k |
+| [gkd-v1.12.1.apk](https://github.com/gkd-kit/gkd/releases/download/v1.12.1/gkd-v1.12.1.apk) | 📲 Android | 3.1 MB | 83k |
+| [outputs-v1.12.1.zip](https://github.com/gkd-kit/gkd/releases/download/v1.12.1/outputs-v1.12.1.zip) | 🌐 Web | 38.6 MB | 3k |
 
 ## 🔗 快速链接
 
 - 仓库主页 · https://github.com/gkd-kit/gkd
 - Issues · https://github.com/gkd-kit/gkd/issues
 - Releases · https://github.com/gkd-kit/gkd/releases
+- 官网 / 演示 · https://gkd.li
 
 `accessibility` `android` `auto` `click` `compose` `compose-multiplatform` `jetpack-compose` `kotlin` `kotlin-js` `kotlin-multiplatform` `webassembly`
 

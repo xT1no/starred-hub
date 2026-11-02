@@ -6,35 +6,44 @@
 
 A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 
+## ⬇️ 直接下载
+
+📦 [zip · 0.7 MB](https://github.com/Raphire/Win11Debloat/releases/download/2026.10.30/Win11Debloat.zip)
+
+全部 3 个文件见下方 [安装包](#pkgs) 表格。
+
 | 项目 | 信息 |
 |:---|:---|
 | 仓库 | [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) |
 | 分类 | ⚙️ [系统增强 / 优化](../README.md) |
 | 平台 | 🪟 ⌨️ |
 | 语言 | PowerShell |
-| Star | 61k · Fork 0 |
-| License | — |
-| 最新版本 | `2026.08.24` |
-| 最近更新 | 2026-08-24（2 个月前） |
+| Star | 62k · Fork 2.7k |
+| License | MIT |
+| 最新版本 | `2026.10.30` |
+| 最近更新 | 2026-10-31（2 天前） |
 | 标星日期 | 2025-12-18 |
 
 ## 📦 最新版本
 
-**`2026.08.24`** · Release 2026.08.24　发布于 2026-08-24（2 个月前）
+**`2026.10.30`** · Release 2026.10.30　发布于 2026-10-31（2 天前）
 
-[查看 Release 页面](https://github.com/Raphire/Win11Debloat/releases/tag/2026.08.24)
+[查看 Release 页面](https://github.com/Raphire/Win11Debloat/releases/tag/2026.10.30)
 
 <details><summary>更新说明</summary>
 
 ```text
 > [!NOTE]
-> As of this release, the `NoRestartExplorer` parameter has been deprecated in favor of the new `SkipExplorerRestart` parameter. The behaviour has not changed. 
+> Win11Debloat now stores user data, including your last used settings, preferences, and logs, in `%LOCALAPPDATA%\Win11Debloat` instead of the script directory.
 
-## What's Changed
-* fix: honor cancellation during changes by @ShiroKSH in https://github.com/Raphire/Win11Debloat/pull/700
-* fix: escape Windows Terminal path by @ShiroKSH in https://github.com/Raphire/Win11Debloat/pull/702
-* fix(registry-restore): reject Data/Kind mismatches before restore begins by @STiFLeR7 in https://github.com/Raphire/Win11Debloat/pull/704
-* feat: add comprehensive test suite by @Raphire in https://github.com/Raphire/Win11Debloat/pull/708
+This release introduces one of the most requested features for Win11Debloat: localization support! Made possible by contributions from the community, the GUI no
+
+Beyond localization, this update brings several new features, expanded app removal support, and numerous improvements to the user interface, security, reliabili
+
+## New Features & Enhancements
+
+* Localization support
+  * Add localization framework for the GUI (en-US baseline) by @SashankBhamidi in https://github.com/Raphire/Win11Debloat/pull/764
 …（完整内容见 Release 页面）
 ```
 
@@ -44,11 +53,13 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 
 ## ⬇️ 安装包
 
-来自最新 Release，共 1 个文件。下表是官方直链，点名字即可下载。
+来自最新 Release，共 3 个文件。下表是官方直链，点名字即可下载。
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [Get.ps1](https://github.com/Raphire/Win11Debloat/releases/download/2026.08.24/Get.ps1) | 📦 其他 | 9 KB | 621k |
+| [Win11Debloat.zip](https://github.com/Raphire/Win11Debloat/releases/download/2026.10.30/Win11Debloat.zip) | 🌐 Web | 741 KB | 23k |
+| [SHA256SUMS](https://github.com/Raphire/Win11Debloat/releases/download/2026.10.30/SHA256SUMS) | 🔐 校验文件 | 83 B | 18k |
+| [Get.ps1](https://github.com/Raphire/Win11Debloat/releases/download/2026.10.30/Get.ps1) | 📦 其他 | 12 KB | 21k |
 
 ## 🔗 快速链接
 

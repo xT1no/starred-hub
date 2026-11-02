@@ -13,11 +13,11 @@
     "跨平台桌面"
   ],
   "language": "Dart",
-  "stars": 96115,
-  "forks": 0,
-  "license": "",
+  "stars": 97018,
+  "forks": 5510,
+  "license": "Apache-2.0",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://localsend.org",
   "topics": [
     "dart",
     "file-sharing",
@@ -25,7 +25,7 @@
     "flutter-apps"
   ],
   "starred_at": "2025-10-28T12:03:41Z",
-  "pushed_at": "",
+  "pushed_at": "2026-10-29T23:56:52Z",
   "latest": {
     "kind": "release",
     "tag": "v1.18.2",
@@ -38,143 +38,143 @@
     {
       "name": "LocalSend-1.18.2-android-arm32v7.apk",
       "size": 39333444,
-      "downloads": 20702,
+      "downloads": 23034,
       "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-arm32v7.apk",
       "platform": "📲 Android"
     },
     {
       "name": "LocalSend-1.18.2-android-arm64v8.apk",
       "size": 46558706,
-      "downloads": 190022,
+      "downloads": 205647,
       "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-arm64v8.apk",
       "platform": "📲 Android"
     },
     {
       "name": "LocalSend-1.18.2-android-google-play.apk",
       "size": 128293112,
-      "downloads": 20614,
+      "downloads": 22180,
       "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-google-play.apk",
       "platform": "📲 Android"
     },
     {
       "name": "LocalSend-1.18.2-android-x64.apk",
       "size": 48939435,
-      "downloads": 8311,
+      "downloads": 9124,
       "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-x64.apk",
       "platform": "📲 Android"
     },
     {
       "name": "LocalSend-1.18.2-linux-arm-64.deb",
       "size": 24662482,
-      "downloads": 7016,
+      "downloads": 7515,
       "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-linux-arm-64.deb",
       "platform": "🐧 Linux"
     },
     {
       "name": "LocalSend-1.18.2-linux-arm-64.tar.gz",
       "size": 32354331,
-      "downloads": 2829,
+      "downloads": 3080,
       "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-linux-arm-64.tar.gz",
       "platform": "🐧 Linux"
     },
     {
       "name": "LocalSend-1.18.2-linux-x86-64.AppImage",
       "size": 66471104,
-      "downloads": 27403,
+      "downloads": 29825,
       "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-linux-x86-64.AppImage",
       "platform": "🐧 Linux"
     },
     {
       "name": "LocalSend-1.18.2-linux-x86-64.deb",
       "size": 24665458,
-      "downloads": 96710,
+      "downloads": 105067,
       "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-linux-x86-64.deb",
       "platform": "🐧 Linux"
     },
     {
       "name": "LocalSend-1.18.2-linux-x86-64.tar.gz",
       "size": 32011656,
-      "downloads": 16766,
+      "downloads": 18591,
       "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-linux-x86-64.tar.gz",
       "platform": "🐧 Linux"
     },
     {
       "name": "LocalSend-1.18.2-windows-arm-64.zip",
       "size": 24414965,
-      "downloads": 6905,
+      "downloads": 7957,
       "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-arm-64.zip",
       "platform": "🪟 Windows"
     },
     {
       "name": "LocalSend-1.18.2-windows-x86-64-unsigned.exe",
       "size": 18960550,
-      "downloads": 172841,
+      "downloads": 173216,
       "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-x86-64-unsigned.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "LocalSend-1.18.2-windows-x86-64.exe",
       "size": 19901144,
-      "downloads": 744952,
+      "downloads": 850654,
       "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-x86-64.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "LocalSend-1.18.2-windows-x86-64.zip",
       "size": 26113764,
-      "downloads": 140729,
+      "downloads": 159146,
       "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-x86-64.zip",
       "platform": "🪟 Windows"
     },
     {
       "name": "LocalSend-1.18.2.dmg",
       "size": 52700247,
-      "downloads": 637920,
+      "downloads": 682907,
       "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2.dmg",
       "platform": "🍎 macOS"
     },
     {
       "name": "LocalSend-CLI-1.18.2-linux-arm-64.tar.gz",
       "size": 4639269,
-      "downloads": 1294,
+      "downloads": 1410,
       "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-linux-arm-64.tar.gz",
       "platform": "🐧 Linux"
     },
     {
       "name": "LocalSend-CLI-1.18.2-linux-x86-64.tar.gz",
       "size": 4762297,
-      "downloads": 3103,
+      "downloads": 3389,
       "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-linux-x86-64.tar.gz",
       "platform": "🐧 Linux"
     },
     {
       "name": "LocalSend-CLI-1.18.2-macos-arm-64.tar.gz",
       "size": 4105018,
-      "downloads": 1969,
+      "downloads": 2193,
       "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-macos-arm-64.tar.gz",
       "platform": "🍎 macOS"
     },
     {
       "name": "LocalSend-CLI-1.18.2-macos-x86-64.tar.gz",
       "size": 4397211,
-      "downloads": 1338,
+      "downloads": 1481,
       "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-macos-x86-64.tar.gz",
       "platform": "🍎 macOS"
     },
     {
       "name": "LocalSend-CLI-1.18.2-windows-arm-64.exe",
       "size": 8355328,
-      "downloads": 1337,
+      "downloads": 1549,
       "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-windows-arm-64.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "LocalSend-CLI-1.18.2-windows-x86-64.exe",
       "size": 9725952,
-      "downloads": 5989,
+      "downloads": 6891,
       "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-windows-x86-64.exe",
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

@@ -14,9 +14,9 @@
     "CLI"
   ],
   "language": "PowerShell",
-  "stars": 61075,
-  "forks": 0,
-  "license": "",
+  "stars": 61518,
+  "forks": 2725,
+  "license": "MIT",
   "archived": false,
   "homepage": "",
   "topics": [
@@ -42,23 +42,37 @@
     "windows11"
   ],
   "starred_at": "2025-12-18T15:03:01Z",
-  "pushed_at": "",
+  "pushed_at": "2026-11-01T21:16:25Z",
   "latest": {
     "kind": "release",
-    "tag": "2026.08.24",
-    "title": "Release 2026.08.24",
-    "published_at": "2026-08-24T20:24:34Z",
-    "url": "https://github.com/Raphire/Win11Debloat/releases/tag/2026.08.24",
+    "tag": "2026.10.30",
+    "title": "Release 2026.10.30",
+    "published_at": "2026-10-31T00:58:26Z",
+    "url": "https://github.com/Raphire/Win11Debloat/releases/tag/2026.10.30",
     "prerelease": false
   },
   "assets": [
     {
       "name": "Get.ps1",
-      "size": 9071,
-      "downloads": 620564,
-      "url": "https://github.com/Raphire/Win11Debloat/releases/download/2026.08.24/Get.ps1",
+      "size": 12163,
+      "downloads": 20784,
+      "url": "https://github.com/Raphire/Win11Debloat/releases/download/2026.10.30/Get.ps1",
       "platform": "📦 其他"
+    },
+    {
+      "name": "SHA256SUMS",
+      "size": 83,
+      "downloads": 18255,
+      "url": "https://github.com/Raphire/Win11Debloat/releases/download/2026.10.30/SHA256SUMS",
+      "platform": "🔐 校验文件"
+    },
+    {
+      "name": "Win11Debloat.zip",
+      "size": 759285,
+      "downloads": 22997,
+      "url": "https://github.com/Raphire/Win11Debloat/releases/download/2026.10.30/Win11Debloat.zip",
+      "platform": "🌐 Web"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

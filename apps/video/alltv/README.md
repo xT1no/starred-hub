@@ -22,11 +22,12 @@
 | 分类 | 🎬 [影视 / 直播 / 番剧](../README.md) |
 | 平台 | 📲 |
 | 语言 | Java |
-| Star | 170 · Fork 0 |
-| License | — |
+| Star | 168 · Fork 27 |
+| License | MIT |
 | 最新版本 | `1.0.6beta` |
 | 最近更新 | 2020-05-18（6 年前） |
 | 标星日期 | 2020-10-08 |
+| 官网 | <http://debugers.com:8888/swagger-ui.html#/> |
 
 ## 📦 最新版本
 
@@ -50,13 +51,14 @@
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [alltv_1.0.6_beta.apk](https://github.com/Ha2ryZhang/alltv/releases/download/1.0.6beta/alltv_1.0.6_beta.apk) | 📲 Android | 8.7 MB | 507 |
+| [alltv_1.0.6_beta.apk](https://github.com/Ha2ryZhang/alltv/releases/download/1.0.6beta/alltv_1.0.6_beta.apk) | 📲 Android | 8.7 MB | 510 |
 
 ## 🔗 快速链接
 
 - 仓库主页 · https://github.com/Ha2ryZhang/alltv
 - Issues · https://github.com/Ha2ryZhang/alltv/issues
 - Releases · https://github.com/Ha2ryZhang/alltv/releases
+- 官网 / 演示 · http://debugers.com:8888/swagger-ui.html#/
 
 `bilibili-live` `douyu` `huya` `java`
 

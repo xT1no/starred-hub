@@ -18,8 +18,8 @@
 | 分类 | 🎬 [影视 / 直播 / 番剧](../README.md) |
 | 平台 | 📺 |
 | 语言 | Kotlin |
-| Star | 4.7k · Fork 0 |
-| License | — |
+| Star | 4.7k · Fork 568 |
+| License | MIT |
 | 最新版本 | `v1.3.9.8` |
 | 最近更新 | 2025-03-17（1 年前） |
 | 标星日期 | 2025-03-08 |
@@ -46,7 +46,7 @@
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [my-tv-0_1.3.9.8.apk](https://github.com/lizongying/my-tv-0/releases/download/v1.3.9.8/my-tv-0_1.3.9.8.apk) | 📺 AndroidTV | 5.2 MB | 42k |
+| [my-tv-0_1.3.9.8.apk](https://github.com/lizongying/my-tv-0/releases/download/v1.3.9.8/my-tv-0_1.3.9.8.apk) | 📺 AndroidTV | 5.2 MB | 43k |
 
 ## 🔗 快速链接
 

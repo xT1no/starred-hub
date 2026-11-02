@@ -14,13 +14,13 @@
   ],
   "language": "",
   "stars": 98,
-  "forks": 0,
+  "forks": 5,
   "license": "",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://www.firpe.cn",
   "topics": [],
   "starred_at": "2025-11-11T11:57:06Z",
-  "pushed_at": "",
+  "pushed_at": "2026-10-01T03:23:18Z",
   "latest": {
     "kind": "release",
     "tag": "v.1.9.3",
@@ -33,10 +33,10 @@
     {
       "name": "FirPE-V1.9.3.exe",
       "size": 1244006424,
-      "downloads": 549,
+      "downloads": 674,
       "url": "https://github.com/luyuanbo79/firpe/releases/download/v.1.9.3/FirPE-V1.9.3.exe",
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

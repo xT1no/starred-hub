@@ -13,37 +13,37 @@
     "Windows"
   ],
   "language": "C",
-  "stars": 34170,
-  "forks": 0,
-  "license": "",
+  "stars": 34211,
+  "forks": 1387,
+  "license": "GPL-2.0",
   "archived": false,
   "homepage": "",
   "topics": [],
   "starred_at": "2023-12-06T11:22:35Z",
-  "pushed_at": "",
+  "pushed_at": "2026-10-29T00:59:53Z",
   "latest": {
     "kind": "release",
-    "tag": "26100.8457.70.3",
-    "title": "26100.8457.70.3",
-    "published_at": "2026-06-20T10:50:27Z",
-    "url": "https://github.com/valinet/ExplorerPatcher/releases/tag/26100.8457.70.3",
+    "tag": "26100.9711.71.1",
+    "title": "26100.9711.71.1",
+    "published_at": "2026-10-29T01:04:20Z",
+    "url": "https://github.com/valinet/ExplorerPatcher/releases/tag/26100.9711.71.1",
     "prerelease": false
   },
   "assets": [
     {
       "name": "ep_setup.exe",
-      "size": 12237312,
-      "downloads": 9903423,
-      "url": "https://github.com/valinet/ExplorerPatcher/releases/download/26100.8457.70.3/ep_setup.exe",
+      "size": 12336128,
+      "downloads": 178072,
+      "url": "https://github.com/valinet/ExplorerPatcher/releases/download/26100.9711.71.1/ep_setup.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "ep_setup_arm64.exe",
-      "size": 11896320,
-      "downloads": 143145,
-      "url": "https://github.com/valinet/ExplorerPatcher/releases/download/26100.8457.70.3/ep_setup_arm64.exe",
+      "size": 12013056,
+      "downloads": 2722,
+      "url": "https://github.com/valinet/ExplorerPatcher/releases/download/26100.9711.71.1/ep_setup_arm64.exe",
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

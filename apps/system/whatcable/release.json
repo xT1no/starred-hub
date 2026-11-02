@@ -13,11 +13,11 @@
     "macOS"
   ],
   "language": "Swift",
-  "stars": 9037,
-  "forks": 0,
-  "license": "",
+  "stars": 9074,
+  "forks": 279,
+  "license": "NOASSERTION",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://whatcable.uk",
   "topics": [
     "apple-silicon",
     "hardware-info",
@@ -34,7 +34,7 @@
     "utility"
   ],
   "starred_at": "2026-06-16T12:17:26Z",
-  "pushed_at": "",
+  "pushed_at": "2026-10-13T12:07:29Z",
   "latest": {
     "kind": "release",
     "tag": "v1.5.0",
@@ -47,17 +47,17 @@
     {
       "name": "whatcable-cli-1.5.0.zip",
       "size": 8559849,
-      "downloads": 1065,
+      "downloads": 1256,
       "url": "https://github.com/darrylmorley/whatcable/releases/download/v1.5.0/whatcable-cli-1.5.0.zip",
       "platform": "🌐 Web"
     },
     {
       "name": "WhatCable.zip",
       "size": 22571575,
-      "downloads": 48841,
+      "downloads": 60155,
       "url": "https://github.com/darrylmorley/whatcable/releases/download/v1.5.0/WhatCable.zip",
       "platform": "🌐 Web"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

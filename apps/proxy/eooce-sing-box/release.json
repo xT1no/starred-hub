@@ -13,11 +13,11 @@
     "服务端 / 云端"
   ],
   "language": "Shell",
-  "stars": 5223,
-  "forks": 0,
-  "license": "",
+  "stars": 5232,
+  "forks": 1848,
+  "license": "MIT",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://serv00.eooce.com",
   "topics": [
     "argo",
     "hysteria2",
@@ -30,7 +30,7 @@
     "vmess-ws-tls"
   ],
   "starred_at": "2024-10-18T18:25:52Z",
-  "pushed_at": "",
+  "pushed_at": "2026-10-29T04:49:44Z",
   "latest": {
     "kind": "release",
     "tag": "other",
@@ -43,24 +43,24 @@
     {
       "name": "idx-empty-workspace.zip",
       "size": 1431,
-      "downloads": 462,
+      "downloads": 465,
       "url": "https://github.com/eooce/Sing-box/releases/download/other/idx-empty-workspace.zip",
       "platform": "🌐 Web"
     },
     {
       "name": "idx-nodejs.zip",
       "size": 2775,
-      "downloads": 113,
+      "downloads": 116,
       "url": "https://github.com/eooce/Sing-box/releases/download/other/idx-nodejs.zip",
       "platform": "🌐 Web"
     },
     {
       "name": "idx-python.zip",
       "size": 3804,
-      "downloads": 67,
+      "downloads": 70,
       "url": "https://github.com/eooce/Sing-box/releases/download/other/idx-python.zip",
       "platform": "🌐 Web"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

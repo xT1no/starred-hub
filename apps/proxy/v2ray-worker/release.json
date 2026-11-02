@@ -13,14 +13,14 @@
     "服务端 / 云端"
   ],
   "language": "TypeScript",
-  "stars": 1421,
-  "forks": 0,
-  "license": "",
+  "stars": 1420,
+  "forks": 2218,
+  "license": "GPL-3.0",
   "archived": false,
   "homepage": "",
   "topics": [],
   "starred_at": "2024-07-28T03:21:03Z",
-  "pushed_at": "",
+  "pushed_at": "2024-07-29T05:19:19Z",
   "latest": {
     "kind": "release",
     "tag": "v2.4",
@@ -33,10 +33,10 @@
     {
       "name": "worker.js",
       "size": 324780,
-      "downloads": 27662,
+      "downloads": 27683,
       "url": "https://github.com/vfarid/v2ray-worker/releases/download/v2.4/worker.js",
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

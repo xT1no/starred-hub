@@ -13,8 +13,8 @@
     "Android"
   ],
   "language": "",
-  "stars": 17515,
-  "forks": 0,
+  "stars": 17517,
+  "forks": 530,
   "license": "",
   "archived": false,
   "homepage": "",
@@ -27,7 +27,7 @@
     "tv"
   ],
   "starred_at": "2024-03-24T12:20:01Z",
-  "pushed_at": "",
+  "pushed_at": "2025-02-28T03:03:17Z",
   "latest": {
     "kind": "release",
     "tag": "v1.5.2",
@@ -40,10 +40,10 @@
     {
       "name": "BBLL1.5.2.apk",
       "size": 6957071,
-      "downloads": 113220,
+      "downloads": 114368,
       "url": "https://github.com/xiaye13579/BBLL/releases/download/v1.5.2/BBLL1.5.2.apk",
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

@@ -13,11 +13,11 @@
     "Windows"
   ],
   "language": "TypeScript",
-  "stars": 322,
-  "forks": 0,
-  "license": "",
+  "stars": 325,
+  "forks": 18,
+  "license": "GPL-3.0",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://dev.electronisland.com/",
   "topics": [
     "cicd",
     "claude",
@@ -30,37 +30,37 @@
     "vite"
   ],
   "starred_at": "2026-06-20T07:30:41Z",
-  "pushed_at": "",
+  "pushed_at": "2026-11-02T02:41:56Z",
   "latest": {
     "kind": "release",
-    "tag": "v27.0.0",
-    "title": "v27.0.0",
-    "published_at": "2026-10-09T06:18:15Z",
-    "url": "https://github.com/JNTMTMTM/eIsland/releases/tag/v27.0.0",
+    "tag": "v27.0.1",
+    "title": "v27.0.1",
+    "published_at": "2026-10-31T18:41:58Z",
+    "url": "https://github.com/JNTMTMTM/eIsland/releases/tag/v27.0.1",
     "prerelease": false
   },
   "assets": [
     {
-      "name": "eIsland-27.0.0-Setup.exe",
-      "size": 392077159,
-      "downloads": 260,
-      "url": "https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.0/eIsland-27.0.0-Setup.exe",
+      "name": "eIsland-27.0.1-Setup.exe",
+      "size": 421887403,
+      "downloads": 63,
+      "url": "https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.1/eIsland-27.0.1-Setup.exe",
       "platform": "🪟 Windows"
     },
     {
-      "name": "eIsland-27.0.0-Setup.exe.blockmap",
-      "size": 386091,
-      "downloads": 67,
-      "url": "https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.0/eIsland-27.0.0-Setup.exe.blockmap",
+      "name": "eIsland-27.0.1-Setup.exe.blockmap",
+      "size": 413458,
+      "downloads": 26,
+      "url": "https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.1/eIsland-27.0.1-Setup.exe.blockmap",
       "platform": "🪟 Windows"
     },
     {
       "name": "latest.yml",
       "size": 346,
-      "downloads": 895,
-      "url": "https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.0/latest.yml",
+      "downloads": 134,
+      "url": "https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.1/latest.yml",
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

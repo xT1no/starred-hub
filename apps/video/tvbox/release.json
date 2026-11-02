@@ -13,14 +13,14 @@
     "AndroidTV"
   ],
   "language": "JavaScript",
-  "stars": 12393,
-  "forks": 0,
+  "stars": 12541,
+  "forks": 4372,
   "license": "",
   "archived": false,
   "homepage": "",
   "topics": [],
   "starred_at": "2025-11-06T04:55:01Z",
-  "pushed_at": "",
+  "pushed_at": "2026-11-02T05:25:05Z",
   "latest": {
     "kind": "none",
     "tag": "",
@@ -30,5 +30,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

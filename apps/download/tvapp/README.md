@@ -12,11 +12,12 @@
 | 分类 | 📥 [下载 / 网盘](../README.md) |
 | 平台 | 📲 📺 |
 | 语言 | JavaScript |
-| Star | 27k · Fork 0 |
-| License | — |
+| Star | 27k · Fork 3.6k |
+| License | Apache-2.0 |
 | 最新版本 | 无版本标记 |
-| 最近更新 | —（—） |
+| 最近更新 | 2026-11-02（今天） |
 | 标星日期 | 2026-06-01 |
+| 官网 | <https://app.iyouhun.com> |
 
 ## 📦 最新版本
 
@@ -27,6 +28,7 @@
 - 仓库主页 · https://github.com/youhunwl/TVAPP
 - Issues · https://github.com/youhunwl/TVAPP/issues
 - Releases · https://github.com/youhunwl/TVAPP/releases
+- 官网 / 演示 · https://app.iyouhun.com
 
 `android` `android-tv` `apk` `app` `tv` `tv-box`
 

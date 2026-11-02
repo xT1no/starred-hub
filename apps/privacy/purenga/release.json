@@ -13,11 +13,11 @@
     "Android"
   ],
   "language": "Kotlin",
-  "stars": 1137,
-  "forks": 0,
-  "license": "",
+  "stars": 1142,
+  "forks": 14,
+  "license": "AGPL-3.0",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://github.com/Xposed-Modules-Repo/com.chrxw.purenga",
   "topics": [
     "178",
     "ezxhelper",
@@ -26,7 +26,7 @@
     "xposed"
   ],
   "starred_at": "2023-04-04T18:46:23Z",
-  "pushed_at": "",
+  "pushed_at": "2026-10-29T22:55:37Z",
   "latest": {
     "kind": "release",
     "tag": "3.4.0",
@@ -39,38 +39,38 @@
     {
       "name": "nga_9.9.64-3.4.0-lspatched.apk",
       "size": 93634151,
-      "downloads": 394,
+      "downloads": 431,
       "url": "https://github.com/chr233/PureNGA/releases/download/3.4.0/nga_9.9.64-3.4.0-lspatched.apk",
       "platform": "📲 Android"
     },
     {
       "name": "nga_9.9.65-3.4.0-lspatched.apk",
       "size": 79301142,
-      "downloads": 84,
+      "downloads": 87,
       "url": "https://github.com/chr233/PureNGA/releases/download/3.4.0/nga_9.9.65-3.4.0-lspatched.apk",
       "platform": "📲 Android"
     },
     {
       "name": "nga_9.9.66-3.4.0-lspatched.apk",
       "size": 79524623,
-      "downloads": 60,
+      "downloads": 62,
       "url": "https://github.com/chr233/PureNGA/releases/download/3.4.0/nga_9.9.66-3.4.0-lspatched.apk",
       "platform": "📲 Android"
     },
     {
       "name": "nga_9.9.67-3.4.0-lspatched.apk",
       "size": 82889444,
-      "downloads": 75,
+      "downloads": 84,
       "url": "https://github.com/chr233/PureNGA/releases/download/3.4.0/nga_9.9.67-3.4.0-lspatched.apk",
       "platform": "📲 Android"
     },
     {
       "name": "nga_9.9.68-3.4.0-lspatched.apk",
       "size": 82979627,
-      "downloads": 2695,
+      "downloads": 2855,
       "url": "https://github.com/chr233/PureNGA/releases/download/3.4.0/nga_9.9.68-3.4.0-lspatched.apk",
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

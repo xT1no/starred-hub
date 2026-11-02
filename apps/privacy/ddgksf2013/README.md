@@ -12,11 +12,12 @@
 | 分类 | 🛡️ [广告过滤 / 隐私](../README.md) |
 | 平台 | 📲 🌐 |
 | 语言 | — |
-| Star | 14k · Fork 0 |
+| Star | 14k · Fork 590 |
 | License | — |
 | 最新版本 | 无版本标记 |
-| 最近更新 | —（—） |
+| 最近更新 | 2026-10-31（昨天） |
 | 标星日期 | 2025-07-19 |
+| 官网 | <https://t.me/ddgksf2021> |
 
 ## 📦 最新版本
 
@@ -27,6 +28,7 @@
 - 仓库主页 · https://github.com/ddgksf2013/ddgksf2013
 - Issues · https://github.com/ddgksf2013/ddgksf2013/issues
 - Releases · https://github.com/ddgksf2013/ddgksf2013/releases
+- 官网 / 演示 · https://t.me/ddgksf2021
 
 `adblock` `adguard` `android` `clash` `config` `crack` `css` `ddgksf2013` `javascript` `quantumult` `quantumultx` `qx`
 

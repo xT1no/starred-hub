@@ -13,11 +13,11 @@
     "Android"
   ],
   "language": "Java",
-  "stars": 11653,
-  "forks": 0,
-  "license": "",
+  "stars": 11711,
+  "forks": 1335,
+  "license": "GPL-3.0",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://itexp.blog.csdn.net/",
   "topics": [
     "android",
     "fake-gps",
@@ -31,7 +31,7 @@
     "virtual-location"
   ],
   "starred_at": "2024-06-18T03:24:06Z",
-  "pushed_at": "",
+  "pushed_at": "2026-10-25T04:11:05Z",
   "latest": {
     "kind": "release",
     "tag": "ReleaseV1.12.3",
@@ -44,10 +44,10 @@
     {
       "name": "VirtGO-2.1.0-android-arm64-v8a.apk",
       "size": 23320401,
-      "downloads": 1236228,
+      "downloads": 1262511,
       "url": "https://github.com/ZCShou/GoGoGo/releases/download/ReleaseV1.12.3/VirtGO-2.1.0-android-arm64-v8a.apk",
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

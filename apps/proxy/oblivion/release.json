@@ -13,14 +13,14 @@
     "Android"
   ],
   "language": "Dart",
-  "stars": 4888,
-  "forks": 0,
-  "license": "",
+  "stars": 4890,
+  "forks": 645,
+  "license": "MIT",
   "archived": false,
   "homepage": "",
   "topics": [],
   "starred_at": "2024-06-02T17:26:33Z",
-  "pushed_at": "",
+  "pushed_at": "2026-10-15T13:05:11Z",
   "latest": {
     "kind": "release",
     "tag": "v8",
@@ -33,10 +33,10 @@
     {
       "name": "oblivion-v8-signed.apk",
       "size": 62486494,
-      "downloads": 18316,
+      "downloads": 18703,
       "url": "https://github.com/bepass-org/oblivion/releases/download/v8/oblivion-v8-signed.apk",
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

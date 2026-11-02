@@ -20,15 +20,15 @@ Driver Store Explorer
 | 分类 | ⚙️ [系统增强 / 优化](../README.md) |
 | 平台 | 🪟 |
 | 语言 | C# |
-| Star | 12k · Fork 0 |
-| License | — |
+| Star | 12k · Fork 563 |
+| License | GPL-2.0 |
 | 最新版本 | `v1.0.36` |
-| 最近更新 | 2026-10-10（17 天前） |
+| 最近更新 | 2026-10-10（22 天前） |
 | 标星日期 | 2022-07-23 |
 
 ## 📦 最新版本
 
-**`v1.0.36`** · DriverStore Explorer v1.0.36　发布于 2026-10-10（17 天前）
+**`v1.0.36`** · DriverStore Explorer v1.0.36　发布于 2026-10-10（22 天前）
 
 [查看 Release 页面](https://github.com/lostindark/DriverStoreExplorer/releases/tag/v1.0.36)
 
@@ -60,7 +60,7 @@ This release adds warnings before unused-driver selection, fixes startup and dri
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [DriverStoreExplorer-v1.0.36.zip](https://github.com/lostindark/DriverStoreExplorer/releases/download/v1.0.36/DriverStoreExplorer-v1.0.36.zip) | 🌐 Web | 1.0 MB | 35k |
+| [DriverStoreExplorer-v1.0.36.zip](https://github.com/lostindark/DriverStoreExplorer/releases/download/v1.0.36/DriverStoreExplorer-v1.0.36.zip) | 🌐 Web | 1.0 MB | 42k |
 
 ## 🔗 快速链接
 

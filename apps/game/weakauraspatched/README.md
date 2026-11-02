@@ -22,8 +22,8 @@
 | 分类 | 🎮 [游戏 / 辅助脚本](../README.md) |
 | 平台 | 🪟 |
 | 语言 | Shell |
-| Star | 38 · Fork 0 |
-| License | — |
+| Star | 38 · Fork 3 |
+| License | GPL-2.0 |
 | 最新版本 | `5.21.1` |
 | 最近更新 | 2026-01-18（9 个月前） |
 | 标星日期 | 2024-09-17 |
@@ -51,7 +51,7 @@
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [WeakAurasPatched-5.21.1.zip](https://github.com/wind-addons/WeakAurasPatched/releases/download/5.21.1/WeakAurasPatched-5.21.1.zip) | 🌐 Web | 10.1 MB | 447 |
+| [WeakAurasPatched-5.21.1.zip](https://github.com/wind-addons/WeakAurasPatched/releases/download/5.21.1/WeakAurasPatched-5.21.1.zip) | 🌐 Web | 10.1 MB | 449 |
 | [release.json](https://github.com/wind-addons/WeakAurasPatched/releases/download/5.21.1/release.json) | 📦 其他 | 393 B | 16k |
 
 ## 🔗 快速链接

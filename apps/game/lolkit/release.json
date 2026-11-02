@@ -14,16 +14,16 @@
   ],
   "language": "Shell",
   "stars": 770,
-  "forks": 0,
+  "forks": 39,
   "license": "",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://ping11700.github.io/lolkitweb",
   "topics": [
     "league-of-legends",
     "lol"
   ],
   "starred_at": "2024-03-08T16:01:04Z",
-  "pushed_at": "",
+  "pushed_at": "2026-11-02T09:14:46Z",
   "latest": {
     "kind": "release",
     "tag": "version3.4.9",
@@ -36,10 +36,10 @@
     {
       "name": "LOLkit3.4.9.zip",
       "size": 23296561,
-      "downloads": 816,
+      "downloads": 904,
       "url": "https://github.com/ping11700/LOLkit/releases/download/version3.4.9/LOLkit3.4.9.zip",
       "platform": "🌐 Web"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

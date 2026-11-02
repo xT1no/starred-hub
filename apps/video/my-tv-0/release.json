@@ -13,9 +13,9 @@
     "AndroidTV"
   ],
   "language": "Kotlin",
-  "stars": 4671,
-  "forks": 0,
-  "license": "",
+  "stars": 4675,
+  "forks": 568,
+  "license": "MIT",
   "archived": false,
   "homepage": "",
   "topics": [
@@ -26,7 +26,7 @@
     "tvbox"
   ],
   "starred_at": "2025-03-08T12:10:49Z",
-  "pushed_at": "",
+  "pushed_at": "2025-05-12T12:50:54Z",
   "latest": {
     "kind": "release",
     "tag": "v1.3.9.8",
@@ -39,10 +39,10 @@
     {
       "name": "my-tv-0_1.3.9.8.apk",
       "size": 5458634,
-      "downloads": 42096,
+      "downloads": 42704,
       "url": "https://github.com/lizongying/my-tv-0/releases/download/v1.3.9.8/my-tv-0_1.3.9.8.apk",
       "platform": "📺 AndroidTV"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

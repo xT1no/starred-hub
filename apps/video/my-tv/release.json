@@ -14,10 +14,10 @@
   ],
   "language": "C",
   "stars": 31967,
-  "forks": 0,
+  "forks": 3585,
   "license": "",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://lyrics.run/my-tv.html",
   "topics": [
     "iptv",
     "my-tv",
@@ -25,7 +25,7 @@
     "tv"
   ],
   "starred_at": "2024-03-14T07:08:31Z",
-  "pushed_at": "",
+  "pushed_at": "2024-06-20T06:21:11Z",
   "latest": {
     "kind": "release",
     "tag": "v2.1.8",
@@ -38,10 +38,10 @@
     {
       "name": "my-tv-v2.1.8.apk",
       "size": 13970381,
-      "downloads": 439080,
+      "downloads": 440872,
       "url": "https://github.com/lizongying/my-tv/releases/download/v2.1.8/my-tv-v2.1.8.apk",
       "platform": "📺 AndroidTV"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

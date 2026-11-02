@@ -18,11 +18,12 @@ Better font rendering for Windows.
 | 分类 | ⚙️ [系统增强 / 优化](../README.md) |
 | 平台 | 🪟 |
 | 语言 | C++ |
-| Star | 12k · Fork 0 |
-| License | — |
+| Star | 12k · Fork 449 |
+| License | GPL-3.0 |
 | 最新版本 | `v1.2025.6.9` |
 | 最近更新 | 2025-06-11（1 年前） |
 | 标星日期 | 2023-12-07 |
+| 官网 | <https://mactype.net> |
 
 ## 📦 最新版本
 
@@ -51,13 +52,14 @@ More about this on #1086
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [MacTypeInstaller_2025.6.9.exe](https://github.com/snowie2000/mactype/releases/download/v1.2025.6.9/MacTypeInstaller_2025.6.9.exe) | 🪟 Windows | 5.6 MB | 192k |
+| [MacTypeInstaller_2025.6.9.exe](https://github.com/snowie2000/mactype/releases/download/v1.2025.6.9/MacTypeInstaller_2025.6.9.exe) | 🪟 Windows | 5.6 MB | 193k |
 
 ## 🔗 快速链接
 
 - 仓库主页 · https://github.com/snowie2000/mactype
 - Issues · https://github.com/snowie2000/mactype/issues
 - Releases · https://github.com/snowie2000/mactype/releases
+- 官网 / 演示 · https://mactype.net
 
 `directwrite` `font` `font-rendering` `mactype`
 

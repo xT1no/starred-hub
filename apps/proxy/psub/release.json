@@ -14,13 +14,13 @@
   ],
   "language": "HTML",
   "stars": 103,
-  "forks": 0,
-  "license": "",
+  "forks": 57,
+  "license": "MIT",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://www.youtube.com/@bulianglin",
   "topics": [],
   "starred_at": "2024-07-10T09:34:31Z",
-  "pushed_at": "",
+  "pushed_at": "2024-08-03T16:07:01Z",
   "latest": {
     "kind": "none",
     "tag": "",
@@ -30,5 +30,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

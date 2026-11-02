@@ -13,11 +13,11 @@
     "通用 / 未指定"
   ],
   "language": "",
-  "stars": 10901,
-  "forks": 0,
-  "license": "",
+  "stars": 10912,
+  "forks": 790,
+  "license": "MIT",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://anti-ad.net",
   "topics": [
     "adblock",
     "adguardhome",
@@ -29,7 +29,7 @@
     "surge"
   ],
   "starred_at": "2022-07-31T15:34:43Z",
-  "pushed_at": "",
+  "pushed_at": "2026-11-01T22:14:06Z",
   "latest": {
     "kind": "release",
     "tag": "v4.3",
@@ -39,5 +39,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

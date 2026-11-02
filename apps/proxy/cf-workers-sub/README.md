@@ -14,11 +14,12 @@
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | ☁️ |
 | 语言 | JavaScript |
-| Star | 7.5k · Fork 0 |
-| License | — |
+| Star | 7.5k · Fork 9k |
+| License | Apache-2.0 |
 | 最新版本 | 无版本标记 |
-| 最近更新 | —（—） |
+| 最近更新 | 2026-06-25（4 个月前） |
 | 标星日期 | 2024-05-13 |
+| 官网 | <https://youtu.be/w6rRY4FDd58> |
 
 ## 📦 最新版本
 
@@ -29,6 +30,7 @@
 - 仓库主页 · https://github.com/cmliu/CF-Workers-SUB
 - Issues · https://github.com/cmliu/CF-Workers-SUB/issues
 - Releases · https://github.com/cmliu/CF-Workers-SUB/releases
+- 官网 / 演示 · https://youtu.be/w6rRY4FDd58
 
 ---
 

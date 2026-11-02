@@ -18,8 +18,8 @@
 | 分类 | ⚙️ [系统增强 / 优化](../README.md) |
 | 平台 | 🪟 |
 | 语言 | C++ |
-| Star | 503 · Fork 0 |
-| License | — |
+| Star | 502 · Fork 34 |
+| License | GPL-3.0 |
 | 最新版本 | `0.2.1` |
 | 最近更新 | 2026-08-13（2 个月前） |
 | 标星日期 | 2026-04-12 |
@@ -38,7 +38,7 @@
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [Release.zip](https://github.com/ListerOvO1211/LazyEnv/releases/download/0.2.1/Release.zip) | 🌐 Web | 44.5 MB | 204 |
+| [Release.zip](https://github.com/ListerOvO1211/LazyEnv/releases/download/0.2.1/Release.zip) | 🌐 Web | 44.5 MB | 226 |
 
 ## 🔗 快速链接
 

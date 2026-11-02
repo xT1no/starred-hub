@@ -14,13 +14,13 @@
   ],
   "language": "C#",
   "stars": 11,
-  "forks": 0,
+  "forks": 1,
   "license": "",
   "archived": false,
   "homepage": "",
   "topics": [],
   "starred_at": "2026-07-24T01:49:38Z",
-  "pushed_at": "",
+  "pushed_at": "2023-06-22T17:19:01Z",
   "latest": {
     "kind": "release",
     "tag": "1.1.0.0_Release_X86",
@@ -33,7 +33,7 @@
     {
       "name": "NetWorkList.Clear.exe",
       "size": 24576,
-      "downloads": 289,
+      "downloads": 290,
       "url": "https://github.com/control0forver/NetWorkList-Clear/releases/download/1.1.0.0_Release_X86/NetWorkList.Clear.exe",
       "platform": "🪟 Windows"
     },
@@ -45,5 +45,5 @@
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

@@ -16,11 +16,11 @@
     "跨平台桌面"
   ],
   "language": "Rust",
-  "stars": 154495,
-  "forks": 0,
-  "license": "",
+  "stars": 155681,
+  "forks": 11192,
+  "license": "GPL-3.0",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://www.clashverge.dev",
   "topics": [
     "clash",
     "clash-meta",
@@ -32,177 +32,177 @@
     "windows"
   ],
   "starred_at": "2024-05-14T18:33:35Z",
-  "pushed_at": "",
+  "pushed_at": "2026-11-02T10:48:07Z",
   "latest": {
     "kind": "release",
-    "tag": "v2.5.8",
-    "title": "Clash Verge Rev v2.5.8",
-    "published_at": "2026-10-09T02:43:45Z",
-    "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.5.8",
+    "tag": "v2.5.9",
+    "title": "Clash Verge Rev v2.5.9",
+    "published_at": "2026-11-02T10:09:17Z",
+    "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.5.9",
     "prerelease": false
   },
   "assets": [
     {
-      "name": "Clash.Verge-2.5.8-1.aarch64.rpm",
-      "size": 100298341,
-      "downloads": 12134,
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge-2.5.8-1.aarch64.rpm",
+      "name": "Clash.Verge-2.5.9-1.aarch64.rpm",
+      "size": 99534352,
+      "downloads": 31,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge-2.5.9-1.aarch64.rpm",
       "platform": "🐧 Linux"
     },
     {
-      "name": "Clash.Verge-2.5.8-1.armhfp.rpm",
-      "size": 104381609,
-      "downloads": 1670,
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge-2.5.8-1.armhfp.rpm",
+      "name": "Clash.Verge-2.5.9-1.armhfp.rpm",
+      "size": 103676002,
+      "downloads": 13,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge-2.5.9-1.armhfp.rpm",
       "platform": "🐧 Linux"
     },
     {
-      "name": "Clash.Verge-2.5.8-1.x86_64.rpm",
-      "size": 104176465,
-      "downloads": 19527,
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge-2.5.8-1.x86_64.rpm",
+      "name": "Clash.Verge-2.5.9-1.x86_64.rpm",
+      "size": 103357626,
+      "downloads": 148,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge-2.5.9-1.x86_64.rpm",
       "platform": "🐧 Linux"
     },
     {
-      "name": "Clash.Verge-2.5.8-1.x86_64.rpm.sig",
+      "name": "Clash.Verge-2.5.9-1.x86_64.rpm.sig",
       "size": 440,
-      "downloads": 853,
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge-2.5.8-1.x86_64.rpm.sig",
+      "downloads": 7,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge-2.5.9-1.x86_64.rpm.sig",
       "platform": "🔐 校验文件"
     },
     {
-      "name": "Clash.Verge_2.5.8_aarch64.app.tar.gz",
-      "size": 83642657,
-      "downloads": 194106,
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_aarch64.app.tar.gz",
+      "name": "Clash.Verge_2.5.9_aarch64.app.tar.gz",
+      "size": 82588064,
+      "downloads": 808,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_aarch64.app.tar.gz",
       "platform": "📦 其他"
     },
     {
-      "name": "Clash.Verge_2.5.8_aarch64.app.tar.gz.sig",
+      "name": "Clash.Verge_2.5.9_aarch64.app.tar.gz.sig",
       "size": 428,
-      "downloads": 1087,
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_aarch64.app.tar.gz.sig",
+      "downloads": 8,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_aarch64.app.tar.gz.sig",
       "platform": "🔐 校验文件"
     },
     {
-      "name": "Clash.Verge_2.5.8_aarch64.dmg",
-      "size": 81825361,
-      "downloads": 942562,
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_aarch64.dmg",
+      "name": "Clash.Verge_2.5.9_aarch64.dmg",
+      "size": 80746554,
+      "downloads": 1716,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_aarch64.dmg",
       "platform": "🍎 macOS"
     },
     {
-      "name": "Clash.Verge_2.5.8_amd64.deb",
-      "size": 104179124,
-      "downloads": 220397,
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_amd64.deb",
+      "name": "Clash.Verge_2.5.9_amd64.deb",
+      "size": 103358910,
+      "downloads": 884,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_amd64.deb",
       "platform": "🐧 Linux"
     },
     {
-      "name": "Clash.Verge_2.5.8_amd64.deb.sig",
+      "name": "Clash.Verge_2.5.9_amd64.deb.sig",
       "size": 436,
-      "downloads": 1104,
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_amd64.deb.sig",
+      "downloads": 7,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_amd64.deb.sig",
       "platform": "🔐 校验文件"
     },
     {
-      "name": "Clash.Verge_2.5.8_arm64-setup.exe",
-      "size": 53952182,
-      "downloads": 36766,
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_arm64-setup.exe",
+      "name": "Clash.Verge_2.5.9_arm64-setup.exe",
+      "size": 53757496,
+      "downloads": 119,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_arm64-setup.exe",
       "platform": "🪟 Windows"
     },
     {
-      "name": "Clash.Verge_2.5.8_arm64-setup.exe.sig",
+      "name": "Clash.Verge_2.5.9_arm64-setup.exe.sig",
       "size": 444,
-      "downloads": 538,
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_arm64-setup.exe.sig",
+      "downloads": 5,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_arm64-setup.exe.sig",
       "platform": "🔐 校验文件"
     },
     {
-      "name": "Clash.Verge_2.5.8_arm64.deb",
-      "size": 100300512,
-      "downloads": 46132,
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_arm64.deb",
+      "name": "Clash.Verge_2.5.9_arm64.deb",
+      "size": 99537056,
+      "downloads": 223,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_arm64.deb",
       "platform": "🐧 Linux"
     },
     {
-      "name": "Clash.Verge_2.5.8_arm64_fixed_webview2-setup.exe",
-      "size": 232611095,
-      "downloads": 13566,
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_arm64_fixed_webview2-setup.exe",
+      "name": "Clash.Verge_2.5.9_arm64_fixed_webview2-setup.exe",
+      "size": 232381893,
+      "downloads": 26,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_arm64_fixed_webview2-setup.exe",
       "platform": "🪟 Windows"
     },
     {
-      "name": "Clash.Verge_2.5.8_arm64_fixed_webview2-setup.exe.sig",
+      "name": "Clash.Verge_2.5.9_arm64_fixed_webview2-setup.exe.sig",
       "size": 444,
-      "downloads": 471,
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_arm64_fixed_webview2-setup.exe.sig",
+      "downloads": 5,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_arm64_fixed_webview2-setup.exe.sig",
       "platform": "🔐 校验文件"
     },
     {
-      "name": "Clash.Verge_2.5.8_armhf.deb",
-      "size": 104377790,
-      "downloads": 11513,
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_armhf.deb",
+      "name": "Clash.Verge_2.5.9_armhf.deb",
+      "size": 103680740,
+      "downloads": 25,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_armhf.deb",
       "platform": "🐧 Linux"
     },
     {
-      "name": "Clash.Verge_2.5.8_x64-setup.exe",
-      "size": 60230483,
-      "downloads": 1231657,
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_x64-setup.exe",
+      "name": "Clash.Verge_2.5.9_x64-setup.exe",
+      "size": 60044648,
+      "downloads": 3733,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_x64-setup.exe",
       "platform": "🪟 Windows"
     },
     {
-      "name": "Clash.Verge_2.5.8_x64-setup.exe.sig",
+      "name": "Clash.Verge_2.5.9_x64-setup.exe.sig",
       "size": 440,
-      "downloads": 2092,
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_x64-setup.exe.sig",
+      "downloads": 7,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_x64-setup.exe.sig",
       "platform": "🔐 校验文件"
     },
     {
-      "name": "Clash.Verge_2.5.8_x64.app.tar.gz",
-      "size": 89108423,
-      "downloads": 97161,
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_x64.app.tar.gz",
+      "name": "Clash.Verge_2.5.9_x64.app.tar.gz",
+      "size": 88052826,
+      "downloads": 355,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_x64.app.tar.gz",
       "platform": "📦 其他"
     },
     {
-      "name": "Clash.Verge_2.5.8_x64.app.tar.gz.sig",
+      "name": "Clash.Verge_2.5.9_x64.app.tar.gz.sig",
       "size": 428,
-      "downloads": 465,
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_x64.app.tar.gz.sig",
+      "downloads": 5,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_x64.app.tar.gz.sig",
       "platform": "🔐 校验文件"
     },
     {
-      "name": "Clash.Verge_2.5.8_x64.dmg",
-      "size": 87523387,
-      "downloads": 75148,
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_x64.dmg",
+      "name": "Clash.Verge_2.5.9_x64.dmg",
+      "size": 86467422,
+      "downloads": 197,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_x64.dmg",
       "platform": "🍎 macOS"
     },
     {
-      "name": "Clash.Verge_2.5.8_x64_fixed_webview2-setup.exe",
-      "size": 250400964,
-      "downloads": 145105,
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_x64_fixed_webview2-setup.exe",
+      "name": "Clash.Verge_2.5.9_x64_fixed_webview2-setup.exe",
+      "size": 250182052,
+      "downloads": 436,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_x64_fixed_webview2-setup.exe",
       "platform": "🪟 Windows"
     },
     {
-      "name": "Clash.Verge_2.5.8_x64_fixed_webview2-setup.exe.sig",
+      "name": "Clash.Verge_2.5.9_x64_fixed_webview2-setup.exe.sig",
       "size": 440,
-      "downloads": 519,
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/Clash.Verge_2.5.8_x64_fixed_webview2-setup.exe.sig",
+      "downloads": 5,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/Clash.Verge_2.5.9_x64_fixed_webview2-setup.exe.sig",
       "platform": "🔐 校验文件"
     },
     {
       "name": "latest.json",
       "size": 6667,
-      "downloads": 2727,
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.8/latest.json",
+      "downloads": 6,
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.9/latest.json",
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

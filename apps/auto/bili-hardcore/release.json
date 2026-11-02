@@ -13,9 +13,9 @@
     "CLI"
   ],
   "language": "Rust",
-  "stars": 2374,
-  "forks": 0,
-  "license": "",
+  "stars": 2385,
+  "forks": 142,
+  "license": "MIT",
   "archived": false,
   "homepage": "",
   "topics": [
@@ -25,7 +25,7 @@
     "bilibili-senior"
   ],
   "starred_at": "2026-06-10T05:23:56Z",
-  "pushed_at": "",
+  "pushed_at": "2026-09-26T07:40:53Z",
   "latest": {
     "kind": "release",
     "tag": "v1.1.0",
@@ -38,14 +38,14 @@
     {
       "name": "bili-hardcore-v1.1.0-darwin-arm64.tar.gz",
       "size": 1549266,
-      "downloads": 27,
+      "downloads": 33,
       "url": "https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/bili-hardcore-v1.1.0-darwin-arm64.tar.gz",
       "platform": "🍎 macOS"
     },
     {
       "name": "bili-hardcore-v1.1.0-darwin-universal.tar.gz",
       "size": 3182863,
-      "downloads": 37,
+      "downloads": 45,
       "url": "https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/bili-hardcore-v1.1.0-darwin-universal.tar.gz",
       "platform": "🍎 macOS"
     },
@@ -59,7 +59,7 @@
     {
       "name": "bili-hardcore-v1.1.0-linux-arm64-musl.tar.gz",
       "size": 1775652,
-      "downloads": 16,
+      "downloads": 17,
       "url": "https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/bili-hardcore-v1.1.0-linux-arm64-musl.tar.gz",
       "platform": "🐧 Linux"
     },
@@ -73,7 +73,7 @@
     {
       "name": "bili-hardcore-v1.1.0-linux-x64-musl.tar.gz",
       "size": 1886108,
-      "downloads": 27,
+      "downloads": 28,
       "url": "https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/bili-hardcore-v1.1.0-linux-x64-musl.tar.gz",
       "platform": "🐧 Linux"
     },
@@ -87,31 +87,31 @@
     {
       "name": "bili-hardcore-v1.1.0-windows-x64.zip",
       "size": 1599409,
-      "downloads": 490,
+      "downloads": 546,
       "url": "https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/bili-hardcore-v1.1.0-windows-x64.zip",
       "platform": "🪟 Windows"
     },
     {
       "name": "checksums.txt",
       "size": 1011,
-      "downloads": 23,
+      "downloads": 27,
       "url": "https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/checksums.txt",
       "platform": "🔐 校验文件"
     },
     {
       "name": "install.ps1",
       "size": 1932,
-      "downloads": 79,
+      "downloads": 90,
       "url": "https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/install.ps1",
       "platform": "📦 其他"
     },
     {
       "name": "install.sh",
       "size": 2652,
-      "downloads": 39,
+      "downloads": 49,
       "url": "https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/install.sh",
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

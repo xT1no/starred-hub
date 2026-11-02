@@ -14,9 +14,9 @@
     "跨平台桌面"
   ],
   "language": "TypeScript",
-  "stars": 742,
-  "forks": 0,
-  "license": "",
+  "stars": 744,
+  "forks": 127,
+  "license": "NOASSERTION",
   "archived": false,
   "homepage": "",
   "topics": [
@@ -35,7 +35,7 @@
     "yundingzhiyi"
   ],
   "starred_at": "2026-01-29T12:21:36Z",
-  "pushed_at": "",
+  "pushed_at": "2026-10-01T14:24:24Z",
   "latest": {
     "kind": "release",
     "tag": "v1.6.1",
@@ -48,45 +48,45 @@
     {
       "name": "tft-hextech-helper-1.6.1-arm64.dmg",
       "size": 194678750,
-      "downloads": 61,
+      "downloads": 67,
       "url": "https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.6.1/tft-hextech-helper-1.6.1-arm64.dmg",
       "platform": "🍎 macOS"
     },
     {
       "name": "tft-hextech-helper-1.6.1-setup.exe",
       "size": 168966175,
-      "downloads": 348,
+      "downloads": 396,
       "url": "https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.6.1/tft-hextech-helper-1.6.1-setup.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "TFT-Hextech-Helper-1.6.1-win.zip",
       "size": 206254349,
-      "downloads": 380,
+      "downloads": 413,
       "url": "https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.6.1/TFT-Hextech-Helper-1.6.1-win.zip",
       "platform": "🪟 Windows"
     },
     {
       "name": "tft-hextech-helper-1.6.1-x64.dmg",
       "size": 199111626,
-      "downloads": 16,
+      "downloads": 20,
       "url": "https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.6.1/tft-hextech-helper-1.6.1-x64.dmg",
       "platform": "🍎 macOS"
     },
     {
       "name": "tft-hextech-helper-1.6.1.AppImage",
       "size": 213585654,
-      "downloads": 8,
+      "downloads": 9,
       "url": "https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.6.1/tft-hextech-helper-1.6.1.AppImage",
       "platform": "🐧 Linux"
     },
     {
       "name": "tft-hextech-helper-1.6.1.deb",
       "size": 158731110,
-      "downloads": 16,
+      "downloads": 20,
       "url": "https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.6.1/tft-hextech-helper-1.6.1.deb",
       "platform": "🐧 Linux"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

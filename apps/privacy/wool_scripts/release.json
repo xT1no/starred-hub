@@ -13,14 +13,14 @@
     "iOS"
   ],
   "language": "Vim Snippet",
-  "stars": 5860,
-  "forks": 0,
-  "license": "",
+  "stars": 5903,
+  "forks": 326,
+  "license": "GPL-3.0",
   "archived": false,
   "homepage": "",
   "topics": [],
   "starred_at": "2025-11-03T12:34:14Z",
-  "pushed_at": "",
+  "pushed_at": "2026-10-30T16:04:49Z",
   "latest": {
     "kind": "none",
     "tag": "",
@@ -30,5 +30,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

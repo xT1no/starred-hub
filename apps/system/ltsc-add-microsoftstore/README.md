@@ -12,7 +12,7 @@ Add Windows Store for LTSC
 | 分类 | ⚙️ [系统增强 / 优化](../README.md) |
 | 平台 | 🪟 |
 | 语言 | Batchfile |
-| Star | 4.1k · Fork 0 |
+| Star | 4.1k · Fork 585 |
 | License | — |
 | 最新版本 | `2019` |
 | 最近更新 | 2018-10-05（8 年前） |

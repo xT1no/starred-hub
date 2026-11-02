@@ -18,15 +18,16 @@
 | 分类 | 🎬 [影视 / 直播 / 番剧](../README.md) |
 | 平台 | 🪟 🍎 🐧 📱 📲 🌐 🖥️ |
 | 语言 | Dart |
-| Star | 40k · Fork 0 |
-| License | — |
+| Star | 41k · Fork 1.3k |
+| License | GPL-3.0 |
 | 最新版本 | `2.4.2` |
-| 最近更新 | 2026-10-23（4 天前） |
+| 最近更新 | 2026-10-23（10 天前） |
 | 标星日期 | 2024-08-19 |
+| 官网 | <https://kazumi.app> |
 
 ## 📦 最新版本
 
-**`2.4.2`**　发布于 2026-10-23（4 天前）
+**`2.4.2`**　发布于 2026-10-23（10 天前）
 
 [查看 Release 页面](https://github.com/Predidit/Kazumi/releases/tag/2.4.2)
 
@@ -46,21 +47,22 @@
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [Kazumi_macos_2.4.2.dmg](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_macos_2.4.2.dmg) | 🍎 macOS | 53.3 MB | 3.8k |
-| [Kazumi_android_2.4.2.apk](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_android_2.4.2.apk) | 📲 Android | 31.9 MB | 54k |
-| [Kazumi_windows_2.4.2.zip](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_windows_2.4.2.zip) | 🪟 Windows | 40.9 MB | 36k |
-| [Kazumi_windows_2.4.2.msix](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_windows_2.4.2.msix) | 🪟 Windows | 45.5 MB | 34k |
-| [Kazumi_linux_2.4.2_amd64.deb](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_linux_2.4.2_amd64.deb) | 🐧 Linux | 33.7 MB | 1.7k |
-| [Kazumi_linux_2.4.2_amd64.tar.gz](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_linux_2.4.2_amd64.tar.gz) | 🐧 Linux | 41.2 MB | 836 |
-| [Kazumi_linux_2.4.2_arm64.deb](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_linux_2.4.2_arm64.deb) | 🐧 Linux | 32.2 MB | 440 |
-| [Kazumi_linux_2.4.2_arm64.tar.gz](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_linux_2.4.2_arm64.tar.gz) | 🐧 Linux | 39.4 MB | 395 |
-| [Kazumi_ios_2.4.2_no_sign.ipa](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_ios_2.4.2_no_sign.ipa) | 📦 其他 | 29.1 MB | 9.8k |
+| [Kazumi_macos_2.4.2.dmg](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_macos_2.4.2.dmg) | 🍎 macOS | 53.3 MB | 6.6k |
+| [Kazumi_android_2.4.2.apk](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_android_2.4.2.apk) | 📲 Android | 31.9 MB | 99k |
+| [Kazumi_windows_2.4.2.zip](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_windows_2.4.2.zip) | 🪟 Windows | 40.9 MB | 65k |
+| [Kazumi_windows_2.4.2.msix](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_windows_2.4.2.msix) | 🪟 Windows | 45.5 MB | 61k |
+| [Kazumi_linux_2.4.2_amd64.deb](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_linux_2.4.2_amd64.deb) | 🐧 Linux | 33.7 MB | 2.8k |
+| [Kazumi_linux_2.4.2_amd64.tar.gz](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_linux_2.4.2_amd64.tar.gz) | 🐧 Linux | 41.2 MB | 1.4k |
+| [Kazumi_linux_2.4.2_arm64.deb](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_linux_2.4.2_arm64.deb) | 🐧 Linux | 32.2 MB | 763 |
+| [Kazumi_linux_2.4.2_arm64.tar.gz](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_linux_2.4.2_arm64.tar.gz) | 🐧 Linux | 39.4 MB | 663 |
+| [Kazumi_ios_2.4.2_no_sign.ipa](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_ios_2.4.2_no_sign.ipa) | 📦 其他 | 29.1 MB | 18k |
 
 ## 🔗 快速链接
 
 - 仓库主页 · https://github.com/Predidit/Kazumi
 - Issues · https://github.com/Predidit/Kazumi/issues
 - Releases · https://github.com/Predidit/Kazumi/releases
+- 官网 / 演示 · https://kazumi.app
 
 `android` `cross-platform` `danmaku` `flutter` `ios` `linux-desktop` `macos` `windows`
 

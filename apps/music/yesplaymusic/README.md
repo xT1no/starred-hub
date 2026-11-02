@@ -18,15 +18,16 @@
 | 分类 | 🎵 [音乐 / 音频](../README.md) |
 | 平台 | 🪟 🍎 🐧 🌐 ⌨️ 🖥️ |
 | 语言 | Vue |
-| Star | 33k · Fork 0 |
-| License | — |
+| Star | 34k · Fork 4.7k |
+| License | MIT |
 | 最新版本 | `v0.4.11` |
-| 最近更新 | 2026-10-10（17 天前） |
+| 最近更新 | 2026-10-10（22 天前） |
 | 标星日期 | 2021-12-23 |
+| 官网 | <https://music.qier222.com> |
 
 ## 📦 最新版本
 
-**`v0.4.11`** · 0.4.11　发布于 2026-10-10（17 天前）
+**`v0.4.11`** · 0.4.11　发布于 2026-10-10（22 天前）
 
 [查看 Release 页面](https://github.com/qier222/YesPlayMusic/releases/tag/v0.4.11)
 
@@ -60,32 +61,33 @@
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [latest-mac.yml](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/latest-mac.yml) | 🍎 macOS | 690 B | 8.6k |
-| [YesPlayMusic-mac-0.4.11-arm64.dmg](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-arm64.dmg) | 🍎 macOS | 88.8 MB | 822 |
-| [YesPlayMusic-mac-0.4.11-x64.dmg](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-x64.dmg) | 🍎 macOS | 85.0 MB | 174 |
-| [YesPlayMusic-mac-0.4.11-universal.dmg](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-universal.dmg) | 🍎 macOS | 152.0 MB | 133 |
-| [YesPlayMusic-mac-0.4.11-arm64.dmg.blockmap](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-arm64.dmg.blockmap) | 🍎 macOS | 96 KB | 31 |
-| [YesPlayMusic-mac-0.4.11-x64.dmg.blockmap](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-x64.dmg.blockmap) | 🍎 macOS | 91 KB | 29 |
-| [YesPlayMusic-mac-0.4.11-universal.dmg.blockmap](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-universal.dmg.blockmap) | 🍎 macOS | 163 KB | 28 |
-| [YesPlayMusic-Setup-0.4.11.exe](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-Setup-0.4.11.exe) | 🪟 Windows | 55.5 MB | 4.7k |
-| [YesPlayMusic-Setup-0.4.11.exe.blockmap](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-Setup-0.4.11.exe.blockmap) | 🪟 Windows | 59 KB | 2.9k |
-| [YesPlayMusic-0.4.11.exe](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-0.4.11.exe) | 🪟 Windows | 55.4 MB | 2.7k |
-| [latest-linux.yml](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/latest-linux.yml) | 🐧 Linux | 378 B | 556 |
-| [YesPlayMusic-0.4.11.AppImage](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-0.4.11.AppImage) | 🐧 Linux | 90.9 MB | 514 |
-| [yesplaymusic_0.4.11_amd64.deb](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic_0.4.11_amd64.deb) | 🐧 Linux | 63.3 MB | 486 |
-| [yesplaymusic-0.4.11.x86_64.rpm](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic-0.4.11.x86_64.rpm) | 🐧 Linux | 63.3 MB | 322 |
-| [yesplaymusic-0.4.11-arm64.tar.gz](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic-0.4.11-arm64.tar.gz) | 🐧 Linux | 91.0 MB | 235 |
-| [yesplaymusic_0.4.11_arm64.deb](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic_0.4.11_arm64.deb) | 🐧 Linux | 63.3 MB | 130 |
-| [yesplaymusic_0.4.11_armv7l.deb](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic_0.4.11_armv7l.deb) | 🐧 Linux | 58.6 MB | 73 |
-| [latest.yml](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/latest.yml) | 📦 其他 | 387 B | 8.3k |
-| [yesplaymusic-0.4.11.pacman](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic-0.4.11.pacman) | 📦 其他 | 63.3 MB | 614 |
-| [yesplaymusic-0.4.11.tar.gz](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic-0.4.11.tar.gz) | 📦 其他 | 85.8 MB | 145 |
+| [latest-mac.yml](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/latest-mac.yml) | 🍎 macOS | 690 B | 11k |
+| [YesPlayMusic-mac-0.4.11-arm64.dmg](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-arm64.dmg) | 🍎 macOS | 88.8 MB | 1k |
+| [YesPlayMusic-mac-0.4.11-x64.dmg](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-x64.dmg) | 🍎 macOS | 85.0 MB | 233 |
+| [YesPlayMusic-mac-0.4.11-universal.dmg](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-universal.dmg) | 🍎 macOS | 152.0 MB | 213 |
+| [YesPlayMusic-mac-0.4.11-arm64.dmg.blockmap](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-arm64.dmg.blockmap) | 🍎 macOS | 96 KB | 38 |
+| [YesPlayMusic-mac-0.4.11-x64.dmg.blockmap](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-x64.dmg.blockmap) | 🍎 macOS | 91 KB | 35 |
+| [YesPlayMusic-mac-0.4.11-universal.dmg.blockmap](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-universal.dmg.blockmap) | 🍎 macOS | 163 KB | 33 |
+| [YesPlayMusic-Setup-0.4.11.exe](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-Setup-0.4.11.exe) | 🪟 Windows | 55.5 MB | 5.7k |
+| [YesPlayMusic-0.4.11.exe](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-0.4.11.exe) | 🪟 Windows | 55.4 MB | 3.4k |
+| [YesPlayMusic-Setup-0.4.11.exe.blockmap](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-Setup-0.4.11.exe.blockmap) | 🪟 Windows | 59 KB | 3.4k |
+| [latest-linux.yml](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/latest-linux.yml) | 🐧 Linux | 378 B | 714 |
+| [YesPlayMusic-0.4.11.AppImage](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-0.4.11.AppImage) | 🐧 Linux | 90.9 MB | 631 |
+| [yesplaymusic_0.4.11_amd64.deb](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic_0.4.11_amd64.deb) | 🐧 Linux | 63.3 MB | 621 |
+| [yesplaymusic-0.4.11.x86_64.rpm](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic-0.4.11.x86_64.rpm) | 🐧 Linux | 63.3 MB | 358 |
+| [yesplaymusic-0.4.11-arm64.tar.gz](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic-0.4.11-arm64.tar.gz) | 🐧 Linux | 91.0 MB | 304 |
+| [yesplaymusic_0.4.11_arm64.deb](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic_0.4.11_arm64.deb) | 🐧 Linux | 63.3 MB | 186 |
+| [yesplaymusic_0.4.11_armv7l.deb](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic_0.4.11_armv7l.deb) | 🐧 Linux | 58.6 MB | 90 |
+| [latest.yml](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/latest.yml) | 📦 其他 | 387 B | 11k |
+| [yesplaymusic-0.4.11.pacman](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic-0.4.11.pacman) | 📦 其他 | 63.3 MB | 706 |
+| [yesplaymusic-0.4.11.tar.gz](https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic-0.4.11.tar.gz) | 📦 其他 | 85.8 MB | 187 |
 
 ## 🔗 快速链接
 
 - 仓库主页 · https://github.com/qier222/YesPlayMusic
 - Issues · https://github.com/qier222/YesPlayMusic/issues
 - Releases · https://github.com/qier222/YesPlayMusic/releases
+- 官网 / 演示 · https://music.qier222.com
 
 `electron` `javascript` `linux` `mac` `macos` `music` `music-player` `netease-music` `player` `progressive-web-app` `pwa` `pwa-apps`
 

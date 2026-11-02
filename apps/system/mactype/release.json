@@ -14,10 +14,10 @@
   ],
   "language": "C++",
   "stars": 12004,
-  "forks": 0,
-  "license": "",
+  "forks": 449,
+  "license": "GPL-3.0",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://mactype.net",
   "topics": [
     "directwrite",
     "font",
@@ -25,7 +25,7 @@
     "mactype"
   ],
   "starred_at": "2023-12-07T16:47:53Z",
-  "pushed_at": "",
+  "pushed_at": "2026-04-29T03:00:50Z",
   "latest": {
     "kind": "release",
     "tag": "v1.2025.6.9",
@@ -38,10 +38,10 @@
     {
       "name": "MacTypeInstaller_2025.6.9.exe",
       "size": 5859096,
-      "downloads": 191600,
+      "downloads": 193492,
       "url": "https://github.com/snowie2000/mactype/releases/download/v1.2025.6.9/MacTypeInstaller_2025.6.9.exe",
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

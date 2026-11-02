@@ -14,11 +14,11 @@
     "Linux"
   ],
   "language": "Python",
-  "stars": 8742,
-  "forks": 0,
-  "license": "",
+  "stars": 8750,
+  "forks": 1339,
+  "license": "MIT",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://sitoi.github.io/dailycheckin/",
   "topics": [
     "acfun",
     "aliyundrive",
@@ -42,7 +42,7 @@
     "youdaonote"
   ],
   "starred_at": "2022-07-27T11:30:55Z",
-  "pushed_at": "",
+  "pushed_at": "2026-07-09T08:56:15Z",
   "latest": {
     "kind": "release",
     "tag": "25.12.9",
@@ -52,5 +52,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

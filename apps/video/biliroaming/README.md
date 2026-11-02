@@ -20,7 +20,7 @@
 | 分类 | 🎬 [影视 / 直播 / 番剧](../README.md) |
 | 平台 | 📲 |
 | 语言 | Kotlin |
-| Star | 12k · Fork 0 |
+| Star | 12k · Fork 779 |
 | License | — |
 | 最新版本 | `v1.7.0` |
 | 最近更新 | 2023-10-12（3 年前） |
@@ -57,7 +57,7 @@ Xpatch/LSPatch 版下载地址：https://wwe.lanzoux.com/b015ll4sb 2333
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [BiliRoaming_1.7.0.apk](https://github.com/yujincheng08/BiliRoaming/releases/download/v1.7.0/BiliRoaming_1.7.0.apk) | 📲 Android | 671 KB | 73k |
+| [BiliRoaming_1.7.0.apk](https://github.com/yujincheng08/BiliRoaming/releases/download/v1.7.0/BiliRoaming_1.7.0.apk) | 📲 Android | 671 KB | 74k |
 
 ## 🔗 快速链接
 

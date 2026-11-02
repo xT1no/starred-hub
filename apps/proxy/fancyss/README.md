@@ -12,10 +12,10 @@ fancyss is a project providing tools to across the GFW on asuswrt/merlin based r
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | 🛰️ |
 | 语言 | Shell |
-| Star | 14k · Fork 0 |
-| License | — |
+| Star | 14k · Fork 3.2k |
+| License | GPL-3.0 |
 | 最新版本 | `v3.1.3` |
-| 最近更新 | —（—） |
+| 最近更新 | 2026-06-01（5 个月前） |
 | 标星日期 | 2023-04-11 |
 
 ## 📦 最新版本

@@ -13,11 +13,11 @@
     "Windows"
   ],
   "language": "PowerShell",
-  "stars": 14609,
-  "forks": 0,
-  "license": "",
+  "stars": 14639,
+  "forks": 1093,
+  "license": "MIT",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://www.officetool.plus",
   "topics": [
     "msoffice",
     "msproject",
@@ -28,7 +28,7 @@
     "visio"
   ],
   "starred_at": "2024-03-08T15:02:20Z",
-  "pushed_at": "",
+  "pushed_at": "2026-10-19T13:22:06Z",
   "latest": {
     "kind": "release",
     "tag": "v11.8.50.0",
@@ -41,45 +41,45 @@
     {
       "name": "Office_Tool_v11.8.50.0_arm64.zip",
       "size": 10746870,
-      "downloads": 675,
+      "downloads": 905,
       "url": "https://github.com/YerongAI/Office-Tool/releases/download/v11.8.50.0/Office_Tool_v11.8.50.0_arm64.zip",
       "platform": "🐧 Linux"
     },
     {
       "name": "Office_Tool_v11.8.50.0_x64.zip",
       "size": 10768316,
-      "downloads": 5154,
+      "downloads": 6891,
       "url": "https://github.com/YerongAI/Office-Tool/releases/download/v11.8.50.0/Office_Tool_v11.8.50.0_x64.zip",
       "platform": "🌐 Web"
     },
     {
       "name": "Office_Tool_with_runtime_v11.8.50.0_arm64.7z",
       "size": 50753349,
-      "downloads": 250,
+      "downloads": 292,
       "url": "https://github.com/YerongAI/Office-Tool/releases/download/v11.8.50.0/Office_Tool_with_runtime_v11.8.50.0_arm64.7z",
       "platform": "🐧 Linux"
     },
     {
       "name": "Office_Tool_with_runtime_v11.8.50.0_arm64.zip",
       "size": 76378899,
-      "downloads": 751,
+      "downloads": 935,
       "url": "https://github.com/YerongAI/Office-Tool/releases/download/v11.8.50.0/Office_Tool_with_runtime_v11.8.50.0_arm64.zip",
       "platform": "🐧 Linux"
     },
     {
       "name": "Office_Tool_with_runtime_v11.8.50.0_x64.7z",
       "size": 57251475,
-      "downloads": 1743,
+      "downloads": 2345,
       "url": "https://github.com/YerongAI/Office-Tool/releases/download/v11.8.50.0/Office_Tool_with_runtime_v11.8.50.0_x64.7z",
       "platform": "📦 其他"
     },
     {
       "name": "Office_Tool_with_runtime_v11.8.50.0_x64.zip",
       "size": 81494977,
-      "downloads": 28731,
+      "downloads": 41969,
       "url": "https://github.com/YerongAI/Office-Tool/releases/download/v11.8.50.0/Office_Tool_with_runtime_v11.8.50.0_x64.zip",
       "platform": "🌐 Web"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

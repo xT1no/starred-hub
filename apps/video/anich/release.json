@@ -13,11 +13,11 @@
     "Web"
   ],
   "language": "Dart",
-  "stars": 7258,
-  "forks": 0,
+  "stars": 7570,
+  "forks": 155,
   "license": "",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://anich.emmmm.eu.org",
   "topics": [
     "acg",
     "anime",
@@ -28,7 +28,7 @@
     "danmaku"
   ],
   "starred_at": "2026-04-09T05:20:46Z",
-  "pushed_at": "",
+  "pushed_at": "2026-10-05T03:15:29Z",
   "latest": {
     "kind": "release",
     "tag": "1.5.27",
@@ -41,87 +41,87 @@
     {
       "name": "anich-android-arm64-v8a-1.5.27.apk",
       "size": 26491210,
-      "downloads": 77359,
+      "downloads": 85511,
       "url": "https://github.com/Sle2p/AniCh/releases/download/1.5.27/anich-android-arm64-v8a-1.5.27.apk",
       "platform": "📲 Android"
     },
     {
       "name": "anich-android-armeabi-v7a-1.5.27.apk",
       "size": 24908883,
-      "downloads": 12163,
+      "downloads": 13889,
       "url": "https://github.com/Sle2p/AniCh/releases/download/1.5.27/anich-android-armeabi-v7a-1.5.27.apk",
       "platform": "📲 Android"
     },
     {
       "name": "anich-android-universal-1.5.27.apk",
       "size": 75016782,
-      "downloads": 12028,
+      "downloads": 13898,
       "url": "https://github.com/Sle2p/AniCh/releases/download/1.5.27/anich-android-universal-1.5.27.apk",
       "platform": "📲 Android"
     },
     {
       "name": "anich-android-x86_64-1.5.27.apk",
       "size": 26897794,
-      "downloads": 4400,
+      "downloads": 4884,
       "url": "https://github.com/Sle2p/AniCh/releases/download/1.5.27/anich-android-x86_64-1.5.27.apk",
       "platform": "📲 Android"
     },
     {
       "name": "anich-ios-no_sign-1.5.27.ipa",
       "size": 41226765,
-      "downloads": 5582,
+      "downloads": 6453,
       "url": "https://github.com/Sle2p/AniCh/releases/download/1.5.27/anich-ios-no_sign-1.5.27.ipa",
       "platform": "📦 其他"
     },
     {
       "name": "anich-linux-1.5.27.deb",
       "size": 22490848,
-      "downloads": 601,
+      "downloads": 721,
       "url": "https://github.com/Sle2p/AniCh/releases/download/1.5.27/anich-linux-1.5.27.deb",
       "platform": "🐧 Linux"
     },
     {
       "name": "anich-linux-1.5.27.zip",
       "size": 30170776,
-      "downloads": 1481,
+      "downloads": 1737,
       "url": "https://github.com/Sle2p/AniCh/releases/download/1.5.27/anich-linux-1.5.27.zip",
       "platform": "🐧 Linux"
     },
     {
       "name": "anich-macos-1.5.27.dmg",
       "size": 55966301,
-      "downloads": 1193,
+      "downloads": 1464,
       "url": "https://github.com/Sle2p/AniCh/releases/download/1.5.27/anich-macos-1.5.27.dmg",
       "platform": "🍎 macOS"
     },
     {
       "name": "anich-macos-1.5.27.zip",
       "size": 54645205,
-      "downloads": 1200,
+      "downloads": 1415,
       "url": "https://github.com/Sle2p/AniCh/releases/download/1.5.27/anich-macos-1.5.27.zip",
       "platform": "🍎 macOS"
     },
     {
       "name": "anich-ohos-unsigned-1.5.27.hap",
       "size": 71469974,
-      "downloads": 2872,
+      "downloads": 3234,
       "url": "https://github.com/Sle2p/AniCh/releases/download/1.5.27/anich-ohos-unsigned-1.5.27.hap",
       "platform": "📦 其他"
     },
     {
       "name": "anich-windows-1.5.27.zip",
       "size": 50057133,
-      "downloads": 12402,
+      "downloads": 14242,
       "url": "https://github.com/Sle2p/AniCh/releases/download/1.5.27/anich-windows-1.5.27.zip",
       "platform": "🪟 Windows"
     },
     {
       "name": "anich-windows-installer-1.5.27.exe",
       "size": 37752864,
-      "downloads": 16208,
+      "downloads": 18510,
       "url": "https://github.com/Sle2p/AniCh/releases/download/1.5.27/anich-windows-installer-1.5.27.exe",
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

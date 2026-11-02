@@ -18,8 +18,8 @@ Unofficial warp client for android
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | 📲 |
 | 语言 | Dart |
-| Star | 4.9k · Fork 0 |
-| License | — |
+| Star | 4.9k · Fork 645 |
+| License | MIT |
 | 最新版本 | `v8` |
 | 最近更新 | 2026-09-08（1 个月前） |
 | 标星日期 | 2024-06-02 |
@@ -51,7 +51,7 @@ Special thanks to @CluvexStudio for continuing the development!
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [oblivion-v8-signed.apk](https://github.com/bepass-org/oblivion/releases/download/v8/oblivion-v8-signed.apk) | 📲 Android | 59.6 MB | 18k |
+| [oblivion-v8-signed.apk](https://github.com/bepass-org/oblivion/releases/download/v8/oblivion-v8-signed.apk) | 📲 Android | 59.6 MB | 19k |
 
 ## 🔗 快速链接
 

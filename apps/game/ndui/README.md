@@ -10,7 +10,7 @@ NDui for World of Warcraft
 
 ## ⬇️ 直接下载
 
-📦 [zip · 0.9 MB](https://github.com/siweia/NDui/releases/download/Classic-0.0.6/NDui-Classic-0.0.6-forever.zip)
+📦 [zip · 0.9 MB](https://github.com/siweia/NDui/releases/download/10.2.5/NDui-10.2.5.zip)
 
 全部 2 个文件见下方 [安装包](#pkgs) 表格。
 
@@ -20,29 +20,33 @@ NDui for World of Warcraft
 | 分类 | 🎮 [游戏 / 辅助脚本](../README.md) |
 | 平台 | 🪟 |
 | 语言 | Lua |
-| Star | 380 · Fork 0 |
+| Star | 382 · Fork 93 |
 | License | — |
-| 最新版本 | `Classic-0.0.6` |
-| 最近更新 | 2026-10-25（2 天前） |
+| 最新版本 | `10.2.5` |
+| 最近更新 | 2026-10-30（2 天前） |
 | 标星日期 | 2025-11-29 |
 
 ## 📦 最新版本
 
-**`Classic-0.0.6`**　发布于 2026-10-25（2 天前）
+**`10.2.5`**　发布于 2026-10-30（2 天前）
 
-[查看 Release 页面](https://github.com/siweia/NDui/releases/tag/Classic-0.0.6)
+[查看 Release 页面](https://github.com/siweia/NDui/releases/tag/10.2.5)
 
 <details><summary>更新说明</summary>
 
 ```text
 # NDui
 
-## [Classic-0.0.6](https://github.com/siweia/NDui/tree/Classic-0.0.6) (2026-10-25)
-[Full Changelog](https://github.com/siweia/NDui/compare/Classic-0.0.5...Classic-0.0.6) [Previous Releases](https://github.com/siweia/NDui/releases)
+## [10.2.5](https://github.com/siweia/NDui/tree/10.2.5) (2026-10-30)
+[Full Changelog](https://github.com/siweia/NDui/compare/10.2.4...10.2.5) [Previous Releases](https://github.com/siweia/NDui/releases)
 
-- Classic-0.0.6
-- Fix cooldown object in GCD ticker
-- Fix role icons
+- NDui 10.2.5
+- Refactor itemlevel
+- Fix itemlevel refresh on cursor unit
+- Refactor nameplate prewarm
+- Update ouf
+- Do not prewarm auras
+- Prewarm item buttons
 ```
 
 </details>
@@ -55,8 +59,8 @@ NDui for World of Warcraft
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [NDui-Classic-0.0.6-forever.zip](https://github.com/siweia/NDui/releases/download/Classic-0.0.6/NDui-Classic-0.0.6-forever.zip) | 🌐 Web | 891 KB | 1 |
-| [release.json](https://github.com/siweia/NDui/releases/download/Classic-0.0.6/release.json) | 📦 其他 | 167 B | 2 |
+| [NDui-10.2.5.zip](https://github.com/siweia/NDui/releases/download/10.2.5/NDui-10.2.5.zip) | 🌐 Web | 889 KB | 9 |
+| [release.json](https://github.com/siweia/NDui/releases/download/10.2.5/release.json) | 📦 其他 | 147 B | 2 |
 
 ## 🔗 快速链接
 

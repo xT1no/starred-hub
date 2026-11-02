@@ -18,11 +18,12 @@
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | ☁️ |
 | 语言 | Shell |
-| Star | 5.2k · Fork 0 |
-| License | — |
+| Star | 5.2k · Fork 1.8k |
+| License | MIT |
 | 最新版本 | `other` |
 | 最近更新 | 2025-05-05（1 年前） |
 | 标星日期 | 2024-10-18 |
+| 官网 | <https://serv00.eooce.com> |
 
 ## 📦 最新版本
 
@@ -46,15 +47,16 @@ google
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [idx-empty-workspace.zip](https://github.com/eooce/Sing-box/releases/download/other/idx-empty-workspace.zip) | 🌐 Web | 1 KB | 462 |
-| [idx-nodejs.zip](https://github.com/eooce/Sing-box/releases/download/other/idx-nodejs.zip) | 🌐 Web | 3 KB | 113 |
-| [idx-python.zip](https://github.com/eooce/Sing-box/releases/download/other/idx-python.zip) | 🌐 Web | 4 KB | 67 |
+| [idx-empty-workspace.zip](https://github.com/eooce/Sing-box/releases/download/other/idx-empty-workspace.zip) | 🌐 Web | 1 KB | 465 |
+| [idx-nodejs.zip](https://github.com/eooce/Sing-box/releases/download/other/idx-nodejs.zip) | 🌐 Web | 3 KB | 116 |
+| [idx-python.zip](https://github.com/eooce/Sing-box/releases/download/other/idx-python.zip) | 🌐 Web | 4 KB | 70 |
 
 ## 🔗 快速链接
 
 - 仓库主页 · https://github.com/eooce/Sing-box
 - Issues · https://github.com/eooce/Sing-box/issues
 - Releases · https://github.com/eooce/Sing-box/releases
+- 官网 / 演示 · https://serv00.eooce.com
 
 `argo` `hysteria2` `oneclick` `reality` `serv00` `sing-box` `tuic` `tunnel` `vmess-ws-tls`
 

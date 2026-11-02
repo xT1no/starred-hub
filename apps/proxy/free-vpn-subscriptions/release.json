@@ -13,11 +13,11 @@
     "通用 / 未指定"
   ],
   "language": "",
-  "stars": 1050,
-  "forks": 0,
-  "license": "",
+  "stars": 1077,
+  "forks": 95,
+  "license": "MIT",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://au1rxx.github.io/free-vpn-subscriptions/",
   "topics": [
     "clash",
     "clash-meta",
@@ -39,7 +39,7 @@
     "xray"
   ],
   "starred_at": "2026-09-20T02:45:40Z",
-  "pushed_at": "",
+  "pushed_at": "2026-10-30T10:11:46Z",
   "latest": {
     "kind": "release",
     "tag": "feed-20260419-023716",
@@ -52,31 +52,31 @@
     {
       "name": "clash.yaml",
       "size": 2260,
-      "downloads": 4181,
+      "downloads": 4337,
       "url": "https://github.com/Au1rxx/free-vpn-subscriptions/releases/download/feed-20260419-023716/clash.yaml",
       "platform": "📦 其他"
     },
     {
       "name": "singbox.json",
       "size": 3364,
-      "downloads": 732,
+      "downloads": 754,
       "url": "https://github.com/Au1rxx/free-vpn-subscriptions/releases/download/feed-20260419-023716/singbox.json",
       "platform": "📦 其他"
     },
     {
       "name": "status.json",
       "size": 1185,
-      "downloads": 144,
+      "downloads": 145,
       "url": "https://github.com/Au1rxx/free-vpn-subscriptions/releases/download/feed-20260419-023716/status.json",
       "platform": "📦 其他"
     },
     {
       "name": "v2ray-base64.txt",
       "size": 1156,
-      "downloads": 4028,
+      "downloads": 4177,
       "url": "https://github.com/Au1rxx/free-vpn-subscriptions/releases/download/feed-20260419-023716/v2ray-base64.txt",
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

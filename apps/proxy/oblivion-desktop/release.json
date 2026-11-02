@@ -15,11 +15,11 @@
     "Linux"
   ],
   "language": "TypeScript",
-  "stars": 8406,
-  "forks": 0,
-  "license": "",
+  "stars": 8398,
+  "forks": 902,
+  "license": "NOASSERTION",
   "archived": true,
-  "homepage": "",
+  "homepage": "https://github.com/bepass-org/oblivion-desktop/releases",
   "topics": [
     "anticensorship",
     "cloudflare",
@@ -43,7 +43,7 @@
     "zerotrust"
   ],
   "starred_at": "2024-06-02T17:30:27Z",
-  "pushed_at": "",
+  "pushed_at": "2026-06-30T04:31:48Z",
   "latest": {
     "kind": "release",
     "tag": "v3.11.0",
@@ -56,129 +56,129 @@
     {
       "name": "oblivion-desktop-linux-aarch64.rpm",
       "size": 105389753,
-      "downloads": 3823,
+      "downloads": 3870,
       "url": "https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-linux-aarch64.rpm",
       "platform": "🐧 Linux"
     },
     {
       "name": "oblivion-desktop-linux-amd64.deb",
       "size": 110337784,
-      "downloads": 5871,
+      "downloads": 5924,
       "url": "https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-linux-amd64.deb",
       "platform": "🐧 Linux"
     },
     {
       "name": "oblivion-desktop-linux-arm64.AppImage",
       "size": 161485131,
-      "downloads": 823,
+      "downloads": 842,
       "url": "https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-linux-arm64.AppImage",
       "platform": "🐧 Linux"
     },
     {
       "name": "oblivion-desktop-linux-arm64.deb",
       "size": 103016662,
-      "downloads": 994,
+      "downloads": 1004,
       "url": "https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-linux-arm64.deb",
       "platform": "🐧 Linux"
     },
     {
       "name": "oblivion-desktop-linux-arm64.tar.xz",
       "size": 104536408,
-      "downloads": 1481,
+      "downloads": 1498,
       "url": "https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-linux-arm64.tar.xz",
       "platform": "🐧 Linux"
     },
     {
       "name": "oblivion-desktop-linux-x64.tar.xz",
       "size": 111534424,
-      "downloads": 2329,
+      "downloads": 2351,
       "url": "https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-linux-x64.tar.xz",
       "platform": "🐧 Linux"
     },
     {
       "name": "oblivion-desktop-linux-x86_64.AppImage",
       "size": 163883636,
-      "downloads": 2620,
+      "downloads": 2639,
       "url": "https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-linux-x86_64.AppImage",
       "platform": "🐧 Linux"
     },
     {
       "name": "oblivion-desktop-linux-x86_64.rpm",
       "size": 112562645,
-      "downloads": 972,
+      "downloads": 982,
       "url": "https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-linux-x86_64.rpm",
       "platform": "🐧 Linux"
     },
     {
       "name": "oblivion-desktop-mac-arm64.dmg",
       "size": 156551707,
-      "downloads": 4946,
+      "downloads": 5025,
       "url": "https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-mac-arm64.dmg",
       "platform": "🍎 macOS"
     },
     {
       "name": "oblivion-desktop-mac-arm64.zip",
       "size": 151500745,
-      "downloads": 3205,
+      "downloads": 3243,
       "url": "https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-mac-arm64.zip",
       "platform": "🍎 macOS"
     },
     {
       "name": "oblivion-desktop-mac-x64.dmg",
       "size": 163877026,
-      "downloads": 2777,
+      "downloads": 2801,
       "url": "https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-mac-x64.dmg",
       "platform": "🍎 macOS"
     },
     {
       "name": "oblivion-desktop-mac-x64.zip",
       "size": 158820532,
-      "downloads": 2287,
+      "downloads": 2320,
       "url": "https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-mac-x64.zip",
       "platform": "🍎 macOS"
     },
     {
       "name": "oblivion-desktop-win-arm64.exe",
       "size": 120538609,
-      "downloads": 9714,
+      "downloads": 9829,
       "url": "https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-win-arm64.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "oblivion-desktop-win-arm64.zip",
       "size": 175887527,
-      "downloads": 6017,
+      "downloads": 6075,
       "url": "https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-win-arm64.zip",
       "platform": "🪟 Windows"
     },
     {
       "name": "oblivion-desktop-win-ia32.exe",
       "size": 106607273,
-      "downloads": 7211,
+      "downloads": 7270,
       "url": "https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-win-ia32.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "oblivion-desktop-win-ia32.zip",
       "size": 160507621,
-      "downloads": 3422,
+      "downloads": 3460,
       "url": "https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-win-ia32.zip",
       "platform": "🪟 Windows"
     },
     {
       "name": "oblivion-desktop-win-x64.exe",
       "size": 119802453,
-      "downloads": 148836,
+      "downloads": 149587,
       "url": "https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-win-x64.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "oblivion-desktop-win-x64.zip",
       "size": 180095873,
-      "downloads": 39627,
+      "downloads": 39804,
       "url": "https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-win-x64.zip",
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

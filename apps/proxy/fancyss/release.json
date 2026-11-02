@@ -13,9 +13,9 @@
     "路由器 / 固件"
   ],
   "language": "Shell",
-  "stars": 13817,
-  "forks": 0,
-  "license": "",
+  "stars": 13821,
+  "forks": 3238,
+  "license": "GPL-3.0",
   "archived": false,
   "homepage": "",
   "topics": [
@@ -33,7 +33,7 @@
     "xray"
   ],
   "starred_at": "2023-04-11T10:38:28Z",
-  "pushed_at": "",
+  "pushed_at": "2026-06-01T16:01:19Z",
   "latest": {
     "kind": "tag",
     "tag": "v3.1.3",
@@ -43,5 +43,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

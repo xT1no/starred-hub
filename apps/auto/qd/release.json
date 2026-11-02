@@ -13,11 +13,11 @@
     "通用 / 未指定"
   ],
   "language": "Python",
-  "stars": 5581,
-  "forks": 0,
-  "license": "",
+  "stars": 5584,
+  "forks": 649,
+  "license": "MIT",
   "archived": false,
-  "homepage": "",
+  "homepage": "https://qd-today.github.io/qd/",
   "topics": [
     "checkin",
     "docker",
@@ -26,7 +26,7 @@
     "qiandao"
   ],
   "starred_at": "2022-08-11T17:08:42Z",
-  "pushed_at": "",
+  "pushed_at": "2026-10-26T16:13:36Z",
   "latest": {
     "kind": "release",
     "tag": "20250803",
@@ -36,5 +36,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

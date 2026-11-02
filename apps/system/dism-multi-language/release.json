@@ -13,14 +13,14 @@
     "Windows"
   ],
   "language": "HTML",
-  "stars": 20677,
-  "forks": 0,
-  "license": "",
+  "stars": 20711,
+  "forks": 1245,
+  "license": "MIT",
   "archived": false,
   "homepage": "",
   "topics": [],
   "starred_at": "2022-07-18T06:33:13Z",
-  "pushed_at": "",
+  "pushed_at": "2026-10-09T08:19:25Z",
   "latest": {
     "kind": "release",
     "tag": "v10.1.1002.2",
@@ -33,10 +33,10 @@
     {
       "name": "Dism++10.1.1002.1B.zip",
       "size": 3767974,
-      "downloads": 1766515,
+      "downloads": 1774860,
       "url": "https://github.com/Chuyu-Team/Dism-Multi-language/releases/download/v10.1.1002.2/Dism%2B%2B10.1.1002.1B.zip",
       "platform": "🌐 Web"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }

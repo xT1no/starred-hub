@@ -18,15 +18,15 @@
 | 分类 | 🎮 [游戏 / 辅助脚本](../README.md) |
 | 平台 | 🪟 |
 | 语言 | C# |
-| Star | 8k · Fork 0 |
-| License | — |
+| Star | 8k · Fork 253 |
+| License | GPL-3.0 |
 | 最新版本 | `v1.2.7.0` |
-| 最近更新 | 2026-10-18（10 天前） |
+| 最近更新 | 2026-10-18（15 天前） |
 | 标星日期 | 2026-09-15 |
 
 ## 📦 最新版本
 
-**`v1.2.7.0`**　发布于 2026-10-18（10 天前）
+**`v1.2.7.0`**　发布于 2026-10-18（15 天前）
 
 [查看 Release 页面](https://github.com/beeradmoore/dlss-swapper/releases/tag/v1.2.7.0)
 
@@ -60,8 +60,8 @@ A bug that would cause games library to stop being loaded has been fixed. An add
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [DLSS.Swapper-1.2.7.0-installer.exe](https://github.com/beeradmoore/dlss-swapper/releases/download/v1.2.7.0/DLSS.Swapper-1.2.7.0-installer.exe) | 🪟 Windows | 109.8 MB | 48k |
-| [DLSS.Swapper-1.2.7.0-portable.zip](https://github.com/beeradmoore/dlss-swapper/releases/download/v1.2.7.0/DLSS.Swapper-1.2.7.0-portable.zip) | 🌐 Web | 114.7 MB | 23k |
+| [DLSS.Swapper-1.2.7.0-installer.exe](https://github.com/beeradmoore/dlss-swapper/releases/download/v1.2.7.0/DLSS.Swapper-1.2.7.0-installer.exe) | 🪟 Windows | 109.8 MB | 64k |
+| [DLSS.Swapper-1.2.7.0-portable.zip](https://github.com/beeradmoore/dlss-swapper/releases/download/v1.2.7.0/DLSS.Swapper-1.2.7.0-portable.zip) | 🌐 Web | 114.7 MB | 32k |
 
 ## 🔗 快速链接
 

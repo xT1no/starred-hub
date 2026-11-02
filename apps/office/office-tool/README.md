@@ -18,15 +18,16 @@ Office Tool Plus localization projects.
 | 分类 | 📄 [办公 / 阅读 / 笔记](../README.md) |
 | 平台 | 🪟 |
 | 语言 | PowerShell |
-| Star | 15k · Fork 0 |
-| License | — |
+| Star | 15k · Fork 1.1k |
+| License | MIT |
 | 最新版本 | `v11.8.50.0` |
-| 最近更新 | 2026-10-18（10 天前） |
+| 最近更新 | 2026-10-18（15 天前） |
 | 标星日期 | 2024-03-08 |
+| 官网 | <https://www.officetool.plus> |
 
 ## 📦 最新版本
 
-**`v11.8.50.0`** · Office Tool Plus v11.8.50.0　发布于 2026-10-18（10 天前）
+**`v11.8.50.0`** · Office Tool Plus v11.8.50.0　发布于 2026-10-18（15 天前）
 
 [查看 Release 页面](https://github.com/YerongAI/Office-Tool/releases/tag/v11.8.50.0)
 
@@ -61,18 +62,19 @@ Office Tool Plus localization projects.
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [Office_Tool_with_runtime_v11.8.50.0_arm64.zip](https://github.com/YerongAI/Office-Tool/releases/download/v11.8.50.0/Office_Tool_with_runtime_v11.8.50.0_arm64.zip) | 🐧 Linux | 72.8 MB | 751 |
-| [Office_Tool_v11.8.50.0_arm64.zip](https://github.com/YerongAI/Office-Tool/releases/download/v11.8.50.0/Office_Tool_v11.8.50.0_arm64.zip) | 🐧 Linux | 10.2 MB | 675 |
-| [Office_Tool_with_runtime_v11.8.50.0_arm64.7z](https://github.com/YerongAI/Office-Tool/releases/download/v11.8.50.0/Office_Tool_with_runtime_v11.8.50.0_arm64.7z) | 🐧 Linux | 48.4 MB | 250 |
-| [Office_Tool_with_runtime_v11.8.50.0_x64.zip](https://github.com/YerongAI/Office-Tool/releases/download/v11.8.50.0/Office_Tool_with_runtime_v11.8.50.0_x64.zip) | 🌐 Web | 77.7 MB | 29k |
-| [Office_Tool_v11.8.50.0_x64.zip](https://github.com/YerongAI/Office-Tool/releases/download/v11.8.50.0/Office_Tool_v11.8.50.0_x64.zip) | 🌐 Web | 10.3 MB | 5.2k |
-| [Office_Tool_with_runtime_v11.8.50.0_x64.7z](https://github.com/YerongAI/Office-Tool/releases/download/v11.8.50.0/Office_Tool_with_runtime_v11.8.50.0_x64.7z) | 📦 其他 | 54.6 MB | 1.7k |
+| [Office_Tool_with_runtime_v11.8.50.0_arm64.zip](https://github.com/YerongAI/Office-Tool/releases/download/v11.8.50.0/Office_Tool_with_runtime_v11.8.50.0_arm64.zip) | 🐧 Linux | 72.8 MB | 935 |
+| [Office_Tool_v11.8.50.0_arm64.zip](https://github.com/YerongAI/Office-Tool/releases/download/v11.8.50.0/Office_Tool_v11.8.50.0_arm64.zip) | 🐧 Linux | 10.2 MB | 905 |
+| [Office_Tool_with_runtime_v11.8.50.0_arm64.7z](https://github.com/YerongAI/Office-Tool/releases/download/v11.8.50.0/Office_Tool_with_runtime_v11.8.50.0_arm64.7z) | 🐧 Linux | 48.4 MB | 292 |
+| [Office_Tool_with_runtime_v11.8.50.0_x64.zip](https://github.com/YerongAI/Office-Tool/releases/download/v11.8.50.0/Office_Tool_with_runtime_v11.8.50.0_x64.zip) | 🌐 Web | 77.7 MB | 42k |
+| [Office_Tool_v11.8.50.0_x64.zip](https://github.com/YerongAI/Office-Tool/releases/download/v11.8.50.0/Office_Tool_v11.8.50.0_x64.zip) | 🌐 Web | 10.3 MB | 6.9k |
+| [Office_Tool_with_runtime_v11.8.50.0_x64.7z](https://github.com/YerongAI/Office-Tool/releases/download/v11.8.50.0/Office_Tool_with_runtime_v11.8.50.0_x64.7z) | 📦 其他 | 54.6 MB | 2.3k |
 
 ## 🔗 快速链接
 
 - 仓库主页 · https://github.com/YerongAI/Office-Tool
 - Issues · https://github.com/YerongAI/Office-Tool/issues
 - Releases · https://github.com/YerongAI/Office-Tool/releases
+- 官网 / 演示 · https://www.officetool.plus
 
 `msoffice` `msproject` `office` `office-365` `office-tools` `office365` `visio`
 

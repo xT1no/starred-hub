@@ -13,11 +13,11 @@
     "Android"
   ],
   "language": "Java",
-  "stars": 170,
-  "forks": 0,
-  "license": "",
+  "stars": 168,
+  "forks": 27,
+  "license": "MIT",
   "archived": true,
-  "homepage": "",
+  "homepage": "http://debugers.com:8888/swagger-ui.html#/",
   "topics": [
     "bilibili-live",
     "douyu",
@@ -25,7 +25,7 @@
     "java"
   ],
   "starred_at": "2020-10-08T12:15:18Z",
-  "pushed_at": "",
+  "pushed_at": "2022-09-19T09:10:31Z",
   "latest": {
     "kind": "release",
     "tag": "1.0.6beta",
@@ -38,10 +38,10 @@
     {
       "name": "alltv_1.0.6_beta.apk",
       "size": 9128471,
-      "downloads": 507,
+      "downloads": 510,
       "url": "https://github.com/Ha2ryZhang/alltv/releases/download/1.0.6beta/alltv_1.0.6_beta.apk",
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-10-28T16:52:00+08:00"
+  "generated_at": "2026-11-02T18:50:34+08:00"
 }
