@@ -15,8 +15,8 @@
     "跨平台桌面"
   ],
   "language": "Kotlin",
-  "stars": 43873,
-  "forks": 2094,
+  "stars": 43923,
+  "forks": 2098,
   "license": "GPL-3.0",
   "archived": false,
   "homepage": "https://gkd.li",
@@ -47,17 +47,17 @@
     {
       "name": "gkd-v1.12.1.apk",
       "size": 3287479,
-      "downloads": 83194,
+      "downloads": 83919,
       "url": "https://github.com/gkd-kit/gkd/releases/download/v1.12.1/gkd-v1.12.1.apk",
       "platform": "📲 Android"
     },
     {
       "name": "outputs-v1.12.1.zip",
       "size": 40463401,
-      "downloads": 2981,
+      "downloads": 2999,
       "url": "https://github.com/gkd-kit/gkd/releases/download/v1.12.1/outputs-v1.12.1.zip",
       "platform": "🌐 Web"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

@@ -11,12 +11,12 @@
 | 应用 | 简介 | 平台 | 最新版本 | 更新 | ⭐ | 下载 |
 |:---|:---|:---:|:---:|:---:|---:|:---:|
 | [tvbox](tvbox/README.md) 🆕 | OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。 | 📺 | `—` | 今天 | 13k | — |
-| [aos-AVP](aos-avp/README.md) 🆕 | NOVA opeN sOurce Video plAyer: main repository to build them all | 📲 | `v6.6.3` | 今天 | 4.8k | [⬇️](https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.3/org.courville.nova-2674070-6.6.3-20261101.1547-arm64-v8a-release.apk) |
+| [aos-AVP](aos-avp/README.md) 🆕 | NOVA opeN sOurce Video plAyer: main repository to build them all | 📲 | `v6.6.3` | 昨天 | 4.8k | [⬇️](https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.3/org.courville.nova-2674070-6.6.3-20261101.1547-arm64-v8a-release.apk) |
 | [Kazumi](kazumi/README.md) | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 | 🪟 🍎 🐧 📱 | `2.4.2` | 10 天前 | 41k | [⬇️](https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_windows_2.4.2.msix) |
-| [BT](bt/README.md) | bilibili TV client | 📺 | `v0.9.41` | 11 天前 | 2.5k | [⬇️](https://github.com/chinasoul/BT/releases/download/v0.9.41/universal.apk) |
+| [BT](bt/README.md) | bilibili TV client | 📺 | `v0.9.41` | 12 天前 | 2.5k | [⬇️](https://github.com/chinasoul/BT/releases/download/v0.9.41/universal.apk) |
 | [dart_simple_live](june6699-dart_simple_live/README.md) | 简简单单的看直播（SimpleLive续） | 🖥️ | `v1.13.2` | 13 天前 | 1.4k | [⬇️](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/SimpleLive-Windows-v1.13.2-Setup.exe) |
-| [bv](bv/README.md) | 哔哩哔哩第三方 Android 应用的自用修改版。A modified version of Bilibili’s third… | 📲 | `0.3.0.r986.f02dfc5a.release` | 27 天前 | 765 | [⬇️](https://github.com/fantasytyx/bv/releases/download/0.3.0.r986.f02dfc5a.release/BV_986_0.3.0.r986.f02dfc5a.release_default_universal.apk) |
-| [AniCh](anich/README.md) | 一个支持超分辨率的在线动漫弹幕APP。多平台，多番剧源，多弹幕，高清无广告。追番看番必备软件。 | 🌐 | `1.5.27` | 28 天前 | 7.6k | [⬇️](https://github.com/Sle2p/AniCh/releases/download/1.5.27/anich-windows-installer-1.5.27.exe) |
+| [bv](bv/README.md) | 哔哩哔哩第三方 Android 应用的自用修改版。A modified version of Bilibili’s third… | 📲 | `0.3.0.r986.f02dfc5a.release` | 28 天前 | 766 | [⬇️](https://github.com/fantasytyx/bv/releases/download/0.3.0.r986.f02dfc5a.release/BV_986_0.3.0.r986.f02dfc5a.release_default_universal.apk) |
+| [AniCh](anich/README.md) | 一个支持超分辨率的在线动漫弹幕APP。多平台，多番剧源，多弹幕，高清无广告。追番看番必备软件。 | 🌐 | `1.5.27` | 29 天前 | 7.6k | [⬇️](https://github.com/Sle2p/AniCh/releases/download/1.5.27/anich-windows-installer-1.5.27.exe) |
 | [TVBOX-](xianyuyimu-tvbox/README.md) | 一木TVBOX自用仓库 | 📺 | `—` | 1 个月前 | 3.1k | — |
 | [m3u](m3u/README.md) | 直播源 | ❓ | `—` | 1 个月前 | 12k | — |
 | [TVBoxOSC](tvboxosc/README.md) | TVBox 配置与源 | 📺 | `20260914-1520` | 1 个月前 | 18k | [⬇️](https://github.com/j4Uq/TVBoxOSC/releases/download/20260914-1520/TVBox_q215613905_20260914-1520-java.apk) |
@@ -36,7 +36,7 @@
 
 | 应用 | 版本 | 发布日期 |
 |:---|:---|:---:|
-| [tvbox](tvbox/README.md) | `—` | 2026-11-02 |
+| [tvbox](tvbox/README.md) | `—` | 2026-11-03 |
 | [aos-AVP](aos-avp/README.md) | [`v6.6.3`](../../docs/downloads.md#dl-nova-video-player-aos-avp) | 2026-11-01 |
 
 ---

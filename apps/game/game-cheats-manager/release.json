@@ -13,7 +13,7 @@
     "Windows"
   ],
   "language": "C++",
-  "stars": 15905,
+  "stars": 15923,
   "forks": 578,
   "license": "GPL-3.0",
   "archived": false,
@@ -33,17 +33,17 @@
     {
       "name": "Game.Cheats.Manager.Portable.2.5.4.zip",
       "size": 53835710,
-      "downloads": 41256,
+      "downloads": 42622,
       "url": "https://github.com/dyang886/Game-Cheats-Manager/releases/download/v2.5.4/Game.Cheats.Manager.Portable.2.5.4.zip",
       "platform": "🌐 Web"
     },
     {
       "name": "Game.Cheats.Manager.Setup.2.5.4.exe",
       "size": 39474900,
-      "downloads": 38063,
+      "downloads": 39306,
       "url": "https://github.com/dyang886/Game-Cheats-Manager/releases/download/v2.5.4/Game.Cheats.Manager.Setup.2.5.4.exe",
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

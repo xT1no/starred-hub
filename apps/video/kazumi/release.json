@@ -19,8 +19,8 @@
     "跨平台桌面"
   ],
   "language": "Dart",
-  "stars": 40691,
-  "forks": 1343,
+  "stars": 40784,
+  "forks": 1347,
   "license": "GPL-3.0",
   "archived": false,
   "homepage": "https://kazumi.app",
@@ -35,7 +35,7 @@
     "windows"
   ],
   "starred_at": "2024-08-19T16:56:23Z",
-  "pushed_at": "2026-10-31T09:30:43Z",
+  "pushed_at": "2026-11-02T12:40:12Z",
   "latest": {
     "kind": "release",
     "tag": "2.4.2",
@@ -48,66 +48,66 @@
     {
       "name": "Kazumi_android_2.4.2.apk",
       "size": 33444136,
-      "downloads": 98772,
+      "downloads": 105162,
       "url": "https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_android_2.4.2.apk",
       "platform": "📲 Android"
     },
     {
       "name": "Kazumi_ios_2.4.2_no_sign.ipa",
       "size": 30521004,
-      "downloads": 17629,
+      "downloads": 18709,
       "url": "https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_ios_2.4.2_no_sign.ipa",
       "platform": "📦 其他"
     },
     {
       "name": "Kazumi_linux_2.4.2_amd64.deb",
       "size": 35357156,
-      "downloads": 2788,
+      "downloads": 2925,
       "url": "https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_linux_2.4.2_amd64.deb",
       "platform": "🐧 Linux"
     },
     {
       "name": "Kazumi_linux_2.4.2_amd64.tar.gz",
       "size": 43176991,
-      "downloads": 1355,
+      "downloads": 1452,
       "url": "https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_linux_2.4.2_amd64.tar.gz",
       "platform": "🐧 Linux"
     },
     {
       "name": "Kazumi_linux_2.4.2_arm64.deb",
       "size": 33755068,
-      "downloads": 763,
+      "downloads": 808,
       "url": "https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_linux_2.4.2_arm64.deb",
       "platform": "🐧 Linux"
     },
     {
       "name": "Kazumi_linux_2.4.2_arm64.tar.gz",
       "size": 41330707,
-      "downloads": 663,
+      "downloads": 703,
       "url": "https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_linux_2.4.2_arm64.tar.gz",
       "platform": "🐧 Linux"
     },
     {
       "name": "Kazumi_macos_2.4.2.dmg",
       "size": 55854628,
-      "downloads": 6586,
+      "downloads": 6921,
       "url": "https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_macos_2.4.2.dmg",
       "platform": "🍎 macOS"
     },
     {
       "name": "Kazumi_windows_2.4.2.msix",
       "size": 47741138,
-      "downloads": 61235,
+      "downloads": 64811,
       "url": "https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_windows_2.4.2.msix",
       "platform": "🪟 Windows"
     },
     {
       "name": "Kazumi_windows_2.4.2.zip",
       "size": 42907280,
-      "downloads": 64781,
+      "downloads": 68099,
       "url": "https://github.com/Predidit/Kazumi/releases/download/2.4.2/Kazumi_windows_2.4.2.zip",
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

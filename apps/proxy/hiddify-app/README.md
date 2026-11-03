@@ -61,13 +61,13 @@ Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Re
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [Hiddify-MacOS.dmg](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-MacOS.dmg) | 🍎 macOS | 79.6 MB | 384k |
+| [Hiddify-MacOS.dmg](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-MacOS.dmg) | 🍎 macOS | 79.6 MB | 387k |
 | [Hiddify-MacOS-Installer.pkg](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-MacOS-Installer.pkg) | 🍎 macOS | 79.9 MB | 94k |
-| [Hiddify-Android-universal.apk](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Android-universal.apk) | 📲 Android | 323.8 MB | 535k |
-| [Hiddify-Android-arm64.apk](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Android-arm64.apk) | 📲 Android | 113.5 MB | 331k |
-| [Hiddify-Android-x86_64.apk](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Android-x86_64.apk) | 📲 Android | 122.6 MB | 112k |
+| [Hiddify-Android-universal.apk](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Android-universal.apk) | 📲 Android | 323.8 MB | 536k |
+| [Hiddify-Android-arm64.apk](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Android-arm64.apk) | 📲 Android | 113.5 MB | 332k |
+| [Hiddify-Android-x86_64.apk](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Android-x86_64.apk) | 📲 Android | 122.6 MB | 113k |
 | [Hiddify-Android-arm7.apk](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Android-arm7.apk) | 📲 Android | 102.0 MB | 91k |
-| [Hiddify-Windows-Setup-x64.exe](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Windows-Setup-x64.exe) | 🪟 Windows | 34.8 MB | 1425k |
+| [Hiddify-Windows-Setup-x64.exe](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Windows-Setup-x64.exe) | 🪟 Windows | 34.8 MB | 1429k |
 | [Hiddify-Windows-Portable-x64.zip](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Windows-Portable-x64.zip) | 🪟 Windows | 112.3 MB | 389k |
 | [Hiddify-Windows-x64.msix](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Windows-x64.msix) | 🪟 Windows | 47.5 MB | 21k |
 | [Hiddify-Debian-x64.deb](https://github.com/hiddify/hiddify-app/releases/download/v4.1.1/Hiddify-Debian-x64.deb) | 🐧 Linux | 40.5 MB | 131k |

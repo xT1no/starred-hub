@@ -18,15 +18,15 @@
 | 分类 | 🎬 [影视 / 直播 / 番剧](../README.md) |
 | 平台 | 📲 |
 | 语言 | Kotlin |
-| Star | 765 · Fork 22 |
+| Star | 766 · Fork 22 |
 | License | MIT |
 | 最新版本 | `0.3.0.r986.f02dfc5a.release` |
-| 最近更新 | 2026-10-05（27 天前） |
+| 最近更新 | 2026-10-05（28 天前） |
 | 标星日期 | 2026-03-25 |
 
 ## 📦 最新版本
 
-**`0.3.0.r986.f02dfc5a.release`**　发布于 2026-10-05（27 天前）
+**`0.3.0.r986.f02dfc5a.release`**　发布于 2026-10-05（28 天前）
 
 [查看 Release 页面](https://github.com/fantasytyx/bv/releases/tag/0.3.0.r986.f02dfc5a.release)
 

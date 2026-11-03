@@ -13,8 +13,8 @@
     "Windows"
   ],
   "language": "JavaScript",
-  "stars": 7045,
-  "forks": 278,
+  "stars": 7046,
+  "forks": 277,
   "license": "MIT",
   "archived": true,
   "homepage": "https://liteloaderqqnt.github.io/",
@@ -33,10 +33,10 @@
     {
       "name": "LiteLoaderQQNT.zip",
       "size": 32911,
-      "downloads": 32704,
+      "downloads": 32948,
       "url": "https://github.com/LiteLoaderQQNT/LiteLoaderQQNT/releases/download/1.4.1/LiteLoaderQQNT.zip",
       "platform": "🌐 Web"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

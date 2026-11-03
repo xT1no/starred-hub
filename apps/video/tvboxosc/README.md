@@ -60,12 +60,12 @@ Changelog:
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [TVBox_q215613905_20260914-1520-java.apk](https://github.com/j4Uq/TVBoxOSC/releases/download/20260914-1520/TVBox_q215613905_20260914-1520-java.apk) | 📲 Android | 31.8 MB | 23k |
-| [TVBox_q215613905_20260914-1520-java32.apk](https://github.com/j4Uq/TVBoxOSC/releases/download/20260914-1520/TVBox_q215613905_20260914-1520-java32.apk) | 📲 Android | 18.9 MB | 14k |
+| [TVBox_q215613905_20260914-1520-java.apk](https://github.com/j4Uq/TVBoxOSC/releases/download/20260914-1520/TVBox_q215613905_20260914-1520-java.apk) | 📲 Android | 31.8 MB | 24k |
+| [TVBox_q215613905_20260914-1520-java32.apk](https://github.com/j4Uq/TVBoxOSC/releases/download/20260914-1520/TVBox_q215613905_20260914-1520-java32.apk) | 📲 Android | 18.9 MB | 15k |
 | [TVBox_q215613905_20260914-1520-java64.apk](https://github.com/j4Uq/TVBoxOSC/releases/download/20260914-1520/TVBox_q215613905_20260914-1520-java64.apk) | 📲 Android | 19.8 MB | 12k |
-| [TVBox_q215613905_20260914-1520-python64.apk](https://github.com/j4Uq/TVBoxOSC/releases/download/20260914-1520/TVBox_q215613905_20260914-1520-python64.apk) | 📲 Android | 31.5 MB | 5.6k |
-| [TVBox_q215613905_20260914-1520-python.apk](https://github.com/j4Uq/TVBoxOSC/releases/download/20260914-1520/TVBox_q215613905_20260914-1520-python.apk) | 📲 Android | 50.2 MB | 5.1k |
-| [TVBox_q215613905_20260914-1520-python32.apk](https://github.com/j4Uq/TVBoxOSC/releases/download/20260914-1520/TVBox_q215613905_20260914-1520-python32.apk) | 📲 Android | 30.1 MB | 4.5k |
+| [TVBox_q215613905_20260914-1520-python64.apk](https://github.com/j4Uq/TVBoxOSC/releases/download/20260914-1520/TVBox_q215613905_20260914-1520-python64.apk) | 📲 Android | 31.5 MB | 5.8k |
+| [TVBox_q215613905_20260914-1520-python.apk](https://github.com/j4Uq/TVBoxOSC/releases/download/20260914-1520/TVBox_q215613905_20260914-1520-python.apk) | 📲 Android | 50.2 MB | 5.2k |
+| [TVBox_q215613905_20260914-1520-python32.apk](https://github.com/j4Uq/TVBoxOSC/releases/download/20260914-1520/TVBox_q215613905_20260914-1520-python32.apk) | 📲 Android | 30.1 MB | 4.6k |
 | [sourceCode-ab11d28.tar.xz](https://github.com/j4Uq/TVBoxOSC/releases/download/20260914-1520/sourceCode-ab11d28.tar.xz) | 📦 其他 | 15.9 MB | 1.2k |
 
 ## 🔗 快速链接

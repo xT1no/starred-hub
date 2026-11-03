@@ -12,6 +12,38 @@
 
 ---
 
+<a id="dl-agalwood-motrix"></a>
+
+### 📥 Motrix
+
+`v2.2.1` · 2026-11-03 · [详情](../apps/download/motrix/README.md) · [原仓库](#)
+
+🪟 [安装版 · 127 MB](https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-Setup-2.2.1.exe) · 🍎 [arm64 dmg · 131 MB](https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-2.2.1-arm64.dmg) · 🐧 [x64 AppImage · 125 MB](https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-2.2.1-x86_64.AppImage) · 📦 [zip · 160 MB](https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-2.2.1-win.zip)
+
+<a id="dl-storytold-photocraft"></a>
+
+### 🎨 photocraft
+
+`v0.20.1` · 2026-11-03 · [详情](../apps/design/photocraft/README.md) · [原仓库](#)
+
+🪟 [x64 安装版 · 103 MB](https://github.com/storytold/photocraft/releases/download/v0.20.1/photocraft-0.20.1-windows-x64.msi) · 🍎 [通用 dmg · 236 MB](https://github.com/storytold/photocraft/releases/download/v0.20.1/photocraft-0.20.1-macos-universal.dmg) · 🐧 [x64 AppImage · 114 MB](https://github.com/storytold/photocraft/releases/download/v0.20.1/photocraft-0.20.1-linux-x86_64.AppImage) · 📦 [x64 便携版 · 123 MB](https://github.com/storytold/photocraft/releases/download/v0.20.1/photocraft-0.20.1-windows-x64-portable.zip)
+
+<a id="dl-siweia-ndui"></a>
+
+### 🎮 NDui
+
+`10.2.6` · 2026-11-02 · [详情](../apps/game/ndui/README.md) · [原仓库](#)
+
+📦 [zip · 0.9 MB](https://github.com/siweia/NDui/releases/download/10.2.6/NDui-10.2.6.zip)
+
+<a id="dl-xiaojieonly-ehviewer-cn-sxj"></a>
+
+### 📄 Ehviewer_CN_SXJ
+
+`2.0.2.7` · 2026-11-02 · [详情](../apps/office/ehviewer_cn_sxj/README.md) · [原仓库](#)
+
+📲 [apk · 26.9 MB](https://github.com/xiaojieonly/Ehviewer_CN_SXJ/releases/download/2.0.2.7/EhViewer-2.0.2.7.apk)
+
 <a id="dl-clash-verge-rev-clash-verge-rev"></a>
 
 ### 🌐 clash-verge-rev
@@ -28,14 +60,6 @@
 
 🪟 [x64 安装版 · 5.9 MB](https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_2.18.1_x64-setup.exe) · 📦 [x64 便携版 · 7.8 MB](https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_portable_x64_v2.18.1.zip)
 
-<a id="dl-storytold-photocraft"></a>
-
-### 🎨 photocraft
-
-`v0.19.0` · 2026-11-01 · [详情](../apps/design/photocraft/README.md) · [原仓库](#)
-
-🪟 [x64 安装版 · 102 MB](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-windows-x64.msi) · 🍎 [通用 dmg · 234 MB](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-macos-universal.dmg) · 🐧 [x64 AppImage · 113 MB](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-linux-x86_64.AppImage) · 📦 [x64 便携版 · 122 MB](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-windows-x64-portable.zip)
-
 <a id="dl-nova-video-player-aos-avp"></a>
 
 ### 🎬 aos-AVP
@@ -43,14 +67,6 @@
 `v6.6.3` · 2026-11-01 · [详情](../apps/video/aos-avp/README.md) · [原仓库](#)
 
 📲 [arm64 apk · 33.3 MB](https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.3/org.courville.nova-2674070-6.6.3-20261101.1547-arm64-v8a-release.apk)
-
-<a id="dl-agalwood-motrix"></a>
-
-### 📥 Motrix
-
-`v2.2.0` · 2026-11-01 · [详情](../apps/download/motrix/README.md) · [原仓库](#)
-
-🪟 [安装版 · 127 MB](https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-Setup-2.2.0.exe) · 🍎 [arm64 dmg · 131 MB](https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-arm64.dmg) · 🐧 [x64 AppImage · 125 MB](https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-x86_64.AppImage) · 📦 [zip · 160 MB](https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-win.zip)
 
 <a id="dl-jntmtmtm-eisland"></a>
 
@@ -67,14 +83,6 @@
 `2026.10.30` · 2026-10-31 · [详情](../apps/system/win11debloat/README.md) · [原仓库](#)
 
 📦 [zip · 0.7 MB](https://github.com/Raphire/Win11Debloat/releases/download/2026.10.30/Win11Debloat.zip)
-
-<a id="dl-siweia-ndui"></a>
-
-### 🎮 NDui
-
-`10.2.5` · 2026-10-30 · [详情](../apps/game/ndui/README.md) · [原仓库](#)
-
-📦 [zip · 0.9 MB](https://github.com/siweia/NDui/releases/download/10.2.5/NDui-10.2.5.zip)
 
 <a id="dl-devolutions-unigetui"></a>
 
@@ -147,14 +155,6 @@
 `v0.9.41` · 2026-10-21 · [详情](../apps/video/bt/README.md) · [原仓库](#)
 
 📲 [通用 apk · 3.1 MB](https://github.com/chinasoul/BT/releases/download/v0.9.41/universal.apk)
-
-<a id="dl-xiaojieonly-ehviewer-cn-sxj"></a>
-
-### 📄 Ehviewer_CN_SXJ
-
-`2.0.2.6` · 2026-10-21 · [详情](../apps/office/ehviewer_cn_sxj/README.md) · [原仓库](#)
-
-📲 [apk · 26.9 MB](https://github.com/xiaojieonly/Ehviewer_CN_SXJ/releases/download/2.0.2.6/EhViewer-2.0.2.6.apk)
 
 <a id="dl-marktext-marktext"></a>
 

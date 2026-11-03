@@ -18,7 +18,7 @@
 | 分类 | 🎬 [影视 / 直播 / 番剧](../README.md) |
 | 平台 | 🖥️ |
 | 语言 | Dart |
-| Star | 1.4k · Fork 56 |
+| Star | 1.4k · Fork 57 |
 | License | GPL-3.0 |
 | 最新版本 | `v1.13.2` |
 | 最近更新 | 2026-10-20（13 天前） |
@@ -61,17 +61,17 @@
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [simple_live_app-1.13.2+11302-macos.dmg](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/simple_live_app-1.13.2%2B11302-macos.dmg) | 🍎 macOS | 65.2 MB | 155 |
+| [simple_live_app-1.13.2+11302-macos.dmg](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/simple_live_app-1.13.2%2B11302-macos.dmg) | 🍎 macOS | 65.2 MB | 158 |
 | [simple_live_app-1.13.2+11302-macos.zip](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/simple_live_app-1.13.2%2B11302-macos.zip) | 🍎 macOS | 63.9 MB | 21 |
-| [SimpleLive-v1.13.2-arm64-v8a-release.apk](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/SimpleLive-v1.13.2-arm64-v8a-release.apk) | 📲 Android | 71.0 MB | 1.6k |
-| [SimpleLive-v1.13.2-armeabi-v7a-release.apk](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/SimpleLive-v1.13.2-armeabi-v7a-release.apk) | 📲 Android | 61.2 MB | 301 |
-| [SimpleLive-v1.13.2-x86_64-release.apk](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/SimpleLive-v1.13.2-x86_64-release.apk) | 📲 Android | 79.5 MB | 171 |
-| [SimpleLive-Windows-v1.13.2.zip](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/SimpleLive-Windows-v1.13.2.zip) | 🪟 Windows | 82.0 MB | 642 |
-| [SimpleLive-Windows-v1.13.2-Setup.exe](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/SimpleLive-Windows-v1.13.2-Setup.exe) | 🪟 Windows | 59.7 MB | 484 |
-| [simple_live_app-1.13.2+11302-linux.deb](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/simple_live_app-1.13.2%2B11302-linux.deb) | 🐧 Linux | 31.0 MB | 65 |
-| [simple_live_app-1.13.2+11302-linux.zip](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/simple_live_app-1.13.2%2B11302-linux.zip) | 🐧 Linux | 41.3 MB | 51 |
+| [SimpleLive-v1.13.2-arm64-v8a-release.apk](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/SimpleLive-v1.13.2-arm64-v8a-release.apk) | 📲 Android | 71.0 MB | 1.7k |
+| [SimpleLive-v1.13.2-armeabi-v7a-release.apk](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/SimpleLive-v1.13.2-armeabi-v7a-release.apk) | 📲 Android | 61.2 MB | 306 |
+| [SimpleLive-v1.13.2-x86_64-release.apk](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/SimpleLive-v1.13.2-x86_64-release.apk) | 📲 Android | 79.5 MB | 172 |
+| [SimpleLive-Windows-v1.13.2.zip](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/SimpleLive-Windows-v1.13.2.zip) | 🪟 Windows | 82.0 MB | 661 |
+| [SimpleLive-Windows-v1.13.2-Setup.exe](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/SimpleLive-Windows-v1.13.2-Setup.exe) | 🪟 Windows | 59.7 MB | 504 |
+| [simple_live_app-1.13.2+11302-linux.deb](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/simple_live_app-1.13.2%2B11302-linux.deb) | 🐧 Linux | 31.0 MB | 66 |
+| [simple_live_app-1.13.2+11302-linux.zip](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/simple_live_app-1.13.2%2B11302-linux.zip) | 🐧 Linux | 41.3 MB | 52 |
 | [mpv-dev-x86_64-20261021-git-e471496c56.7z](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/mpv-dev-x86_64-20261021-git-e471496c56.7z) | ⌨️ CLI | 30.2 MB | 48 |
-| [ios_no_sign.ipa](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/ios_no_sign.ipa) | 📦 其他 | 33.5 MB | 452 |
+| [ios_no_sign.ipa](https://github.com/June6699/dart_simple_live/releases/download/v1.13.2/ios_no_sign.ipa) | 📦 其他 | 33.5 MB | 462 |
 
 ## 🔗 快速链接
 

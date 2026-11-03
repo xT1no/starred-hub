@@ -52,7 +52,7 @@ More about this on #1086
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [MacTypeInstaller_2025.6.9.exe](https://github.com/snowie2000/mactype/releases/download/v1.2025.6.9/MacTypeInstaller_2025.6.9.exe) | 🪟 Windows | 5.6 MB | 193k |
+| [MacTypeInstaller_2025.6.9.exe](https://github.com/snowie2000/mactype/releases/download/v1.2025.6.9/MacTypeInstaller_2025.6.9.exe) | 🪟 Windows | 5.6 MB | 194k |
 
 ## 🔗 快速链接
 

@@ -1,0 +1,53 @@
+{
+  "name": "cleanyourtv",
+  "full_name": "Gathin23/cleanyourtv",
+  "url": "https://github.com/Gathin23/cleanyourtv",
+  "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+  "note": "",
+  "function": {
+    "name": "广告过滤 / 隐私",
+    "slug": "privacy",
+    "dir": "apps/privacy"
+  },
+  "platforms": [
+    "Android",
+    "AndroidTV"
+  ],
+  "language": "Python",
+  "stars": 50706,
+  "forks": 6395,
+  "license": "NOASSERTION",
+  "archived": false,
+  "homepage": "https://cleanyour.tv",
+  "topics": [
+    "adb",
+    "adblock",
+    "android-tv",
+    "android-tv-launcher",
+    "apple-tv",
+    "bloatware-removal",
+    "claude-code",
+    "debloat",
+    "fire-tv",
+    "google-tv",
+    "launcher",
+    "privacy",
+    "smart-tv",
+    "sony-bravia",
+    "tcl",
+    "vibe-coding",
+    "xiaomi"
+  ],
+  "starred_at": "2026-11-03T08:19:21Z",
+  "pushed_at": "2026-11-03T04:38:30Z",
+  "latest": {
+    "kind": "release",
+    "tag": "v3.3.0",
+    "title": "CleanYourTV 3.3: hold OK to move your apps",
+    "published_at": "2026-11-01T14:08:21Z",
+    "url": "https://github.com/Gathin23/cleanyourtv/releases/tag/v3.3.0",
+    "prerelease": false
+  },
+  "assets": [],
+  "generated_at": "2026-11-03"
+}

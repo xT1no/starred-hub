@@ -13,8 +13,8 @@
     "通用 / 未指定"
   ],
   "language": "",
-  "stars": 10912,
-  "forks": 790,
+  "stars": 10916,
+  "forks": 791,
   "license": "MIT",
   "archived": false,
   "homepage": "https://anti-ad.net",
@@ -39,5 +39,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

@@ -13,8 +13,8 @@
     "Web"
   ],
   "language": "Python",
-  "stars": 16573,
-  "forks": 8498,
+  "stars": 16580,
+  "forks": 8501,
   "license": "",
   "archived": false,
   "homepage": "",
@@ -33,24 +33,24 @@
     {
       "name": "Pages.zip",
       "size": 15220,
-      "downloads": 17147,
+      "downloads": 17711,
       "url": "https://github.com/byJoey/cfnew/releases/download/v2026.10.17.2/Pages.zip",
       "platform": "🌐 Web"
     },
     {
       "name": "SHA256SUMS.txt",
       "size": 153,
-      "downloads": 367,
+      "downloads": 395,
       "url": "https://github.com/byJoey/cfnew/releases/download/v2026.10.17.2/SHA256SUMS.txt",
       "platform": "🔐 校验文件"
     },
     {
       "name": "_worker.js",
       "size": 37806,
-      "downloads": 1555,
+      "downloads": 1632,
       "url": "https://github.com/byJoey/cfnew/releases/download/v2026.10.17.2/_worker.js",
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

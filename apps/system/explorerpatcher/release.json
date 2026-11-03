@@ -13,8 +13,8 @@
     "Windows"
   ],
   "language": "C",
-  "stars": 34211,
-  "forks": 1387,
+  "stars": 34217,
+  "forks": 1388,
   "license": "GPL-2.0",
   "archived": false,
   "homepage": "",
@@ -33,17 +33,17 @@
     {
       "name": "ep_setup.exe",
       "size": 12336128,
-      "downloads": 178716,
+      "downloads": 262860,
       "url": "https://github.com/valinet/ExplorerPatcher/releases/download/26100.9711.71.1/ep_setup.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "ep_setup_arm64.exe",
       "size": 12013056,
-      "downloads": 2735,
+      "downloads": 3632,
       "url": "https://github.com/valinet/ExplorerPatcher/releases/download/26100.9711.71.1/ep_setup_arm64.exe",
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

@@ -13,7 +13,7 @@
     "服务端 / 云端"
   ],
   "language": "Shell",
-  "stars": 5232,
+  "stars": 5237,
   "forks": 1848,
   "license": "MIT",
   "archived": false,
@@ -62,5 +62,5 @@
       "platform": "🌐 Web"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

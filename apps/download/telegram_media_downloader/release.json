@@ -14,8 +14,8 @@
     "跨平台桌面"
   ],
   "language": "JavaScript",
-  "stars": 5635,
-  "forks": 656,
+  "stars": 5639,
+  "forks": 655,
   "license": "MIT",
   "archived": false,
   "homepage": "",
@@ -41,10 +41,10 @@
     {
       "name": "tdl-v2.2.5-win64.zip",
       "size": 23021830,
-      "downloads": 11971,
+      "downloads": 11984,
       "url": "https://github.com/tangyoha/telegram_media_downloader/releases/download/v2.2.5/tdl-v2.2.5-win64.zip",
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

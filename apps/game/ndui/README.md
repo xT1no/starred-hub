@@ -10,7 +10,7 @@ NDui for World of Warcraft
 
 ## ⬇️ 直接下载
 
-📦 [zip · 0.9 MB](https://github.com/siweia/NDui/releases/download/10.2.5/NDui-10.2.5.zip)
+📦 [zip · 0.9 MB](https://github.com/siweia/NDui/releases/download/10.2.6/NDui-10.2.6.zip)
 
 全部 2 个文件见下方 [安装包](#pkgs) 表格。
 
@@ -22,31 +22,32 @@ NDui for World of Warcraft
 | 语言 | Lua |
 | Star | 382 · Fork 93 |
 | License | — |
-| 最新版本 | `10.2.5` |
-| 最近更新 | 2026-10-30（2 天前） |
+| 最新版本 | `10.2.6` |
+| 最近更新 | 2026-11-02（今天） |
 | 标星日期 | 2025-11-29 |
 
 ## 📦 最新版本
 
-**`10.2.5`**　发布于 2026-10-30（2 天前）
+**`10.2.6`**　发布于 2026-11-02（今天）
 
-[查看 Release 页面](https://github.com/siweia/NDui/releases/tag/10.2.5)
+[查看 Release 页面](https://github.com/siweia/NDui/releases/tag/10.2.6)
 
 <details><summary>更新说明</summary>
 
 ```text
 # NDui
 
-## [10.2.5](https://github.com/siweia/NDui/tree/10.2.5) (2026-10-30)
-[Full Changelog](https://github.com/siweia/NDui/compare/10.2.4...10.2.5) [Previous Releases](https://github.com/siweia/NDui/releases)
+## [10.2.6](https://github.com/siweia/NDui/tree/10.2.6) (2026-11-02)
+[Full Changelog](https://github.com/siweia/NDui/compare/10.2.5...10.2.6) [Previous Releases](https://github.com/siweia/NDui/releases)
 
-- NDui 10.2.5
-- Refactor itemlevel
-- Fix itemlevel refresh on cursor unit
-- Refactor nameplate prewarm
-- Update ouf
-- Do not prewarm auras
-- Prewarm item buttons
+- NDui 10.2.6
+- Hide shadow on raid frames
+- Revert "Prewarm raid auras"
+- Prewarm raid auras
+- Delay toggle bags
+- Cleanup
+- Cleanup itemlevel, cache go first
+- Show item level for unit at differ phase
 ```
 
 </details>
@@ -59,8 +60,8 @@ NDui for World of Warcraft
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [NDui-10.2.5.zip](https://github.com/siweia/NDui/releases/download/10.2.5/NDui-10.2.5.zip) | 🌐 Web | 889 KB | 9 |
-| [release.json](https://github.com/siweia/NDui/releases/download/10.2.5/release.json) | 📦 其他 | 147 B | 2 |
+| [NDui-10.2.6.zip](https://github.com/siweia/NDui/releases/download/10.2.6/NDui-10.2.6.zip) | 🌐 Web | 887 KB | 8 |
+| [release.json](https://github.com/siweia/NDui/releases/download/10.2.6/release.json) | 📦 其他 | 147 B | 5 |
 
 ## 🔗 快速链接
 

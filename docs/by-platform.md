@@ -4,7 +4,7 @@
 
 [总览](../README.md) · [应用目录](../apps/README.md) · [按功能](by-function.md) · **[按平台](by-platform.md)** · [时间线](timeline.md) · [更新动态](updates.md) · [⬇️ 下载](downloads.md)
 
-共 **145** 个仓库 · **14** 个平台 · 同步于 2026-11-02 19:01
+共 **146** 个仓库 · **14** 个平台 · 同步于 2026-11-03 16:20
 
 > 一个仓库支持多个平台时会同时出现在多个分类里，所以各分类数量之和会大于总数。
 
@@ -18,8 +18,8 @@
 | 🍎 [macOS](#macos) | 11 |
 | 🐧 [Linux](#linux) | 15 |
 | 📱 [iOS](#ios) | 9 |
-| 📲 [Android](#android) | 30 |
-| 📺 [AndroidTV](#androidtv) | 9 |
+| 📲 [Android](#android) | 31 |
+| 📺 [AndroidTV](#androidtv) | 10 |
 | 🧩 [浏览器扩展](#browser-ext) | 2 |
 | 🌐 [Web](#web) | 16 |
 | ⌨️ [CLI](#cli) | 9 |
@@ -41,7 +41,7 @@
 | [hq450/fancyss_history_package](https://github.com/hq450/fancyss_history_package) | 科学上网插件的离线安装包储存在这里 | 🌐 🧩 | — | 11k | 2021-07-01 |
 | [openwrt-xiaomi/xmir-patcher](https://github.com/openwrt-xiaomi/xmir-patcher) | Firmware patcher for Xiaomi routers | 🧩 | Python | 3.8k | 2025-06-09 |
 | [wukongdaily/ImmortalWrt-ImageBuilder](https://github.com/wukongdaily/ImmortalWrt-ImageBuilder) | 它是一个工作流。可快速构建 可选docker、可选1G~4G固件大小的 immortalWrt。它相当于一个云端的Image… | ⚡ 🧩 | Shell | 2.7k | 2025-10-10 |
-| [wkccd/CloudRunFilesBuilder](https://github.com/wkccd/CloudRunFilesBuilder) | 这是一个工作流。同步各位大佬项目里最新编译的ipk文件 生成适用于OpenWrt用的run自解压包 | ⚡ | Shell | 642 | 2026-07-02 |
+| [wkccd/CloudRunFilesBuilder](https://github.com/wkccd/CloudRunFilesBuilder) | 这是一个工作流。同步各位大佬项目里最新编译的ipk文件 生成适用于OpenWrt用的run自解压包 | ⚡ | Shell | 644 | 2026-07-02 |
 
 <a id="server"></a>
 ## ☁️ 服务端 / 云端
@@ -72,7 +72,7 @@
 | [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activat… | ⚙️ 📄 | Batchfile | 197k | 2025-12-02 |
 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored pr… | 🌐 | Rust | 156k | 2024-05-14 |
 | [2dust/v2rayN](https://github.com/2dust/v2rayN) | A GUI client for Windows, Linux and macOS, support Xray and sing-box and others | 🌐 | C# | 120k | 2024-05-12 |
-| [marktext/marktext](https://github.com/marktext/marktext) | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. | 📄 | TypeScript | 63k | 2022-07-26 |
+| [marktext/marktext](https://github.com/marktext/marktext) | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. | 📄 | TypeScript | 64k | 2022-07-26 |
 | [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable t… | ⚙️ | PowerShell | 62k | 2025-12-18 |
 | [agalwood/Motrix](https://github.com/agalwood/Motrix) | A full-featured download manager. | 📥 | TypeScript | 58k | 2023-12-07 |
 | [Predidit/Kazumi](https://github.com/Predidit/Kazumi) | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 | 🎬 | Dart | 41k | 2024-08-19 |
@@ -104,14 +104,14 @@
 | [massgravel/TSforge](https://github.com/massgravel/TSforge) | A collection of activation/evaluation extension methods for Windows Vista through 11. | ⚙️ 📚 | C# | 2.6k | 2026-06-21 |
 | [kejichangqing/QingMusic](https://github.com/kejichangqing/QingMusic) | 本地音乐播放器｜青听音乐-一款免费无广告的本地音乐播放器。 | 🎵 | — | 1.9k | 2026-09-15 |
 | [cangzhang/ChampR](https://github.com/cangzhang/ChampR) | 🐶 Yet another League of Legends helper | 🎮 | Rust | 1.7k | 2021-01-10 |
-| [nearby-sharing/android](https://github.com/nearby-sharing/android) | 用 Windows 就近共享在手机与电脑间传文件｜Share files between android and PC via the Windows 10… | ⚙️ | C# | 896 | 2024-02-28 |
-| [AcidWeb/Clean-Icons-Mechagnome-Edition](https://github.com/AcidWeb/Clean-Icons-Mechagnome-Edition) | 魔兽世界图标包｜Upscaled icon pack for World of Warcraft. | 🎮 | — | 809 | 2025-08-16 |
+| [nearby-sharing/android](https://github.com/nearby-sharing/android) | 用 Windows 就近共享在手机与电脑间传文件｜Share files between android and PC via the Windows 10… | ⚙️ | C# | 897 | 2024-02-28 |
+| [AcidWeb/Clean-Icons-Mechagnome-Edition](https://github.com/AcidWeb/Clean-Icons-Mechagnome-Edition) | 魔兽世界图标包｜Upscaled icon pack for World of Warcraft. | 🎮 | — | 810 | 2025-08-16 |
 | [ping11700/LOLkit](https://github.com/ping11700/LOLkit) | One gift for all LOL gamers， League of Legends工具 | 🎮 | Shell | 770 | 2024-03-08 |
 | [ListerOvO1211/LazyEnv](https://github.com/ListerOvO1211/LazyEnv) | Windows 环境变量管理 | ⚙️ | C++ | 502 | 2026-04-12 |
 | [WeijieH/D3keyHelper](https://github.com/WeijieH/D3keyHelper) | 暗黑 3 鼠标宏配置工具｜D3KeyHelper是一个有图形界面，可自定义配置的暗黑3鼠标宏工具。 | 🎮 | AutoHotkey | 396 | 2022-08-01 |
 | [siweia/NDui](https://github.com/siweia/NDui) | 魔兽世界 NDui 整合界面｜NDui for World of Warcraft | 🎮 | Lua | 382 | 2025-11-29 |
 | [watchingfun/Joi](https://github.com/watchingfun/Joi) | 英雄联盟助手｜一个英雄联盟助手工具 | 🎮 | TypeScript | 343 | 2024-03-20 |
-| [JNTMTMTM/eIsland](https://github.com/JNTMTMTM/eIsland) | Windows 上的灵动岛悬浮窗｜eIsland - A sleek, Apple Dynamic Island inspired floating widget for… | ⚙️ | TypeScript | 325 | 2026-06-20 |
+| [JNTMTMTM/eIsland](https://github.com/JNTMTMTM/eIsland) | Windows 上的灵动岛悬浮窗｜eIsland - A sleek, Apple Dynamic Island inspired floating widget for… | ⚙️ | TypeScript | 327 | 2026-06-20 |
 | [jiarandiana0307/patch-edge-copilot](https://github.com/jiarandiana0307/patch-edge-copilot) | 修复 Edge 顶部 Copilot 图标消失｜Solve the problem of disappearance of the Copilot icon in the… | 🧩 | Python | 191 | 2026-01-10 |
 | [emmm1245/EdgeCopilotFix](https://github.com/emmm1245/EdgeCopilotFix) | 修复 Edge Copilot 在部分地区消失｜解决某些地区Edge浏览器copilot消失的问题 | 🧩 | Go | 111 | 2026-01-10 |
 | [luyuanbo79/firpe](https://github.com/luyuanbo79/firpe) | Windows PE 维护盘 | ⚙️ | — | 98 | 2025-11-11 |
@@ -130,7 +130,7 @@
 |:---|:---|:---:|:---|:---|---:|
 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored pr… | 🌐 | Rust | 156k | 2024-05-14 |
 | [2dust/v2rayN](https://github.com/2dust/v2rayN) | A GUI client for Windows, Linux and macOS, support Xray and sing-box and others | 🌐 | C# | 120k | 2024-05-12 |
-| [marktext/marktext](https://github.com/marktext/marktext) | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. | 📄 | TypeScript | 63k | 2022-07-26 |
+| [marktext/marktext](https://github.com/marktext/marktext) | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. | 📄 | TypeScript | 64k | 2022-07-26 |
 | [agalwood/Motrix](https://github.com/agalwood/Motrix) | A full-featured download manager. | 📥 | TypeScript | 58k | 2023-12-07 |
 | [Predidit/Kazumi](https://github.com/Predidit/Kazumi) | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 | 🎬 | Dart | 41k | 2024-08-19 |
 | [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) | 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: | 🎵 🎬 | Vue | 34k | 2021-12-23 |
@@ -149,7 +149,7 @@
 |:---|:---|:---:|:---|:---|---:|
 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored pr… | 🌐 | Rust | 156k | 2024-05-14 |
 | [2dust/v2rayN](https://github.com/2dust/v2rayN) | A GUI client for Windows, Linux and macOS, support Xray and sing-box and others | 🌐 | C# | 120k | 2024-05-12 |
-| [marktext/marktext](https://github.com/marktext/marktext) | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. | 📄 | TypeScript | 63k | 2022-07-26 |
+| [marktext/marktext](https://github.com/marktext/marktext) | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. | 📄 | TypeScript | 64k | 2022-07-26 |
 | [agalwood/Motrix](https://github.com/agalwood/Motrix) | A full-featured download manager. | 📥 | TypeScript | 58k | 2023-12-07 |
 | [Predidit/Kazumi](https://github.com/Predidit/Kazumi) | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 | 🎬 | Dart | 41k | 2024-08-19 |
 | [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) | 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: | 🎵 🎬 | Vue | 34k | 2021-12-23 |
@@ -178,15 +178,16 @@
 | [fmz200/wool_scripts](https://github.com/fmz200/wool_scripts) | Loon / Surge / QuantumultX 去广告规则｜收集一些Loon、Surge、QuantumultX、ShadowRocket、Egern的… | 🛡️ | Vim Snippet | 5.9k | 2025-11-03 |
 | [nab138/iloader](https://github.com/nab138/iloader) | User friendly sideloader | 🧩 | TypeScript | 4.5k | 2026-02-28 |
 | [fmz200/global-testflight-link](https://github.com/fmz200/global-testflight-link) | 公开 TestFlight 测试链接合集｜收集苹果公开的iOS/iPadOS/MacOS Testflight链接。Collect Apple's pu… | 📚 | — | 849 | 2025-11-03 |
-| [tom-snow/Sidestore-ClashMi](https://github.com/tom-snow/Sidestore-ClashMi) | 使用 ClashMi 替代 LocalDevVPN / StosVPN 。解决部分运营商对 gsa.apple.com 不友好的问题。 | 🌐 | JavaScript | 264 | 2026-02-20 |
+| [tom-snow/Sidestore-ClashMi](https://github.com/tom-snow/Sidestore-ClashMi) | 使用 ClashMi 替代 LocalDevVPN / StosVPN 。解决部分运营商对 gsa.apple.com 不友好的问题。 | 🌐 | JavaScript | 266 | 2026-02-20 |
 
 <a id="android"></a>
 ## 📲 Android
 
-共 **30** 个 · [回到顶部](#top)
+共 **31** 个 · [回到顶部](#top)
 
 | 仓库 | 简介 | 功能 | 语言 | ⭐ | 标星 |
 |:---|:---|:---:|:---|:---|---:|
+| [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) 🆕 | Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. | 🛡️ 🤖 ⚙️ | Python | 51k | 2026-11-03 |
 | [gedoor/legado](https://github.com/gedoor/legado) | 阅读 3.0 书源阅读器｜Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0,… | 📄 | Kotlin | 47k | 2023-11-26 |
 | [gkd-kit/gkd](https://github.com/gkd-kit/gkd) | 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 \| An Android APP with custom screen ta… | 🧩 | Kotlin | 44k | 2023-10-30 |
 | [Predidit/Kazumi](https://github.com/Predidit/Kazumi) | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 | 🎬 | Dart | 41k | 2024-08-19 |
@@ -210,21 +211,22 @@
 | [bepass-org/oblivion](https://github.com/bepass-org/oblivion) | Unofficial warp client for android | 🌐 | Dart | 4.9k | 2024-06-02 |
 | [nova-video-player/aos-AVP](https://github.com/nova-video-player/aos-AVP) | NOVA opeN sOurce Video plAyer: main repository to build them all | 🎬 | HTML | 4.8k | 2024-04-17 |
 | [BiliRoamingX/BiliRoamingX](https://github.com/BiliRoamingX/BiliRoamingX) | BiliRoamingX integrations and patches powered by ReVanced. | 🎬 | Kotlin | 3.9k | 2024-02-10 |
-| [GFW-knocker/MahsaNG](https://github.com/GFW-knocker/MahsaNG) | V2RayNG 改版，带分片与 DoH｜a V2RayNG with Fragment , DoH , Rotating Configs , & free VPN serve… | 🌐 | Kotlin | 3.1k | 2024-06-26 |
+| [GFW-knocker/MahsaNG](https://github.com/GFW-knocker/MahsaNG) | V2RayNG 改版，带分片与 DoH｜a V2RayNG with Fragment , DoH , Rotating Configs , & free VPN serve… | 🌐 | Kotlin | 3.2k | 2024-06-26 |
 | [YYDS678/uzVideo](https://github.com/YYDS678/uzVideo) | uz 影视客户端｜uz影视 | 🎬 | HTML | 1.5k | 2025-05-28 |
 | [chr233/PureNGA](https://github.com/chr233/PureNGA) | NGA 去广告Xposed模块 支持 Lspatch | 🛡️ 🧩 | Kotlin | 1.1k | 2023-04-04 |
 | [wukongdaily/tvhelper-docker](https://github.com/wukongdaily/tvhelper-docker) | 让你使用电脑、NAS等一切能运行docker的设备变成盒子的ADB安装助手 | ⚡ | Shell | 1.1k | 2024-04-17 |
-| [nearby-sharing/android](https://github.com/nearby-sharing/android) | 用 Windows 就近共享在手机与电脑间传文件｜Share files between android and PC via the Windows 10… | ⚙️ | C# | 896 | 2024-02-28 |
-| [fantasytyx/bv](https://github.com/fantasytyx/bv) | 哔哩哔哩第三方 Android 应用的自用修改版。A modified version of Bilibili’s third-party Android a… | 🎬 🧩 | Kotlin | 765 | 2026-03-25 |
+| [nearby-sharing/android](https://github.com/nearby-sharing/android) | 用 Windows 就近共享在手机与电脑间传文件｜Share files between android and PC via the Windows 10… | ⚙️ | C# | 897 | 2024-02-28 |
+| [fantasytyx/bv](https://github.com/fantasytyx/bv) | 哔哩哔哩第三方 Android 应用的自用修改版。A modified version of Bilibili’s third-party Android a… | 🎬 🧩 | Kotlin | 766 | 2026-03-25 |
 | [Ha2ryZhang/alltv](https://github.com/Ha2ryZhang/alltv) | 🗄️ 已归档 · 聚合斗鱼 / 虎牙 / B站 直播源｜一个app看全网直播--获取 斗鱼、虎牙、bilibili等平台… | 🎬 | Java | 168 | 2020-10-08 |
 
 <a id="androidtv"></a>
 ## 📺 AndroidTV
 
-共 **9** 个 · [回到顶部](#top)
+共 **10** 个 · [回到顶部](#top)
 
 | 仓库 | 简介 | 功能 | 语言 | ⭐ | 标星 |
 |:---|:---|:---:|:---|:---|---:|
+| [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) 🆕 | Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. | 🛡️ 🤖 ⚙️ | Python | 51k | 2026-11-03 |
 | [lizongying/my-tv](https://github.com/lizongying/my-tv) | 我的电视 电视直播软件，安装即可使用 | 🎬 | C | 32k | 2024-03-14 |
 | [youhunwl/TVAPP](https://github.com/youhunwl/TVAPP) | 收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便… | 📥 🎬 📚 | JavaScript | 27k | 2026-06-01 |
 | [Guovin/iptv-api](https://github.com/Guovin/iptv-api) | ⚡️ IPTV直播源自动更新工具：自动采集、校验、测速并生成可播放结果，支持 M3U/TXT/API 输出、自定义… | ⚡ 🎬 🛠️ +1 | Python | 26k | 2026-04-16 |
@@ -242,7 +244,7 @@
 
 | 仓库 | 简介 | 功能 | 语言 | ⭐ | 标星 |
 |:---|:---|:---:|:---|:---|---:|
-| [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) | 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 /… | 📥 | JavaScript | 37k | 2023-12-07 |
+| [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) | 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 /… | 📥 | JavaScript | 38k | 2023-12-07 |
 | [xinggsf/Adblock-Plus-Rule](https://github.com/xinggsf/Adblock-Plus-Rule) | uBlock Origin 乘风广告过滤规则 | 🛡️ | Batchfile | 2.4k | 2025-07-06 |
 
 <a id="web"></a>
@@ -284,7 +286,7 @@
 | [Guovin/iptv-api](https://github.com/Guovin/iptv-api) | ⚡️ IPTV直播源自动更新工具：自动采集、校验、测速并生成可播放结果，支持 M3U/TXT/API 输出、自定义… | ⚡ 🎬 🛠️ +1 | Python | 26k | 2026-04-16 |
 | [wbt5/real-url](https://github.com/wbt5/real-url) | 取各直播平台真实流地址｜获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源… | 🎬 | Python | 7.8k | 2022-07-31 |
 | [Karben233/bili-hardcore](https://github.com/Karben233/bili-hardcore) | B站硬核会员自动答题脚本｜bilibili 硬核会员 AI 自动答题脚本 | ⚡ | Rust | 2.4k | 2026-06-10 |
-| [faceair/clash-speedtest](https://github.com/faceair/clash-speedtest) | clash speedtest | 🌐 | Go | 980 | 2024-02-29 |
+| [faceair/clash-speedtest](https://github.com/faceair/clash-speedtest) | clash speedtest | 🌐 | Go | 982 | 2024-02-29 |
 
 <a id="desktop"></a>
 ## 🖥️ 跨平台桌面
@@ -297,8 +299,8 @@
 | [localsend/localsend](https://github.com/localsend/localsend) | 跨设备局域网文件互传（类 AirDrop）｜An open-source cross-platform alternative to AirDrop | ⚙️ | Dart | 97k | 2025-10-28 |
 | [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. | 🤖 | C++ | 77k | 2024-05-13 |
 | [storytold/photocraft](https://github.com/storytold/photocraft) | 纯 Rust 从零写的开源修图工具｜PhotoCraft: An open-source, photo editor written by scratch in pu… | 🎨 | Rust | 76k | 2026-10-09 |
-| [marktext/marktext](https://github.com/marktext/marktext) | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. | 📄 | TypeScript | 63k | 2022-07-26 |
-| [chen08209/FlClash](https://github.com/chen08209/FlClash) | A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-fre… | 🌐 | Dart | 60k | 2024-07-12 |
+| [marktext/marktext](https://github.com/marktext/marktext) | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. | 📄 | TypeScript | 64k | 2022-07-26 |
+| [chen08209/FlClash](https://github.com/chen08209/FlClash) | A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-fre… | 🌐 | Dart | 61k | 2024-07-12 |
 | [agalwood/Motrix](https://github.com/agalwood/Motrix) | A full-featured download manager. | 📥 | TypeScript | 58k | 2023-12-07 |
 | [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | 一个基于 Electron 的音乐软件 | 🎵 🎬 | TypeScript | 55k | 2024-06-18 |
 | [gkd-kit/gkd](https://github.com/gkd-kit/gkd) | 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 \| An Android APP with custom screen ta… | 🧩 | Kotlin | 44k | 2023-10-30 |

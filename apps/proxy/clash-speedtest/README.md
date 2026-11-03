@@ -18,7 +18,7 @@ clash speedtest
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | ⌨️ |
 | 语言 | Go |
-| Star | 980 · Fork 128 |
+| Star | 982 · Fork 128 |
 | License | GPL-3.0 |
 | 最新版本 | `v1.8.8` |
 | 最近更新 | 2026-05-17（5 个月前） |
@@ -48,16 +48,16 @@ clash speedtest
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [clash-speedtest_Darwin_arm64.tar.gz](https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/clash-speedtest_Darwin_arm64.tar.gz) | 🍎 macOS | 11.1 MB | 215 |
-| [clash-speedtest_Darwin_x86_64.tar.gz](https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/clash-speedtest_Darwin_x86_64.tar.gz) | 🍎 macOS | 12.0 MB | 106 |
+| [clash-speedtest_Darwin_arm64.tar.gz](https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/clash-speedtest_Darwin_arm64.tar.gz) | 🍎 macOS | 11.1 MB | 218 |
+| [clash-speedtest_Darwin_x86_64.tar.gz](https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/clash-speedtest_Darwin_x86_64.tar.gz) | 🍎 macOS | 12.0 MB | 107 |
 | [clash-speedtest_Windows_x86_64.zip](https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/clash-speedtest_Windows_x86_64.zip) | 🪟 Windows | 12.0 MB | 1.9k |
-| [clash-speedtest_Windows_arm64.zip](https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/clash-speedtest_Windows_arm64.zip) | 🪟 Windows | 10.6 MB | 161 |
-| [clash-speedtest_Windows_i386.zip](https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/clash-speedtest_Windows_i386.zip) | 🪟 Windows | 11.4 MB | 103 |
+| [clash-speedtest_Windows_arm64.zip](https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/clash-speedtest_Windows_arm64.zip) | 🪟 Windows | 10.6 MB | 165 |
+| [clash-speedtest_Windows_i386.zip](https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/clash-speedtest_Windows_i386.zip) | 🪟 Windows | 11.4 MB | 105 |
 | [clash-speedtest_Linux_x86_64.tar.gz](https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/clash-speedtest_Linux_x86_64.tar.gz) | 🐧 Linux | 12.4 MB | 1.7k |
-| [clash-speedtest_Linux_arm64.tar.gz](https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/clash-speedtest_Linux_arm64.tar.gz) | 🐧 Linux | 11.2 MB | 149 |
-| [clash-speedtest_Linux_armv7.tar.gz](https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/clash-speedtest_Linux_armv7.tar.gz) | 🐧 Linux | 11.5 MB | 16 |
-| [clash-speedtest_Linux_i386.tar.gz](https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/clash-speedtest_Linux_i386.tar.gz) | 🐧 Linux | 11.6 MB | 14 |
-| [checksums.txt](https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/checksums.txt) | 🔐 校验文件 | 909 B | 237 |
+| [clash-speedtest_Linux_arm64.tar.gz](https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/clash-speedtest_Linux_arm64.tar.gz) | 🐧 Linux | 11.2 MB | 151 |
+| [clash-speedtest_Linux_armv7.tar.gz](https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/clash-speedtest_Linux_armv7.tar.gz) | 🐧 Linux | 11.5 MB | 17 |
+| [clash-speedtest_Linux_i386.tar.gz](https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/clash-speedtest_Linux_i386.tar.gz) | 🐧 Linux | 11.6 MB | 15 |
+| [checksums.txt](https://github.com/faceair/clash-speedtest/releases/download/v1.8.8/checksums.txt) | 🔐 校验文件 | 909 B | 241 |
 
 ## 🔗 快速链接
 

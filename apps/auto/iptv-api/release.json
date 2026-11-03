@@ -14,8 +14,8 @@
     "CLI"
   ],
   "language": "Python",
-  "stars": 25925,
-  "forks": 7664,
+  "stars": 25937,
+  "forks": 7672,
   "license": "NOASSERTION",
   "archived": false,
   "homepage": "https://guovin.github.io/iptv-api/",
@@ -55,24 +55,24 @@
     {
       "name": "IPTV-API-GUI-macOS-ARM64-v3.1.0.zip",
       "size": 71126122,
-      "downloads": 347,
+      "downloads": 358,
       "url": "https://github.com/Guovin/iptv-api/releases/download/3.1.0/IPTV-API-GUI-macOS-ARM64-v3.1.0.zip",
       "platform": "🍎 macOS"
     },
     {
       "name": "IPTV-API-GUI-Windows-X64-v3.1.0.zip",
       "size": 86466208,
-      "downloads": 1943,
+      "downloads": 1998,
       "url": "https://github.com/Guovin/iptv-api/releases/download/3.1.0/IPTV-API-GUI-Windows-X64-v3.1.0.zip",
       "platform": "🪟 Windows"
     },
     {
       "name": "SHA256SUMS.txt",
       "size": 204,
-      "downloads": 204,
+      "downloads": 214,
       "url": "https://github.com/Guovin/iptv-api/releases/download/3.1.0/SHA256SUMS.txt",
       "platform": "🔐 校验文件"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

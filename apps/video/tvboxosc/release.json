@@ -13,14 +13,14 @@
     "AndroidTV"
   ],
   "language": "",
-  "stars": 18069,
+  "stars": 18073,
   "forks": 2223,
   "license": "",
   "archived": false,
   "homepage": "",
   "topics": [],
   "starred_at": "2025-11-06T04:55:00Z",
-  "pushed_at": "2026-10-01T19:54:12Z",
+  "pushed_at": "2026-11-02T19:53:56Z",
   "latest": {
     "kind": "release",
     "tag": "20260914-1520",
@@ -33,52 +33,52 @@
     {
       "name": "sourceCode-ab11d28.tar.xz",
       "size": 16706204,
-      "downloads": 1173,
+      "downloads": 1200,
       "url": "https://github.com/j4Uq/TVBoxOSC/releases/download/20260914-1520/sourceCode-ab11d28.tar.xz",
       "platform": "📦 其他"
     },
     {
       "name": "TVBox_q215613905_20260914-1520-java.apk",
       "size": 33299951,
-      "downloads": 22727,
+      "downloads": 23517,
       "url": "https://github.com/j4Uq/TVBoxOSC/releases/download/20260914-1520/TVBox_q215613905_20260914-1520-java.apk",
       "platform": "📲 Android"
     },
     {
       "name": "TVBox_q215613905_20260914-1520-java32.apk",
       "size": 19801000,
-      "downloads": 14312,
+      "downloads": 14746,
       "url": "https://github.com/j4Uq/TVBoxOSC/releases/download/20260914-1520/TVBox_q215613905_20260914-1520-java32.apk",
       "platform": "📲 Android"
     },
     {
       "name": "TVBox_q215613905_20260914-1520-java64.apk",
       "size": 20763281,
-      "downloads": 11994,
+      "downloads": 12328,
       "url": "https://github.com/j4Uq/TVBoxOSC/releases/download/20260914-1520/TVBox_q215613905_20260914-1520-java64.apk",
       "platform": "📲 Android"
     },
     {
       "name": "TVBox_q215613905_20260914-1520-python.apk",
       "size": 52629608,
-      "downloads": 5084,
+      "downloads": 5187,
       "url": "https://github.com/j4Uq/TVBoxOSC/releases/download/20260914-1520/TVBox_q215613905_20260914-1520-python.apk",
       "platform": "📲 Android"
     },
     {
       "name": "TVBox_q215613905_20260914-1520-python32.apk",
       "size": 31610642,
-      "downloads": 4507,
+      "downloads": 4580,
       "url": "https://github.com/j4Uq/TVBoxOSC/releases/download/20260914-1520/TVBox_q215613905_20260914-1520-python32.apk",
       "platform": "📲 Android"
     },
     {
       "name": "TVBox_q215613905_20260914-1520-python64.apk",
       "size": 33053520,
-      "downloads": 5632,
+      "downloads": 5777,
       "url": "https://github.com/j4Uq/TVBoxOSC/releases/download/20260914-1520/TVBox_q215613905_20260914-1520-python64.apk",
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

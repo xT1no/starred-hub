@@ -16,8 +16,8 @@
     "跨平台桌面"
   ],
   "language": "TypeScript",
-  "stars": 63489,
-  "forks": 4708,
+  "stars": 63532,
+  "forks": 4716,
   "license": "MIT",
   "archived": false,
   "homepage": "https://www.marktext.me",
@@ -36,7 +36,7 @@
     "windows"
   ],
   "starred_at": "2022-07-26T16:47:43Z",
-  "pushed_at": "2026-11-02T10:48:13Z",
+  "pushed_at": "2026-11-03T07:13:42Z",
   "latest": {
     "kind": "release",
     "tag": "v0.23.0",
@@ -49,206 +49,206 @@
     {
       "name": "builder-debug.yml",
       "size": 3152,
-      "downloads": 115,
+      "downloads": 122,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/builder-debug.yml",
       "platform": "📦 其他"
     },
     {
       "name": "latest-linux-arm64.yml",
       "size": 699,
-      "downloads": 101,
+      "downloads": 105,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/latest-linux-arm64.yml",
       "platform": "🐧 Linux"
     },
     {
       "name": "latest-linux.yml",
       "size": 675,
-      "downloads": 169,
+      "downloads": 178,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/latest-linux.yml",
       "platform": "🐧 Linux"
     },
     {
       "name": "latest-mac.yml",
       "size": 806,
-      "downloads": 19327,
+      "downloads": 20767,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/latest-mac.yml",
       "platform": "🍎 macOS"
     },
     {
       "name": "latest.yml",
       "size": 518,
-      "downloads": 2881,
+      "downloads": 3093,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/latest.yml",
       "platform": "📦 其他"
     },
     {
       "name": "marktext-linux-0.23.0.AppImage",
       "size": 165020655,
-      "downloads": 1514,
+      "downloads": 1631,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-0.23.0.AppImage",
       "platform": "🐧 Linux"
     },
     {
       "name": "marktext-linux-0.23.0.deb",
       "size": 126657272,
-      "downloads": 2500,
+      "downloads": 2649,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-0.23.0.deb",
       "platform": "🐧 Linux"
     },
     {
       "name": "marktext-linux-0.23.0.rpm",
       "size": 110981749,
-      "downloads": 348,
+      "downloads": 366,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-0.23.0.rpm",
       "platform": "🐧 Linux"
     },
     {
       "name": "marktext-linux-0.23.0.snap",
       "size": 141807616,
-      "downloads": 120,
+      "downloads": 124,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-0.23.0.snap",
       "platform": "🐧 Linux"
     },
     {
       "name": "marktext-linux-0.23.0.tar.gz",
       "size": 156197559,
-      "downloads": 3172,
+      "downloads": 3272,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-0.23.0.tar.gz",
       "platform": "🐧 Linux"
     },
     {
       "name": "marktext-linux-arm64-0.23.0.AppImage",
       "size": 165534223,
-      "downloads": 225,
+      "downloads": 249,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-arm64-0.23.0.AppImage",
       "platform": "🐧 Linux"
     },
     {
       "name": "marktext-linux-arm64-0.23.0.deb",
       "size": 121073212,
-      "downloads": 451,
+      "downloads": 489,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-arm64-0.23.0.deb",
       "platform": "🐧 Linux"
     },
     {
       "name": "marktext-linux-arm64-0.23.0.rpm",
       "size": 105619233,
-      "downloads": 107,
+      "downloads": 112,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-arm64-0.23.0.rpm",
       "platform": "🐧 Linux"
     },
     {
       "name": "marktext-linux-arm64-0.23.0.tar.gz",
       "size": 156488638,
-      "downloads": 268,
+      "downloads": 295,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-arm64-0.23.0.tar.gz",
       "platform": "🐧 Linux"
     },
     {
       "name": "marktext-mac-arm64-0.23.0.dmg",
       "size": 157789853,
-      "downloads": 6596,
+      "downloads": 7112,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-arm64-0.23.0.dmg",
       "platform": "🍎 macOS"
     },
     {
       "name": "marktext-mac-arm64-0.23.0.dmg.blockmap",
       "size": 166702,
-      "downloads": 79,
+      "downloads": 81,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-arm64-0.23.0.dmg.blockmap",
       "platform": "🍎 macOS"
     },
     {
       "name": "marktext-mac-arm64-0.23.0.zip",
       "size": 157696460,
-      "downloads": 1214,
+      "downloads": 1308,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-arm64-0.23.0.zip",
       "platform": "🍎 macOS"
     },
     {
       "name": "marktext-mac-arm64-0.23.0.zip.blockmap",
       "size": 165869,
-      "downloads": 123,
+      "downloads": 128,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-arm64-0.23.0.zip.blockmap",
       "platform": "🍎 macOS"
     },
     {
       "name": "marktext-mac-x64-0.23.0.dmg",
       "size": 164727278,
-      "downloads": 1479,
+      "downloads": 1603,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-x64-0.23.0.dmg",
       "platform": "🍎 macOS"
     },
     {
       "name": "marktext-mac-x64-0.23.0.dmg.blockmap",
       "size": 172327,
-      "downloads": 74,
+      "downloads": 76,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-x64-0.23.0.dmg.blockmap",
       "platform": "🍎 macOS"
     },
     {
       "name": "marktext-mac-x64-0.23.0.zip",
       "size": 164694542,
-      "downloads": 572,
+      "downloads": 633,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-x64-0.23.0.zip",
       "platform": "🍎 macOS"
     },
     {
       "name": "marktext-mac-x64-0.23.0.zip.blockmap",
       "size": 174286,
-      "downloads": 76,
+      "downloads": 80,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-x64-0.23.0.zip.blockmap",
       "platform": "🍎 macOS"
     },
     {
       "name": "marktext-win-arm64-0.23.0-setup.exe",
       "size": 126033364,
-      "downloads": 2346,
+      "downloads": 2527,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-arm64-0.23.0-setup.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "marktext-win-arm64-0.23.0-setup.exe.blockmap",
       "size": 132305,
-      "downloads": 379,
+      "downloads": 406,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-arm64-0.23.0-setup.exe.blockmap",
       "platform": "🪟 Windows"
     },
     {
       "name": "marktext-win-arm64-0.23.0.zip",
       "size": 179359420,
-      "downloads": 660,
+      "downloads": 709,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-arm64-0.23.0.zip",
       "platform": "🪟 Windows"
     },
     {
       "name": "marktext-win-x64-0.23.0-setup.exe",
       "size": 132435617,
-      "downloads": 42447,
+      "downloads": 45192,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-x64-0.23.0-setup.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "marktext-win-x64-0.23.0-setup.exe.blockmap",
       "size": 137418,
-      "downloads": 1339,
+      "downloads": 1412,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-x64-0.23.0-setup.exe.blockmap",
       "platform": "🪟 Windows"
     },
     {
       "name": "marktext-win-x64-0.23.0.zip",
       "size": 181482586,
-      "downloads": 8037,
+      "downloads": 8747,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-x64-0.23.0.zip",
       "platform": "🪟 Windows"
     },
     {
       "name": "SHA256SUMS.txt",
       "size": 2691,
-      "downloads": 2286,
+      "downloads": 2464,
       "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/SHA256SUMS.txt",
       "platform": "🔐 校验文件"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

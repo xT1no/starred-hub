@@ -20,16 +20,16 @@ eIsland - A sleek, Apple Dynamic Island inspired floating widget for Windows, bu
 | 分类 | ⚙️ [系统增强 / 优化](../README.md) |
 | 平台 | 🪟 |
 | 语言 | TypeScript |
-| Star | 325 · Fork 18 |
+| Star | 327 · Fork 18 |
 | License | GPL-3.0 |
 | 最新版本 | `v27.0.1` |
-| 最近更新 | 2026-10-31（昨天） |
+| 最近更新 | 2026-10-31（2 天前） |
 | 标星日期 | 2026-06-20 |
 | 官网 | <https://dev.electronisland.com/> |
 
 ## 📦 最新版本
 
-**`v27.0.1`**　发布于 2026-10-31（昨天）
+**`v27.0.1`**　发布于 2026-10-31（2 天前）
 
 [查看 Release 页面](https://github.com/JNTMTMTM/eIsland/releases/tag/v27.0.1)
 
@@ -63,9 +63,9 @@ eIsland - A sleek, Apple Dynamic Island inspired floating widget for Windows, bu
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [eIsland-27.0.1-Setup.exe](https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.1/eIsland-27.0.1-Setup.exe) | 🪟 Windows | 402.3 MB | 63 |
-| [eIsland-27.0.1-Setup.exe.blockmap](https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.1/eIsland-27.0.1-Setup.exe.blockmap) | 🪟 Windows | 404 KB | 26 |
-| [latest.yml](https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.1/latest.yml) | 📦 其他 | 346 B | 134 |
+| [eIsland-27.0.1-Setup.exe](https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.1/eIsland-27.0.1-Setup.exe) | 🪟 Windows | 402.3 MB | 86 |
+| [eIsland-27.0.1-Setup.exe.blockmap](https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.1/eIsland-27.0.1-Setup.exe.blockmap) | 🪟 Windows | 404 KB | 29 |
+| [latest.yml](https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.1/latest.yml) | 📦 其他 | 346 B | 180 |
 
 ## 🔗 快速链接
 

@@ -13,7 +13,7 @@
     "路由器 / 固件"
   ],
   "language": "",
-  "stars": 11032,
+  "stars": 11031,
   "forks": 3570,
   "license": "GPL-3.0",
   "archived": false,
@@ -30,5 +30,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

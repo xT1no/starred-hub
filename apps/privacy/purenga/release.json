@@ -39,21 +39,21 @@
     {
       "name": "nga_9.9.64-3.4.0-lspatched.apk",
       "size": 93634151,
-      "downloads": 431,
+      "downloads": 445,
       "url": "https://github.com/chr233/PureNGA/releases/download/3.4.0/nga_9.9.64-3.4.0-lspatched.apk",
       "platform": "📲 Android"
     },
     {
       "name": "nga_9.9.65-3.4.0-lspatched.apk",
       "size": 79301142,
-      "downloads": 87,
+      "downloads": 89,
       "url": "https://github.com/chr233/PureNGA/releases/download/3.4.0/nga_9.9.65-3.4.0-lspatched.apk",
       "platform": "📲 Android"
     },
     {
       "name": "nga_9.9.66-3.4.0-lspatched.apk",
       "size": 79524623,
-      "downloads": 62,
+      "downloads": 63,
       "url": "https://github.com/chr233/PureNGA/releases/download/3.4.0/nga_9.9.66-3.4.0-lspatched.apk",
       "platform": "📲 Android"
     },
@@ -67,10 +67,10 @@
     {
       "name": "nga_9.9.68-3.4.0-lspatched.apk",
       "size": 82979627,
-      "downloads": 2855,
+      "downloads": 2866,
       "url": "https://github.com/chr233/PureNGA/releases/download/3.4.0/nga_9.9.68-3.4.0-lspatched.apk",
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

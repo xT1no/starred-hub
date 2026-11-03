@@ -13,8 +13,8 @@
     "Linux"
   ],
   "language": "Shell",
-  "stars": 8503,
-  "forks": 1183,
+  "stars": 8506,
+  "forks": 1185,
   "license": "GPL-3.0",
   "archived": false,
   "homepage": "",
@@ -30,5 +30,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

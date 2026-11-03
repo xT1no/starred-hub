@@ -18,7 +18,7 @@
     "跨平台桌面"
   ],
   "language": "Vue",
-  "stars": 33516,
+  "stars": 33523,
   "forks": 4668,
   "license": "MIT",
   "archived": false,
@@ -57,70 +57,70 @@
     {
       "name": "latest-linux.yml",
       "size": 378,
-      "downloads": 714,
+      "downloads": 735,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/latest-linux.yml",
       "platform": "🐧 Linux"
     },
     {
       "name": "latest-mac.yml",
       "size": 690,
-      "downloads": 11012,
+      "downloads": 11442,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/latest-mac.yml",
       "platform": "🍎 macOS"
     },
     {
       "name": "latest.yml",
       "size": 387,
-      "downloads": 10958,
+      "downloads": 11354,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/latest.yml",
       "platform": "📦 其他"
     },
     {
       "name": "yesplaymusic-0.4.11-arm64.tar.gz",
       "size": 95412138,
-      "downloads": 304,
+      "downloads": 314,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic-0.4.11-arm64.tar.gz",
       "platform": "🐧 Linux"
     },
     {
       "name": "YesPlayMusic-0.4.11.AppImage",
       "size": 95327961,
-      "downloads": 631,
+      "downloads": 649,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-0.4.11.AppImage",
       "platform": "🐧 Linux"
     },
     {
       "name": "YesPlayMusic-0.4.11.exe",
       "size": 58058421,
-      "downloads": 3444,
+      "downloads": 3540,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-0.4.11.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "yesplaymusic-0.4.11.pacman",
       "size": 66355904,
-      "downloads": 707,
+      "downloads": 726,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic-0.4.11.pacman",
       "platform": "📦 其他"
     },
     {
       "name": "yesplaymusic-0.4.11.tar.gz",
       "size": 89992318,
-      "downloads": 187,
+      "downloads": 193,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic-0.4.11.tar.gz",
       "platform": "📦 其他"
     },
     {
       "name": "yesplaymusic-0.4.11.x86_64.rpm",
       "size": 66333065,
-      "downloads": 358,
+      "downloads": 365,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic-0.4.11.x86_64.rpm",
       "platform": "🐧 Linux"
     },
     {
       "name": "YesPlayMusic-mac-0.4.11-arm64.dmg",
       "size": 93117485,
-      "downloads": 1024,
+      "downloads": 1054,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-arm64.dmg",
       "platform": "🍎 macOS"
     },
@@ -134,7 +134,7 @@
     {
       "name": "YesPlayMusic-mac-0.4.11-universal.dmg",
       "size": 159376941,
-      "downloads": 213,
+      "downloads": 227,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-universal.dmg",
       "platform": "🍎 macOS"
     },
@@ -148,7 +148,7 @@
     {
       "name": "YesPlayMusic-mac-0.4.11-x64.dmg",
       "size": 89127329,
-      "downloads": 233,
+      "downloads": 241,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-mac-0.4.11-x64.dmg",
       "platform": "🍎 macOS"
     },
@@ -162,38 +162,38 @@
     {
       "name": "YesPlayMusic-Setup-0.4.11.exe",
       "size": 58243633,
-      "downloads": 5699,
+      "downloads": 5820,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-Setup-0.4.11.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "YesPlayMusic-Setup-0.4.11.exe.blockmap",
       "size": 60736,
-      "downloads": 3411,
+      "downloads": 3480,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/YesPlayMusic-Setup-0.4.11.exe.blockmap",
       "platform": "🪟 Windows"
     },
     {
       "name": "yesplaymusic_0.4.11_amd64.deb",
       "size": 66364214,
-      "downloads": 621,
+      "downloads": 637,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic_0.4.11_amd64.deb",
       "platform": "🐧 Linux"
     },
     {
       "name": "yesplaymusic_0.4.11_arm64.deb",
       "size": 66331878,
-      "downloads": 186,
+      "downloads": 189,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic_0.4.11_arm64.deb",
       "platform": "🐧 Linux"
     },
     {
       "name": "yesplaymusic_0.4.11_armv7l.deb",
       "size": 61452902,
-      "downloads": 90,
+      "downloads": 91,
       "url": "https://github.com/qier222/YesPlayMusic/releases/download/v0.4.11/yesplaymusic_0.4.11_armv7l.deb",
       "platform": "🐧 Linux"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

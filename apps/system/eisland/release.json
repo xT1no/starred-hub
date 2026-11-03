@@ -13,7 +13,7 @@
     "Windows"
   ],
   "language": "TypeScript",
-  "stars": 325,
+  "stars": 327,
   "forks": 18,
   "license": "GPL-3.0",
   "archived": false,
@@ -30,7 +30,7 @@
     "vite"
   ],
   "starred_at": "2026-06-20T07:30:41Z",
-  "pushed_at": "2026-11-02T02:41:56Z",
+  "pushed_at": "2026-11-03T01:24:24Z",
   "latest": {
     "kind": "release",
     "tag": "v27.0.1",
@@ -43,24 +43,24 @@
     {
       "name": "eIsland-27.0.1-Setup.exe",
       "size": 421887403,
-      "downloads": 63,
+      "downloads": 86,
       "url": "https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.1/eIsland-27.0.1-Setup.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "eIsland-27.0.1-Setup.exe.blockmap",
       "size": 413458,
-      "downloads": 26,
+      "downloads": 29,
       "url": "https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.1/eIsland-27.0.1-Setup.exe.blockmap",
       "platform": "🪟 Windows"
     },
     {
       "name": "latest.yml",
       "size": 346,
-      "downloads": 134,
+      "downloads": 180,
       "url": "https://github.com/JNTMTMTM/eIsland/releases/download/v27.0.1/latest.yml",
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

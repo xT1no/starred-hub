@@ -13,8 +13,8 @@
     "Windows"
   ],
   "language": "Rust",
-  "stars": 3268,
-  "forks": 133,
+  "stars": 3280,
+  "forks": 135,
   "license": "NOASSERTION",
   "archived": false,
   "homepage": "https://www.lightc.app/",
@@ -33,73 +33,73 @@
     {
       "name": "download.json",
       "size": 290,
-      "downloads": 2,
+      "downloads": 9,
       "url": "https://github.com/Chunyu33/light-c/releases/download/v2.18.1/download.json",
       "platform": "📦 其他"
     },
     {
       "name": "latest.json",
       "size": 1879,
-      "downloads": 512,
+      "downloads": 2938,
       "url": "https://github.com/Chunyu33/light-c/releases/download/v2.18.1/latest.json",
       "platform": "📦 其他"
     },
     {
       "name": "LightC_2.18.1_x64-setup.exe",
       "size": 6216465,
-      "downloads": 238,
+      "downloads": 1258,
       "url": "https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_2.18.1_x64-setup.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "LightC_2.18.1_x64-setup.exe.sig",
       "size": 416,
-      "downloads": 2,
+      "downloads": 4,
       "url": "https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_2.18.1_x64-setup.exe.sig",
       "platform": "🔐 校验文件"
     },
     {
       "name": "LightC_installer_exe.sig",
       "size": 396,
-      "downloads": 4,
+      "downloads": 20,
       "url": "https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_installer_exe.sig",
       "platform": "🔐 校验文件"
     },
     {
       "name": "LightC_portable_exe.sig",
       "size": 396,
-      "downloads": 3,
+      "downloads": 10,
       "url": "https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_portable_exe.sig",
       "platform": "🔐 校验文件"
     },
     {
       "name": "LightC_portable_x64_v2.18.1.zip",
       "size": 8225152,
-      "downloads": 38,
+      "downloads": 140,
       "url": "https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_portable_x64_v2.18.1.zip",
       "platform": "🌐 Web"
     },
     {
       "name": "LightC_webview2_offline_exe.sig",
       "size": 396,
-      "downloads": 4,
+      "downloads": 17,
       "url": "https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_webview2_offline_exe.sig",
       "platform": "🔐 校验文件"
     },
     {
       "name": "LightC_webview2_offline_x64_v2.18.1.exe",
       "size": 224034622,
-      "downloads": 10,
+      "downloads": 29,
       "url": "https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_webview2_offline_x64_v2.18.1.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "SHA256SUMS.txt",
       "size": 301,
-      "downloads": 6,
+      "downloads": 15,
       "url": "https://github.com/Chunyu33/light-c/releases/download/v2.18.1/SHA256SUMS.txt",
       "platform": "🔐 校验文件"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

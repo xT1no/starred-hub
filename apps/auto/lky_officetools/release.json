@@ -13,7 +13,7 @@
     "通用 / 未指定"
   ],
   "language": "C#",
-  "stars": 12981,
+  "stars": 12986,
   "forks": 1242,
   "license": "GPL-3.0",
   "archived": false,
@@ -54,10 +54,10 @@
     {
       "name": "LKY_OfficeTools_v1.3.0.223.zip",
       "size": 12375034,
-      "downloads": 13821,
+      "downloads": 13892,
       "url": "https://github.com/OdysseusYuan/LKY_OfficeTools/releases/download/v1.3.0/LKY_OfficeTools_v1.3.0.223.zip",
       "platform": "🌐 Web"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

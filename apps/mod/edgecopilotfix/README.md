@@ -23,12 +23,12 @@
 | Star | 111 · Fork 5 |
 | License | MIT |
 | 最新版本 | `1.2` |
-| 最近更新 | 2026-10-16（16 天前） |
+| 最近更新 | 2026-10-16（17 天前） |
 | 标星日期 | 2026-01-10 |
 
 ## 📦 最新版本
 
-**`1.2`** · Edge Copilot Fix Tool 1.2 - 修复新版 Copilot 侧边栏入口　发布于 2026-10-16（16 天前）
+**`1.2`** · Edge Copilot Fix Tool 1.2 - 修复新版 Copilot 侧边栏入口　发布于 2026-10-16（17 天前）
 
 [查看 Release 页面](https://github.com/emmm1245/EdgeCopilotFix/releases/tag/1.2)
 
@@ -56,9 +56,9 @@
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [EdgeCopilotFixTool-darwin-amd64](https://github.com/emmm1245/EdgeCopilotFix/releases/download/1.2/EdgeCopilotFixTool-darwin-amd64) | 🍎 macOS | 3.2 MB | 7 |
+| [EdgeCopilotFixTool-darwin-amd64](https://github.com/emmm1245/EdgeCopilotFix/releases/download/1.2/EdgeCopilotFixTool-darwin-amd64) | 🍎 macOS | 3.2 MB | 8 |
 | [EdgeCopilotFixTool-darwin-arm64](https://github.com/emmm1245/EdgeCopilotFix/releases/download/1.2/EdgeCopilotFixTool-darwin-arm64) | 🍎 macOS | 3.1 MB | 4 |
-| [EdgeCopilotFixTool-windows-amd64.exe](https://github.com/emmm1245/EdgeCopilotFix/releases/download/1.2/EdgeCopilotFixTool-windows-amd64.exe) | 🪟 Windows | 3.3 MB | 64 |
+| [EdgeCopilotFixTool-windows-amd64.exe](https://github.com/emmm1245/EdgeCopilotFix/releases/download/1.2/EdgeCopilotFixTool-windows-amd64.exe) | 🪟 Windows | 3.3 MB | 67 |
 | [EdgeCopilotFixTool-linux-amd64](https://github.com/emmm1245/EdgeCopilotFix/releases/download/1.2/EdgeCopilotFixTool-linux-amd64) | 🐧 Linux | 3.2 MB | 0 |
 
 ## 🔗 快速链接

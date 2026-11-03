@@ -14,7 +14,7 @@
   ],
   "language": "Kotlin",
   "stars": 3893,
-  "forks": 300,
+  "forks": 301,
   "license": "GPL-3.0",
   "archived": false,
   "homepage": "https://t.me/bb_show",
@@ -34,5 +34,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

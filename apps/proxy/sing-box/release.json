@@ -13,14 +13,14 @@
     "CLI"
   ],
   "language": "Go",
-  "stars": 39535,
-  "forks": 4863,
+  "stars": 39571,
+  "forks": 4866,
   "license": "NOASSERTION",
   "archived": false,
   "homepage": "https://sing-box.sagernet.org/",
   "topics": [],
   "starred_at": "2024-05-12T18:27:19Z",
-  "pushed_at": "2026-10-28T02:44:53Z",
+  "pushed_at": "2026-11-03T05:52:38Z",
   "latest": {
     "kind": "release",
     "tag": "v1.14.4",
@@ -33,283 +33,283 @@
     {
       "name": "SFA-1.14.4-arm64-v8a.apk",
       "size": 36665679,
-      "downloads": 13424,
+      "downloads": 14232,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-arm64-v8a.apk",
       "platform": "📲 Android"
     },
     {
       "name": "SFA-1.14.4-armeabi-v7a.apk",
       "size": 36545037,
-      "downloads": 863,
+      "downloads": 934,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-armeabi-v7a.apk",
       "platform": "📲 Android"
     },
     {
       "name": "SFA-1.14.4-legacy-android-5-arm64-v8a.apk",
       "size": 31256986,
-      "downloads": 796,
+      "downloads": 865,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-legacy-android-5-arm64-v8a.apk",
       "platform": "📲 Android"
     },
     {
       "name": "SFA-1.14.4-legacy-android-5-armeabi-v7a.apk",
       "size": 31776493,
-      "downloads": 360,
+      "downloads": 388,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-legacy-android-5-armeabi-v7a.apk",
       "platform": "📲 Android"
     },
     {
       "name": "SFA-1.14.4-legacy-android-5-universal.apk",
       "size": 106884356,
-      "downloads": 570,
+      "downloads": 602,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-legacy-android-5-universal.apk",
       "platform": "📲 Android"
     },
     {
       "name": "SFA-1.14.4-legacy-android-5-x86.apk",
       "size": 33775085,
-      "downloads": 273,
+      "downloads": 293,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-legacy-android-5-x86.apk",
       "platform": "📲 Android"
     },
     {
       "name": "SFA-1.14.4-legacy-android-5-x86_64.apk",
       "size": 33001189,
-      "downloads": 321,
+      "downloads": 348,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-legacy-android-5-x86_64.apk",
       "platform": "📲 Android"
     },
     {
       "name": "SFA-1.14.4-universal.apk",
       "size": 127298612,
-      "downloads": 2129,
+      "downloads": 2273,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-universal.apk",
       "platform": "📲 Android"
     },
     {
       "name": "SFA-1.14.4-x86.apk",
       "size": 39621057,
-      "downloads": 311,
+      "downloads": 342,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-x86.apk",
       "platform": "📲 Android"
     },
     {
       "name": "SFA-1.14.4-x86_64.apk",
       "size": 38579478,
-      "downloads": 617,
+      "downloads": 668,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-1.14.4-x86_64.apk",
       "platform": "📲 Android"
     },
     {
       "name": "SFA-version-metadata.json",
       "size": 54,
-      "downloads": 33513,
+      "downloads": 35999,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFA-version-metadata.json",
       "platform": "📦 其他"
     },
     {
       "name": "SFI-1.14.4-iphoneos-arm64.deb",
       "size": 30054404,
-      "downloads": 260,
+      "downloads": 287,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFI-1.14.4-iphoneos-arm64.deb",
       "platform": "🐧 Linux"
     },
     {
       "name": "SFI-1.14.4-iphoneos-arm64e.deb",
       "size": 30046244,
-      "downloads": 156,
+      "downloads": 171,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFI-1.14.4-iphoneos-arm64e.deb",
       "platform": "🐧 Linux"
     },
     {
       "name": "SFL-1.14.4-aarch64.pkg.tar.zst",
       "size": 119780642,
-      "downloads": 131,
+      "downloads": 142,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFL-1.14.4-aarch64.pkg.tar.zst",
       "platform": "📦 其他"
     },
     {
       "name": "SFL-1.14.4-aarch64.rpm",
       "size": 104454277,
-      "downloads": 125,
+      "downloads": 130,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFL-1.14.4-aarch64.rpm",
       "platform": "🐧 Linux"
     },
     {
       "name": "SFL-1.14.4-amd64.deb",
       "size": 112735634,
-      "downloads": 484,
+      "downloads": 525,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFL-1.14.4-amd64.deb",
       "platform": "🐧 Linux"
     },
     {
       "name": "SFL-1.14.4-arm64.deb",
       "size": 104444902,
-      "downloads": 185,
+      "downloads": 198,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFL-1.14.4-arm64.deb",
       "platform": "🐧 Linux"
     },
     {
       "name": "SFL-1.14.4-armv7l.deb",
       "size": 109412554,
-      "downloads": 128,
+      "downloads": 135,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFL-1.14.4-armv7l.deb",
       "platform": "🐧 Linux"
     },
     {
       "name": "SFL-1.14.4-armv7l.pkg.tar.zst",
       "size": 123130898,
-      "downloads": 109,
+      "downloads": 118,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFL-1.14.4-armv7l.pkg.tar.zst",
       "platform": "📦 其他"
     },
     {
       "name": "SFL-1.14.4-armv7l.rpm",
       "size": 109412257,
-      "downloads": 103,
+      "downloads": 107,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFL-1.14.4-armv7l.rpm",
       "platform": "🐧 Linux"
     },
     {
       "name": "SFL-1.14.4-x64.pkg.tar.zst",
       "size": 122350324,
-      "downloads": 179,
+      "downloads": 190,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFL-1.14.4-x64.pkg.tar.zst",
       "platform": "📦 其他"
     },
     {
       "name": "SFL-1.14.4-x86_64.rpm",
       "size": 112728757,
-      "downloads": 259,
+      "downloads": 273,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFL-1.14.4-x86_64.rpm",
       "platform": "🐧 Linux"
     },
     {
       "name": "SFM-1.14.4-Apple.pkg",
       "size": 48262186,
-      "downloads": 2317,
+      "downloads": 2478,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFM-1.14.4-Apple.pkg",
       "platform": "📦 其他"
     },
     {
       "name": "SFM-1.14.4-Intel.pkg",
       "size": 56731831,
-      "downloads": 383,
+      "downloads": 423,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFM-1.14.4-Intel.pkg",
       "platform": "📦 其他"
     },
     {
       "name": "SFM-1.14.4-Universal.pkg",
       "size": 103541311,
-      "downloads": 3316,
+      "downloads": 3611,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFM-1.14.4-Universal.pkg",
       "platform": "📦 其他"
     },
     {
       "name": "SFM-1.14.4.dSYMs.zip",
       "size": 28074971,
-      "downloads": 140,
+      "downloads": 145,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFM-1.14.4.dSYMs.zip",
       "platform": "🌐 Web"
     },
     {
       "name": "SFW-1.14.4-arm64.exe",
       "size": 118460272,
-      "downloads": 355,
+      "downloads": 377,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFW-1.14.4-arm64.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "SFW-1.14.4-x64.exe",
       "size": 115346760,
-      "downloads": 5471,
+      "downloads": 5824,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFW-1.14.4-x64.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "SFW-1.14.4-x86.exe",
       "size": 99327896,
-      "downloads": 316,
+      "downloads": 336,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/SFW-1.14.4-x86.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "sing-box-1.14.4-android-386.tar.gz",
       "size": 28444277,
-      "downloads": 197,
+      "downloads": 206,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-android-386.tar.gz",
       "platform": "📲 Android"
     },
     {
       "name": "sing-box-1.14.4-android-amd64.tar.gz",
       "size": 27527825,
-      "downloads": 346,
+      "downloads": 371,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-android-amd64.tar.gz",
       "platform": "📲 Android"
     },
     {
       "name": "sing-box-1.14.4-android-arm.tar.gz",
       "size": 26140101,
-      "downloads": 296,
+      "downloads": 321,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-android-arm.tar.gz",
       "platform": "📲 Android"
     },
     {
       "name": "sing-box-1.14.4-android-arm64.tar.gz",
       "size": 25614079,
-      "downloads": 1818,
+      "downloads": 1984,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-android-arm64.tar.gz",
       "platform": "📲 Android"
     },
     {
       "name": "sing-box-1.14.4-darwin-amd64-legacy-macos-10.13.tar.gz",
       "size": 26154953,
-      "downloads": 319,
+      "downloads": 366,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-darwin-amd64-legacy-macos-10.13.tar.gz",
       "platform": "🍎 macOS"
     },
     {
       "name": "sing-box-1.14.4-darwin-amd64.tar.gz",
       "size": 31503132,
-      "downloads": 4121,
+      "downloads": 4397,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-darwin-amd64.tar.gz",
       "platform": "🍎 macOS"
     },
     {
       "name": "sing-box-1.14.4-darwin-arm64.tar.gz",
       "size": 29186204,
-      "downloads": 16127,
+      "downloads": 17396,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-darwin-arm64.tar.gz",
       "platform": "🍎 macOS"
     },
     {
       "name": "sing-box-1.14.4-linux-386-glibc.tar.gz",
       "size": 31175934,
-      "downloads": 1033,
+      "downloads": 1127,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-linux-386-glibc.tar.gz",
       "platform": "🐧 Linux"
     },
     {
       "name": "sing-box-1.14.4-linux-386-musl.tar.gz",
       "size": 31191792,
-      "downloads": 186,
+      "downloads": 196,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-linux-386-musl.tar.gz",
       "platform": "🐧 Linux"
     },
     {
       "name": "sing-box-1.14.4-linux-386-softfloat.tar.gz",
       "size": 25820590,
-      "downloads": 126,
+      "downloads": 134,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-linux-386-softfloat.tar.gz",
       "platform": "🐧 Linux"
     },
     {
       "name": "sing-box-1.14.4-linux-386.tar.gz",
       "size": 25807796,
-      "downloads": 201,
+      "downloads": 210,
       "url": "https://github.com/SagerNet/sing-box/releases/download/v1.14.4/sing-box-1.14.4-linux-386.tar.gz",
       "platform": "🐧 Linux"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

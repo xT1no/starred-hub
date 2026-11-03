@@ -13,8 +13,8 @@
     "通用 / 未指定"
   ],
   "language": "Python",
-  "stars": 6892,
-  "forks": 2046,
+  "stars": 6890,
+  "forks": 2048,
   "license": "CC-BY-SA-4.0",
   "archived": false,
   "homepage": "https://t.me/ACL4SSR",
@@ -35,5 +35,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

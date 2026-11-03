@@ -18,16 +18,16 @@ A free, minimalist, lightweight, and high-performance C-drive cleanup tool.
 | 分类 | ⚙️ [系统增强 / 优化](../README.md) |
 | 平台 | 🪟 |
 | 语言 | Rust |
-| Star | 3.3k · Fork 133 |
+| Star | 3.3k · Fork 135 |
 | License | NOASSERTION |
 | 最新版本 | `v2.18.1` |
-| 最近更新 | 2026-11-02（今天） |
+| 最近更新 | 2026-11-02（昨天） |
 | 标星日期 | 2026-08-06 |
 | 官网 | <https://www.lightc.app/> |
 
 ## 📦 最新版本
 
-**`v2.18.1`** · LightC v2.18.1　发布于 2026-11-02（今天）
+**`v2.18.1`** · LightC v2.18.1　发布于 2026-11-02（昨天）
 
 [查看 Release 页面](https://github.com/Chunyu33/light-c/releases/tag/v2.18.1)
 
@@ -51,16 +51,16 @@ LightC v2.18.1 发布说明
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [LightC_2.18.1_x64-setup.exe](https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_2.18.1_x64-setup.exe) | 🪟 Windows | 5.9 MB | 238 |
-| [LightC_webview2_offline_x64_v2.18.1.exe](https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_webview2_offline_x64_v2.18.1.exe) | 🪟 Windows | 213.7 MB | 10 |
-| [LightC_portable_x64_v2.18.1.zip](https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_portable_x64_v2.18.1.zip) | 🌐 Web | 7.8 MB | 38 |
-| [SHA256SUMS.txt](https://github.com/Chunyu33/light-c/releases/download/v2.18.1/SHA256SUMS.txt) | 🔐 校验文件 | 301 B | 6 |
-| [LightC_installer_exe.sig](https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_installer_exe.sig) | 🔐 校验文件 | 396 B | 4 |
-| [LightC_webview2_offline_exe.sig](https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_webview2_offline_exe.sig) | 🔐 校验文件 | 396 B | 4 |
-| [LightC_portable_exe.sig](https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_portable_exe.sig) | 🔐 校验文件 | 396 B | 3 |
-| [LightC_2.18.1_x64-setup.exe.sig](https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_2.18.1_x64-setup.exe.sig) | 🔐 校验文件 | 416 B | 2 |
-| [latest.json](https://github.com/Chunyu33/light-c/releases/download/v2.18.1/latest.json) | 📦 其他 | 2 KB | 512 |
-| [download.json](https://github.com/Chunyu33/light-c/releases/download/v2.18.1/download.json) | 📦 其他 | 290 B | 2 |
+| [LightC_2.18.1_x64-setup.exe](https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_2.18.1_x64-setup.exe) | 🪟 Windows | 5.9 MB | 1.3k |
+| [LightC_webview2_offline_x64_v2.18.1.exe](https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_webview2_offline_x64_v2.18.1.exe) | 🪟 Windows | 213.7 MB | 29 |
+| [LightC_portable_x64_v2.18.1.zip](https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_portable_x64_v2.18.1.zip) | 🌐 Web | 7.8 MB | 140 |
+| [LightC_installer_exe.sig](https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_installer_exe.sig) | 🔐 校验文件 | 396 B | 20 |
+| [LightC_webview2_offline_exe.sig](https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_webview2_offline_exe.sig) | 🔐 校验文件 | 396 B | 17 |
+| [SHA256SUMS.txt](https://github.com/Chunyu33/light-c/releases/download/v2.18.1/SHA256SUMS.txt) | 🔐 校验文件 | 301 B | 15 |
+| [LightC_portable_exe.sig](https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_portable_exe.sig) | 🔐 校验文件 | 396 B | 10 |
+| [LightC_2.18.1_x64-setup.exe.sig](https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_2.18.1_x64-setup.exe.sig) | 🔐 校验文件 | 416 B | 4 |
+| [latest.json](https://github.com/Chunyu33/light-c/releases/download/v2.18.1/latest.json) | 📦 其他 | 2 KB | 2.9k |
+| [download.json](https://github.com/Chunyu33/light-c/releases/download/v2.18.1/download.json) | 📦 其他 | 290 B | 9 |
 
 ## 🔗 快速链接
 

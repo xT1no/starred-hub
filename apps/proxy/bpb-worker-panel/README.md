@@ -52,7 +52,7 @@ Also manual deployment and BPB Wizard client deployments do not work on this rel
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [worker.js](https://github.com/bia-pain-bache/BPB-Worker-Panel/releases/download/v5.1.1/worker.js) | 📦 其他 | 395 KB | 244k |
+| [worker.js](https://github.com/bia-pain-bache/BPB-Worker-Panel/releases/download/v5.1.1/worker.js) | 📦 其他 | 395 KB | 246k |
 
 ## 🔗 快速链接
 

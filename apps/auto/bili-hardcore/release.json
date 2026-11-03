@@ -13,7 +13,7 @@
     "CLI"
   ],
   "language": "Rust",
-  "stars": 2385,
+  "stars": 2386,
   "forks": 142,
   "license": "MIT",
   "archived": false,
@@ -87,7 +87,7 @@
     {
       "name": "bili-hardcore-v1.1.0-windows-x64.zip",
       "size": 1599409,
-      "downloads": 546,
+      "downloads": 553,
       "url": "https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/bili-hardcore-v1.1.0-windows-x64.zip",
       "platform": "🪟 Windows"
     },
@@ -101,7 +101,7 @@
     {
       "name": "install.ps1",
       "size": 1932,
-      "downloads": 90,
+      "downloads": 91,
       "url": "https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/install.ps1",
       "platform": "📦 其他"
     },
@@ -113,5 +113,5 @@
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

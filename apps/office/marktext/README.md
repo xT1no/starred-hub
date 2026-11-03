@@ -18,16 +18,16 @@
 | 分类 | 📄 [办公 / 阅读 / 笔记](../README.md) |
 | 平台 | 🪟 🍎 🐧 🖥️ |
 | 语言 | TypeScript |
-| Star | 63k · Fork 4.7k |
+| Star | 64k · Fork 4.7k |
 | License | MIT |
 | 最新版本 | `v0.23.0` |
-| 最近更新 | 2026-10-21（12 天前） |
+| 最近更新 | 2026-10-21（13 天前） |
 | 标星日期 | 2022-07-26 |
 | 官网 | <https://www.marktext.me> |
 
 ## 📦 最新版本
 
-**`v0.23.0`**　发布于 2026-10-21（12 天前）
+**`v0.23.0`**　发布于 2026-10-21（13 天前）
 
 [查看 Release 页面](https://github.com/marktext/marktext/releases/tag/v0.23.0)
 
@@ -61,30 +61,30 @@ sha256sum -c SHA256SUMS.txt --ignore-missing
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [latest-mac.yml](https://github.com/marktext/marktext/releases/download/v0.23.0/latest-mac.yml) | 🍎 macOS | 806 B | 19k |
-| [marktext-mac-arm64-0.23.0.dmg](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-arm64-0.23.0.dmg) | 🍎 macOS | 150.5 MB | 6.6k |
-| [marktext-mac-x64-0.23.0.dmg](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-x64-0.23.0.dmg) | 🍎 macOS | 157.1 MB | 1.5k |
-| [marktext-mac-arm64-0.23.0.zip](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-arm64-0.23.0.zip) | 🍎 macOS | 150.4 MB | 1.2k |
-| [marktext-mac-x64-0.23.0.zip](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-x64-0.23.0.zip) | 🍎 macOS | 157.1 MB | 572 |
-| [marktext-mac-arm64-0.23.0.zip.blockmap](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-arm64-0.23.0.zip.blockmap) | 🍎 macOS | 162 KB | 123 |
-| [marktext-mac-arm64-0.23.0.dmg.blockmap](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-arm64-0.23.0.dmg.blockmap) | 🍎 macOS | 163 KB | 79 |
-| [marktext-mac-x64-0.23.0.zip.blockmap](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-x64-0.23.0.zip.blockmap) | 🍎 macOS | 170 KB | 76 |
-| [marktext-mac-x64-0.23.0.dmg.blockmap](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-x64-0.23.0.dmg.blockmap) | 🍎 macOS | 168 KB | 74 |
-| [marktext-win-x64-0.23.0-setup.exe](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-x64-0.23.0-setup.exe) | 🪟 Windows | 126.3 MB | 42k |
-| [marktext-win-x64-0.23.0.zip](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-x64-0.23.0.zip) | 🪟 Windows | 173.1 MB | 8k |
-| [marktext-win-arm64-0.23.0-setup.exe](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-arm64-0.23.0-setup.exe) | 🪟 Windows | 120.2 MB | 2.3k |
-| [marktext-win-x64-0.23.0-setup.exe.blockmap](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-x64-0.23.0-setup.exe.blockmap) | 🪟 Windows | 134 KB | 1.3k |
-| [marktext-win-arm64-0.23.0.zip](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-arm64-0.23.0.zip) | 🪟 Windows | 171.1 MB | 660 |
-| [marktext-win-arm64-0.23.0-setup.exe.blockmap](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-arm64-0.23.0-setup.exe.blockmap) | 🪟 Windows | 129 KB | 379 |
-| [marktext-linux-0.23.0.tar.gz](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-0.23.0.tar.gz) | 🐧 Linux | 149.0 MB | 3.2k |
-| [marktext-linux-0.23.0.deb](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-0.23.0.deb) | 🐧 Linux | 120.8 MB | 2.5k |
-| [marktext-linux-0.23.0.AppImage](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-0.23.0.AppImage) | 🐧 Linux | 157.4 MB | 1.5k |
-| [marktext-linux-arm64-0.23.0.deb](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-arm64-0.23.0.deb) | 🐧 Linux | 115.5 MB | 451 |
-| [marktext-linux-0.23.0.rpm](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-0.23.0.rpm) | 🐧 Linux | 105.8 MB | 348 |
-| [marktext-linux-arm64-0.23.0.tar.gz](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-arm64-0.23.0.tar.gz) | 🐧 Linux | 149.2 MB | 268 |
-| [marktext-linux-arm64-0.23.0.AppImage](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-arm64-0.23.0.AppImage) | 🐧 Linux | 157.9 MB | 225 |
-| [latest-linux.yml](https://github.com/marktext/marktext/releases/download/v0.23.0/latest-linux.yml) | 🐧 Linux | 675 B | 169 |
-| [marktext-linux-0.23.0.snap](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-0.23.0.snap) | 🐧 Linux | 135.2 MB | 120 |
+| [latest-mac.yml](https://github.com/marktext/marktext/releases/download/v0.23.0/latest-mac.yml) | 🍎 macOS | 806 B | 21k |
+| [marktext-mac-arm64-0.23.0.dmg](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-arm64-0.23.0.dmg) | 🍎 macOS | 150.5 MB | 7.1k |
+| [marktext-mac-x64-0.23.0.dmg](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-x64-0.23.0.dmg) | 🍎 macOS | 157.1 MB | 1.6k |
+| [marktext-mac-arm64-0.23.0.zip](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-arm64-0.23.0.zip) | 🍎 macOS | 150.4 MB | 1.3k |
+| [marktext-mac-x64-0.23.0.zip](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-x64-0.23.0.zip) | 🍎 macOS | 157.1 MB | 633 |
+| [marktext-mac-arm64-0.23.0.zip.blockmap](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-arm64-0.23.0.zip.blockmap) | 🍎 macOS | 162 KB | 128 |
+| [marktext-mac-arm64-0.23.0.dmg.blockmap](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-arm64-0.23.0.dmg.blockmap) | 🍎 macOS | 163 KB | 81 |
+| [marktext-mac-x64-0.23.0.zip.blockmap](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-x64-0.23.0.zip.blockmap) | 🍎 macOS | 170 KB | 80 |
+| [marktext-mac-x64-0.23.0.dmg.blockmap](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-mac-x64-0.23.0.dmg.blockmap) | 🍎 macOS | 168 KB | 76 |
+| [marktext-win-x64-0.23.0-setup.exe](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-x64-0.23.0-setup.exe) | 🪟 Windows | 126.3 MB | 45k |
+| [marktext-win-x64-0.23.0.zip](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-x64-0.23.0.zip) | 🪟 Windows | 173.1 MB | 8.7k |
+| [marktext-win-arm64-0.23.0-setup.exe](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-arm64-0.23.0-setup.exe) | 🪟 Windows | 120.2 MB | 2.5k |
+| [marktext-win-x64-0.23.0-setup.exe.blockmap](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-x64-0.23.0-setup.exe.blockmap) | 🪟 Windows | 134 KB | 1.4k |
+| [marktext-win-arm64-0.23.0.zip](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-arm64-0.23.0.zip) | 🪟 Windows | 171.1 MB | 709 |
+| [marktext-win-arm64-0.23.0-setup.exe.blockmap](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-arm64-0.23.0-setup.exe.blockmap) | 🪟 Windows | 129 KB | 406 |
+| [marktext-linux-0.23.0.tar.gz](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-0.23.0.tar.gz) | 🐧 Linux | 149.0 MB | 3.3k |
+| [marktext-linux-0.23.0.deb](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-0.23.0.deb) | 🐧 Linux | 120.8 MB | 2.6k |
+| [marktext-linux-0.23.0.AppImage](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-0.23.0.AppImage) | 🐧 Linux | 157.4 MB | 1.6k |
+| [marktext-linux-arm64-0.23.0.deb](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-arm64-0.23.0.deb) | 🐧 Linux | 115.5 MB | 489 |
+| [marktext-linux-0.23.0.rpm](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-0.23.0.rpm) | 🐧 Linux | 105.8 MB | 366 |
+| [marktext-linux-arm64-0.23.0.tar.gz](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-arm64-0.23.0.tar.gz) | 🐧 Linux | 149.2 MB | 295 |
+| [marktext-linux-arm64-0.23.0.AppImage](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-arm64-0.23.0.AppImage) | 🐧 Linux | 157.9 MB | 249 |
+| [latest-linux.yml](https://github.com/marktext/marktext/releases/download/v0.23.0/latest-linux.yml) | 🐧 Linux | 675 B | 178 |
+| [marktext-linux-0.23.0.snap](https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-linux-0.23.0.snap) | 🐧 Linux | 135.2 MB | 124 |
 
 还有 5 个文件，见 [Release 页面](https://github.com/marktext/marktext/releases/tag/v0.23.0)。
 

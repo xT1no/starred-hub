@@ -16,8 +16,8 @@
     "跨平台桌面"
   ],
   "language": "TypeScript",
-  "stars": 57695,
-  "forks": 5135,
+  "stars": 57724,
+  "forks": 5134,
   "license": "NOASSERTION",
   "archived": false,
   "homepage": "https://motrix.app",
@@ -35,268 +35,268 @@
     "windows"
   ],
   "starred_at": "2023-12-07T06:48:32Z",
-  "pushed_at": "2026-11-02T08:16:43Z",
+  "pushed_at": "2026-11-03T06:53:44Z",
   "latest": {
     "kind": "release",
-    "tag": "v2.2.0",
-    "title": "v2.2.0",
-    "published_at": "2026-11-01T04:04:40Z",
-    "url": "https://github.com/agalwood/Motrix/releases/tag/v2.2.0",
+    "tag": "v2.2.1",
+    "title": "v2.2.1",
+    "published_at": "2026-11-03T04:44:35Z",
+    "url": "https://github.com/agalwood/Motrix/releases/tag/v2.2.1",
     "prerelease": false
   },
   "assets": [
     {
       "name": "beta-linux-arm64.yml",
       "size": 836,
-      "downloads": 20,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/beta-linux-arm64.yml",
+      "downloads": 5,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/beta-linux-arm64.yml",
       "platform": "🐧 Linux"
     },
     {
       "name": "beta-linux.yml",
       "size": 832,
-      "downloads": 13,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/beta-linux.yml",
+      "downloads": 5,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/beta-linux.yml",
       "platform": "🐧 Linux"
     },
     {
       "name": "beta-mac.yml",
       "size": 490,
-      "downloads": 16,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/beta-mac.yml",
+      "downloads": 5,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/beta-mac.yml",
       "platform": "🍎 macOS"
     },
     {
       "name": "beta.yml",
       "size": 500,
-      "downloads": 16,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/beta.yml",
+      "downloads": 5,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/beta.yml",
       "platform": "📦 其他"
     },
     {
       "name": "latest-linux-arm64.yml",
       "size": 836,
-      "downloads": 12,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/latest-linux-arm64.yml",
+      "downloads": 5,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/latest-linux-arm64.yml",
       "platform": "🐧 Linux"
     },
     {
       "name": "latest-linux.yml",
       "size": 832,
-      "downloads": 17,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/latest-linux.yml",
+      "downloads": 5,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/latest-linux.yml",
       "platform": "🐧 Linux"
     },
     {
       "name": "latest-mac.yml",
       "size": 490,
-      "downloads": 19,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/latest-mac.yml",
+      "downloads": 6,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/latest-mac.yml",
       "platform": "🍎 macOS"
     },
     {
       "name": "latest.yml",
       "size": 500,
-      "downloads": 113,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/latest.yml",
+      "downloads": 10,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/latest.yml",
       "platform": "📦 其他"
     },
     {
-      "name": "Motrix-2.2.0-aarch64.flatpak",
-      "size": 98023248,
-      "downloads": 41,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-aarch64.flatpak",
+      "name": "Motrix-2.2.1-aarch64.flatpak",
+      "size": 98179296,
+      "downloads": 6,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-2.2.1-aarch64.flatpak",
       "platform": "📦 其他"
     },
     {
-      "name": "Motrix-2.2.0-aarch64.pacman",
-      "size": 134306605,
-      "downloads": 39,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-aarch64.pacman",
-      "platform": "📦 其他"
-    },
-    {
-      "name": "Motrix-2.2.0-arm64.AppImage",
-      "size": 131729332,
-      "downloads": 35,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-arm64.AppImage",
-      "platform": "🐧 Linux"
-    },
-    {
-      "name": "Motrix-2.2.0-arm64.AppImage.zsync",
-      "size": 225353,
-      "downloads": 17,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-arm64.AppImage.zsync",
-      "platform": "🐧 Linux"
-    },
-    {
-      "name": "Motrix-2.2.0-arm64.dmg",
-      "size": 137045040,
-      "downloads": 1893,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-arm64.dmg",
-      "platform": "🍎 macOS"
-    },
-    {
-      "name": "Motrix-2.2.0-arm64.dmg.blockmap",
-      "size": 144783,
+      "name": "Motrix-2.2.1-aarch64.pacman",
+      "size": 134313753,
       "downloads": 8,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-arm64.dmg.blockmap",
-      "platform": "🍎 macOS"
-    },
-    {
-      "name": "Motrix-2.2.0-arm64.zip",
-      "size": 131714269,
-      "downloads": 89,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-arm64.zip",
-      "platform": "🐧 Linux"
-    },
-    {
-      "name": "Motrix-2.2.0-arm64.zip.blockmap",
-      "size": 139381,
-      "downloads": 11,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-arm64.zip.blockmap",
-      "platform": "🐧 Linux"
-    },
-    {
-      "name": "Motrix-2.2.0-win-arm64.zip",
-      "size": 164868390,
-      "downloads": 98,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-win-arm64.zip",
-      "platform": "🪟 Windows"
-    },
-    {
-      "name": "Motrix-2.2.0-win.zip",
-      "size": 167476784,
-      "downloads": 1103,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-win.zip",
-      "platform": "🪟 Windows"
-    },
-    {
-      "name": "Motrix-2.2.0-x64.dmg",
-      "size": 144369827,
-      "downloads": 321,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-x64.dmg",
-      "platform": "🍎 macOS"
-    },
-    {
-      "name": "Motrix-2.2.0-x64.dmg.blockmap",
-      "size": 153692,
-      "downloads": 9,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-x64.dmg.blockmap",
-      "platform": "🍎 macOS"
-    },
-    {
-      "name": "Motrix-2.2.0-x64.pacman",
-      "size": 132930935,
-      "downloads": 44,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-x64.pacman",
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-2.2.1-aarch64.pacman",
       "platform": "📦 其他"
     },
     {
-      "name": "Motrix-2.2.0-x64.zip",
-      "size": 139011279,
-      "downloads": 369,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-x64.zip",
-      "platform": "🌐 Web"
+      "name": "Motrix-2.2.1-arm64.AppImage",
+      "size": 131741424,
+      "downloads": 7,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-2.2.1-arm64.AppImage",
+      "platform": "🐧 Linux"
     },
     {
-      "name": "Motrix-2.2.0-x64.zip.blockmap",
-      "size": 146477,
+      "name": "Motrix-2.2.1-arm64.AppImage.zsync",
+      "size": 225374,
+      "downloads": 5,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-2.2.1-arm64.AppImage.zsync",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "Motrix-2.2.1-arm64.dmg",
+      "size": 137061351,
+      "downloads": 35,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-2.2.1-arm64.dmg",
+      "platform": "🍎 macOS"
+    },
+    {
+      "name": "Motrix-2.2.1-arm64.dmg.blockmap",
+      "size": 144004,
+      "downloads": 2,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-2.2.1-arm64.dmg.blockmap",
+      "platform": "🍎 macOS"
+    },
+    {
+      "name": "Motrix-2.2.1-arm64.zip",
+      "size": 131727025,
+      "downloads": 10,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-2.2.1-arm64.zip",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "Motrix-2.2.1-arm64.zip.blockmap",
+      "size": 138949,
+      "downloads": 2,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-2.2.1-arm64.zip.blockmap",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "Motrix-2.2.1-win-arm64.zip",
+      "size": 164886111,
       "downloads": 9,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-x64.zip.blockmap",
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-2.2.1-win-arm64.zip",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "Motrix-2.2.1-win.zip",
+      "size": 167495487,
+      "downloads": 102,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-2.2.1-win.zip",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "Motrix-2.2.1-x64.dmg",
+      "size": 144361784,
+      "downloads": 12,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-2.2.1-x64.dmg",
+      "platform": "🍎 macOS"
+    },
+    {
+      "name": "Motrix-2.2.1-x64.dmg.blockmap",
+      "size": 152949,
+      "downloads": 2,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-2.2.1-x64.dmg.blockmap",
+      "platform": "🍎 macOS"
+    },
+    {
+      "name": "Motrix-2.2.1-x64.pacman",
+      "size": 132999807,
+      "downloads": 7,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-2.2.1-x64.pacman",
+      "platform": "📦 其他"
+    },
+    {
+      "name": "Motrix-2.2.1-x64.zip",
+      "size": 139026649,
+      "downloads": 36,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-2.2.1-x64.zip",
       "platform": "🌐 Web"
     },
     {
-      "name": "Motrix-2.2.0-x86_64.AppImage",
-      "size": 131441700,
-      "downloads": 127,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-x86_64.AppImage",
-      "platform": "🐧 Linux"
+      "name": "Motrix-2.2.1-x64.zip.blockmap",
+      "size": 146536,
+      "downloads": 2,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-2.2.1-x64.zip.blockmap",
+      "platform": "🌐 Web"
     },
     {
-      "name": "Motrix-2.2.0-x86_64.AppImage.zsync",
-      "size": 224865,
-      "downloads": 95,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-x86_64.AppImage.zsync",
-      "platform": "🐧 Linux"
-    },
-    {
-      "name": "Motrix-2.2.0-x86_64.flatpak",
-      "size": 103501872,
+      "name": "Motrix-2.2.1-x86_64.AppImage",
+      "size": 131453838,
       "downloads": 21,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-x86_64.flatpak",
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-2.2.1-x86_64.AppImage",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "Motrix-2.2.1-x86_64.AppImage.zsync",
+      "size": 224886,
+      "downloads": 17,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-2.2.1-x86_64.AppImage.zsync",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "Motrix-2.2.1-x86_64.flatpak",
+      "size": 103653656,
+      "downloads": 2,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-2.2.1-x86_64.flatpak",
       "platform": "⌨️ CLI"
     },
     {
-      "name": "Motrix-2.2.0.aarch64.rpm",
-      "size": 94756673,
-      "downloads": 16,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0.aarch64.rpm",
+      "name": "Motrix-2.2.1.aarch64.rpm",
+      "size": 94777153,
+      "downloads": 6,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-2.2.1.aarch64.rpm",
       "platform": "🐧 Linux"
     },
     {
-      "name": "Motrix-2.2.0.x86_64.rpm",
-      "size": 99489093,
-      "downloads": 38,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0.x86_64.rpm",
-      "platform": "🐧 Linux"
-    },
-    {
-      "name": "Motrix-Native-Host-2.2.0-linux-arm64.tar.gz",
-      "size": 391859,
-      "downloads": 20,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-Native-Host-2.2.0-linux-arm64.tar.gz",
-      "platform": "🐧 Linux"
-    },
-    {
-      "name": "Motrix-Native-Host-2.2.0-linux-x64.tar.gz",
-      "size": 416264,
-      "downloads": 27,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-Native-Host-2.2.0-linux-x64.tar.gz",
-      "platform": "🐧 Linux"
-    },
-    {
-      "name": "Motrix-Setup-2.2.0-arm64.exe",
-      "size": 127525961,
-      "downloads": 69,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-Setup-2.2.0-arm64.exe",
-      "platform": "🪟 Windows"
-    },
-    {
-      "name": "Motrix-Setup-2.2.0-arm64.exe.blockmap",
-      "size": 133855,
+      "name": "Motrix-2.2.1.x86_64.rpm",
+      "size": 99489801,
       "downloads": 9,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-Setup-2.2.0-arm64.exe.blockmap",
-      "platform": "🪟 Windows"
-    },
-    {
-      "name": "Motrix-Setup-2.2.0.exe",
-      "size": 133540565,
-      "downloads": 1701,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-Setup-2.2.0.exe",
-      "platform": "🪟 Windows"
-    },
-    {
-      "name": "Motrix-Setup-2.2.0.exe.blockmap",
-      "size": 139438,
-      "downloads": 10,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-Setup-2.2.0.exe.blockmap",
-      "platform": "🪟 Windows"
-    },
-    {
-      "name": "Motrix_2.2.0_amd64.deb",
-      "size": 111854548,
-      "downloads": 413,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix_2.2.0_amd64.deb",
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-2.2.1.x86_64.rpm",
       "platform": "🐧 Linux"
     },
     {
-      "name": "Motrix_2.2.0_arm64.deb",
-      "size": 107075752,
-      "downloads": 53,
-      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix_2.2.0_arm64.deb",
+      "name": "Motrix-Native-Host-2.2.1-linux-arm64.tar.gz",
+      "size": 391861,
+      "downloads": 4,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-Native-Host-2.2.1-linux-arm64.tar.gz",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "Motrix-Native-Host-2.2.1-linux-x64.tar.gz",
+      "size": 416265,
+      "downloads": 4,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-Native-Host-2.2.1-linux-x64.tar.gz",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "Motrix-Setup-2.2.1-arm64.exe",
+      "size": 127538141,
+      "downloads": 15,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-Setup-2.2.1-arm64.exe",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "Motrix-Setup-2.2.1-arm64.exe.blockmap",
+      "size": 134378,
+      "downloads": 2,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-Setup-2.2.1-arm64.exe.blockmap",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "Motrix-Setup-2.2.1.exe",
+      "size": 133551419,
+      "downloads": 145,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-Setup-2.2.1.exe",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "Motrix-Setup-2.2.1.exe.blockmap",
+      "size": 139558,
+      "downloads": 2,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-Setup-2.2.1.exe.blockmap",
+      "platform": "🪟 Windows"
+    },
+    {
+      "name": "Motrix_2.2.1_amd64.deb",
+      "size": 111866812,
+      "downloads": 54,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix_2.2.1_amd64.deb",
+      "platform": "🐧 Linux"
+    },
+    {
+      "name": "Motrix_2.2.1_arm64.deb",
+      "size": 107137116,
+      "downloads": 7,
+      "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix_2.2.1_arm64.deb",
       "platform": "🐧 Linux"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

@@ -39,7 +39,7 @@
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [FirPE-V1.9.3.exe](https://github.com/luyuanbo79/firpe/releases/download/v.1.9.3/FirPE-V1.9.3.exe) | 🪟 Windows | 1.2 GB | 674 |
+| [FirPE-V1.9.3.exe](https://github.com/luyuanbo79/firpe/releases/download/v.1.9.3/FirPE-V1.9.3.exe) | 🪟 Windows | 1.2 GB | 685 |
 
 ## 🔗 快速链接
 

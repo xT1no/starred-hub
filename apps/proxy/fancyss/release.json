@@ -13,8 +13,8 @@
     "路由器 / 固件"
   ],
   "language": "Shell",
-  "stars": 13821,
-  "forks": 3238,
+  "stars": 13824,
+  "forks": 3239,
   "license": "GPL-3.0",
   "archived": false,
   "homepage": "",
@@ -43,5 +43,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

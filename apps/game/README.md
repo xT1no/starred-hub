@@ -10,11 +10,11 @@
 
 | 应用 | 简介 | 平台 | 最新版本 | 更新 | ⭐ | 下载 |
 |:---|:---|:---:|:---:|:---:|---:|:---:|
-| [NDui](ndui/README.md) 🆕 | NDui for World of Warcraft | 🪟 | `10.2.5` | 2 天前 | 382 | [⬇️](https://github.com/siweia/NDui/releases/download/10.2.5/NDui-10.2.5.zip) |
-| [ok-wuthering-waves](ok-wuthering-waves/README.md) 🆕 | 鸣潮 后台自动战斗 自动刷声骸 一键日常 Automation for Wuthering Waves | 🪟 | `v3.7.13` | 3 天前 | 8.5k | [⬇️](https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.13/ok-ww-win32-China-setup.exe) |
-| [dlss-swapper](dlss-swapper/README.md) | 一键替换游戏内的 DLSS 动态库 | 🪟 | `v1.2.7.0` | 15 天前 | 8k | [⬇️](https://github.com/beeradmoore/dlss-swapper/releases/download/v1.2.7.0/DLSS.Swapper-1.2.7.0-installer.exe) |
-| [Clean-Icons-Mechagnome-Edition](clean-icons-mechagnome-edition/README.md) | Upscaled icon pack for World of Warcraft. | 🪟 | `12.1.5.70391-V5-1` | 17 天前 | 809 | [⬇️](https://github.com/AcidWeb/Clean-Icons-Mechagnome-Edition/releases/download/12.1.5.70391-V5-1/CleanIcons-MechagnomeEdition-12.1.5.70391-V5-1.zip) |
-| [Game-Cheats-Manager](game-cheats-manager/README.md) | Easily download and manage single-player game cheats for your c… | 🪟 | `v2.5.4` | 21 天前 | 16k | [⬇️](https://github.com/dyang886/Game-Cheats-Manager/releases/download/v2.5.4/Game.Cheats.Manager.Setup.2.5.4.exe) |
+| [NDui](ndui/README.md) 🆕 | NDui for World of Warcraft | 🪟 | `10.2.6` | 今天 | 382 | [⬇️](https://github.com/siweia/NDui/releases/download/10.2.6/NDui-10.2.6.zip) |
+| [ok-wuthering-waves](ok-wuthering-waves/README.md) 🆕 | 鸣潮 后台自动战斗 自动刷声骸 一键日常 Automation for Wuthering Waves | 🪟 | `v3.7.13` | 4 天前 | 8.5k | [⬇️](https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.13/ok-ww-win32-China-setup.exe) |
+| [dlss-swapper](dlss-swapper/README.md) | 一键替换游戏内的 DLSS 动态库 | 🪟 | `v1.2.7.0` | 16 天前 | 8k | [⬇️](https://github.com/beeradmoore/dlss-swapper/releases/download/v1.2.7.0/DLSS.Swapper-1.2.7.0-installer.exe) |
+| [Clean-Icons-Mechagnome-Edition](clean-icons-mechagnome-edition/README.md) | Upscaled icon pack for World of Warcraft. | 🪟 | `12.1.5.70391-V5-1` | 18 天前 | 810 | [⬇️](https://github.com/AcidWeb/Clean-Icons-Mechagnome-Edition/releases/download/12.1.5.70391-V5-1/CleanIcons-MechagnomeEdition-12.1.5.70391-V5-1.zip) |
+| [Game-Cheats-Manager](game-cheats-manager/README.md) | Easily download and manage single-player game cheats for your c… | 🪟 | `v2.5.4` | 22 天前 | 16k | [⬇️](https://github.com/dyang886/Game-Cheats-Manager/releases/download/v2.5.4/Game.Cheats.Manager.Setup.2.5.4.exe) |
 | [TFT-Hextech-Helper](tft-hextech-helper/README.md) | 一款神奇的云顶之弈自动挂机海克斯科技助手(σ｀・д・)σ。挂机脚本，纯视觉识别，不读取内存。tft，hextech。云顶挂机脚… | 🌐 🖥️ | `v1.6.1` | 1 个月前 | 744 | [⬇️](https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.6.1/tft-hextech-helper-1.6.1-setup.exe) |
 | [LOLkit](lolkit/README.md) | One gift for all LOL gamers， League of Legends工具 | 🪟 | `version3.4.9` | 2 个月前 | 770 | [⬇️](https://github.com/ping11700/LOLkit/releases/download/version3.4.9/LOLkit3.4.9.zip) |
 | [OptiScaler](optiscaler/README.md) | OptiScaler bridges upscaling/frame gen across GPUs. Supports DL… | 🪟 | `v0.9.4` | 3 个月前 | 12k | [⬇️](https://github.com/optiscaler/OptiScaler/releases/download/v0.9.4/Optiscaler_0.9.4-final.20260718._MM.7z) |
@@ -32,7 +32,7 @@
 
 | 应用 | 版本 | 发布日期 |
 |:---|:---|:---:|
-| [NDui](ndui/README.md) | [`10.2.5`](../../docs/downloads.md#dl-siweia-ndui) | 2026-10-30 |
+| [NDui](ndui/README.md) | [`10.2.6`](../../docs/downloads.md#dl-siweia-ndui) | 2026-11-02 |
 | [ok-wuthering-waves](ok-wuthering-waves/README.md) | [`v3.7.13`](../../docs/downloads.md#dl-ok-oldking-ok-wuthering-waves) | 2026-10-29 |
 
 ---

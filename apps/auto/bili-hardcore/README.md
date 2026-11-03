@@ -66,13 +66,13 @@ bilibili 硬核会员 AI 自动答题脚本
 | [bili-hardcore-v1.1.0-darwin-universal.tar.gz](https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/bili-hardcore-v1.1.0-darwin-universal.tar.gz) | 🍎 macOS | 3.0 MB | 45 |
 | [bili-hardcore-v1.1.0-darwin-arm64.tar.gz](https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/bili-hardcore-v1.1.0-darwin-arm64.tar.gz) | 🍎 macOS | 1.5 MB | 33 |
 | [bili-hardcore-v1.1.0-darwin-x64.tar.gz](https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/bili-hardcore-v1.1.0-darwin-x64.tar.gz) | 🍎 macOS | 1.6 MB | 15 |
-| [bili-hardcore-v1.1.0-windows-x64.zip](https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/bili-hardcore-v1.1.0-windows-x64.zip) | 🪟 Windows | 1.5 MB | 546 |
+| [bili-hardcore-v1.1.0-windows-x64.zip](https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/bili-hardcore-v1.1.0-windows-x64.zip) | 🪟 Windows | 1.5 MB | 553 |
 | [bili-hardcore-v1.1.0-linux-x64-musl.tar.gz](https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/bili-hardcore-v1.1.0-linux-x64-musl.tar.gz) | 🐧 Linux | 1.8 MB | 28 |
 | [bili-hardcore-v1.1.0-linux-x64.tar.gz](https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/bili-hardcore-v1.1.0-linux-x64.tar.gz) | 🐧 Linux | 1.7 MB | 25 |
 | [bili-hardcore-v1.1.0-linux-arm64-musl.tar.gz](https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/bili-hardcore-v1.1.0-linux-arm64-musl.tar.gz) | 🐧 Linux | 1.7 MB | 17 |
 | [bili-hardcore-v1.1.0-linux-arm64.tar.gz](https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/bili-hardcore-v1.1.0-linux-arm64.tar.gz) | 🐧 Linux | 1.6 MB | 11 |
 | [checksums.txt](https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/checksums.txt) | 🔐 校验文件 | 1011 B | 27 |
-| [install.ps1](https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/install.ps1) | 📦 其他 | 2 KB | 90 |
+| [install.ps1](https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/install.ps1) | 📦 其他 | 2 KB | 91 |
 | [install.sh](https://github.com/Karben233/bili-hardcore/releases/download/v1.1.0/install.sh) | 📦 其他 | 3 KB | 49 |
 
 ## 🔗 快速链接

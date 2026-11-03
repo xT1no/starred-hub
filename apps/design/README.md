@@ -10,13 +10,13 @@
 
 | 应用 | 简介 | 平台 | 最新版本 | 更新 | ⭐ | 下载 |
 |:---|:---|:---:|:---:|:---:|---:|:---:|
-| [photocraft](photocraft/README.md) 🆕 | PhotoCraft: An open-source, photo editor written by scratch in … | 🖥️ | `v0.19.0` | 今天 | 76k | [⬇️](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-windows-x64.msi) |
+| [photocraft](photocraft/README.md) 🆕 | PhotoCraft: An open-source, photo editor written by scratch in … | 🖥️ | `v0.20.1` | 今天 | 76k | [⬇️](https://github.com/storytold/photocraft/releases/download/v0.20.1/photocraft-0.20.1-windows-x64.msi) |
 
 ## 🔥 最近更新
 
 | 应用 | 版本 | 发布日期 |
 |:---|:---|:---:|
-| [photocraft](photocraft/README.md) | [`v0.19.0`](../../docs/downloads.md#dl-storytold-photocraft) | 2026-11-01 |
+| [photocraft](photocraft/README.md) | [`v0.20.1`](../../docs/downloads.md#dl-storytold-photocraft) | 2026-11-03 |
 
 ---
 

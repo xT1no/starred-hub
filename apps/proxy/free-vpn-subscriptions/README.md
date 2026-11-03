@@ -56,10 +56,10 @@ Free Clash, sing-box, and V2Ray subscription feed with live node status and setu
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [clash.yaml](https://github.com/Au1rxx/free-vpn-subscriptions/releases/download/feed-20260419-023716/clash.yaml) | 📦 其他 | 2 KB | 4.3k |
+| [clash.yaml](https://github.com/Au1rxx/free-vpn-subscriptions/releases/download/feed-20260419-023716/clash.yaml) | 📦 其他 | 2 KB | 4.4k |
 | [v2ray-base64.txt](https://github.com/Au1rxx/free-vpn-subscriptions/releases/download/feed-20260419-023716/v2ray-base64.txt) | 📦 其他 | 1 KB | 4.2k |
-| [singbox.json](https://github.com/Au1rxx/free-vpn-subscriptions/releases/download/feed-20260419-023716/singbox.json) | 📦 其他 | 3 KB | 754 |
-| [status.json](https://github.com/Au1rxx/free-vpn-subscriptions/releases/download/feed-20260419-023716/status.json) | 📦 其他 | 1 KB | 145 |
+| [singbox.json](https://github.com/Au1rxx/free-vpn-subscriptions/releases/download/feed-20260419-023716/singbox.json) | 📦 其他 | 3 KB | 761 |
+| [status.json](https://github.com/Au1rxx/free-vpn-subscriptions/releases/download/feed-20260419-023716/status.json) | 📦 其他 | 1 KB | 149 |
 
 ## 🔗 快速链接
 

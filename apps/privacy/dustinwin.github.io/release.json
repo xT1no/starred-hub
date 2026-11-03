@@ -13,7 +13,7 @@
     "通用 / 未指定"
   ],
   "language": "Shell",
-  "stars": 1593,
+  "stars": 1592,
   "forks": 154,
   "license": "MIT",
   "archived": false,
@@ -40,5 +40,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

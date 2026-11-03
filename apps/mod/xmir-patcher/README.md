@@ -15,7 +15,7 @@ Firmware patcher for Xiaomi routers
 | Star | 3.8k · Fork 432 |
 | License | — |
 | 最新版本 | 无版本标记 |
-| 最近更新 | 2026-11-01（昨天） |
+| 最近更新 | 2026-11-02（今天） |
 | 标星日期 | 2025-06-09 |
 
 ## 📦 最新版本

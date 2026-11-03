@@ -4,13 +4,13 @@
 
 [总览](../README.md) · [应用目录](../apps/README.md) · **[按功能](by-function.md)** · [按平台](by-platform.md) · [时间线](timeline.md) · [更新动态](updates.md) · [⬇️ 下载](downloads.md)
 
-共 **145** 个仓库 · **15** 个分类 · 同步于 2026-11-02 19:01
+共 **146** 个仓库 · **15** 个分类 · 同步于 2026-11-03 16:20
 
 ## 目录
 
 | 分类 | 数量 |
 |:---|:---:|
-| 🛡️ [广告过滤 / 隐私](#privacy) | 8 |
+| 🛡️ [广告过滤 / 隐私](#privacy) | 9 |
 | 🌐 [网络代理 / 节点](#proxy) | 35 |
 | 🎮 [游戏 / 辅助脚本](#game) | 17 |
 | ⚡ [自动化 / 部署](#auto) | 8 |
@@ -31,10 +31,11 @@
 <a id="privacy"></a>
 ## 🛡️ 广告过滤 / 隐私
 
-共 **8** 个 · [回到顶部](#top)
+共 **9** 个 · [回到顶部](#top)
 
 | 仓库 | 简介 | 平台 | 语言 | ⭐ | 标星 |
 |:---|:---|:---:|:---|:---|---:|
+| [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) 🆕 | Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. | 📲 📺 | Python | 51k | 2026-11-03 |
 | [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) | 墨鱼去广告计划 \| QuantumultX 去广告 \| 去开屏广告 \| 应用净化 \| 会员解锁 \| 墨鱼配置 \| 应用增强 \|… | 📲 🌐 | — | 14k | 2025-07-19 |
 | [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD) | 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD 现已支持 AdGuar… | ❓ | — | 11k | 2022-07-31 |
 | [wtwang1998/LiTiaotiao-Custom-Rules](https://github.com/wtwang1998/LiTiaotiao-Custom-Rules) | 🗄️ 已归档 · 李跳跳自定义跳过广告规则 | 📲 | — | 10k | 2023-08-30 |
@@ -53,7 +54,7 @@
 |:---|:---|:---:|:---|:---|---:|
 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored pr… | 🪟 🍎 🐧 🖥️ | Rust | 156k | 2024-05-14 |
 | [2dust/v2rayN](https://github.com/2dust/v2rayN) | A GUI client for Windows, Linux and macOS, support Xray and sing-box and others | 🪟 🍎 🐧 | C# | 120k | 2024-05-12 |
-| [chen08209/FlClash](https://github.com/chen08209/FlClash) | A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-fre… | 🖥️ | Dart | 60k | 2024-07-12 |
+| [chen08209/FlClash](https://github.com/chen08209/FlClash) | A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-fre… | 🖥️ | Dart | 61k | 2024-07-12 |
 | [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) | edgetunnel2 VLESS/Trojan/SS 多功能面板 | ☁️ | JavaScript | 49k | 2024-03-22 |
 | [SagerNet/sing-box](https://github.com/SagerNet/sing-box) | 通用代理内核｜The universal proxy platform | ⌨️ | Go | 40k | 2024-05-12 |
 | [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) | Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan,… | 🖥️ | Dart | 34k | 2024-06-18 |
@@ -76,14 +77,14 @@
 | [cmliu/SubsCheck-Win-GUI](https://github.com/cmliu/SubsCheck-Win-GUI) | 订阅节点可用性批量检测｜SubsCheck 为 Windows 用户设计的 GUI 程序界面。 | 🪟 | C# | 4.6k | 2025-04-01 |
 | [mahdibland/V2RayAggregator](https://github.com/mahdibland/V2RayAggregator) | Collect Lots of Shadowsocks, ShadowsocksR, Trojan, Vmess from Public Sources & Filter Best Node… | ❓ | Python | 4k | 2024-07-08 |
 | [cmliu/epeius](https://github.com/cmliu/epeius) | 在原版的基础上修改了显示 Trojan 配置信息转换为订阅内容。使用该脚本，你可以方便地将 Trojan 配置… | ☁️ 🌐 | JavaScript | 3.2k | 2024-05-22 |
-| [GFW-knocker/MahsaNG](https://github.com/GFW-knocker/MahsaNG) | V2RayNG 改版，带分片与 DoH｜a V2RayNG with Fragment , DoH , Rotating Configs , & free VPN serve… | 📲 | Kotlin | 3.1k | 2024-06-26 |
+| [GFW-knocker/MahsaNG](https://github.com/GFW-knocker/MahsaNG) | V2RayNG 改版，带分片与 DoH｜a V2RayNG with Fragment , DoH , Rotating Configs , & free VPN serve… | 📲 | Kotlin | 3.2k | 2024-06-26 |
 | [6Kmfi6HP/EDtunnel](https://github.com/6Kmfi6HP/EDtunnel) | EDtunnel 是一个基于 Cloudflare Workers 和 Pages 的代理工具，支持多种协议和配置选项。 EDtunnel i… | ☁️ 🌐 | JavaScript | 3.1k | 2024-09-11 |
 | [ymyuuu/IPDB](https://github.com/ymyuuu/IPDB) | Cloudflare反代优选IP库 | 🌐 | — | 2.6k | 2024-06-20 |
 | [vfarid/v2ray-worker](https://github.com/vfarid/v2ray-worker) | Total solution for V2Ray over Cloudflare's worker | ☁️ | TypeScript | 1.4k | 2024-07-28 |
 | [Au1rxx/free-vpn-subscriptions](https://github.com/Au1rxx/free-vpn-subscriptions) | Free Clash, sing-box, and V2Ray subscription feed with live node status and setup guides | ❓ | — | 1.1k | 2026-09-20 |
-| [faceair/clash-speedtest](https://github.com/faceair/clash-speedtest) | clash speedtest | ⌨️ | Go | 980 | 2024-02-29 |
+| [faceair/clash-speedtest](https://github.com/faceair/clash-speedtest) | clash speedtest | ⌨️ | Go | 982 | 2024-02-29 |
 | [yonggekkk/Replit-Xray](https://github.com/yonggekkk/Replit-Xray) | Replit容器部署xray代理，支持argo固定隧道与临时隧道，自定义伪装网页，一键五协议共存，支持搭建vle… | 🌐 | — | 886 | 2024-06-25 |
-| [tom-snow/Sidestore-ClashMi](https://github.com/tom-snow/Sidestore-ClashMi) | 使用 ClashMi 替代 LocalDevVPN / StosVPN 。解决部分运营商对 gsa.apple.com 不友好的问题。 | 📱 | JavaScript | 264 | 2026-02-20 |
+| [tom-snow/Sidestore-ClashMi](https://github.com/tom-snow/Sidestore-ClashMi) | 使用 ClashMi 替代 LocalDevVPN / StosVPN 。解决部分运营商对 gsa.apple.com 不友好的问题。 | 📱 | JavaScript | 266 | 2026-02-20 |
 | [binbankm/Sub-One](https://github.com/binbankm/Sub-One) | 节点订阅管理 | ❓ | TypeScript | 198 | 2025-12-05 |
 | [aylz10/psub](https://github.com/aylz10/psub) | 利用CF Worker搭建的反代订阅转换工具 | ☁️ | HTML | 103 | 2024-07-10 |
 
@@ -102,7 +103,7 @@
 | [bozbez/win-capture-audio](https://github.com/bozbez/win-capture-audio) | An OBS plugin that allows capture of independant application audio streams on Windows, in a sim… | 🪟 | C++ | 4k | 2022-08-12 |
 | [cangzhang/ChampR](https://github.com/cangzhang/ChampR) | 🐶 Yet another League of Legends helper | 🪟 | Rust | 1.7k | 2021-01-10 |
 | [dustinblackman/Championify](https://github.com/dustinblackman/Championify) | 🗄️ 已归档 · Import recent item sets from popular aggregators like Champion.gg in to League of… | 🖥️ | HTML | 870 | 2020-08-15 |
-| [AcidWeb/Clean-Icons-Mechagnome-Edition](https://github.com/AcidWeb/Clean-Icons-Mechagnome-Edition) | 魔兽世界图标包｜Upscaled icon pack for World of Warcraft. | 🪟 | — | 809 | 2025-08-16 |
+| [AcidWeb/Clean-Icons-Mechagnome-Edition](https://github.com/AcidWeb/Clean-Icons-Mechagnome-Edition) | 魔兽世界图标包｜Upscaled icon pack for World of Warcraft. | 🪟 | — | 810 | 2025-08-16 |
 | [ping11700/LOLkit](https://github.com/ping11700/LOLkit) | One gift for all LOL gamers， League of Legends工具 | 🪟 | Shell | 770 | 2024-03-08 |
 | [WJZ-P/TFT-Hextech-Helper](https://github.com/WJZ-P/TFT-Hextech-Helper) | 一款神奇的云顶之弈自动挂机海克斯科技助手(σ｀・д・)σ。挂机脚本，纯视觉识别，不读取内存。tft，hex… | 🌐 🖥️ | TypeScript | 744 | 2026-01-29 |
 | [WeijieH/D3keyHelper](https://github.com/WeijieH/D3keyHelper) | 暗黑 3 鼠标宏配置工具｜D3KeyHelper是一个有图形界面，可自定义配置的暗黑3鼠标宏工具。 | 🪟 | AutoHotkey | 396 | 2022-08-01 |
@@ -126,7 +127,7 @@
 | [wukongdaily/ImmortalWrt-ImageBuilder](https://github.com/wukongdaily/ImmortalWrt-ImageBuilder) | 它是一个工作流。可快速构建 可选docker、可选1G~4G固件大小的 immortalWrt。它相当于一个云端的Image… | 🛰️ | Shell | 2.7k | 2025-10-10 |
 | [Karben233/bili-hardcore](https://github.com/Karben233/bili-hardcore) | B站硬核会员自动答题脚本｜bilibili 硬核会员 AI 自动答题脚本 | ⌨️ | Rust | 2.4k | 2026-06-10 |
 | [wukongdaily/tvhelper-docker](https://github.com/wukongdaily/tvhelper-docker) | 让你使用电脑、NAS等一切能运行docker的设备变成盒子的ADB安装助手 | 🐧 📲 📺 | Shell | 1.1k | 2024-04-17 |
-| [wkccd/CloudRunFilesBuilder](https://github.com/wkccd/CloudRunFilesBuilder) | 这是一个工作流。同步各位大佬项目里最新编译的ipk文件 生成适用于OpenWrt用的run自解压包 | 🛰️ | Shell | 642 | 2026-07-02 |
+| [wkccd/CloudRunFilesBuilder](https://github.com/wkccd/CloudRunFilesBuilder) | 这是一个工作流。同步各位大佬项目里最新编译的ipk文件 生成适用于OpenWrt用的run自解压包 | 🛰️ | Shell | 644 | 2026-07-02 |
 
 <a id="download"></a>
 ## 📥 下载 / 网盘
@@ -136,7 +137,7 @@
 | 仓库 | 简介 | 平台 | 语言 | ⭐ | 标星 |
 |:---|:---|:---:|:---|:---|---:|
 | [agalwood/Motrix](https://github.com/agalwood/Motrix) | A full-featured download manager. | 🪟 🍎 🐧 🖥️ | TypeScript | 58k | 2023-12-07 |
-| [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) | 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 /… | 🧩 | JavaScript | 37k | 2023-12-07 |
+| [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) | 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 /… | 🧩 | JavaScript | 38k | 2023-12-07 |
 | [JunkFood02/Seal](https://github.com/JunkFood02/Seal) | 🦭 Video/Audio Downloader for Android, based on yt-dlp | 📲 | Kotlin | 30k | 2024-10-30 |
 | [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) | A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built w… | 🪟 🍎 🐧 📱 📲 +1 | Dart | 27k | 2024-06-25 |
 | [youhunwl/TVAPP](https://github.com/youhunwl/TVAPP) | 收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便… | 📲 📺 | JavaScript | 27k | 2026-06-01 |
@@ -185,7 +186,7 @@
 | [YYDS678/uzVideo](https://github.com/YYDS678/uzVideo) | uz 影视客户端｜uz影视 | 📲 | HTML | 1.5k | 2025-05-28 |
 | [June6699/dart_simple_live](https://github.com/June6699/dart_simple_live) | 简简单单的看直播（SimpleLive续） | 🖥️ | Dart | 1.4k | 2026-08-06 |
 | [guyijie1211/JustLive-Web](https://github.com/guyijie1211/JustLive-Web) | :tv:一个整合国内多个直播平台内容的网站 | 🌐 | JavaScript | 808 | 2022-07-31 |
-| [fantasytyx/bv](https://github.com/fantasytyx/bv) | 哔哩哔哩第三方 Android 应用的自用修改版。A modified version of Bilibili’s third-party Android a… | 📲 | Kotlin | 765 | 2026-03-25 |
+| [fantasytyx/bv](https://github.com/fantasytyx/bv) | 哔哩哔哩第三方 Android 应用的自用修改版。A modified version of Bilibili’s third-party Android a… | 📲 | Kotlin | 766 | 2026-03-25 |
 | [Ha2ryZhang/alltv](https://github.com/Ha2ryZhang/alltv) | 🗄️ 已归档 · 聚合斗鱼 / 虎牙 / B站 直播源｜一个app看全网直播--获取 斗鱼、虎牙、bilibili等平台… | 📲 | Java | 168 | 2020-10-08 |
 
 <a id="ai"></a>
@@ -238,9 +239,9 @@
 | [kkkgo/LTSC-Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore) | Add Windows Store for LTSC | 🪟 | Batchfile | 4.1k | 2024-06-17 |
 | [Chunyu33/light-c](https://github.com/Chunyu33/light-c) | A free, minimalist, lightweight, and high-performance C-drive cleanup tool. | 🪟 | Rust | 3.3k | 2026-08-06 |
 | [massgravel/TSforge](https://github.com/massgravel/TSforge) | A collection of activation/evaluation extension methods for Windows Vista through 11. | 🪟 | C# | 2.6k | 2026-06-21 |
-| [nearby-sharing/android](https://github.com/nearby-sharing/android) | 用 Windows 就近共享在手机与电脑间传文件｜Share files between android and PC via the Windows 10… | 🪟 📲 | C# | 896 | 2024-02-28 |
+| [nearby-sharing/android](https://github.com/nearby-sharing/android) | 用 Windows 就近共享在手机与电脑间传文件｜Share files between android and PC via the Windows 10… | 🪟 📲 | C# | 897 | 2024-02-28 |
 | [ListerOvO1211/LazyEnv](https://github.com/ListerOvO1211/LazyEnv) | Windows 环境变量管理 | 🪟 | C++ | 502 | 2026-04-12 |
-| [JNTMTMTM/eIsland](https://github.com/JNTMTMTM/eIsland) | Windows 上的灵动岛悬浮窗｜eIsland - A sleek, Apple Dynamic Island inspired floating widget for… | 🪟 | TypeScript | 325 | 2026-06-20 |
+| [JNTMTMTM/eIsland](https://github.com/JNTMTMTM/eIsland) | Windows 上的灵动岛悬浮窗｜eIsland - A sleek, Apple Dynamic Island inspired floating widget for… | 🪟 | TypeScript | 327 | 2026-06-20 |
 | [luyuanbo79/firpe](https://github.com/luyuanbo79/firpe) | Windows PE 维护盘 | 🪟 | — | 98 | 2025-11-11 |
 | [FirTech/ReWindsys](https://github.com/FirTech/ReWindsys) | Windows 精简系统镜像项目｜Rebirth of Windsys Project | 🪟 | PowerShell | 21 | 2026-08-10 |
 | [control0forver/NetWorkList-Clear](https://github.com/control0forver/NetWorkList-Clear) | 清理网络连接列表残留 | 🪟 | C# | 11 | 2026-07-24 |
@@ -261,7 +262,7 @@
 
 | 仓库 | 简介 | 平台 | 语言 | ⭐ | 标星 |
 |:---|:---|:---:|:---|:---|---:|
-| [marktext/marktext](https://github.com/marktext/marktext) | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. | 🪟 🍎 🐧 🖥️ | TypeScript | 63k | 2022-07-26 |
+| [marktext/marktext](https://github.com/marktext/marktext) | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. | 🪟 🍎 🐧 🖥️ | TypeScript | 64k | 2022-07-26 |
 | [gedoor/legado](https://github.com/gedoor/legado) | 阅读 3.0 书源阅读器｜Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0,… | 📲 | Kotlin | 47k | 2023-11-26 |
 | [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) | 漫画阅读客户端｜ehviewer，用爱发电，快乐前行 | 📲 | C | 29k | 2024-04-14 |
 | [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) | Office Tool Plus localization projects. | 🪟 | PowerShell | 15k | 2024-03-08 |

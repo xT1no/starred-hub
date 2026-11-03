@@ -13,8 +13,8 @@
     "跨平台桌面"
   ],
   "language": "Dart",
-  "stars": 15894,
-  "forks": 1317,
+  "stars": 15902,
+  "forks": 1318,
   "license": "NOASSERTION",
   "archived": false,
   "homepage": "https://karing.app",
@@ -33,73 +33,73 @@
     {
       "name": "karing_1.2.25.2802_android_arm.apk",
       "size": 94359984,
-      "downloads": 214829,
+      "downloads": 217724,
       "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_android_arm.apk",
       "platform": "📲 Android"
     },
     {
       "name": "karing_1.2.25.2802_android_arm64-v8a.apk",
       "size": 55451158,
-      "downloads": 536565,
+      "downloads": 540480,
       "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_android_arm64-v8a.apk",
       "platform": "📲 Android"
     },
     {
       "name": "karing_1.2.25.2802_android_armeabi-v7a.apk",
       "size": 55608414,
-      "downloads": 69659,
+      "downloads": 70303,
       "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_android_armeabi-v7a.apk",
       "platform": "📲 Android"
     },
     {
       "name": "karing_1.2.25.2802_linux_amd64.AppImage",
       "size": 67418616,
-      "downloads": 3019,
+      "downloads": 3066,
       "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_linux_amd64.AppImage",
       "platform": "🐧 Linux"
     },
     {
       "name": "karing_1.2.25.2802_linux_amd64.deb",
       "size": 45185872,
-      "downloads": 20379,
+      "downloads": 20533,
       "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_linux_amd64.deb",
       "platform": "🐧 Linux"
     },
     {
       "name": "karing_1.2.25.2802_linux_amd64.rpm",
       "size": 55972278,
-      "downloads": 3295,
+      "downloads": 3338,
       "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_linux_amd64.rpm",
       "platform": "🐧 Linux"
     },
     {
       "name": "karing_1.2.25.2802_macos_universal.dmg",
       "size": 103163875,
-      "downloads": 189918,
+      "downloads": 192000,
       "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_macos_universal.dmg",
       "platform": "🍎 macOS"
     },
     {
       "name": "karing_1.2.25.2802_macos_universal.pkg",
       "size": 105092140,
-      "downloads": 3073,
+      "downloads": 3134,
       "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_macos_universal.pkg",
       "platform": "🍎 macOS"
     },
     {
       "name": "karing_1.2.25.2802_windows_x64.exe",
       "size": 46800210,
-      "downloads": 554677,
+      "downloads": 559735,
       "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_windows_x64.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "karing_1.2.25.2802_windows_x64.zip",
       "size": 67456455,
-      "downloads": 27570,
+      "downloads": 27916,
       "url": "https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_windows_x64.zip",
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

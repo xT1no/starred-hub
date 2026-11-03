@@ -13,8 +13,8 @@
     "Windows"
   ],
   "language": "C",
-  "stars": 11073,
-  "forks": 630,
+  "stars": 11076,
+  "forks": 632,
   "license": "GPL-3.0",
   "archived": false,
   "homepage": "",
@@ -42,38 +42,38 @@
     {
       "name": "memreduct-3.5.2-bin.7z",
       "size": 395161,
-      "downloads": 160676,
+      "downloads": 161080,
       "url": "https://github.com/henrypp/memreduct/releases/download/v.3.5.2/memreduct-3.5.2-bin.7z",
       "platform": "📦 其他"
     },
     {
       "name": "memreduct-3.5.2-pdb.7z",
       "size": 1939650,
-      "downloads": 23091,
+      "downloads": 23132,
       "url": "https://github.com/henrypp/memreduct/releases/download/v.3.5.2/memreduct-3.5.2-pdb.7z",
       "platform": "📦 其他"
     },
     {
       "name": "memreduct-3.5.2-setup.exe",
       "size": 381582,
-      "downloads": 1594127,
+      "downloads": 1596412,
       "url": "https://github.com/henrypp/memreduct/releases/download/v.3.5.2/memreduct-3.5.2-setup.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "memreduct-3.5.2-setup.exe.sig",
       "size": 566,
-      "downloads": 10890,
+      "downloads": 10910,
       "url": "https://github.com/henrypp/memreduct/releases/download/v.3.5.2/memreduct-3.5.2-setup.exe.sig",
       "platform": "🔐 校验文件"
     },
     {
       "name": "memreduct-3.5.2.sha256",
       "size": 533,
-      "downloads": 42119,
+      "downloads": 42176,
       "url": "https://github.com/henrypp/memreduct/releases/download/v.3.5.2/memreduct-3.5.2.sha256",
       "platform": "🔐 校验文件"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

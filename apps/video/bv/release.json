@@ -13,7 +13,7 @@
     "Android"
   ],
   "language": "Kotlin",
-  "stars": 765,
+  "stars": 766,
   "forks": 22,
   "license": "MIT",
   "archived": false,
@@ -33,10 +33,10 @@
     {
       "name": "BV_986_0.3.0.r986.f02dfc5a.release_default_universal.apk",
       "size": 14042297,
-      "downloads": 1878,
+      "downloads": 1901,
       "url": "https://github.com/fantasytyx/bv/releases/download/0.3.0.r986.f02dfc5a.release/BV_986_0.3.0.r986.f02dfc5a.release_default_universal.apk",
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

@@ -13,8 +13,8 @@
     "Windows"
   ],
   "language": "Python",
-  "stars": 8457,
-  "forks": 710,
+  "stars": 8474,
+  "forks": 712,
   "license": "AGPL-3.0",
   "archived": false,
   "homepage": "https://ok-script.com/ok-ww",
@@ -28,7 +28,7 @@
     "wuwa"
   ],
   "starred_at": "2025-04-01T18:35:53Z",
-  "pushed_at": "2026-11-02T08:03:06Z",
+  "pushed_at": "2026-11-03T08:05:56Z",
   "latest": {
     "kind": "release",
     "tag": "v3.7.13",
@@ -41,38 +41,38 @@
     {
       "name": "ok-ww-win32-China-setup.exe",
       "size": 391554480,
-      "downloads": 13640,
+      "downloads": 15496,
       "url": "https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.13/ok-ww-win32-China-setup.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "ok-ww-win32-Global-setup.exe",
       "size": 535290182,
-      "downloads": 923,
+      "downloads": 1041,
       "url": "https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.13/ok-ww-win32-Global-setup.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "ok-ww-win32-online-setup.exe",
       "size": 4023104,
-      "downloads": 1154,
+      "downloads": 1325,
       "url": "https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.13/ok-ww-win32-online-setup.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "ok-ww-win32.zip",
       "size": 4976102,
-      "downloads": 834,
+      "downloads": 960,
       "url": "https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.13/ok-ww-win32.zip",
       "platform": "🪟 Windows"
     },
     {
       "name": "win32_sha256.txt",
       "size": 64,
-      "downloads": 1941,
+      "downloads": 2189,
       "url": "https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.13/win32_sha256.txt",
       "platform": "🔐 校验文件"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

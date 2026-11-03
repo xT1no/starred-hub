@@ -13,7 +13,7 @@
     "Windows"
   ],
   "language": "C++",
-  "stars": 8503,
+  "stars": 8507,
   "forks": 397,
   "license": "",
   "archived": false,
@@ -36,5 +36,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

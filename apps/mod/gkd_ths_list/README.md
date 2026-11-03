@@ -14,7 +14,7 @@ GKD第三方订阅收录名单
 | 分类 | 🧩 [应用增强 / 模块](../README.md) |
 | 平台 | 📲 |
 | 语言 | TypeScript |
-| Star | 5.4k · Fork 108 |
+| Star | 5.4k · Fork 109 |
 | License | NOASSERTION |
 | 最新版本 | 无版本标记 |
 | 最近更新 | 2026-06-28（4 个月前） |

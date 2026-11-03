@@ -62,23 +62,23 @@ Note: The Windows binaries have been updated to include a signature.
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [LocalSend-1.18.2.dmg](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2.dmg) | 🍎 macOS | 50.3 MB | 683k |
+| [LocalSend-1.18.2.dmg](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2.dmg) | 🍎 macOS | 50.3 MB | 691k |
 | [LocalSend-CLI-1.18.2-macos-arm-64.tar.gz](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-macos-arm-64.tar.gz) | 🍎 macOS | 3.9 MB | 2.2k |
 | [LocalSend-CLI-1.18.2-macos-x86-64.tar.gz](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-macos-x86-64.tar.gz) | 🍎 macOS | 4.2 MB | 1.5k |
-| [LocalSend-1.18.2-android-arm64v8.apk](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-arm64v8.apk) | 📲 Android | 44.4 MB | 206k |
+| [LocalSend-1.18.2-android-arm64v8.apk](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-arm64v8.apk) | 📲 Android | 44.4 MB | 208k |
 | [LocalSend-1.18.2-android-arm32v7.apk](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-arm32v7.apk) | 📲 Android | 37.5 MB | 23k |
 | [LocalSend-1.18.2-android-google-play.apk](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-google-play.apk) | 📲 Android | 122.3 MB | 22k |
-| [LocalSend-1.18.2-android-x64.apk](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-x64.apk) | 📲 Android | 46.7 MB | 9.1k |
-| [LocalSend-1.18.2-windows-x86-64.exe](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-x86-64.exe) | 🪟 Windows | 19.0 MB | 851k |
+| [LocalSend-1.18.2-android-x64.apk](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-x64.apk) | 📲 Android | 46.7 MB | 9.3k |
+| [LocalSend-1.18.2-windows-x86-64.exe](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-x86-64.exe) | 🪟 Windows | 19.0 MB | 871k |
 | [LocalSend-1.18.2-windows-x86-64-unsigned.exe](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-x86-64-unsigned.exe) | 🪟 Windows | 18.1 MB | 173k |
-| [LocalSend-1.18.2-windows-x86-64.zip](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-x86-64.zip) | 🪟 Windows | 24.9 MB | 159k |
-| [LocalSend-1.18.2-windows-arm-64.zip](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-arm-64.zip) | 🪟 Windows | 23.3 MB | 8k |
-| [LocalSend-CLI-1.18.2-windows-x86-64.exe](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-windows-x86-64.exe) | 🪟 Windows | 9.3 MB | 6.9k |
-| [LocalSend-CLI-1.18.2-windows-arm-64.exe](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-windows-arm-64.exe) | 🪟 Windows | 8.0 MB | 1.5k |
-| [LocalSend-1.18.2-linux-x86-64.deb](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-linux-x86-64.deb) | 🐧 Linux | 23.5 MB | 105k |
+| [LocalSend-1.18.2-windows-x86-64.zip](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-x86-64.zip) | 🪟 Windows | 24.9 MB | 162k |
+| [LocalSend-1.18.2-windows-arm-64.zip](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-arm-64.zip) | 🪟 Windows | 23.3 MB | 8.2k |
+| [LocalSend-CLI-1.18.2-windows-x86-64.exe](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-windows-x86-64.exe) | 🪟 Windows | 9.3 MB | 7k |
+| [LocalSend-CLI-1.18.2-windows-arm-64.exe](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-windows-arm-64.exe) | 🪟 Windows | 8.0 MB | 1.6k |
+| [LocalSend-1.18.2-linux-x86-64.deb](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-linux-x86-64.deb) | 🐧 Linux | 23.5 MB | 106k |
 | [LocalSend-1.18.2-linux-x86-64.AppImage](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-linux-x86-64.AppImage) | 🐧 Linux | 63.4 MB | 30k |
 | [LocalSend-1.18.2-linux-x86-64.tar.gz](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-linux-x86-64.tar.gz) | 🐧 Linux | 30.5 MB | 19k |
-| [LocalSend-1.18.2-linux-arm-64.deb](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-linux-arm-64.deb) | 🐧 Linux | 23.5 MB | 7.5k |
+| [LocalSend-1.18.2-linux-arm-64.deb](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-linux-arm-64.deb) | 🐧 Linux | 23.5 MB | 7.6k |
 | [LocalSend-CLI-1.18.2-linux-x86-64.tar.gz](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-linux-x86-64.tar.gz) | 🐧 Linux | 4.5 MB | 3.4k |
 | [LocalSend-1.18.2-linux-arm-64.tar.gz](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-linux-arm-64.tar.gz) | 🐧 Linux | 30.9 MB | 3.1k |
 | [LocalSend-CLI-1.18.2-linux-arm-64.tar.gz](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-linux-arm-64.tar.gz) | 🐧 Linux | 4.4 MB | 1.4k |

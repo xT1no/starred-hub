@@ -15,7 +15,7 @@ SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道�
 | Star | 6.9k · Fork 2k |
 | License | CC-BY-SA-4.0 |
 | 最新版本 | 无版本标记 |
-| 最近更新 | 2026-11-01（昨天） |
+| 最近更新 | 2026-11-01（2 天前） |
 | 标星日期 | 2024-09-08 |
 | 官网 | <https://t.me/ACL4SSR> |
 

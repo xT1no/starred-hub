@@ -20,30 +20,30 @@
   "homepage": "",
   "topics": [],
   "starred_at": "2025-11-29T13:12:07Z",
-  "pushed_at": "2026-10-30T17:09:46Z",
+  "pushed_at": "2026-11-02T18:09:37Z",
   "latest": {
     "kind": "release",
-    "tag": "10.2.5",
-    "title": "10.2.5",
-    "published_at": "2026-10-30T17:09:46Z",
-    "url": "https://github.com/siweia/NDui/releases/tag/10.2.5",
+    "tag": "10.2.6",
+    "title": "10.2.6",
+    "published_at": "2026-11-02T18:09:37Z",
+    "url": "https://github.com/siweia/NDui/releases/tag/10.2.6",
     "prerelease": false
   },
   "assets": [
     {
-      "name": "NDui-10.2.5.zip",
-      "size": 909966,
-      "downloads": 9,
-      "url": "https://github.com/siweia/NDui/releases/download/10.2.5/NDui-10.2.5.zip",
+      "name": "NDui-10.2.6.zip",
+      "size": 908654,
+      "downloads": 8,
+      "url": "https://github.com/siweia/NDui/releases/download/10.2.6/NDui-10.2.6.zip",
       "platform": "🌐 Web"
     },
     {
       "name": "release.json",
       "size": 147,
-      "downloads": 2,
-      "url": "https://github.com/siweia/NDui/releases/download/10.2.5/release.json",
+      "downloads": 5,
+      "url": "https://github.com/siweia/NDui/releases/download/10.2.6/release.json",
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

@@ -58,7 +58,7 @@
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [gkd-v1.12.1.apk](https://github.com/gkd-kit/gkd/releases/download/v1.12.1/gkd-v1.12.1.apk) | 📲 Android | 3.1 MB | 83k |
+| [gkd-v1.12.1.apk](https://github.com/gkd-kit/gkd/releases/download/v1.12.1/gkd-v1.12.1.apk) | 📲 Android | 3.1 MB | 84k |
 | [outputs-v1.12.1.zip](https://github.com/gkd-kit/gkd/releases/download/v1.12.1/outputs-v1.12.1.zip) | 🌐 Web | 38.6 MB | 3k |
 
 ## 🔗 快速链接

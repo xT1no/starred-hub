@@ -10,7 +10,7 @@
 
 | 应用 | 简介 | 平台 | 最新版本 | 更新 | ⭐ | 下载 |
 |:---|:---|:---:|:---:|:---:|---:|:---:|
-| [UniGetUI](unigetui/README.md) 🆕 | UniGetUI: The Graphical Interface for your package managers. Co… | 🪟 ⌨️ | `v2026.3.3` | 3 天前 | 27k | [⬇️](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.Installer.x64.exe) |
+| [UniGetUI](unigetui/README.md) 🆕 | UniGetUI: The Graphical Interface for your package managers. Co… | 🪟 ⌨️ | `v2026.3.3` | 4 天前 | 27k | [⬇️](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.Installer.x64.exe) |
 
 ## 🔥 最近更新
 

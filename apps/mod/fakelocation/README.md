@@ -64,7 +64,7 @@ Fake Location
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [FakeLocation_CN_v1.5.2_1702.apk](https://github.com/Lerist/FakeLocation/releases/download/1.5.2/FakeLocation_CN_v1.5.2_1702.apk) | 📲 Android | 32.7 MB | 198k |
+| [FakeLocation_CN_v1.5.2_1702.apk](https://github.com/Lerist/FakeLocation/releases/download/1.5.2/FakeLocation_CN_v1.5.2_1702.apk) | 📲 Android | 32.7 MB | 200k |
 
 ## 🔗 快速链接
 

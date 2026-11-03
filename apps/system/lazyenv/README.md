@@ -38,7 +38,7 @@
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [Release.zip](https://github.com/ListerOvO1211/LazyEnv/releases/download/0.2.1/Release.zip) | 🌐 Web | 44.5 MB | 226 |
+| [Release.zip](https://github.com/ListerOvO1211/LazyEnv/releases/download/0.2.1/Release.zip) | 🌐 Web | 44.5 MB | 228 |
 
 ## 🔗 快速链接
 

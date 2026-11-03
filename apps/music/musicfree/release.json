@@ -14,8 +14,8 @@
     "移动端"
   ],
   "language": "TypeScript",
-  "stars": 28185,
-  "forks": 2013,
+  "stars": 28213,
+  "forks": 2017,
   "license": "AGPL-3.0",
   "archived": false,
   "homepage": "https://musicfree.catcat.work",
@@ -42,38 +42,38 @@
     {
       "name": "app-arm64-v8a-release.apk",
       "size": 18228172,
-      "downloads": 37679,
+      "downloads": 37809,
       "url": "https://github.com/maotoumao/MusicFree/releases/download/v0.6.2/app-arm64-v8a-release.apk",
       "platform": "📲 Android"
     },
     {
       "name": "app-armeabi-v7a-release.apk",
       "size": 17594166,
-      "downloads": 4053,
+      "downloads": 4083,
       "url": "https://github.com/maotoumao/MusicFree/releases/download/v0.6.2/app-armeabi-v7a-release.apk",
       "platform": "📲 Android"
     },
     {
       "name": "app-universal-release.apk",
       "size": 31675833,
-      "downloads": 9260,
+      "downloads": 9311,
       "url": "https://github.com/maotoumao/MusicFree/releases/download/v0.6.2/app-universal-release.apk",
       "platform": "📲 Android"
     },
     {
       "name": "app-x86-release.apk",
       "size": 18674630,
-      "downloads": 2409,
+      "downloads": 2418,
       "url": "https://github.com/maotoumao/MusicFree/releases/download/v0.6.2/app-x86-release.apk",
       "platform": "📲 Android"
     },
     {
       "name": "app-x86_64-release.apk",
       "size": 18365499,
-      "downloads": 4255,
+      "downloads": 4267,
       "url": "https://github.com/maotoumao/MusicFree/releases/download/v0.6.2/app-x86_64-release.apk",
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

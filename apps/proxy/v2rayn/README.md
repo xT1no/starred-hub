@@ -21,13 +21,13 @@ A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 | Star | 120k · Fork 16k |
 | License | GPL-3.0 |
 | 最新版本 | `7.25.6` |
-| 最近更新 | 2026-10-11（22 天前） |
+| 最近更新 | 2026-10-11（23 天前） |
 | 标星日期 | 2024-05-12 |
 | 官网 | <https://v2rayn.2dust.link> |
 
 ## 📦 最新版本
 
-**`7.25.6`**　发布于 2026-10-11（22 天前）
+**`7.25.6`**　发布于 2026-10-11（23 天前）
 
 [查看 Release 页面](https://github.com/2dust/v2rayN/releases/tag/7.25.6)
 
@@ -61,30 +61,30 @@ A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [v2rayN-macos-arm64.dmg](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-macos-arm64.dmg) | 🍎 macOS | 129.3 MB | 164k |
-| [v2rayN-macos-64.dmg](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-macos-64.dmg) | 🍎 macOS | 136.1 MB | 37k |
+| [v2rayN-macos-arm64.dmg](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-macos-arm64.dmg) | 🍎 macOS | 129.3 MB | 171k |
+| [v2rayN-macos-64.dmg](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-macos-64.dmg) | 🍎 macOS | 136.1 MB | 39k |
 | [v2rayN-macos-arm64.zip](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-macos-arm64.zip) | 🍎 macOS | 131.1 MB | 16k |
-| [v2rayN-macos-64.zip](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-macos-64.zip) | 🍎 macOS | 138.2 MB | 7.6k |
-| [v2rayN-windows-64.zip](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-64.zip) | 🪟 Windows | 160.9 MB | 274k |
-| [v2rayN-windows-64-desktop.zip](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-64-desktop.zip) | 🪟 Windows | 138.0 MB | 208k |
-| [v2rayN-windows-arm64.zip](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-arm64.zip) | 🪟 Windows | 148.6 MB | 8.8k |
-| [v2rayN-windows-86-desktop.zip](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-86-desktop.zip) | 🪟 Windows | 138.7 MB | 8.3k |
-| [v2rayN-windows-86.zip](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-86.zip) | 🪟 Windows | 134.6 MB | 7.9k |
-| [v2rayN-windows-arm64-desktop.zip](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-arm64-desktop.zip) | 🪟 Windows | 128.7 MB | 7.3k |
-| [v2rayN-linux-64.deb](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-64.deb) | 🐧 Linux | 82.6 MB | 33k |
-| [v2rayN-linux-64.zip](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-64.zip) | 🐧 Linux | 136.2 MB | 30k |
-| [v2rayN-linux-arm64.zip](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-arm64.zip) | 🐧 Linux | 127.9 MB | 6k |
-| [v2rayN-linux-arm64.deb](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-arm64.deb) | 🐧 Linux | 74.6 MB | 4.4k |
-| [v2rayN-linux-loong64.deb](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-loong64.deb) | 🐧 Linux | 70.8 MB | 3k |
-| [v2rayN-linux-rhel-64.rpm](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-rhel-64.rpm) | 🐧 Linux | 91.5 MB | 2.1k |
-| [v2rayN-linux-riscv64.deb](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-riscv64.deb) | 🐧 Linux | 140.8 MB | 1.8k |
-| [v2rayN-linux-rhel-arm64.rpm](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-rhel-arm64.rpm) | 🐧 Linux | 85.5 MB | 991 |
-| [v2rayN-linux-rhel-loong64.rpm](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-rhel-loong64.rpm) | 🐧 Linux | 81.3 MB | 889 |
-| [v2rayN-linux-rhel-riscv64.rpm](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-rhel-riscv64.rpm) | 🐧 Linux | 84.6 MB | 875 |
-| [v2rayN-windows-64.zip.sig](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-64.zip.sig) | 🔐 校验文件 | 297 B | 3.5k |
+| [v2rayN-macos-64.zip](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-macos-64.zip) | 🍎 macOS | 138.2 MB | 7.8k |
+| [v2rayN-windows-64.zip](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-64.zip) | 🪟 Windows | 160.9 MB | 284k |
+| [v2rayN-windows-64-desktop.zip](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-64-desktop.zip) | 🪟 Windows | 138.0 MB | 215k |
+| [v2rayN-windows-arm64.zip](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-arm64.zip) | 🪟 Windows | 148.6 MB | 9k |
+| [v2rayN-windows-86-desktop.zip](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-86-desktop.zip) | 🪟 Windows | 138.7 MB | 8.6k |
+| [v2rayN-windows-86.zip](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-86.zip) | 🪟 Windows | 134.6 MB | 8.1k |
+| [v2rayN-windows-arm64-desktop.zip](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-arm64-desktop.zip) | 🪟 Windows | 128.7 MB | 7.5k |
+| [v2rayN-linux-64.deb](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-64.deb) | 🐧 Linux | 82.6 MB | 35k |
+| [v2rayN-linux-64.zip](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-64.zip) | 🐧 Linux | 136.2 MB | 31k |
+| [v2rayN-linux-arm64.zip](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-arm64.zip) | 🐧 Linux | 127.9 MB | 6.2k |
+| [v2rayN-linux-arm64.deb](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-arm64.deb) | 🐧 Linux | 74.6 MB | 4.6k |
+| [v2rayN-linux-loong64.deb](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-loong64.deb) | 🐧 Linux | 70.8 MB | 3.1k |
+| [v2rayN-linux-rhel-64.rpm](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-rhel-64.rpm) | 🐧 Linux | 91.5 MB | 2.2k |
+| [v2rayN-linux-riscv64.deb](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-riscv64.deb) | 🐧 Linux | 140.8 MB | 1.9k |
+| [v2rayN-linux-rhel-arm64.rpm](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-rhel-arm64.rpm) | 🐧 Linux | 85.5 MB | 1k |
+| [v2rayN-linux-rhel-loong64.rpm](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-rhel-loong64.rpm) | 🐧 Linux | 81.3 MB | 906 |
+| [v2rayN-linux-rhel-riscv64.rpm](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-rhel-riscv64.rpm) | 🐧 Linux | 84.6 MB | 893 |
+| [v2rayN-windows-64.zip.sig](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-64.zip.sig) | 🔐 校验文件 | 297 B | 3.6k |
 | [v2rayN-windows-64-desktop.zip.sig](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-64-desktop.zip.sig) | 🔐 校验文件 | 297 B | 3.5k |
 | [v2rayN-linux-64.deb.sig](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-64.deb.sig) | 🔐 校验文件 | 297 B | 2.6k |
-| [v2rayN-linux-64.zip.sig](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-64.zip.sig) | 🔐 校验文件 | 297 B | 1.5k |
+| [v2rayN-linux-64.zip.sig](https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-linux-64.zip.sig) | 🔐 校验文件 | 297 B | 1.6k |
 
 还有 16 个文件，见 [Release 页面](https://github.com/2dust/v2rayN/releases/tag/7.25.6)。
 

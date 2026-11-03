@@ -10,10 +10,10 @@
 
 | 应用 | 简介 | 平台 | 最新版本 | 更新 | ⭐ | 下载 |
 |:---|:---|:---:|:---:|:---:|---:|:---:|
-| [xmir-patcher](xmir-patcher/README.md) 🆕 | Firmware patcher for Xiaomi routers | 🛰️ | `—` | 昨天 | 3.8k | — |
-| [GKD_subscription](gkd_subscription/README.md) 🆕 | 用于安卓 GKD 的第三方订阅规则 (👻Fork版) | 📲 | `v623` | 昨天 | 6.6k | — |
-| [iloader](iloader/README.md) 🆕 | User friendly sideloader | 📱 | `v2.4.1` | 4 天前 | 4.5k | [⬇️](https://github.com/nab138/iloader/releases/download/v2.4.1/iloader-windows-x64.exe) |
-| [EdgeCopilotFix](edgecopilotfix/README.md) | 解决某些地区Edge浏览器copilot消失的问题 | 🪟 | `1.2` | 16 天前 | 111 | [⬇️](https://github.com/emmm1245/EdgeCopilotFix/releases/download/1.2/EdgeCopilotFixTool-windows-amd64.exe) |
+| [xmir-patcher](xmir-patcher/README.md) 🆕 | Firmware patcher for Xiaomi routers | 🛰️ | `—` | 今天 | 3.8k | — |
+| [GKD_subscription](gkd_subscription/README.md) 🆕 | 用于安卓 GKD 的第三方订阅规则 (👻Fork版) | 📲 | `v623` | 2 天前 | 6.6k | — |
+| [iloader](iloader/README.md) 🆕 | User friendly sideloader | 📱 | `v2.4.1` | 5 天前 | 4.5k | [⬇️](https://github.com/nab138/iloader/releases/download/v2.4.1/iloader-windows-x64.exe) |
+| [EdgeCopilotFix](edgecopilotfix/README.md) | 解决某些地区Edge浏览器copilot消失的问题 | 🪟 | `1.2` | 17 天前 | 111 | [⬇️](https://github.com/emmm1245/EdgeCopilotFix/releases/download/1.2/EdgeCopilotFixTool-windows-amd64.exe) |
 | [Hail](hail/README.md) | Disable / Hide / Suspend / Uninstall Android apps without root. | 📲 | `v1.11.0` | 2 个月前 | 7.1k | [⬇️](https://github.com/aistra0528/Hail/releases/download/v1.11.0/Hail-v1.11.0.apk) |
 | [FakeLocation](fakelocation/README.md) | Fake Location | 📲 | `1.5.2` | 2 个月前 | 7.3k | [⬇️](https://github.com/Lerist/FakeLocation/releases/download/1.5.2/FakeLocation_CN_v1.5.2_1702.apk) |
 | [GKD_THS_List](gkd_ths_list/README.md) | GKD第三方订阅收录名单 | 📲 | `—` | 4 个月前 | 5.4k | — |
@@ -27,7 +27,7 @@
 
 | 应用 | 版本 | 发布日期 |
 |:---|:---|:---:|
-| [xmir-patcher](xmir-patcher/README.md) | `—` | 2026-11-01 |
+| [xmir-patcher](xmir-patcher/README.md) | `—` | 2026-11-02 |
 | [GKD_subscription](gkd_subscription/README.md) | `v623` | 2026-10-31 |
 | [iloader](iloader/README.md) | [`v2.4.1`](../../docs/downloads.md#dl-nab138-iloader) | 2026-10-28 |
 

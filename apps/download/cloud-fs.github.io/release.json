@@ -13,7 +13,7 @@
     "Linux"
   ],
   "language": "",
-  "stars": 1696,
+  "stars": 1698,
   "forks": 63,
   "license": "",
   "archived": false,
@@ -33,94 +33,94 @@
     {
       "name": "clouddrive-2-android-aarch64-1.1.3.tgz",
       "size": 15080681,
-      "downloads": 524,
+      "downloads": 551,
       "url": "https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive-2-android-aarch64-1.1.3.tgz",
       "platform": "📲 Android"
     },
     {
       "name": "clouddrive-2-android-armv7-1.1.3.tgz",
       "size": 14666718,
-      "downloads": 468,
+      "downloads": 493,
       "url": "https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive-2-android-armv7-1.1.3.tgz",
       "platform": "📲 Android"
     },
     {
       "name": "clouddrive-2-android-universal-1.1.3-233.apk",
       "size": 48296876,
-      "downloads": 2299,
+      "downloads": 2425,
       "url": "https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive-2-android-universal-1.1.3-233.apk",
       "platform": "📲 Android"
     },
     {
       "name": "clouddrive-2-android-x86_64-1.1.3.tgz",
       "size": 16010438,
-      "downloads": 454,
+      "downloads": 480,
       "url": "https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive-2-android-x86_64-1.1.3.tgz",
       "platform": "📲 Android"
     },
     {
       "name": "clouddrive-2-linux-aarch64-1.1.3.tgz",
       "size": 14886029,
-      "downloads": 869,
+      "downloads": 906,
       "url": "https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive-2-linux-aarch64-1.1.3.tgz",
       "platform": "🐧 Linux"
     },
     {
       "name": "clouddrive-2-linux-armv7-1.1.3.tgz",
       "size": 16814695,
-      "downloads": 578,
+      "downloads": 608,
       "url": "https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive-2-linux-armv7-1.1.3.tgz",
       "platform": "🐧 Linux"
     },
     {
       "name": "clouddrive-2-linux-x86_64-1.1.3.tgz",
       "size": 16054981,
-      "downloads": 1241,
+      "downloads": 1326,
       "url": "https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive-2-linux-x86_64-1.1.3.tgz",
       "platform": "🐧 Linux"
     },
     {
       "name": "clouddrive-2-macos-aarch64-1.1.3.tgz",
       "size": 14150750,
-      "downloads": 822,
+      "downloads": 866,
       "url": "https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive-2-macos-aarch64-1.1.3.tgz",
       "platform": "🍎 macOS"
     },
     {
       "name": "clouddrive-2-macos-x86_64-1.1.3.tgz",
       "size": 15551306,
-      "downloads": 540,
+      "downloads": 569,
       "url": "https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive-2-macos-x86_64-1.1.3.tgz",
       "platform": "🍎 macOS"
     },
     {
       "name": "CloudDrive2Setup-Arm64-1.1.3.exe",
       "size": 13531856,
-      "downloads": 583,
+      "downloads": 619,
       "url": "https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/CloudDrive2Setup-Arm64-1.1.3.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "CloudDrive2Setup-X64-1.1.3.exe",
       "size": 14617640,
-      "downloads": 3893,
+      "downloads": 4065,
       "url": "https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/CloudDrive2Setup-X64-1.1.3.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "clouddrive2_1.1.3_arm.fpk",
       "size": 15534679,
-      "downloads": 300,
+      "downloads": 317,
       "url": "https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive2_1.1.3_arm.fpk",
       "platform": "📦 其他"
     },
     {
       "name": "clouddrive2_1.1.3_x86.fpk",
       "size": 16461422,
-      "downloads": 837,
+      "downloads": 879,
       "url": "https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v1.1.3/clouddrive2_1.1.3_x86.fpk",
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

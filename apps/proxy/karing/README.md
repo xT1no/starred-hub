@@ -50,16 +50,16 @@ iOS/tvOS AppStore: (Search Keywords: karing vpn) https://apps.apple.com/us/app/k
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [karing_1.2.25.2802_macos_universal.dmg](https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_macos_universal.dmg) | 🍎 macOS | 98.4 MB | 190k |
+| [karing_1.2.25.2802_macos_universal.dmg](https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_macos_universal.dmg) | 🍎 macOS | 98.4 MB | 192k |
 | [karing_1.2.25.2802_macos_universal.pkg](https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_macos_universal.pkg) | 🍎 macOS | 100.2 MB | 3.1k |
-| [karing_1.2.25.2802_android_arm64-v8a.apk](https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_android_arm64-v8a.apk) | 📲 Android | 52.9 MB | 537k |
-| [karing_1.2.25.2802_android_arm.apk](https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_android_arm.apk) | 📲 Android | 90.0 MB | 215k |
+| [karing_1.2.25.2802_android_arm64-v8a.apk](https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_android_arm64-v8a.apk) | 📲 Android | 52.9 MB | 540k |
+| [karing_1.2.25.2802_android_arm.apk](https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_android_arm.apk) | 📲 Android | 90.0 MB | 218k |
 | [karing_1.2.25.2802_android_armeabi-v7a.apk](https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_android_armeabi-v7a.apk) | 📲 Android | 53.0 MB | 70k |
-| [karing_1.2.25.2802_windows_x64.exe](https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_windows_x64.exe) | 🪟 Windows | 44.6 MB | 555k |
+| [karing_1.2.25.2802_windows_x64.exe](https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_windows_x64.exe) | 🪟 Windows | 44.6 MB | 560k |
 | [karing_1.2.25.2802_windows_x64.zip](https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_windows_x64.zip) | 🪟 Windows | 64.3 MB | 28k |
-| [karing_1.2.25.2802_linux_amd64.deb](https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_linux_amd64.deb) | 🐧 Linux | 43.1 MB | 20k |
+| [karing_1.2.25.2802_linux_amd64.deb](https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_linux_amd64.deb) | 🐧 Linux | 43.1 MB | 21k |
 | [karing_1.2.25.2802_linux_amd64.rpm](https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_linux_amd64.rpm) | 🐧 Linux | 53.4 MB | 3.3k |
-| [karing_1.2.25.2802_linux_amd64.AppImage](https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_linux_amd64.AppImage) | 🐧 Linux | 64.3 MB | 3k |
+| [karing_1.2.25.2802_linux_amd64.AppImage](https://github.com/KaringX/karing/releases/download/v1.2.25.2802/karing_1.2.25.2802_linux_amd64.AppImage) | 🐧 Linux | 64.3 MB | 3.1k |
 
 ## 🔗 快速链接
 

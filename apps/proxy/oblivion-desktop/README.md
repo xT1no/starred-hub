@@ -20,7 +20,7 @@ Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | ☁️ 🪟 🐧 |
 | 语言 | TypeScript |
-| Star | 8.4k · Fork 902 |
+| Star | 8.4k · Fork 901 |
 | License | NOASSERTION |
 | 最新版本 | `v3.11.0` |
 | 最近更新 | 2025-11-10（11 个月前） |
@@ -65,7 +65,7 @@ https://github.com/bepass-org/oblivion-desktop/issues
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
 | [oblivion-desktop-mac-arm64.dmg](https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-mac-arm64.dmg) | 🍎 macOS | 149.3 MB | 5k |
-| [oblivion-desktop-mac-arm64.zip](https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-mac-arm64.zip) | 🍎 macOS | 144.5 MB | 3.2k |
+| [oblivion-desktop-mac-arm64.zip](https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-mac-arm64.zip) | 🍎 macOS | 144.5 MB | 3.3k |
 | [oblivion-desktop-mac-x64.dmg](https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-mac-x64.dmg) | 🍎 macOS | 156.3 MB | 2.8k |
 | [oblivion-desktop-mac-x64.zip](https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-mac-x64.zip) | 🍎 macOS | 151.5 MB | 2.3k |
 | [oblivion-desktop-win-x64.exe](https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-win-x64.exe) | 🪟 Windows | 114.3 MB | 150k |
@@ -80,8 +80,8 @@ https://github.com/bepass-org/oblivion-desktop/issues
 | [oblivion-desktop-linux-x64.tar.xz](https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-linux-x64.tar.xz) | 🐧 Linux | 106.4 MB | 2.4k |
 | [oblivion-desktop-linux-arm64.tar.xz](https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-linux-arm64.tar.xz) | 🐧 Linux | 99.7 MB | 1.5k |
 | [oblivion-desktop-linux-arm64.deb](https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-linux-arm64.deb) | 🐧 Linux | 98.2 MB | 1k |
-| [oblivion-desktop-linux-x86_64.rpm](https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-linux-x86_64.rpm) | 🐧 Linux | 107.3 MB | 982 |
-| [oblivion-desktop-linux-arm64.AppImage](https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-linux-arm64.AppImage) | 🐧 Linux | 154.0 MB | 842 |
+| [oblivion-desktop-linux-x86_64.rpm](https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-linux-x86_64.rpm) | 🐧 Linux | 107.3 MB | 983 |
+| [oblivion-desktop-linux-arm64.AppImage](https://github.com/bepass-org/oblivion-desktop/releases/download/v3.11.0/oblivion-desktop-linux-arm64.AppImage) | 🐧 Linux | 154.0 MB | 844 |
 
 ## 🔗 快速链接
 

@@ -14,7 +14,7 @@
   ],
   "language": "Kotlin",
   "stars": 11534,
-  "forks": 779,
+  "forks": 778,
   "license": "",
   "archived": true,
   "homepage": "",
@@ -36,10 +36,10 @@
     {
       "name": "BiliRoaming_1.7.0.apk",
       "size": 687282,
-      "downloads": 73597,
+      "downloads": 73626,
       "url": "https://github.com/yujincheng08/BiliRoaming/releases/download/v1.7.0/BiliRoaming_1.7.0.apk",
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

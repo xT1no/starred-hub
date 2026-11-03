@@ -20,15 +20,15 @@ Upscaled icon pack for World of Warcraft.
 | 分类 | 🎮 [游戏 / 辅助脚本](../README.md) |
 | 平台 | 🪟 |
 | 语言 | — |
-| Star | 809 · Fork 35 |
+| Star | 810 · Fork 35 |
 | License | — |
 | 最新版本 | `12.1.5.70391-V5-1` |
-| 最近更新 | 2026-10-15（17 天前） |
+| 最近更新 | 2026-10-15（18 天前） |
 | 标星日期 | 2025-08-16 |
 
 ## 📦 最新版本
 
-**`12.1.5.70391-V5-1`**　发布于 2026-10-15（17 天前）
+**`12.1.5.70391-V5-1`**　发布于 2026-10-15（18 天前）
 
 [查看 Release 页面](https://github.com/AcidWeb/Clean-Icons-Mechagnome-Edition/releases/tag/12.1.5.70391-V5-1)
 
@@ -48,7 +48,7 @@ Upscaled icon pack for World of Warcraft.
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [CleanIcons-MechagnomeEdition-12.1.5.70391-V5-1.zip](https://github.com/AcidWeb/Clean-Icons-Mechagnome-Edition/releases/download/12.1.5.70391-V5-1/CleanIcons-MechagnomeEdition-12.1.5.70391-V5-1.zip) | 🌐 Web | 1.1 GB | 3.3k |
+| [CleanIcons-MechagnomeEdition-12.1.5.70391-V5-1.zip](https://github.com/AcidWeb/Clean-Icons-Mechagnome-Edition/releases/download/12.1.5.70391-V5-1/CleanIcons-MechagnomeEdition-12.1.5.70391-V5-1.zip) | 🌐 Web | 1.1 GB | 3.5k |
 
 ## 🔗 快速链接
 

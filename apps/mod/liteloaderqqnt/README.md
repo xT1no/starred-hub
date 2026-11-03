@@ -22,7 +22,7 @@ QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福�
 | 分类 | 🧩 [应用增强 / 模块](../README.md) |
 | 平台 | 🪟 |
 | 语言 | JavaScript |
-| Star | 7k · Fork 278 |
+| Star | 7k · Fork 277 |
 | License | MIT |
 | 最新版本 | `1.4.1` |
 | 最近更新 | 2025-12-02（11 个月前） |

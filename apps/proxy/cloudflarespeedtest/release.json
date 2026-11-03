@@ -13,8 +13,8 @@
     "CLI"
   ],
   "language": "Go",
-  "stars": 29782,
-  "forks": 5519,
+  "stars": 29796,
+  "forks": 5520,
   "license": "GPL-3.0",
   "archived": false,
   "homepage": "",
@@ -39,136 +39,136 @@
     {
       "name": "cfst_darwin_amd64.zip",
       "size": 3220040,
-      "downloads": 5126,
+      "downloads": 5150,
       "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_darwin_amd64.zip",
       "platform": "🍎 macOS"
     },
     {
       "name": "cfst_darwin_amd64_old.zip",
       "size": 2846795,
-      "downloads": 812,
+      "downloads": 814,
       "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_darwin_amd64_old.zip",
       "platform": "🍎 macOS"
     },
     {
       "name": "cfst_darwin_arm64.zip",
       "size": 3010490,
-      "downloads": 11284,
+      "downloads": 11356,
       "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_darwin_arm64.zip",
       "platform": "🍎 macOS"
     },
     {
       "name": "cfst_darwin_arm64_old.zip",
       "size": 2703880,
-      "downloads": 730,
+      "downloads": 732,
       "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_darwin_arm64_old.zip",
       "platform": "🍎 macOS"
     },
     {
       "name": "cfst_linux_386.tar.gz",
       "size": 3062568,
-      "downloads": 655,
+      "downloads": 658,
       "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_linux_386.tar.gz",
       "platform": "🐧 Linux"
     },
     {
       "name": "cfst_linux_amd64.tar.gz",
       "size": 3166688,
-      "downloads": 69868,
+      "downloads": 70662,
       "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_linux_amd64.tar.gz",
       "platform": "🐧 Linux"
     },
     {
       "name": "cfst_linux_arm64.tar.gz",
       "size": 2892627,
-      "downloads": 4853,
+      "downloads": 4918,
       "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_linux_arm64.tar.gz",
       "platform": "🐧 Linux"
     },
     {
       "name": "cfst_linux_armv5.tar.gz",
       "size": 3025487,
-      "downloads": 226,
+      "downloads": 230,
       "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_linux_armv5.tar.gz",
       "platform": "🐧 Linux"
     },
     {
       "name": "cfst_linux_armv6.tar.gz",
       "size": 3016359,
-      "downloads": 221,
+      "downloads": 223,
       "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_linux_armv6.tar.gz",
       "platform": "🐧 Linux"
     },
     {
       "name": "cfst_linux_armv7.tar.gz",
       "size": 3010496,
-      "downloads": 412,
+      "downloads": 414,
       "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_linux_armv7.tar.gz",
       "platform": "🐧 Linux"
     },
     {
       "name": "cfst_linux_mips.tar.gz",
       "size": 2925366,
-      "downloads": 224,
+      "downloads": 227,
       "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_linux_mips.tar.gz",
       "platform": "🐧 Linux"
     },
     {
       "name": "cfst_linux_mips64.tar.gz",
       "size": 2847655,
-      "downloads": 191,
+      "downloads": 194,
       "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_linux_mips64.tar.gz",
       "platform": "🐧 Linux"
     },
     {
       "name": "cfst_linux_mips64le.tar.gz",
       "size": 2795370,
-      "downloads": 209,
+      "downloads": 213,
       "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_linux_mips64le.tar.gz",
       "platform": "🐧 Linux"
     },
     {
       "name": "cfst_linux_mipsle.tar.gz",
       "size": 2873374,
-      "downloads": 230,
+      "downloads": 234,
       "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_linux_mipsle.tar.gz",
       "platform": "🐧 Linux"
     },
     {
       "name": "cfst_windows_386.zip",
       "size": 3250245,
-      "downloads": 6285,
+      "downloads": 6309,
       "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_windows_386.zip",
       "platform": "🪟 Windows"
     },
     {
       "name": "cfst_windows_386_old.zip",
       "size": 2778221,
-      "downloads": 921,
+      "downloads": 926,
       "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_windows_386_old.zip",
       "platform": "🪟 Windows"
     },
     {
       "name": "cfst_windows_amd64.zip",
       "size": 3324747,
-      "downloads": 76470,
+      "downloads": 76883,
       "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_windows_amd64.zip",
       "platform": "🪟 Windows"
     },
     {
       "name": "cfst_windows_amd64_old.zip",
       "size": 2880516,
-      "downloads": 2990,
+      "downloads": 3005,
       "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_windows_amd64_old.zip",
       "platform": "🪟 Windows"
     },
     {
       "name": "cfst_windows_arm64.zip",
       "size": 3003997,
-      "downloads": 2284,
+      "downloads": 2295,
       "url": "https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.5/cfst_windows_arm64.zip",
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

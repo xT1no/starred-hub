@@ -13,7 +13,7 @@
     "AndroidTV"
   ],
   "language": "C",
-  "stars": 31967,
+  "stars": 31971,
   "forks": 3585,
   "license": "",
   "archived": false,
@@ -38,10 +38,10 @@
     {
       "name": "my-tv-v2.1.8.apk",
       "size": 13970381,
-      "downloads": 440875,
+      "downloads": 441114,
       "url": "https://github.com/lizongying/my-tv/releases/download/v2.1.8/my-tv-v2.1.8.apk",
       "platform": "📺 AndroidTV"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

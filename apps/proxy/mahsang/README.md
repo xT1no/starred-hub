@@ -20,7 +20,7 @@ a V2RayNG with Fragment , DoH , Rotating Configs , & free VPN servers
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | 📲 |
 | 语言 | Kotlin |
-| Star | 3.1k · Fork 314 |
+| Star | 3.2k · Fork 314 |
 | License | GPL-3.0 |
 | 最新版本 | `v18-(1405-7-10)` |
 | 最近更新 | 2026-10-02（1 个月前） |
@@ -64,11 +64,11 @@ new way of fetching config from mahsaserver
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [MahsaNG_18_arm64-v8a.apk](https://github.com/GFW-knocker/MahsaNG/releases/download/v18-%281405-7-10%29/MahsaNG_18_arm64-v8a.apk) | 📲 Android | 61.8 MB | 16k |
-| [MahsaNG_18_universal.apk](https://github.com/GFW-knocker/MahsaNG/releases/download/v18-%281405-7-10%29/MahsaNG_18_universal.apk) | 📲 Android | 171.7 MB | 5.3k |
+| [MahsaNG_18_arm64-v8a.apk](https://github.com/GFW-knocker/MahsaNG/releases/download/v18-%281405-7-10%29/MahsaNG_18_arm64-v8a.apk) | 📲 Android | 61.8 MB | 17k |
+| [MahsaNG_18_universal.apk](https://github.com/GFW-knocker/MahsaNG/releases/download/v18-%281405-7-10%29/MahsaNG_18_universal.apk) | 📲 Android | 171.7 MB | 5.4k |
 | [MahsaNG_18_armeabi-v7a.apk](https://github.com/GFW-knocker/MahsaNG/releases/download/v18-%281405-7-10%29/MahsaNG_18_armeabi-v7a.apk) | 📲 Android | 63.0 MB | 2.9k |
 | [MahsaNG_18_x86_64.apk](https://github.com/GFW-knocker/MahsaNG/releases/download/v18-%281405-7-10%29/MahsaNG_18_x86_64.apk) | 📲 Android | 64.9 MB | 1.1k |
-| [MahsaNG_18_x86.apk](https://github.com/GFW-knocker/MahsaNG/releases/download/v18-%281405-7-10%29/MahsaNG_18_x86.apk) | 📲 Android | 66.2 MB | 720 |
+| [MahsaNG_18_x86.apk](https://github.com/GFW-knocker/MahsaNG/releases/download/v18-%281405-7-10%29/MahsaNG_18_x86.apk) | 📲 Android | 66.2 MB | 727 |
 
 ## 🔗 快速链接
 

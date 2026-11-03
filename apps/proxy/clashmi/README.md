@@ -18,16 +18,16 @@ Clash Mihomo for iOS/MacOS/Android/Windows/Linux
 | 分类 | 🌐 [网络代理 / 节点](../README.md) |
 | 平台 | 🪟 🍎 🐧 📱 📲 |
 | 语言 | Dart |
-| Star | 10k · Fork 639 |
+| Star | 10k · Fork 644 |
 | License | GPL-3.0 |
 | 最新版本 | `v1.0.31.1703` |
-| 最近更新 | 2026-10-09（24 天前） |
+| 最近更新 | 2026-10-09（25 天前） |
 | 标星日期 | 2026-03-07 |
 | 官网 | <https://clashmi.app/> |
 
 ## 📦 最新版本
 
-**`v1.0.31.1703`**　发布于 2026-10-09（24 天前）
+**`v1.0.31.1703`**　发布于 2026-10-09（25 天前）
 
 [查看 Release 页面](https://github.com/KaringX/clashmi/releases/tag/v1.0.31.1703)
 
@@ -51,16 +51,16 @@ ios appstore: https://apps.apple.com/us/app/clash-mi/id6744321968
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [clashmi_1.0.31.1703_macos_universal.dmg](https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_macos_universal.dmg) | 🍎 macOS | 93.4 MB | 29k |
+| [clashmi_1.0.31.1703_macos_universal.dmg](https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_macos_universal.dmg) | 🍎 macOS | 93.4 MB | 30k |
 | [clashmi_1.0.31.1703_macos_universal.pkg](https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_macos_universal.pkg) | 🍎 macOS | 93.6 MB | 1.2k |
-| [clashmi_1.0.31.1703_android_arm64-v8a.apk](https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_android_arm64-v8a.apk) | 📲 Android | 50.3 MB | 157k |
-| [clashmi_1.0.31.1703_android_arm.apk](https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_android_arm.apk) | 📲 Android | 85.0 MB | 62k |
-| [clashmi_1.0.31.1703_android_armeabi-v7a.apk](https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_android_armeabi-v7a.apk) | 📲 Android | 50.5 MB | 6.9k |
-| [clashmi_1.0.31.1703_windows_x64.exe](https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_windows_x64.exe) | 🪟 Windows | 43.4 MB | 180k |
+| [clashmi_1.0.31.1703_android_arm64-v8a.apk](https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_android_arm64-v8a.apk) | 📲 Android | 50.3 MB | 160k |
+| [clashmi_1.0.31.1703_android_arm.apk](https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_android_arm.apk) | 📲 Android | 85.0 MB | 64k |
+| [clashmi_1.0.31.1703_android_armeabi-v7a.apk](https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_android_armeabi-v7a.apk) | 📲 Android | 50.5 MB | 7.1k |
+| [clashmi_1.0.31.1703_windows_x64.exe](https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_windows_x64.exe) | 🪟 Windows | 43.4 MB | 184k |
 | [clashmi_1.0.31.1703_windows_x64.zip](https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_windows_x64.zip) | 🪟 Windows | 63.7 MB | 17k |
 | [clashmi_1.0.31.1703_linux_amd64.deb](https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_linux_amd64.deb) | 🐧 Linux | 43.5 MB | 2.9k |
-| [clashmi_1.0.31.1703_linux_amd64.AppImage](https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_linux_amd64.AppImage) | 🐧 Linux | 59.0 MB | 860 |
-| [clashmi_1.0.31.1703_linux_amd64.rpm](https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_linux_amd64.rpm) | 🐧 Linux | 53.5 MB | 819 |
+| [clashmi_1.0.31.1703_linux_amd64.AppImage](https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_linux_amd64.AppImage) | 🐧 Linux | 59.0 MB | 897 |
+| [clashmi_1.0.31.1703_linux_amd64.rpm](https://github.com/KaringX/clashmi/releases/download/v1.0.31.1703/clashmi_1.0.31.1703_linux_amd64.rpm) | 🐧 Linux | 53.5 MB | 831 |
 
 ## 🔗 快速链接
 

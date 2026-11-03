@@ -55,7 +55,7 @@ Dism++ Multi-language Support & BUG Report
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [Dism++10.1.1002.1B.zip](https://github.com/Chuyu-Team/Dism-Multi-language/releases/download/v10.1.1002.2/Dism%2B%2B10.1.1002.1B.zip) | 🌐 Web | 3.6 MB | 1775k |
+| [Dism++10.1.1002.1B.zip](https://github.com/Chuyu-Team/Dism-Multi-language/releases/download/v10.1.1002.2/Dism%2B%2B10.1.1002.1B.zip) | 🌐 Web | 3.6 MB | 1776k |
 
 ## 🔗 快速链接
 

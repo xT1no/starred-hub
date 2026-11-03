@@ -20,16 +20,16 @@
 | 分类 | 🎮 [游戏 / 辅助脚本](../README.md) |
 | 平台 | 🪟 |
 | 语言 | Python |
-| Star | 8.5k · Fork 710 |
+| Star | 8.5k · Fork 712 |
 | License | AGPL-3.0 |
 | 最新版本 | `v3.7.13` |
-| 最近更新 | 2026-10-29（3 天前） |
+| 最近更新 | 2026-10-29（4 天前） |
 | 标星日期 | 2025-04-01 |
 | 官网 | <https://ok-script.com/ok-ww> |
 
 ## 📦 最新版本
 
-**`v3.7.13`**　发布于 2026-10-29（3 天前）
+**`v3.7.13`**　发布于 2026-10-29（4 天前）
 
 [查看 Release 页面](https://github.com/ok-oldking/ok-wuthering-waves/releases/tag/v3.7.13)
 
@@ -58,11 +58,11 @@
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [ok-ww-win32-China-setup.exe](https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.13/ok-ww-win32-China-setup.exe) | 🪟 Windows | 373.4 MB | 14k |
-| [ok-ww-win32-online-setup.exe](https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.13/ok-ww-win32-online-setup.exe) | 🪟 Windows | 3.8 MB | 1.2k |
-| [ok-ww-win32-Global-setup.exe](https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.13/ok-ww-win32-Global-setup.exe) | 🪟 Windows | 510.5 MB | 923 |
-| [ok-ww-win32.zip](https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.13/ok-ww-win32.zip) | 🪟 Windows | 4.7 MB | 834 |
-| [win32_sha256.txt](https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.13/win32_sha256.txt) | 🔐 校验文件 | 64 B | 1.9k |
+| [ok-ww-win32-China-setup.exe](https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.13/ok-ww-win32-China-setup.exe) | 🪟 Windows | 373.4 MB | 15k |
+| [ok-ww-win32-online-setup.exe](https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.13/ok-ww-win32-online-setup.exe) | 🪟 Windows | 3.8 MB | 1.3k |
+| [ok-ww-win32-Global-setup.exe](https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.13/ok-ww-win32-Global-setup.exe) | 🪟 Windows | 510.5 MB | 1k |
+| [ok-ww-win32.zip](https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.13/ok-ww-win32.zip) | 🪟 Windows | 4.7 MB | 960 |
+| [win32_sha256.txt](https://github.com/ok-oldking/ok-wuthering-waves/releases/download/v3.7.13/win32_sha256.txt) | 🔐 校验文件 | 64 B | 2.2k |
 
 ## 🔗 快速链接
 

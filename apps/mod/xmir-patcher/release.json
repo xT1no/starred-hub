@@ -13,7 +13,7 @@
     "路由器 / 固件"
   ],
   "language": "Python",
-  "stars": 3759,
+  "stars": 3760,
   "forks": 432,
   "license": "",
   "archived": false,
@@ -28,7 +28,7 @@
     "xiaomi"
   ],
   "starred_at": "2025-06-09T01:57:21Z",
-  "pushed_at": "2026-11-01T10:55:22Z",
+  "pushed_at": "2026-11-02T11:53:23Z",
   "latest": {
     "kind": "none",
     "tag": "",
@@ -38,5 +38,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

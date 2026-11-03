@@ -4,9 +4,9 @@
 
 **xT1no 的 GitHub 星标仓库 · 自动归档**
 
-`145` 个仓库 · `15` 个功能分类 · `14` 个平台分类
+`146` 个仓库 · `15` 个功能分类 · `14` 个平台分类
 
-最近同步：2026-11-02 19:01 (UTC+8)
+最近同步：2026-11-03 16:20 (UTC+8)
 
 [📱 应用目录](apps/README.md) · [按功能浏览](docs/by-function.md) · [按平台浏览](docs/by-platform.md) · [更新动态](docs/updates.md) · [时间线](docs/timeline.md)
 
@@ -14,35 +14,61 @@
 
 ---
 
-## 🔥 最近更新（7 天内 15 个应用发布新版）
+## 🔥 最近更新（7 天内 17 个应用发布新版）
 
 > 点版本号可以直接跳到下面同页的安装包直链，不用再进应用页。
 
 | 应用 | 最新版本 | 发布 | 分类 | ⭐ |
 |:---|:---|:---:|:---:|---:|
+| [Motrix](apps/download/motrix/README.md) | [`v2.2.1`](#dl-agalwood-motrix) | 2026-11-03 | 📥 | 58k |
+| [photocraft](apps/design/photocraft/README.md) | [`v0.20.1`](#dl-storytold-photocraft) | 2026-11-03 | 🎨 | 76k |
+| [NDui](apps/game/ndui/README.md) | [`10.2.6`](#dl-siweia-ndui) | 2026-11-02 | 🎮 | 382 |
+| [Ehviewer_CN_SXJ](apps/office/ehviewer_cn_sxj/README.md) | [`2.0.2.7`](#dl-xiaojieonly-ehviewer-cn-sxj) | 2026-11-02 | 📄 | 29k |
 | [clash-verge-rev](apps/proxy/clash-verge-rev/README.md) | [`v2.5.9`](#dl-clash-verge-rev-clash-verge-rev) | 2026-11-02 | 🌐 | 156k |
 | [light-c](apps/system/light-c/README.md) | [`v2.18.1`](#dl-chunyu33-light-c) | 2026-11-02 | ⚙️ | 3.3k |
-| [CloudRunFilesBuilder](apps/auto/cloudrunfilesbuilder/README.md) | `2026-11-02` | 2026-11-02 | ⚡ | 642 |
-| [photocraft](apps/design/photocraft/README.md) | [`v0.19.0`](#dl-storytold-photocraft) | 2026-11-01 | 🎨 | 76k |
+| [CloudRunFilesBuilder](apps/auto/cloudrunfilesbuilder/README.md) | `2026-11-02` | 2026-11-02 | ⚡ | 644 |
 | [aos-AVP](apps/video/aos-avp/README.md) | [`v6.6.3`](#dl-nova-video-player-aos-avp) | 2026-11-01 | 🎬 | 4.8k |
-| [Motrix](apps/download/motrix/README.md) | [`v2.2.0`](#dl-agalwood-motrix) | 2026-11-01 | 📥 | 58k |
+| [cleanyourtv](apps/privacy/cleanyourtv/README.md) | `v3.3.0` | 2026-11-01 | 🛡️ | 51k |
 | [GKD_subscription](apps/mod/gkd_subscription/README.md) | `v623` | 2026-10-31 | 🧩 | 6.6k |
-| [eIsland](apps/system/eisland/README.md) | [`v27.0.1`](#dl-jntmtmtm-eisland) | 2026-10-31 | ⚙️ | 325 |
+| [eIsland](apps/system/eisland/README.md) | [`v27.0.1`](#dl-jntmtmtm-eisland) | 2026-10-31 | ⚙️ | 327 |
 | [Win11Debloat](apps/system/win11debloat/README.md) | [`2026.10.30`](#dl-raphire-win11debloat) | 2026-10-31 | ⚙️ | 62k |
-| [NDui](apps/game/ndui/README.md) | [`10.2.5`](#dl-siweia-ndui) | 2026-10-30 | 🎮 | 382 |
 | [UniGetUI](apps/dev/unigetui/README.md) | [`v2026.3.3`](#dl-devolutions-unigetui) | 2026-10-29 | 🛠️ | 27k |
 | [ok-wuthering-waves](apps/game/ok-wuthering-waves/README.md) | [`v3.7.13`](#dl-ok-oldking-ok-wuthering-waves) | 2026-10-29 | 🎮 | 8.5k |
 | [ExplorerPatcher](apps/system/explorerpatcher/README.md) | [`26100.9711.71.1`](#dl-valinet-explorerpatcher) | 2026-10-29 | ⚙️ | 34k |
 | [iloader](apps/mod/iloader/README.md) | [`v2.4.1`](#dl-nab138-iloader) | 2026-10-28 | 🧩 | 4.5k |
 | [ImmortalWrt-ImageBuilder](apps/auto/immortalwrt-imagebuilder/README.md) | `Autobuild-x86-64` | 2026-10-27 | ⚡ | 2.7k |
 
-全部 **106** 个有版本的应用：见 [⬇️ 下载索引](docs/downloads.md)。
+全部 **107** 个有版本的应用：见 [⬇️ 下载索引](docs/downloads.md)。
 
 <a id="downloads"></a>
 
 ## ⬇️ 最新版本直链
 
 每个应用只列「每个平台最该装的那一个」，点一次直接落到官方文件。
+
+<a id="dl-agalwood-motrix"></a>
+
+**📥 Motrix** · `v2.2.1` · 2026-11-03 · [详情](apps/download/motrix/README.md)
+
+🪟 [安装版 · 127 MB](https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-Setup-2.2.1.exe) · 🍎 [arm64 dmg · 131 MB](https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-2.2.1-arm64.dmg) · 🐧 [x64 AppImage · 125 MB](https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-2.2.1-x86_64.AppImage) · 📦 [zip · 160 MB](https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-2.2.1-win.zip)
+
+<a id="dl-storytold-photocraft"></a>
+
+**🎨 photocraft** · `v0.20.1` · 2026-11-03 · [详情](apps/design/photocraft/README.md)
+
+🪟 [x64 安装版 · 103 MB](https://github.com/storytold/photocraft/releases/download/v0.20.1/photocraft-0.20.1-windows-x64.msi) · 🍎 [通用 dmg · 236 MB](https://github.com/storytold/photocraft/releases/download/v0.20.1/photocraft-0.20.1-macos-universal.dmg) · 🐧 [x64 AppImage · 114 MB](https://github.com/storytold/photocraft/releases/download/v0.20.1/photocraft-0.20.1-linux-x86_64.AppImage) · 📦 [x64 便携版 · 123 MB](https://github.com/storytold/photocraft/releases/download/v0.20.1/photocraft-0.20.1-windows-x64-portable.zip)
+
+<a id="dl-siweia-ndui"></a>
+
+**🎮 NDui** · `10.2.6` · 2026-11-02 · [详情](apps/game/ndui/README.md)
+
+📦 [zip · 0.9 MB](https://github.com/siweia/NDui/releases/download/10.2.6/NDui-10.2.6.zip)
+
+<a id="dl-xiaojieonly-ehviewer-cn-sxj"></a>
+
+**📄 Ehviewer_CN_SXJ** · `2.0.2.7` · 2026-11-02 · [详情](apps/office/ehviewer_cn_sxj/README.md)
+
+📲 [apk · 26.9 MB](https://github.com/xiaojieonly/Ehviewer_CN_SXJ/releases/download/2.0.2.7/EhViewer-2.0.2.7.apk)
 
 <a id="dl-clash-verge-rev-clash-verge-rev"></a>
 
@@ -56,23 +82,11 @@
 
 🪟 [x64 安装版 · 5.9 MB](https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_2.18.1_x64-setup.exe) · 📦 [x64 便携版 · 7.8 MB](https://github.com/Chunyu33/light-c/releases/download/v2.18.1/LightC_portable_x64_v2.18.1.zip)
 
-<a id="dl-storytold-photocraft"></a>
-
-**🎨 photocraft** · `v0.19.0` · 2026-11-01 · [详情](apps/design/photocraft/README.md)
-
-🪟 [x64 安装版 · 102 MB](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-windows-x64.msi) · 🍎 [通用 dmg · 234 MB](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-macos-universal.dmg) · 🐧 [x64 AppImage · 113 MB](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-linux-x86_64.AppImage) · 📦 [x64 便携版 · 122 MB](https://github.com/storytold/photocraft/releases/download/v0.19.0/photocraft-0.19.0-windows-x64-portable.zip)
-
 <a id="dl-nova-video-player-aos-avp"></a>
 
 **🎬 aos-AVP** · `v6.6.3` · 2026-11-01 · [详情](apps/video/aos-avp/README.md)
 
 📲 [arm64 apk · 33.3 MB](https://github.com/nova-video-player/aos-AVP/releases/download/v6.6.3/org.courville.nova-2674070-6.6.3-20261101.1547-arm64-v8a-release.apk)
-
-<a id="dl-agalwood-motrix"></a>
-
-**📥 Motrix** · `v2.2.0` · 2026-11-01 · [详情](apps/download/motrix/README.md)
-
-🪟 [安装版 · 127 MB](https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-Setup-2.2.0.exe) · 🍎 [arm64 dmg · 131 MB](https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-arm64.dmg) · 🐧 [x64 AppImage · 125 MB](https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-x86_64.AppImage) · 📦 [zip · 160 MB](https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-win.zip)
 
 <a id="dl-jntmtmtm-eisland"></a>
 
@@ -85,12 +99,6 @@
 **⚙️ Win11Debloat** · `2026.10.30` · 2026-10-31 · [详情](apps/system/win11debloat/README.md)
 
 📦 [zip · 0.7 MB](https://github.com/Raphire/Win11Debloat/releases/download/2026.10.30/Win11Debloat.zip)
-
-<a id="dl-siweia-ndui"></a>
-
-**🎮 NDui** · `10.2.5` · 2026-10-30 · [详情](apps/game/ndui/README.md)
-
-📦 [zip · 0.9 MB](https://github.com/siweia/NDui/releases/download/10.2.5/NDui-10.2.5.zip)
 
 <a id="dl-devolutions-unigetui"></a>
 
@@ -118,28 +126,17 @@
 
 ---
 
-## 🕘 最近标星（14 天内新增 0 个，最近一次是 2026-10-09）
+## 🆕 最近标星（14 天内 · 1 个）
 
-| 仓库 | 简介 | 平台 | 功能 | ⭐ | 标星日期 |
-|:---|:---|:---:|:---:|---|---:|
-| [storytold/photocraft](https://github.com/storytold/photocraft) | 纯 Rust 从零写的开源修图工具｜PhotoCraft: An open-source, photo editor written by scratch in pu… | 🖥️ | 🎨 | 76k | 2026-10-09 |
-| [Au1rxx/free-vpn-subscriptions](https://github.com/Au1rxx/free-vpn-subscriptions) | Free Clash, sing-box, and V2Ray subscription feed with live node status and setup guides | ❓ | 🌐 📚 | 1.1k | 2026-09-20 |
-| [kejichangqing/QingMusic](https://github.com/kejichangqing/QingMusic) | 本地音乐播放器｜青听音乐-一款免费无广告的本地音乐播放器。 | 🪟 | 🎵 | 1.9k | 2026-09-15 |
-| [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper) | 一键替换游戏内的 DLSS 动态库 | 🪟 | 🎮 | 8k | 2026-09-15 |
-| [FirTech/ReWindsys](https://github.com/FirTech/ReWindsys) | Windows 精简系统镜像项目｜Rebirth of Windsys Project | 🪟 | ⚙️ | 21 | 2026-08-10 |
-| [June6699/dart_simple_live](https://github.com/June6699/dart_simple_live) | 简简单单的看直播（SimpleLive续） | 🖥️ | 🎬 | 1.4k | 2026-08-06 |
-| [Chunyu33/light-c](https://github.com/Chunyu33/light-c) | A free, minimalist, lightweight, and high-performance C-drive cleanup tool. | 🪟 | ⚙️ | 3.3k | 2026-08-06 |
-| [zfxsquare/paragon-clicker](https://github.com/zfxsquare/paragon-clicker) | Windows D2Core Diablo IV paragon auto clicker | 🪟 | 🎮 | 32 | 2026-08-05 |
-| [control0forver/NetWorkList-Clear](https://github.com/control0forver/NetWorkList-Clear) | 清理网络连接列表残留 | 🪟 | ⚙️ | 11 | 2026-07-24 |
-| [wkccd/CloudRunFilesBuilder](https://github.com/wkccd/CloudRunFilesBuilder) | 这是一个工作流。同步各位大佬项目里最新编译的ipk文件 生成适用于OpenWrt用的run自解压包 | 🛰️ | ⚡ | 642 | 2026-07-02 |
-| [massgravel/TSforge](https://github.com/massgravel/TSforge) | A collection of activation/evaluation extension methods for Windows Vista through 11. | 🪟 | ⚙️ 📚 | 2.6k | 2026-06-21 |
-| [JNTMTMTM/eIsland](https://github.com/JNTMTMTM/eIsland) | Windows 上的灵动岛悬浮窗｜eIsland - A sleek, Apple Dynamic Island inspired floating widget for… | 🪟 | ⚙️ | 325 | 2026-06-20 |
+| 仓库 | 简介 | 平台 | ⭐ | 标星日期 |
+|:---|:---|:---:|:---|---:|
+| [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. | 📲 📺 | 51k | 2026-11-03 |
 
 ## 📂 按功能
 
 | 分类 | 数量 | 代表仓库 |
 |:---|:---:|:---|
-| 🛡️ [广告过滤 / 隐私](docs/by-function.md#privacy) | 8 | [ddgksf2013](https://github.com/ddgksf2013/ddgksf2013)、[anti-AD](https://github.com/privacy-protection-tools/anti-AD)、[LiTiaotiao-Custom-Rules](https://github.com/wtwang1998/LiTiaotiao-Custom-Rules) |
+| 🛡️ [广告过滤 / 隐私](docs/by-function.md#privacy) | 9 | [cleanyourtv](https://github.com/Gathin23/cleanyourtv)、[ddgksf2013](https://github.com/ddgksf2013/ddgksf2013)、[anti-AD](https://github.com/privacy-protection-tools/anti-AD) |
 | 🌐 [网络代理 / 节点](docs/by-function.md#proxy) | 35 | [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)、[v2rayN](https://github.com/2dust/v2rayN)、[FlClash](https://github.com/chen08209/FlClash) |
 | 🎮 [游戏 / 辅助脚本](docs/by-function.md#game) | 17 | [SteamTools](https://github.com/BeyondDimension/SteamTools)、[Game-Cheats-Manager](https://github.com/dyang886/Game-Cheats-Manager)、[OptiScaler](https://github.com/optiscaler/OptiScaler) |
 | ⚡ [自动化 / 部署](docs/by-function.md#auto) | 8 | [iptv-api](https://github.com/Guovin/iptv-api)、[LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools)、[dailycheckin](https://github.com/Sitoi/dailycheckin) |
@@ -165,8 +162,8 @@
 | 🍎 [macOS](docs/by-platform.md#macos) | 11 | [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)、[v2rayN](https://github.com/2dust/v2rayN)、[marktext](https://github.com/marktext/marktext) |
 | 🐧 [Linux](docs/by-platform.md#linux) | 15 | [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)、[v2rayN](https://github.com/2dust/v2rayN)、[marktext](https://github.com/marktext/marktext) |
 | 📱 [iOS](docs/by-platform.md#ios) | 9 | [Kazumi](https://github.com/Predidit/Kazumi)、[SteamTools](https://github.com/BeyondDimension/SteamTools)、[gopeed](https://github.com/GopeedLab/gopeed) |
-| 📲 [Android](docs/by-platform.md#android) | 30 | [legado](https://github.com/gedoor/legado)、[gkd](https://github.com/gkd-kit/gkd)、[Kazumi](https://github.com/Predidit/Kazumi) |
-| 📺 [AndroidTV](docs/by-platform.md#androidtv) | 9 | [my-tv](https://github.com/lizongying/my-tv)、[TVAPP](https://github.com/youhunwl/TVAPP)、[iptv-api](https://github.com/Guovin/iptv-api) |
+| 📲 [Android](docs/by-platform.md#android) | 31 | [cleanyourtv](https://github.com/Gathin23/cleanyourtv)、[legado](https://github.com/gedoor/legado)、[gkd](https://github.com/gkd-kit/gkd) |
+| 📺 [AndroidTV](docs/by-platform.md#androidtv) | 10 | [cleanyourtv](https://github.com/Gathin23/cleanyourtv)、[my-tv](https://github.com/lizongying/my-tv)、[TVAPP](https://github.com/youhunwl/TVAPP) |
 | 🧩 [浏览器扩展](docs/by-platform.md#browser-ext) | 2 | [LinkSwift](https://github.com/hmjz100/LinkSwift)、[Adblock-Plus-Rule](https://github.com/xinggsf/Adblock-Plus-Rule) |
 | 🌐 [Web](docs/by-platform.md#web) | 16 | [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)、[gkd](https://github.com/gkd-kit/gkd)、[Kazumi](https://github.com/Predidit/Kazumi) |
 | ⌨️ [CLI](docs/by-platform.md#cli) | 9 | [Win11Debloat](https://github.com/Raphire/Win11Debloat)、[sing-box](https://github.com/SagerNet/sing-box)、[YesPlayMusic](https://github.com/qier222/YesPlayMusic) |
@@ -179,7 +176,7 @@
 | 语言 | 数量 | 分布 |
 |:---|:---:|:---|
 | TypeScript | 15 | `▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇` |
-| Python | 13 | `▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇` |
+| Python | 14 | `▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇` |
 | JavaScript | 12 | `▇▇▇▇▇▇▇▇▇▇▇▇▇▇` |
 | Kotlin | 12 | `▇▇▇▇▇▇▇▇▇▇▇▇▇▇` |
 | C# | 11 | `▇▇▇▇▇▇▇▇▇▇▇▇▇` |

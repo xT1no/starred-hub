@@ -33,7 +33,7 @@
     {
       "name": "AllRules.json",
       "size": 62777,
-      "downloads": 15051,
+      "downloads": 15054,
       "url": "https://github.com/wtwang1998/LiTiaotiao-Custom-Rules/releases/download/20231028/AllRules.json",
       "platform": "📦 其他"
     },
@@ -47,10 +47,10 @@
     {
       "name": "ExtendedRules.json",
       "size": 828,
-      "downloads": 1978,
+      "downloads": 1979,
       "url": "https://github.com/wtwang1998/LiTiaotiao-Custom-Rules/releases/download/20231028/ExtendedRules.json",
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

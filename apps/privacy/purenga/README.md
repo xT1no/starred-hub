@@ -62,10 +62,10 @@ NGA 去广告Xposed模块 支持 Lspatch
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
 | [nga_9.9.68-3.4.0-lspatched.apk](https://github.com/chr233/PureNGA/releases/download/3.4.0/nga_9.9.68-3.4.0-lspatched.apk) | 📲 Android | 79.1 MB | 2.9k |
-| [nga_9.9.64-3.4.0-lspatched.apk](https://github.com/chr233/PureNGA/releases/download/3.4.0/nga_9.9.64-3.4.0-lspatched.apk) | 📲 Android | 89.3 MB | 431 |
-| [nga_9.9.65-3.4.0-lspatched.apk](https://github.com/chr233/PureNGA/releases/download/3.4.0/nga_9.9.65-3.4.0-lspatched.apk) | 📲 Android | 75.6 MB | 87 |
+| [nga_9.9.64-3.4.0-lspatched.apk](https://github.com/chr233/PureNGA/releases/download/3.4.0/nga_9.9.64-3.4.0-lspatched.apk) | 📲 Android | 89.3 MB | 445 |
+| [nga_9.9.65-3.4.0-lspatched.apk](https://github.com/chr233/PureNGA/releases/download/3.4.0/nga_9.9.65-3.4.0-lspatched.apk) | 📲 Android | 75.6 MB | 89 |
 | [nga_9.9.67-3.4.0-lspatched.apk](https://github.com/chr233/PureNGA/releases/download/3.4.0/nga_9.9.67-3.4.0-lspatched.apk) | 📲 Android | 79.0 MB | 84 |
-| [nga_9.9.66-3.4.0-lspatched.apk](https://github.com/chr233/PureNGA/releases/download/3.4.0/nga_9.9.66-3.4.0-lspatched.apk) | 📲 Android | 75.8 MB | 62 |
+| [nga_9.9.66-3.4.0-lspatched.apk](https://github.com/chr233/PureNGA/releases/download/3.4.0/nga_9.9.66-3.4.0-lspatched.apk) | 📲 Android | 75.8 MB | 63 |
 
 ## 🔗 快速链接
 

@@ -13,8 +13,8 @@
     "服务端 / 云端"
   ],
   "language": "JavaScript",
-  "stars": 48825,
-  "forks": 38643,
+  "stars": 48862,
+  "forks": 38674,
   "license": "GPL-2.0",
   "archived": false,
   "homepage": "https://EDT-Pages.github.io/admin",
@@ -36,5 +36,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

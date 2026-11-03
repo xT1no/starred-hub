@@ -4,9 +4,15 @@
 
 [总览](../README.md) · [应用目录](../apps/README.md) · [按功能](by-function.md) · [按平台](by-platform.md) · **[时间线](timeline.md)** · [更新动态](updates.md) · [⬇️ 下载](downloads.md)
 
-共 **145** 个仓库 · 按标星时间倒序 · 同步于 2026-11-02 19:01
+共 **146** 个仓库 · 按标星时间倒序 · 同步于 2026-11-03 16:20
 
 ---
+
+## 2026-11 <sup>1</sup>
+
+| 仓库 | 简介 | 功能 | 平台 | 标星 |
+|:---|:---|:---:|:---:|---:|
+| [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. | 🛡️ 🤖 ⚙️ | 📲 📺 | 2026-11-03 |
 
 ## 2026-10 <sup>1</sup>
 

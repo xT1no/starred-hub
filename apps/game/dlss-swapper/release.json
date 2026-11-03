@@ -13,14 +13,14 @@
     "Windows"
   ],
   "language": "C#",
-  "stars": 8035,
+  "stars": 8045,
   "forks": 253,
   "license": "GPL-3.0",
   "archived": false,
   "homepage": "",
   "topics": [],
   "starred_at": "2026-09-15T08:09:20Z",
-  "pushed_at": "2026-10-18T05:35:15Z",
+  "pushed_at": "2026-11-03T02:28:35Z",
   "latest": {
     "kind": "release",
     "tag": "v1.2.7.0",
@@ -33,17 +33,17 @@
     {
       "name": "DLSS.Swapper-1.2.7.0-installer.exe",
       "size": 115159320,
-      "downloads": 64255,
+      "downloads": 66607,
       "url": "https://github.com/beeradmoore/dlss-swapper/releases/download/v1.2.7.0/DLSS.Swapper-1.2.7.0-installer.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "DLSS.Swapper-1.2.7.0-portable.zip",
       "size": 120248259,
-      "downloads": 31822,
+      "downloads": 33014,
       "url": "https://github.com/beeradmoore/dlss-swapper/releases/download/v1.2.7.0/DLSS.Swapper-1.2.7.0-portable.zip",
       "platform": "🌐 Web"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

@@ -14,7 +14,7 @@
     "Android"
   ],
   "language": "C#",
-  "stars": 896,
+  "stars": 897,
   "forks": 43,
   "license": "GPL-3.0",
   "archived": false,
@@ -48,10 +48,10 @@
     {
       "name": "de.shortdev.nearby_sharing_windows.42.apk",
       "size": 85121651,
-      "downloads": 1114,
+      "downloads": 1117,
       "url": "https://github.com/nearby-sharing/android/releases/download/v1.11.1/de.shortdev.nearby_sharing_windows.42.apk",
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

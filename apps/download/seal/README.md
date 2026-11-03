@@ -49,8 +49,8 @@
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [Seal-1.13.1-arm64-v8a-release.apk](https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-arm64-v8a-release.apk) | 📲 Android | 41.1 MB | 2483k |
-| [Seal-1.13.1-universal-release.apk](https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-universal-release.apk) | 📲 Android | 138.3 MB | 323k |
+| [Seal-1.13.1-arm64-v8a-release.apk](https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-arm64-v8a-release.apk) | 📲 Android | 41.1 MB | 2486k |
+| [Seal-1.13.1-universal-release.apk](https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-universal-release.apk) | 📲 Android | 138.3 MB | 324k |
 | [Seal-1.13.1-armeabi-v7a-release.apk](https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-armeabi-v7a-release.apk) | 📲 Android | 38.7 MB | 122k |
 | [Seal-1.13.1-x86_64-release.apk](https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-x86_64-release.apk) | 📲 Android | 43.1 MB | 51k |
 | [Seal-1.13.1-x86-release.apk](https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-x86-release.apk) | 📲 Android | 42.3 MB | 31k |

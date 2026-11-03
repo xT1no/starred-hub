@@ -13,8 +13,8 @@
     "路由器 / 固件"
   ],
   "language": "Shell",
-  "stars": 2715,
-  "forks": 9456,
+  "stars": 2718,
+  "forks": 9466,
   "license": "GPL-3.0",
   "archived": false,
   "homepage": "https://t.me/imm_imagebuilder",
@@ -42,10 +42,10 @@
     {
       "name": "immortalwrt-25.12.2-x86-64-generic-squashfs-combined-efi.img.gz",
       "size": 24694278,
-      "downloads": 34,
+      "downloads": 36,
       "url": "https://github.com/wukongdaily/ImmortalWrt-ImageBuilder/releases/download/Autobuild-x86-64/immortalwrt-25.12.2-x86-64-generic-squashfs-combined-efi.img.gz",
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

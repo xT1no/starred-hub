@@ -55,14 +55,14 @@
     {
       "name": "tft-hextech-helper-1.6.1-setup.exe",
       "size": 168966175,
-      "downloads": 396,
+      "downloads": 400,
       "url": "https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.6.1/tft-hextech-helper-1.6.1-setup.exe",
       "platform": "🪟 Windows"
     },
     {
       "name": "TFT-Hextech-Helper-1.6.1-win.zip",
       "size": 206254349,
-      "downloads": 413,
+      "downloads": 416,
       "url": "https://github.com/WJZ-P/TFT-Hextech-Helper/releases/download/v1.6.1/TFT-Hextech-Helper-1.6.1-win.zip",
       "platform": "🪟 Windows"
     },
@@ -88,5 +88,5 @@
       "platform": "🐧 Linux"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

@@ -33,7 +33,7 @@
     {
       "name": "EdgeCopilotFixTool-darwin-amd64",
       "size": 3350752,
-      "downloads": 7,
+      "downloads": 8,
       "url": "https://github.com/emmm1245/EdgeCopilotFix/releases/download/1.2/EdgeCopilotFixTool-darwin-amd64",
       "platform": "🍎 macOS"
     },
@@ -54,10 +54,10 @@
     {
       "name": "EdgeCopilotFixTool-windows-amd64.exe",
       "size": 3472896,
-      "downloads": 64,
+      "downloads": 67,
       "url": "https://github.com/emmm1245/EdgeCopilotFix/releases/download/1.2/EdgeCopilotFixTool-windows-amd64.exe",
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

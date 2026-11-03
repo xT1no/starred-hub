@@ -46,7 +46,7 @@
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [BBLL1.5.2.apk](https://github.com/xiaye13579/BBLL/releases/download/v1.5.2/BBLL1.5.2.apk) | 📲 Android | 6.6 MB | 114k |
+| [BBLL1.5.2.apk](https://github.com/xiaye13579/BBLL/releases/download/v1.5.2/BBLL1.5.2.apk) | 📲 Android | 6.6 MB | 115k |
 
 ## 🔗 快速链接
 

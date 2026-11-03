@@ -12,7 +12,7 @@
 | 分类 | 📥 [下载 / 网盘](../README.md) |
 | 平台 | 🧩 |
 | 语言 | JavaScript |
-| Star | 37k · Fork 2.7k |
+| Star | 38k · Fork 2.7k |
 | License | AGPL-3.0 |
 | 最新版本 | `v1.1.3` |
 | 最近更新 | 2026-02-18（8 个月前） |
@@ -55,7 +55,7 @@
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [v1.1.3.user.js](https://github.com/hmjz100/LinkSwift/releases/download/v1.1.3/v1.1.3.user.js) | 📦 其他 | 571 KB | 344k |
+| [v1.1.3.user.js](https://github.com/hmjz100/LinkSwift/releases/download/v1.1.3/v1.1.3.user.js) | 📦 其他 | 571 KB | 347k |
 
 ## 🔗 快速链接
 

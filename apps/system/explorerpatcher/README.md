@@ -23,12 +23,12 @@ This project aims to enhance the working environment on Windows
 | Star | 34k · Fork 1.4k |
 | License | GPL-2.0 |
 | 最新版本 | `26100.9711.71.1` |
-| 最近更新 | 2026-10-29（4 天前） |
+| 最近更新 | 2026-10-29（5 天前） |
 | 标星日期 | 2023-12-06 |
 
 ## 📦 最新版本
 
-**`26100.9711.71.1`**　发布于 2026-10-29（4 天前）
+**`26100.9711.71.1`**　发布于 2026-10-29（5 天前）
 
 [查看 Release 页面](https://github.com/valinet/ExplorerPatcher/releases/tag/26100.9711.71.1)
 
@@ -59,8 +59,8 @@ This project aims to enhance the working environment on Windows
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [ep_setup.exe](https://github.com/valinet/ExplorerPatcher/releases/download/26100.9711.71.1/ep_setup.exe) | 🪟 Windows | 11.8 MB | 179k |
-| [ep_setup_arm64.exe](https://github.com/valinet/ExplorerPatcher/releases/download/26100.9711.71.1/ep_setup_arm64.exe) | 🪟 Windows | 11.5 MB | 2.7k |
+| [ep_setup.exe](https://github.com/valinet/ExplorerPatcher/releases/download/26100.9711.71.1/ep_setup.exe) | 🪟 Windows | 11.8 MB | 263k |
+| [ep_setup_arm64.exe](https://github.com/valinet/ExplorerPatcher/releases/download/26100.9711.71.1/ep_setup_arm64.exe) | 🪟 Windows | 11.5 MB | 3.6k |
 
 ## 🔗 快速链接
 

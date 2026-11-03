@@ -2,7 +2,7 @@
 
 # 🔄 应用更新动态
 
-跟踪 **112** 个有版本号的应用，按最新版本发布时间倒序 · 同步于 2026-11-02 19:01
+跟踪 **113** 个有版本号的应用，按最新版本发布时间倒序 · 同步于 2026-11-03 16:20
 
 [← 星标总览](../README.md) · [应用目录](../apps/README.md) · [按功能](by-function.md) · [按平台](by-platform.md)
 
@@ -12,12 +12,15 @@
 
 | 应用 | 版本 | 发布 | 分类 | 简介 |
 |:---|:---|:---:|:---:|:---|
+| [Motrix](../apps/download/motrix/README.md) | `v2.2.1` | 2026-11-03 | 📥 | A full-featured download manager. |
+| [photocraft](../apps/design/photocraft/README.md) | `v0.20.1` | 2026-11-03 | 🎨 | PhotoCraft: An open-source, photo editor written by scrat… |
+| [NDui](../apps/game/ndui/README.md) | `10.2.6` | 2026-11-02 | 🎮 | NDui for World of Warcraft |
+| [Ehviewer_CN_SXJ](../apps/office/ehviewer_cn_sxj/README.md) | `2.0.2.7` | 2026-11-02 | 📄 | ehviewer，用爱发电，快乐前行 |
 | [clash-verge-rev](../apps/proxy/clash-verge-rev/README.md) | `v2.5.9` | 2026-11-02 | 🌐 | A modern GUI client based on Tauri, designed to run in Wi… |
 | [light-c](../apps/system/light-c/README.md) | `v2.18.1` | 2026-11-02 | ⚙️ | A free, minimalist, lightweight, and high-performance C-d… |
 | [CloudRunFilesBuilder](../apps/auto/cloudrunfilesbuilder/README.md) | `2026-11-02` | 2026-11-02 | ⚡ | 这是一个工作流。同步各位大佬项目里最新编译的ipk文件 生成适用于OpenWrt用的run自解压包 |
-| [photocraft](../apps/design/photocraft/README.md) | `v0.19.0` | 2026-11-01 | 🎨 | PhotoCraft: An open-source, photo editor written by scrat… |
 | [aos-AVP](../apps/video/aos-avp/README.md) | `v6.6.3` | 2026-11-01 | 🎬 | NOVA opeN sOurce Video plAyer: main repository to build t… |
-| [Motrix](../apps/download/motrix/README.md) | `v2.2.0` | 2026-11-01 | 📥 | A full-featured download manager. |
+| [cleanyourtv](../apps/privacy/cleanyourtv/README.md) | `v3.3.0` | 2026-11-01 | 🛡️ | Debloat any Android or Google TV over Wi-Fi and get an Ap… |
 
 ## 2026-10
 
@@ -26,7 +29,6 @@
 | [GKD_subscription](../apps/mod/gkd_subscription/README.md) | `v623` | 2026-10-31 | 🧩 | 用于安卓 GKD 的第三方订阅规则 (👻Fork版) |
 | [eIsland](../apps/system/eisland/README.md) | `v27.0.1` | 2026-10-31 | ⚙️ | eIsland - A sleek, Apple Dynamic Island inspired floating… |
 | [Win11Debloat](../apps/system/win11debloat/README.md) | `2026.10.30` | 2026-10-31 | ⚙️ | A simple, lightweight PowerShell script that allows you t… |
-| [NDui](../apps/game/ndui/README.md) | `10.2.5` | 2026-10-30 | 🎮 | NDui for World of Warcraft |
 | [UniGetUI](../apps/dev/unigetui/README.md) | `v2026.3.3` | 2026-10-29 | 🛠️ | UniGetUI: The Graphical Interface for your package manage… |
 | [ok-wuthering-waves](../apps/game/ok-wuthering-waves/README.md) | `v3.7.13` | 2026-10-29 | 🎮 | 鸣潮 后台自动战斗 自动刷声骸 一键日常 Automation for Wuthering Waves |
 | [ExplorerPatcher](../apps/system/explorerpatcher/README.md) | `26100.9711.71.1` | 2026-10-29 | ⚙️ | This project aims to enhance the working environment on W… |
@@ -37,7 +39,6 @@
 | [sing-box](../apps/proxy/sing-box/README.md) | `v1.14.4` | 2026-10-24 | 🌐 | The universal proxy platform |
 | [Kazumi](../apps/video/kazumi/README.md) | `2.4.2` | 2026-10-23 | 🎬 | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 |
 | [BT](../apps/video/bt/README.md) | `v0.9.41` | 2026-10-21 | 🎬 | bilibili TV client |
-| [Ehviewer_CN_SXJ](../apps/office/ehviewer_cn_sxj/README.md) | `2.0.2.6` | 2026-10-21 | 📄 | ehviewer，用爱发电，快乐前行 |
 | [marktext](../apps/office/marktext/README.md) | `v0.23.0` | 2026-10-21 | 📄 | 📝A simple and elegant markdown editor, available for Linu… |
 | [dart_simple_live](../apps/video/june6699-dart_simple_live/README.md) | `v1.13.2` | 2026-10-20 | 🎬 | 简简单单的看直播（SimpleLive续） |
 | [Office-Tool](../apps/office/office-tool/README.md) | `v11.8.50.0` | 2026-10-18 | 📄 | Office Tool Plus localization projects. |

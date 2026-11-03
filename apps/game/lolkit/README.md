@@ -51,7 +51,7 @@ One gift for all LOL gamers， League of Legends工具
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [LOLkit3.4.9.zip](https://github.com/ping11700/LOLkit/releases/download/version3.4.9/LOLkit3.4.9.zip) | 🌐 Web | 22.2 MB | 904 |
+| [LOLkit3.4.9.zip](https://github.com/ping11700/LOLkit/releases/download/version3.4.9/LOLkit3.4.9.zip) | 🌐 Web | 22.2 MB | 906 |
 
 ## 🔗 快速链接
 

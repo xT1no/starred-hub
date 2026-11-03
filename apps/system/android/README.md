@@ -20,7 +20,7 @@ Share files between android and PC via the Windows 10 / 11 built-in nearby-shari
 | 分类 | ⚙️ [系统增强 / 优化](../README.md) |
 | 平台 | 🪟 📲 |
 | 语言 | C# |
-| Star | 896 · Fork 43 |
+| Star | 897 · Fork 43 |
 | License | GPL-3.0 |
 | 最新版本 | `v1.11.1` |
 | 最近更新 | 2026-05-21（5 个月前） |

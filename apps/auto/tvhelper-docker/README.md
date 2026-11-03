@@ -54,7 +54,7 @@
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [tvhelper-1.1.5.fpk](https://github.com/wukongdaily/tvhelper-docker/releases/download/fpk/tvhelper-1.1.5.fpk) | 📦 其他 | 136 KB | 639 |
+| [tvhelper-1.1.5.fpk](https://github.com/wukongdaily/tvhelper-docker/releases/download/fpk/tvhelper-1.1.5.fpk) | 📦 其他 | 136 KB | 641 |
 
 ## 🔗 快速链接
 

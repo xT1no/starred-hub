@@ -13,14 +13,14 @@
     "路由器 / 固件"
   ],
   "language": "Shell",
-  "stars": 13647,
-  "forks": 1881,
+  "stars": 13653,
+  "forks": 1882,
   "license": "GPL-3.0",
   "archived": false,
   "homepage": "",
   "topics": [],
   "starred_at": "2023-12-22T05:13:37Z",
-  "pushed_at": "2026-11-01T18:21:06Z",
+  "pushed_at": "2026-11-02T18:14:40Z",
   "latest": {
     "kind": "release",
     "tag": "1.9.4",
@@ -33,10 +33,10 @@
     {
       "name": "ShellCrash.tar.gz",
       "size": 123627,
-      "downloads": 3891,
+      "downloads": 3914,
       "url": "https://github.com/juewuy/ShellCrash/releases/download/1.9.4/ShellCrash.tar.gz",
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

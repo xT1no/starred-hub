@@ -21,12 +21,12 @@ A simple, lightweight PowerShell script that allows you to remove pre-installed 
 | Star | 62k · Fork 2.7k |
 | License | MIT |
 | 最新版本 | `2026.10.30` |
-| 最近更新 | 2026-10-31（2 天前） |
+| 最近更新 | 2026-10-31（3 天前） |
 | 标星日期 | 2025-12-18 |
 
 ## 📦 最新版本
 
-**`2026.10.30`** · Release 2026.10.30　发布于 2026-10-31（2 天前）
+**`2026.10.30`** · Release 2026.10.30　发布于 2026-10-31（3 天前）
 
 [查看 Release 页面](https://github.com/Raphire/Win11Debloat/releases/tag/2026.10.30)
 
@@ -57,9 +57,9 @@ Beyond localization, this update brings several new features, expanded app remov
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [Win11Debloat.zip](https://github.com/Raphire/Win11Debloat/releases/download/2026.10.30/Win11Debloat.zip) | 🌐 Web | 741 KB | 23k |
-| [SHA256SUMS](https://github.com/Raphire/Win11Debloat/releases/download/2026.10.30/SHA256SUMS) | 🔐 校验文件 | 83 B | 18k |
-| [Get.ps1](https://github.com/Raphire/Win11Debloat/releases/download/2026.10.30/Get.ps1) | 📦 其他 | 12 KB | 21k |
+| [Win11Debloat.zip](https://github.com/Raphire/Win11Debloat/releases/download/2026.10.30/Win11Debloat.zip) | 🌐 Web | 741 KB | 32k |
+| [SHA256SUMS](https://github.com/Raphire/Win11Debloat/releases/download/2026.10.30/SHA256SUMS) | 🔐 校验文件 | 83 B | 26k |
+| [Get.ps1](https://github.com/Raphire/Win11Debloat/releases/download/2026.10.30/Get.ps1) | 📦 其他 | 12 KB | 29k |
 
 ## 🔗 快速链接
 

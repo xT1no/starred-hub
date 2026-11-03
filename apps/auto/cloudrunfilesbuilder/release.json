@@ -13,7 +13,7 @@
     "路由器 / 固件"
   ],
   "language": "Shell",
-  "stars": 642,
+  "stars": 644,
   "forks": 167,
   "license": "MIT",
   "archived": false,
@@ -37,7 +37,7 @@
     {
       "name": "24_quickfile_1.0.16_aarch64_cortex-a53.run",
       "size": 3958310,
-      "downloads": 8,
+      "downloads": 9,
       "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/24_quickfile_1.0.16_aarch64_cortex-a53.run",
       "platform": "📦 其他"
     },
@@ -51,14 +51,14 @@
     {
       "name": "24_quickfile_1.0.16_x86_64.run",
       "size": 4384703,
-      "downloads": 10,
+      "downloads": 12,
       "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/24_quickfile_1.0.16_x86_64.run",
       "platform": "⌨️ CLI"
     },
     {
       "name": "25-argon-2.4.7_aarch64_cortex-a53.run",
       "size": 417243,
-      "downloads": 7,
+      "downloads": 8,
       "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-argon-2.4.7_aarch64_cortex-a53.run",
       "platform": "📦 其他"
     },
@@ -72,161 +72,161 @@
     {
       "name": "25-argon-2.4.7_x86_64.run",
       "size": 417250,
-      "downloads": 9,
+      "downloads": 11,
       "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-argon-2.4.7_x86_64.run",
       "platform": "⌨️ CLI"
     },
     {
       "name": "25-luci-app-store-0.2.1-r1_all.run",
       "size": 222455,
-      "downloads": 14,
+      "downloads": 18,
       "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-luci-app-store-0.2.1-r1_all.run",
       "platform": "📦 其他"
     },
     {
       "name": "25-mosdns_v5.3.4-r15_aarch64_cortex-a53.run",
       "size": 9877355,
-      "downloads": 8,
+      "downloads": 9,
       "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-mosdns_v5.3.4-r15_aarch64_cortex-a53.run",
       "platform": "📦 其他"
     },
     {
       "name": "25-mosdns_v5.3.4-r15_aarch64_generic.run",
       "size": 9877670,
-      "downloads": 7,
+      "downloads": 8,
       "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-mosdns_v5.3.4-r15_aarch64_generic.run",
       "platform": "📦 其他"
     },
     {
       "name": "25-mosdns_v5.3.4-r15_x86_64.run",
       "size": 10561045,
-      "downloads": 10,
+      "downloads": 11,
       "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-mosdns_v5.3.4-r15_x86_64.run",
       "platform": "⌨️ CLI"
     },
     {
       "name": "25-openclash-aarch64_cortex-a53-v0.48.002.run",
       "size": 24083956,
-      "downloads": 16,
+      "downloads": 30,
       "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-openclash-aarch64_cortex-a53-v0.48.002.run",
       "platform": "📦 其他"
     },
     {
       "name": "25-openclash-x86-64-v0.48.002.run",
       "size": 26728829,
-      "downloads": 10,
+      "downloads": 17,
       "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-openclash-x86-64-v0.48.002.run",
       "platform": "📦 其他"
     },
     {
       "name": "25-openwrt-daede-2026.11.02-aarch64_cortex-a53.run",
       "size": 35890165,
-      "downloads": 6,
+      "downloads": 9,
       "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-openwrt-daede-2026.11.02-aarch64_cortex-a53.run",
       "platform": "📦 其他"
     },
     {
       "name": "25-openwrt-daede-2026.11.02-aarch64_generic.run",
       "size": 35890401,
-      "downloads": 8,
+      "downloads": 10,
       "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-openwrt-daede-2026.11.02-aarch64_generic.run",
       "platform": "📦 其他"
     },
     {
       "name": "25-openwrt-daede-2026.11.02-x86_64.run",
       "size": 38882195,
-      "downloads": 8,
+      "downloads": 11,
       "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-openwrt-daede-2026.11.02-x86_64.run",
       "platform": "⌨️ CLI"
     },
     {
       "name": "25-passwall2_aarch64_a53_26.10.29-1.run",
       "size": 54095924,
-      "downloads": 36,
+      "downloads": 47,
       "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-passwall2_aarch64_a53_26.10.29-1.run",
       "platform": "📦 其他"
     },
     {
       "name": "25-passwall2_aarch64_generic_26.10.29-1.run",
       "size": 54114557,
-      "downloads": 9,
+      "downloads": 10,
       "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-passwall2_aarch64_generic_26.10.29-1.run",
       "platform": "📦 其他"
     },
     {
       "name": "25-passwall2_x86_64_26.10.29-1.run",
       "size": 58835903,
-      "downloads": 16,
+      "downloads": 22,
       "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-passwall2_x86_64_26.10.29-1.run",
       "platform": "⌨️ CLI"
     },
     {
       "name": "25-sing-box_v1.14.4_aarch64_cortex-a53.run",
       "size": 29470866,
-      "downloads": 7,
+      "downloads": 8,
       "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-sing-box_v1.14.4_aarch64_cortex-a53.run",
       "platform": "📦 其他"
     },
     {
       "name": "25-sing-box_v1.14.4_aarch64_generic.run",
       "size": 29470605,
-      "downloads": 6,
+      "downloads": 7,
       "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-sing-box_v1.14.4_aarch64_generic.run",
       "platform": "📦 其他"
     },
     {
       "name": "25-sing-box_v1.14.4_x86_64.run",
       "size": 32179471,
-      "downloads": 8,
+      "downloads": 11,
       "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-sing-box_v1.14.4_x86_64.run",
       "platform": "⌨️ CLI"
     },
     {
       "name": "25-SSRP-mihomo-aarch64_cortex-a53-198-r2.run",
       "size": 21814153,
-      "downloads": 7,
+      "downloads": 12,
       "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-SSRP-mihomo-aarch64_cortex-a53-198-r2.run",
       "platform": "📦 其他"
     },
     {
       "name": "25-SSRP-mihomo-aarch64_generic-198-r2.run",
       "size": 21814300,
-      "downloads": 6,
+      "downloads": 7,
       "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-SSRP-mihomo-aarch64_generic-198-r2.run",
       "platform": "📦 其他"
     },
     {
       "name": "25-SSRP-mihomo-x86_64-198-r2.run",
       "size": 23904148,
-      "downloads": 5,
+      "downloads": 7,
       "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-SSRP-mihomo-x86_64-198-r2.run",
       "platform": "⌨️ CLI"
     },
     {
       "name": "25_PassWall_26.10.29_aarch64_a53.run",
       "size": 30146994,
-      "downloads": 11,
+      "downloads": 18,
       "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25_PassWall_26.10.29_aarch64_a53.run",
       "platform": "📦 其他"
     },
     {
       "name": "25_PassWall_26.10.29_aarch64_generic.run",
       "size": 30146988,
-      "downloads": 8,
+      "downloads": 9,
       "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25_PassWall_26.10.29_aarch64_generic.run",
       "platform": "📦 其他"
     },
     {
       "name": "25_PassWall_26.10.29_x86_64.run",
       "size": 32698990,
-      "downloads": 12,
+      "downloads": 15,
       "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25_PassWall_26.10.29_x86_64.run",
       "platform": "⌨️ CLI"
     },
     {
       "name": "25_quickfile_1.0.16_aarch64_a53.run",
       "size": 3957762,
-      "downloads": 6,
+      "downloads": 7,
       "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25_quickfile_1.0.16_aarch64_a53.run",
       "platform": "📦 其他"
     },
@@ -240,7 +240,7 @@
     {
       "name": "25_quickfile_1.0.16_x86_64.run",
       "size": 4384153,
-      "downloads": 6,
+      "downloads": 8,
       "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25_quickfile_1.0.16_x86_64.run",
       "platform": "⌨️ CLI"
     },
@@ -261,7 +261,7 @@
     {
       "name": "AdGuardHome_v0.107.79_x86_64.run",
       "size": 12405673,
-      "downloads": 8,
+      "downloads": 10,
       "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/AdGuardHome_v0.107.79_x86_64.run",
       "platform": "⌨️ CLI"
     },
@@ -282,7 +282,7 @@
     {
       "name": "clashoo_2026.10.25_aarch64_a53.run",
       "size": 22239925,
-      "downloads": 5,
+      "downloads": 7,
       "url": "https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/clashoo_2026.10.25_aarch64_a53.run",
       "platform": "📦 其他"
     },
@@ -315,5 +315,5 @@
       "platform": "⌨️ CLI"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

@@ -12,16 +12,16 @@
 | 分类 | ⚡ [自动化 / 部署](../README.md) |
 | 平台 | 🛰️ |
 | 语言 | Shell |
-| Star | 642 · Fork 167 |
+| Star | 644 · Fork 167 |
 | License | MIT |
 | 最新版本 | `2026-11-02` |
-| 最近更新 | 2026-11-02（今天） |
+| 最近更新 | 2026-11-02（昨天） |
 | 标星日期 | 2026-07-02 |
 | 官网 | <https://github.com/wukongdaily/RunFilesBuilder> |
 
 ## 📦 最新版本
 
-**`2026-11-02`** · Daily Build - 2026-11-02　发布于 2026-11-02（今天）
+**`2026-11-02`** · Daily Build - 2026-11-02　发布于 2026-11-02（昨天）
 
 [查看 Release 页面](https://github.com/wkccd/CloudRunFilesBuilder/releases/tag/2026-11-02)
 
@@ -34,6 +34,9 @@
    <img src="https://img.shields.io/badge/可套用国内加速站下载-FC7C0D?logo=github&logoColor=fff&labelColor=000&style=for-the-badge"/>
  </a>
 </p>
+
+**25开头的run安装包 仅适用于25.12以上系统。其包管理器为apk。
+25.12 以下系统 请下载非25开头的文件。**
 ```
 
 </details>
@@ -46,30 +49,30 @@
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [25-passwall2_x86_64_26.10.29-1.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-passwall2_x86_64_26.10.29-1.run) | ⌨️ CLI | 56.1 MB | 16 |
-| [25_PassWall_26.10.29_x86_64.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25_PassWall_26.10.29_x86_64.run) | ⌨️ CLI | 31.2 MB | 12 |
-| [24_quickfile_1.0.16_x86_64.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/24_quickfile_1.0.16_x86_64.run) | ⌨️ CLI | 4.2 MB | 10 |
-| [25-mosdns_v5.3.4-r15_x86_64.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-mosdns_v5.3.4-r15_x86_64.run) | ⌨️ CLI | 10.1 MB | 10 |
-| [25-argon-2.4.7_x86_64.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-argon-2.4.7_x86_64.run) | ⌨️ CLI | 407 KB | 9 |
-| [25-openwrt-daede-2026.11.02-x86_64.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-openwrt-daede-2026.11.02-x86_64.run) | ⌨️ CLI | 37.1 MB | 8 |
-| [25-sing-box_v1.14.4_x86_64.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-sing-box_v1.14.4_x86_64.run) | ⌨️ CLI | 30.7 MB | 8 |
-| [AdGuardHome_v0.107.79_x86_64.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/AdGuardHome_v0.107.79_x86_64.run) | ⌨️ CLI | 11.8 MB | 8 |
-| [25_quickfile_1.0.16_x86_64.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25_quickfile_1.0.16_x86_64.run) | ⌨️ CLI | 4.2 MB | 6 |
-| [25-SSRP-mihomo-x86_64-198-r2.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-SSRP-mihomo-x86_64-198-r2.run) | ⌨️ CLI | 22.8 MB | 5 |
+| [25-passwall2_x86_64_26.10.29-1.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-passwall2_x86_64_26.10.29-1.run) | ⌨️ CLI | 56.1 MB | 22 |
+| [25_PassWall_26.10.29_x86_64.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25_PassWall_26.10.29_x86_64.run) | ⌨️ CLI | 31.2 MB | 15 |
+| [24_quickfile_1.0.16_x86_64.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/24_quickfile_1.0.16_x86_64.run) | ⌨️ CLI | 4.2 MB | 12 |
+| [25-argon-2.4.7_x86_64.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-argon-2.4.7_x86_64.run) | ⌨️ CLI | 407 KB | 11 |
+| [25-mosdns_v5.3.4-r15_x86_64.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-mosdns_v5.3.4-r15_x86_64.run) | ⌨️ CLI | 10.1 MB | 11 |
+| [25-openwrt-daede-2026.11.02-x86_64.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-openwrt-daede-2026.11.02-x86_64.run) | ⌨️ CLI | 37.1 MB | 11 |
+| [25-sing-box_v1.14.4_x86_64.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-sing-box_v1.14.4_x86_64.run) | ⌨️ CLI | 30.7 MB | 11 |
+| [AdGuardHome_v0.107.79_x86_64.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/AdGuardHome_v0.107.79_x86_64.run) | ⌨️ CLI | 11.8 MB | 10 |
+| [25_quickfile_1.0.16_x86_64.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25_quickfile_1.0.16_x86_64.run) | ⌨️ CLI | 4.2 MB | 8 |
+| [25-SSRP-mihomo-x86_64-198-r2.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-SSRP-mihomo-x86_64-198-r2.run) | ⌨️ CLI | 22.8 MB | 7 |
 | [argon-2.4.3-r20250722_x86_64.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/argon-2.4.3-r20250722_x86_64.run) | ⌨️ CLI | 415 KB | 5 |
 | [clashoo_2026.10.25_x86_64.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/clashoo_2026.10.25_x86_64.run) | ⌨️ CLI | 22.8 MB | 5 |
 | [dufs-0.46.0-r1_x86_64.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/dufs-0.46.0-r1_x86_64.run) | ⌨️ CLI | 2.5 MB | 5 |
-| [25-passwall2_aarch64_a53_26.10.29-1.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-passwall2_aarch64_a53_26.10.29-1.run) | 📦 其他 | 51.6 MB | 36 |
-| [25-openclash-aarch64_cortex-a53-v0.48.002.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-openclash-aarch64_cortex-a53-v0.48.002.run) | 📦 其他 | 23.0 MB | 16 |
-| [25-luci-app-store-0.2.1-r1_all.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-luci-app-store-0.2.1-r1_all.run) | 📦 其他 | 217 KB | 14 |
-| [25_PassWall_26.10.29_aarch64_a53.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25_PassWall_26.10.29_aarch64_a53.run) | 📦 其他 | 28.8 MB | 11 |
-| [25-openclash-x86-64-v0.48.002.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-openclash-x86-64-v0.48.002.run) | 📦 其他 | 25.5 MB | 10 |
-| [25-passwall2_aarch64_generic_26.10.29-1.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-passwall2_aarch64_generic_26.10.29-1.run) | 📦 其他 | 51.6 MB | 9 |
-| [AdGuardHome_v0.107.79_aarch64.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/AdGuardHome_v0.107.79_aarch64.run) | 📦 其他 | 10.8 MB | 9 |
-| [24_quickfile_1.0.16_aarch64_cortex-a53.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/24_quickfile_1.0.16_aarch64_cortex-a53.run) | 📦 其他 | 3.8 MB | 8 |
-| [25-mosdns_v5.3.4-r15_aarch64_cortex-a53.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-mosdns_v5.3.4-r15_aarch64_cortex-a53.run) | 📦 其他 | 9.4 MB | 8 |
-| [25-openwrt-daede-2026.11.02-aarch64_generic.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-openwrt-daede-2026.11.02-aarch64_generic.run) | 📦 其他 | 34.2 MB | 8 |
-| [25_PassWall_26.10.29_aarch64_generic.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25_PassWall_26.10.29_aarch64_generic.run) | 📦 其他 | 28.8 MB | 8 |
+| [25-passwall2_aarch64_a53_26.10.29-1.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-passwall2_aarch64_a53_26.10.29-1.run) | 📦 其他 | 51.6 MB | 47 |
+| [25-openclash-aarch64_cortex-a53-v0.48.002.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-openclash-aarch64_cortex-a53-v0.48.002.run) | 📦 其他 | 23.0 MB | 30 |
+| [25-luci-app-store-0.2.1-r1_all.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-luci-app-store-0.2.1-r1_all.run) | 📦 其他 | 217 KB | 18 |
+| [25_PassWall_26.10.29_aarch64_a53.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25_PassWall_26.10.29_aarch64_a53.run) | 📦 其他 | 28.8 MB | 18 |
+| [25-openclash-x86-64-v0.48.002.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-openclash-x86-64-v0.48.002.run) | 📦 其他 | 25.5 MB | 17 |
+| [25-SSRP-mihomo-aarch64_cortex-a53-198-r2.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-SSRP-mihomo-aarch64_cortex-a53-198-r2.run) | 📦 其他 | 20.8 MB | 12 |
+| [25-openwrt-daede-2026.11.02-aarch64_generic.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-openwrt-daede-2026.11.02-aarch64_generic.run) | 📦 其他 | 34.2 MB | 10 |
+| [25-passwall2_aarch64_generic_26.10.29-1.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-passwall2_aarch64_generic_26.10.29-1.run) | 📦 其他 | 51.6 MB | 10 |
+| [24_quickfile_1.0.16_aarch64_cortex-a53.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/24_quickfile_1.0.16_aarch64_cortex-a53.run) | 📦 其他 | 3.8 MB | 9 |
+| [25-mosdns_v5.3.4-r15_aarch64_cortex-a53.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-mosdns_v5.3.4-r15_aarch64_cortex-a53.run) | 📦 其他 | 9.4 MB | 9 |
+| [25-openwrt-daede-2026.11.02-aarch64_cortex-a53.run](https://github.com/wkccd/CloudRunFilesBuilder/releases/download/2026-11-02/25-openwrt-daede-2026.11.02-aarch64_cortex-a53.run) | 📦 其他 | 34.2 MB | 9 |
 
 还有 16 个文件，见 [Release 页面](https://github.com/wkccd/CloudRunFilesBuilder/releases/tag/2026-11-02)。
 

@@ -18,7 +18,7 @@
     "跨平台桌面"
   ],
   "language": "C#",
-  "stars": 27385,
+  "stars": 27392,
   "forks": 1746,
   "license": "GPL-3.0",
   "archived": false,
@@ -43,7 +43,7 @@
     "xaml"
   ],
   "starred_at": "2023-07-06T02:28:43Z",
-  "pushed_at": "2026-11-01T13:30:55Z",
+  "pushed_at": "2026-11-02T16:13:53Z",
   "latest": {
     "kind": "release",
     "tag": "3.1.0",
@@ -56,31 +56,31 @@
     {
       "name": "Steam++_v3.1.0_linux_x64.tgz",
       "size": 85626421,
-      "downloads": 80664,
+      "downloads": 81165,
       "url": "https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_linux_x64.tgz",
       "platform": "🐧 Linux"
     },
     {
       "name": "Steam++_v3.1.0_macos.dmg",
       "size": 230704640,
-      "downloads": 136508,
+      "downloads": 138190,
       "url": "https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_macos.dmg",
       "platform": "🍎 macOS"
     },
     {
       "name": "Steam++_v3.1.0_win_x64.7z",
       "size": 94651502,
-      "downloads": 74014,
+      "downloads": 74456,
       "url": "https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_win_x64.7z",
       "platform": "📦 其他"
     },
     {
       "name": "Steam++_v3.1.0_win_x64.exe",
       "size": 96754104,
-      "downloads": 217173,
+      "downloads": 218762,
       "url": "https://github.com/BeyondDimension/SteamTools/releases/download/3.1.0/Steam%2B%2B_v3.1.0_win_x64.exe",
       "platform": "🪟 Windows"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

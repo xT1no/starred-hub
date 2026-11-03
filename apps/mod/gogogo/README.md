@@ -63,7 +63,7 @@
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [VirtGO-2.1.0-android-arm64-v8a.apk](https://github.com/ZCShou/GoGoGo/releases/download/ReleaseV1.12.3/VirtGO-2.1.0-android-arm64-v8a.apk) | 📲 Android | 22.2 MB | 1263k |
+| [VirtGO-2.1.0-android-arm64-v8a.apk](https://github.com/ZCShou/GoGoGo/releases/download/ReleaseV1.12.3/VirtGO-2.1.0-android-arm64-v8a.apk) | 📲 Android | 22.2 MB | 1267k |
 
 ## 🔗 快速链接
 

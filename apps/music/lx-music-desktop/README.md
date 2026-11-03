@@ -61,30 +61,30 @@ Any Listen 的项目地址为 https://github.com/any-listen/any-listen
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [latest-mac.yml](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/latest-mac.yml) | 🍎 macOS | 364 B | 277k |
+| [latest-mac.yml](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/latest-mac.yml) | 🍎 macOS | 364 B | 283k |
 | [lx-music-desktop-2.12.6-arm64.dmg](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-2.12.6-arm64.dmg) | 🍎 macOS | 125.1 MB | 31k |
 | [lx-music-desktop-2.12.6-x64.dmg](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-2.12.6-x64.dmg) | 🍎 macOS | 128.9 MB | 13k |
 | [lx-music-desktop-2.12.6-arm64.dmg.blockmap](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-2.12.6-arm64.dmg.blockmap) | 🍎 macOS | 136 KB | 2.4k |
-| [lx-music-desktop-2.12.6-x64.dmg.blockmap](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-2.12.6-x64.dmg.blockmap) | 🍎 macOS | 140 KB | 2.3k |
-| [lx-music-desktop-v2.12.6-x64-Setup.exe](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-x64-Setup.exe) | 🪟 Windows | 115.8 MB | 367k |
-| [lx-music-desktop-v2.12.6-x64-Setup.exe.blockmap](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-x64-Setup.exe.blockmap) | 🪟 Windows | 125 KB | 180k |
-| [lx-music-desktop-v2.12.6-win_x64-green.7z](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-win_x64-green.7z) | 🪟 Windows | 96.1 MB | 20k |
+| [lx-music-desktop-2.12.6-x64.dmg.blockmap](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-2.12.6-x64.dmg.blockmap) | 🍎 macOS | 140 KB | 2.4k |
+| [lx-music-desktop-v2.12.6-x64-Setup.exe](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-x64-Setup.exe) | 🪟 Windows | 115.8 MB | 372k |
+| [lx-music-desktop-v2.12.6-x64-Setup.exe.blockmap](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-x64-Setup.exe.blockmap) | 🪟 Windows | 125 KB | 183k |
+| [lx-music-desktop-v2.12.6-win_x64-green.7z](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-win_x64-green.7z) | 🪟 Windows | 96.1 MB | 21k |
 | [lx-music-desktop-v2.12.6-win7_x64-green.7z](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-win7_x64-green.7z) | 🪟 Windows | 67.4 MB | 6.1k |
-| [lx-music-desktop-v2.12.6-win7_x64-Setup.exe](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-win7_x64-Setup.exe) | 🪟 Windows | 80.8 MB | 5.4k |
+| [lx-music-desktop-v2.12.6-win7_x64-Setup.exe](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-win7_x64-Setup.exe) | 🪟 Windows | 80.8 MB | 5.5k |
 | [lx-music-desktop-v2.12.6-arm64-Setup.exe](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-arm64-Setup.exe) | 🪟 Windows | 111.3 MB | 4.8k |
-| [lx-music-desktop-v2.12.6-win7_x86-green.7z](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-win7_x86-green.7z) | 🪟 Windows | 64.1 MB | 3.4k |
-| [lx-music-desktop-v2.12.6-win_arm64-green.7z](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-win_arm64-green.7z) | 🪟 Windows | 90.5 MB | 3k |
-| [lx-music-desktop-v2.12.6-win7_x64-Setup.exe.blockmap](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-win7_x64-Setup.exe.blockmap) | 🪟 Windows | 87 KB | 2k |
+| [lx-music-desktop-v2.12.6-win7_x86-green.7z](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-win7_x86-green.7z) | 🪟 Windows | 64.1 MB | 3.5k |
+| [lx-music-desktop-v2.12.6-win_arm64-green.7z](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-win_arm64-green.7z) | 🪟 Windows | 90.5 MB | 3.1k |
+| [lx-music-desktop-v2.12.6-win7_x64-Setup.exe.blockmap](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-win7_x64-Setup.exe.blockmap) | 🪟 Windows | 87 KB | 2.1k |
 | [lx-music-desktop-v2.12.6-arm64-Setup.exe.blockmap](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-v2.12.6-arm64-Setup.exe.blockmap) | 🪟 Windows | 120 KB | 2k |
 | [latest-linux.yml](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/latest-linux.yml) | 🐧 Linux | 365 B | 15k |
 | [lx-music-desktop_2.12.6_amd64.deb](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop_2.12.6_amd64.deb) | 🐧 Linux | 104.3 MB | 13k |
-| [latest-linux-arm64.yml](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/latest-linux-arm64.yml) | 🐧 Linux | 364 B | 4.2k |
-| [lx-music-desktop_2.12.6_arm64.deb](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop_2.12.6_arm64.deb) | 🐧 Linux | 99.7 MB | 3.6k |
+| [latest-linux-arm64.yml](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/latest-linux-arm64.yml) | 🐧 Linux | 364 B | 4.3k |
+| [lx-music-desktop_2.12.6_arm64.deb](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop_2.12.6_arm64.deb) | 🐧 Linux | 99.7 MB | 3.7k |
 | [latest-linux-arm.yml](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/latest-linux-arm.yml) | 🐧 Linux | 366 B | 3.1k |
-| [lx-music-desktop-2.12.6.x64.rpm](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-2.12.6.x64.rpm) | 🐧 Linux | 91.9 MB | 2.9k |
+| [lx-music-desktop-2.12.6.x64.rpm](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop-2.12.6.x64.rpm) | 🐧 Linux | 91.9 MB | 3k |
 | [lx-music-desktop_2.12.6_x64.AppImage](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop_2.12.6_x64.AppImage) | 🐧 Linux | 133.2 MB | 2.8k |
-| [lx-music-desktop_2.12.6_armv7l.deb](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop_2.12.6_armv7l.deb) | 🐧 Linux | 102.4 MB | 2.7k |
-| [latest.yml](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/latest.yml) | 📦 其他 | 374 B | 574k |
+| [lx-music-desktop_2.12.6_armv7l.deb](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/lx-music-desktop_2.12.6_armv7l.deb) | 🐧 Linux | 102.4 MB | 2.8k |
+| [latest.yml](https://github.com/lyswhut/lx-music-desktop/releases/download/v2.12.6/latest.yml) | 📦 其他 | 374 B | 585k |
 
 还有 1 个文件，见 [Release 页面](https://github.com/lyswhut/lx-music-desktop/releases/tag/v2.12.6)。
 

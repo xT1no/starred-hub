@@ -18,7 +18,7 @@
 | 分类 | 📥 [下载 / 网盘](../README.md) |
 | 平台 | 🌐 🖥️ |
 | 语言 | JavaScript |
-| Star | 5.6k · Fork 656 |
+| Star | 5.6k · Fork 655 |
 | License | MIT |
 | 最新版本 | `v2.2.5` |
 | 最近更新 | 2025-01-06（1 年前） |

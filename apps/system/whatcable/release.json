@@ -13,8 +13,8 @@
     "macOS"
   ],
   "language": "Swift",
-  "stars": 9074,
-  "forks": 279,
+  "stars": 9078,
+  "forks": 278,
   "license": "NOASSERTION",
   "archived": false,
   "homepage": "https://whatcable.uk",
@@ -47,17 +47,17 @@
     {
       "name": "whatcable-cli-1.5.0.zip",
       "size": 8559849,
-      "downloads": 1256,
+      "downloads": 1282,
       "url": "https://github.com/darrylmorley/whatcable/releases/download/v1.5.0/whatcable-cli-1.5.0.zip",
       "platform": "🌐 Web"
     },
     {
       "name": "WhatCable.zip",
       "size": 22571575,
-      "downloads": 60175,
+      "downloads": 62125,
       "url": "https://github.com/darrylmorley/whatcable/releases/download/v1.5.0/WhatCable.zip",
       "platform": "🌐 Web"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

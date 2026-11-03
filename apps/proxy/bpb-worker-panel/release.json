@@ -18,8 +18,8 @@
     "跨平台桌面"
   ],
   "language": "TypeScript",
-  "stars": 13832,
-  "forks": 31589,
+  "stars": 13833,
+  "forks": 31584,
   "license": "GPL-3.0",
   "archived": false,
   "homepage": "https://bia-pain-bache.github.io/BPB-Worker-Panel/",
@@ -55,10 +55,10 @@
     {
       "name": "worker.js",
       "size": 404293,
-      "downloads": 244457,
+      "downloads": 246430,
       "url": "https://github.com/bia-pain-bache/BPB-Worker-Panel/releases/download/v5.1.1/worker.js",
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

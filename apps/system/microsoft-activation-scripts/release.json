@@ -13,8 +13,8 @@
     "Windows"
   ],
   "language": "Batchfile",
-  "stars": 197322,
-  "forks": 18693,
+  "stars": 197470,
+  "forks": 18708,
   "license": "GPL-3.0",
   "archived": false,
   "homepage": "https://massgrave.dev",
@@ -47,5 +47,5 @@
     "prerelease": false
   },
   "assets": [],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

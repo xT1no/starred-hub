@@ -15,7 +15,7 @@ mihomo 和 sing-box 教程合集——安装、配置、自定义规则、DNS �
 | Star | 1.6k · Fork 154 |
 | License | MIT |
 | 最新版本 | 无版本标记 |
-| 最近更新 | 2026-10-29（4 天前） |
+| 最近更新 | 2026-10-29（5 天前） |
 | 标星日期 | 2024-06-05 |
 | 官网 | <http://proxy-tutorials.dustinwin.cc.cd/> |
 

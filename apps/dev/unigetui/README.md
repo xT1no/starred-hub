@@ -21,13 +21,13 @@ UniGetUI: The Graphical Interface for your package managers. Could be terribly d
 | Star | 27k · Fork 969 |
 | License | MIT |
 | 最新版本 | `v2026.3.3` |
-| 最近更新 | 2026-10-29（3 天前） |
+| 最近更新 | 2026-10-29（4 天前） |
 | 标星日期 | 2026-04-12 |
 | 官网 | <https://devolutions.net/unigetui/> |
 
 ## 📦 最新版本
 
-**`v2026.3.3`** · UniGetUI v2026.3.3　发布于 2026-10-29（3 天前）
+**`v2026.3.3`** · UniGetUI v2026.3.3　发布于 2026-10-29（4 天前）
 
 [查看 Release 页面](https://github.com/Devolutions/UniGetUI/releases/tag/v2026.3.3)
 
@@ -55,29 +55,29 @@ This release lets you add your own installers to the Software Catalog, adds Exte
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [UniGetUI.macos-arm64.dmg](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.macos-arm64.dmg) | 🍎 macOS | 61.0 MB | 235 |
-| [UniGetUI.macos-x64.dmg](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.macos-x64.dmg) | 🍎 macOS | 66.3 MB | 219 |
-| [UniGetUI.macos-x64.tar.gz](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.macos-x64.tar.gz) | 🍎 macOS | 67.0 MB | 101 |
-| [UniGetUI.macos-arm64.tar.gz](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.macos-arm64.tar.gz) | 🍎 macOS | 61.6 MB | 100 |
-| [sizes.macos-arm64.json](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/sizes.macos-arm64.json) | 🍎 macOS | 350 B | 68 |
-| [sizes.macos-x64.json](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/sizes.macos-x64.json) | 🍎 macOS | 342 B | 65 |
-| [UniGetUI.Installer.exe](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.Installer.exe) | 🪟 Windows | 34.2 MB | 246k |
-| [UniGetUI.Installer.x64.exe](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.Installer.x64.exe) | 🪟 Windows | 34.2 MB | 4.1k |
-| [UniGetUI.Installer.arm64.exe](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.Installer.arm64.exe) | 🪟 Windows | 32.6 MB | 354 |
-| [UniGetUI.linux-x64.deb](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.linux-x64.deb) | 🐧 Linux | 38.1 MB | 273 |
-| [UniGetUI.arm64.zip](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.arm64.zip) | 🐧 Linux | 48.9 MB | 259 |
-| [UniGetUI.linux-x64.tar.gz](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.linux-x64.tar.gz) | 🐧 Linux | 38.0 MB | 180 |
-| [UniGetUI.linux-x64.rpm](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.linux-x64.rpm) | 🐧 Linux | 37.9 MB | 174 |
-| [UniGetUI.linux-arm64.deb](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.linux-arm64.deb) | 🐧 Linux | 36.1 MB | 162 |
-| [UniGetUI.linux-arm64.tar.gz](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.linux-arm64.tar.gz) | 🐧 Linux | 36.1 MB | 148 |
-| [UniGetUI.linux-arm64.rpm](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.linux-arm64.rpm) | 🐧 Linux | 36.0 MB | 147 |
-| [sizes.linux-x64.json](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/sizes.linux-x64.json) | 🐧 Linux | 425 B | 68 |
-| [sizes.linux-arm64.json](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/sizes.linux-arm64.json) | 🐧 Linux | 435 B | 67 |
-| [sizes.arm64.json](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/sizes.arm64.json) | 🐧 Linux | 355 B | 64 |
-| [UniGetUI.x64.zip](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.x64.zip) | 🌐 Web | 51.4 MB | 2.6k |
-| [checksums.txt](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/checksums.txt) | 🔐 校验文件 | 2 KB | 182 |
-| [sizes.x64.json](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/sizes.x64.json) | 📦 其他 | 347 B | 82 |
-| [sizes.md](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/sizes.md) | 📦 其他 | 1 KB | 78 |
+| [UniGetUI.macos-arm64.dmg](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.macos-arm64.dmg) | 🍎 macOS | 61.0 MB | 271 |
+| [UniGetUI.macos-x64.dmg](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.macos-x64.dmg) | 🍎 macOS | 66.3 MB | 248 |
+| [UniGetUI.macos-x64.tar.gz](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.macos-x64.tar.gz) | 🍎 macOS | 67.0 MB | 115 |
+| [UniGetUI.macos-arm64.tar.gz](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.macos-arm64.tar.gz) | 🍎 macOS | 61.6 MB | 111 |
+| [sizes.macos-arm64.json](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/sizes.macos-arm64.json) | 🍎 macOS | 350 B | 79 |
+| [sizes.macos-x64.json](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/sizes.macos-x64.json) | 🍎 macOS | 342 B | 77 |
+| [UniGetUI.Installer.exe](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.Installer.exe) | 🪟 Windows | 34.2 MB | 308k |
+| [UniGetUI.Installer.x64.exe](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.Installer.x64.exe) | 🪟 Windows | 34.2 MB | 4.8k |
+| [UniGetUI.Installer.arm64.exe](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.Installer.arm64.exe) | 🪟 Windows | 32.6 MB | 430 |
+| [UniGetUI.linux-x64.deb](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.linux-x64.deb) | 🐧 Linux | 38.1 MB | 318 |
+| [UniGetUI.arm64.zip](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.arm64.zip) | 🐧 Linux | 48.9 MB | 311 |
+| [UniGetUI.linux-x64.tar.gz](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.linux-x64.tar.gz) | 🐧 Linux | 38.0 MB | 208 |
+| [UniGetUI.linux-x64.rpm](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.linux-x64.rpm) | 🐧 Linux | 37.9 MB | 204 |
+| [UniGetUI.linux-arm64.deb](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.linux-arm64.deb) | 🐧 Linux | 36.1 MB | 194 |
+| [UniGetUI.linux-arm64.tar.gz](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.linux-arm64.tar.gz) | 🐧 Linux | 36.1 MB | 178 |
+| [UniGetUI.linux-arm64.rpm](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.linux-arm64.rpm) | 🐧 Linux | 36.0 MB | 176 |
+| [sizes.linux-x64.json](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/sizes.linux-x64.json) | 🐧 Linux | 425 B | 80 |
+| [sizes.linux-arm64.json](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/sizes.linux-arm64.json) | 🐧 Linux | 435 B | 79 |
+| [sizes.arm64.json](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/sizes.arm64.json) | 🐧 Linux | 355 B | 75 |
+| [UniGetUI.x64.zip](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/UniGetUI.x64.zip) | 🌐 Web | 51.4 MB | 2.9k |
+| [checksums.txt](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/checksums.txt) | 🔐 校验文件 | 2 KB | 195 |
+| [sizes.x64.json](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/sizes.x64.json) | 📦 其他 | 347 B | 93 |
+| [sizes.md](https://github.com/Devolutions/UniGetUI/releases/download/v2026.3.3/sizes.md) | 📦 其他 | 1 KB | 90 |
 
 ## 🔗 快速链接
 

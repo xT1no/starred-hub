@@ -40,7 +40,7 @@ Rebirth of Windsys Project
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [ReWindsys.zip](https://github.com/FirTech/ReWindsys/releases/download/V1.0.0/ReWindsys.zip) | 🌐 Web | 829.8 MB | 111 |
+| [ReWindsys.zip](https://github.com/FirTech/ReWindsys/releases/download/V1.0.0/ReWindsys.zip) | 🌐 Web | 829.8 MB | 113 |
 
 ## 🔗 快速链接
 

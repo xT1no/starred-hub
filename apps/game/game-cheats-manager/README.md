@@ -23,13 +23,13 @@ Easily download and manage single-player game cheats for your convenience
 | Star | 16k · Fork 578 |
 | License | GPL-3.0 |
 | 最新版本 | `v2.5.4` |
-| 最近更新 | 2026-10-11（21 天前） |
+| 最近更新 | 2026-10-11（22 天前） |
 | 标星日期 | 2025-03-01 |
 | 官网 | <https://gamezonelabs.com> |
 
 ## 📦 最新版本
 
-**`v2.5.4`** · Version 2.5.4　发布于 2026-10-11（21 天前）
+**`v2.5.4`** · Version 2.5.4　发布于 2026-10-11（22 天前）
 
 [查看 Release 页面](https://github.com/dyang886/Game-Cheats-Manager/releases/tag/v2.5.4)
 
@@ -55,8 +55,8 @@ Easily download and manage single-player game cheats for your convenience
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [Game.Cheats.Manager.Setup.2.5.4.exe](https://github.com/dyang886/Game-Cheats-Manager/releases/download/v2.5.4/Game.Cheats.Manager.Setup.2.5.4.exe) | 🪟 Windows | 37.6 MB | 38k |
-| [Game.Cheats.Manager.Portable.2.5.4.zip](https://github.com/dyang886/Game-Cheats-Manager/releases/download/v2.5.4/Game.Cheats.Manager.Portable.2.5.4.zip) | 🌐 Web | 51.3 MB | 41k |
+| [Game.Cheats.Manager.Setup.2.5.4.exe](https://github.com/dyang886/Game-Cheats-Manager/releases/download/v2.5.4/Game.Cheats.Manager.Setup.2.5.4.exe) | 🪟 Windows | 37.6 MB | 39k |
+| [Game.Cheats.Manager.Portable.2.5.4.zip](https://github.com/dyang886/Game-Cheats-Manager/releases/download/v2.5.4/Game.Cheats.Manager.Portable.2.5.4.zip) | 🌐 Web | 51.3 MB | 43k |
 
 ## 🔗 快速链接
 

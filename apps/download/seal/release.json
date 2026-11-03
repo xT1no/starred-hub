@@ -13,7 +13,7 @@
     "Android"
   ],
   "language": "Kotlin",
-  "stars": 30271,
+  "stars": 30296,
   "forks": 1532,
   "license": "GPL-3.0",
   "archived": false,
@@ -42,38 +42,38 @@
     {
       "name": "Seal-1.13.1-arm64-v8a-release.apk",
       "size": 43069442,
-      "downloads": 2482851,
+      "downloads": 2485665,
       "url": "https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-arm64-v8a-release.apk",
       "platform": "📲 Android"
     },
     {
       "name": "Seal-1.13.1-armeabi-v7a-release.apk",
       "size": 40611853,
-      "downloads": 121979,
+      "downloads": 122102,
       "url": "https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-armeabi-v7a-release.apk",
       "platform": "📲 Android"
     },
     {
       "name": "Seal-1.13.1-universal-release.apk",
       "size": 144991600,
-      "downloads": 322835,
+      "downloads": 323631,
       "url": "https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-universal-release.apk",
       "platform": "📲 Android"
     },
     {
       "name": "Seal-1.13.1-x86-release.apk",
       "size": 44364789,
-      "downloads": 31267,
+      "downloads": 31313,
       "url": "https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-x86-release.apk",
       "platform": "📲 Android"
     },
     {
       "name": "Seal-1.13.1-x86_64-release.apk",
       "size": 45218592,
-      "downloads": 50834,
+      "downloads": 50919,
       "url": "https://github.com/JunkFood02/Seal/releases/download/v1.13.1/Seal-1.13.1-x86_64-release.apk",
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

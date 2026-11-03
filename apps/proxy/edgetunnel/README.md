@@ -15,7 +15,7 @@ edgetunnel2 VLESS/Trojan/SS 多功能面板
 | Star | 49k · Fork 39k |
 | License | GPL-2.0 |
 | 最新版本 | 无版本标记 |
-| 最近更新 | 2026-10-08（24 天前） |
+| 最近更新 | 2026-10-08（25 天前） |
 | 标星日期 | 2024-03-22 |
 | 官网 | <https://EDT-Pages.github.io/admin> |
 

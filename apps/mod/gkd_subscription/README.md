@@ -15,12 +15,12 @@
 | Star | 6.6k · Fork 211 |
 | License | — |
 | 最新版本 | `v623` |
-| 最近更新 | 2026-10-31（昨天） |
+| 最近更新 | 2026-10-31（2 天前） |
 | 标星日期 | 2026-02-19 |
 
 ## 📦 最新版本
 
-**`v623`**　发布于 2026-10-31（昨天）
+**`v623`**　发布于 2026-10-31（2 天前）
 
 [查看 Release 页面](https://github.com/Lin-arm/GKD_subscription/releases/tag/v623)
 
@@ -54,7 +54,7 @@ v622 -> v623
 
 | 文件 | 适用平台 | 大小 | 累计下载 |
 |:---|:---:|:---|---:|
-| [gkd-subscription-offline-id667-v623.json5](https://github.com/Lin-arm/GKD_subscription/releases/download/v623/gkd-subscription-offline-id667-v623.json5) | 📦 其他 | 1.3 MB | 78 |
+| [gkd-subscription-offline-id667-v623.json5](https://github.com/Lin-arm/GKD_subscription/releases/download/v623/gkd-subscription-offline-id667-v623.json5) | 📦 其他 | 1.3 MB | 110 |
 
 ## 🔗 快速链接
 

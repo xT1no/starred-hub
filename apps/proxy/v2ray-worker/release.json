@@ -14,7 +14,7 @@
   ],
   "language": "TypeScript",
   "stars": 1420,
-  "forks": 2218,
+  "forks": 2217,
   "license": "GPL-3.0",
   "archived": false,
   "homepage": "",
@@ -33,10 +33,10 @@
     {
       "name": "worker.js",
       "size": 324780,
-      "downloads": 27683,
+      "downloads": 27684,
       "url": "https://github.com/vfarid/v2ray-worker/releases/download/v2.4/worker.js",
       "platform": "📦 其他"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

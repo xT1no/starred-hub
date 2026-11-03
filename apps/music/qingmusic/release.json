@@ -13,7 +13,7 @@
     "Windows"
   ],
   "language": "",
-  "stars": 1878,
+  "stars": 1885,
   "forks": 84,
   "license": "Apache-2.0",
   "archived": false,
@@ -33,17 +33,17 @@
     {
       "name": "QingMusic_v1.4.0-arm-release.apk",
       "size": 50978333,
-      "downloads": 7565,
+      "downloads": 7713,
       "url": "https://github.com/kejichangqing/QingMusic/releases/download/v1.4.0/QingMusic_v1.4.0-arm-release.apk",
       "platform": "📲 Android"
     },
     {
       "name": "QingMusic_v1.4.0-x86-release.apk",
       "size": 56690486,
-      "downloads": 1367,
+      "downloads": 1414,
       "url": "https://github.com/kejichangqing/QingMusic/releases/download/v1.4.0/QingMusic_v1.4.0-x86-release.apk",
       "platform": "📲 Android"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }

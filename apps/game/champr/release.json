@@ -37,7 +37,7 @@
     {
       "name": "champr-riot-server.zip",
       "size": 3658517,
-      "downloads": 4027,
+      "downloads": 4028,
       "url": "https://github.com/cangzhang/ChampR/releases/download/v2.0.2-b7/champr-riot-server.zip",
       "platform": "🌐 Web"
     },
@@ -49,5 +49,5 @@
       "platform": "🌐 Web"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }
